@@ -25,9 +25,7 @@
             <plugin>
                 <groupId>br.com.ingenieux</groupId>
                 <artifactId>jbake-maven-plugin</artifactId>
-                <!--
-                <version>0.0.3</version>
-                -->
+                <version>0.0.5</version>
                 <executions>
                     <execution>
                         <id>default-generate</id>
