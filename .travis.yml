@@ -1,0 +1,7 @@
+language: java
+script: mvn verify
+jdk:
+- openjdk7
+env:
+  global:
+    secure: EB8wcJNh3zebp4N5E9c2vXRgeAKsEib20zVgIpmZYR1NJleGXRUw7QpG7KdTGuSUa0Zw/XDiKxWZ7OSquRzJz1Z4u8FCXLjQpIhfRku6TJznU9FXW7o0r+iz5EFKSqzsCGK0TMawgDeKQaZt7WN9ZSJbk9JcOx9lGp4jKIS6jC8=
