@@ -2,7 +2,7 @@ status=published
 date=2010-05-14
 tags=blog
 type=post
-title=T· safo em aÁ„o no CESUPA
+title=T√° safo em a√ß√£o no CESUPA
 ~~~~~~
 [![](http://tasafo.files.wordpress.com/2010/05/tasafo_em_acao_chuck_norris1.jpg)](http://tasafo.files.wordpress.com/2010/05/tasafo_em_acao_chuck_norris1.jpg)
 
@@ -15,12 +15,12 @@ title=T· safo em aÁ„o no CESUPA
 > 
 
 > 
-> CHUCK NORRIS n„o faz DELETEs. Ele olha para  os registros e eles correm de medo.
+> CHUCK NORRIS n√£o faz DELETEs. Ele olha para  os registros e eles correm de medo.
 > 
 > 
 
 > 
-> CHUCK NORRIS n„o tem CertificaÁ„o. S„o as  empresas que tentam tirar CertificaÁ„o em CHUCK NORRIS. Em v„o.
+> CHUCK NORRIS n√£o tem Certifica√ß√£o. S√£o as  empresas que tentam tirar Certifica√ß√£o em CHUCK NORRIS. Em v√£o.
 > 
 > 
 
@@ -33,13 +33,13 @@ title=T· safo em aÁ„o no CESUPA
 
 
 
-… por essas e [outras](http://www.simpatico.com.br/piada.exibir.php?tipoPiada=23&codPiada=126), Senhoras e Senhores que o T· safo homenageia essa figura lend·ria. Um cara t„o poderoso assim, que entra em aÁ„o a toda hora, desde os tempos do comando delta com aquela moto que carregava todo tipo de armamento, n„o sei aonde ele guardava a bazuca? Bom, deixa pra l· =P. Fala sÈrio, Chuck Norris È o cara!
+√â por essas e [outras](http://www.simpatico.com.br/piada.exibir.php?tipoPiada=23&codPiada=126), Senhoras e Senhores que o T√° safo homenageia essa figura lend√°ria. Um cara t√£o poderoso assim, que entra em a√ß√£o a toda hora, desde os tempos do comando delta com aquela moto que carregava todo tipo de armamento, n√£o sei aonde ele guardava a bazuca? Bom, deixa pra l√° =P. Fala s√©rio, Chuck Norris √© o cara!
 
 
 
 
 
-#### Brincadeiras ‡ parte, **no dia 20 de maio, quinta-feira**, acontecer· mais um T· safo em AÁ„o. Agora no AuditÛrio do CESUPA da JosÈ Malcher a partir das 19:00 hs. A grade pode sofrer alteraÁıes.**
+#### Brincadeiras √† parte, **no dia 20 de maio, quinta-feira**, acontecer√° mais um T√° safo em A√ß√£o. Agora no Audit√≥rio do CESUPA da Jos√© Malcher a partir das 19:00 hs. A grade pode sofrer altera√ß√µes.**
 **
 
 
@@ -47,7 +47,7 @@ title=T· safo em aÁ„o no CESUPA
 
 
 	
-  * T· safo em 10 minutos - Luiz Sanches
+  * T√° safo em 10 minutos - Luiz Sanches
 
 	
   * Carreira 2.0 - Paulo Igor
@@ -69,13 +69,13 @@ title=T· safo em aÁ„o no CESUPA
 
 
 	
-  * DesconferÍncia para quem se manifestar a palestrar por 10/15 minutos. Com temas sobre desenvolvimento e agilidade.
+  * Desconfer√™ncia para quem se manifestar a palestrar por 10/15 minutos. Com temas sobre desenvolvimento e agilidade.
 
 	
-  * "Buteco" com os "safados". Obs.: N„o haver· bebida alcoÛlica, por favor n„o insistam :p
+  * "Buteco" com os "safados". Obs.: N√£o haver√° bebida alco√≥lica, por favor n√£o insistam :p
 
 	
-  * Sorteio de camisas da "grife" T· safo!
+  * Sorteio de camisas da "grife" T√° safo!
 
 	
   * Campeonato de Origami com post-it
@@ -83,4 +83,4 @@ title=T· safo em aÁ„o no CESUPA
 
 
 
-Esperamos por vocÍs l·. **A entrada È franca**. Leve seus amigos. Prepare uma palestra bem short e se inscreva na hora l·. Se mostre, mas n„o vai ficar pavulagem. Participe e divirta-se, assim como nos divertimos compartilhando conhecimento.
+Esperamos por voc√™s l√°. **A entrada √© franca**. Leve seus amigos. Prepare uma palestra bem short e se inscreva na hora l√°. Se mostre, mas n√£o vai ficar pavulagem. Participe e divirta-se, assim como nos divertimos compartilhando conhecimento.

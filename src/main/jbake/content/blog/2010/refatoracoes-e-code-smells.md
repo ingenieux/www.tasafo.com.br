@@ -2,25 +2,25 @@ status=published
 date=2010-12-29
 tags=blog
 type=post
-title=Refatorações e "code smells"
+title=RefatoraÃ§Ãµes e "code smells"
 ~~~~~~
-Um conceito importante para manter qualidade de código é o de [_Refatoração_](http://improveit.com.br/xp/praticas/refatoracao).
+Um conceito importante para manter qualidade de cÃ³digo Ã© o de [_RefatoraÃ§Ã£o_](http://improveit.com.br/xp/praticas/refatoracao).
 
-“Refatoração” vem de re-fatorar, ou seja, fatorar (lá da matemática mesmo) duas vezes.  No caso, entenda-se até “várias vezes”.
+â€œRefatoraÃ§Ã£oâ€ vem de re-fatorar, ou seja, fatorar (lÃ¡ da matemÃ¡tica mesmo) duas vezes. Â No caso, entenda-se atÃ© â€œvÃ¡rias vezesâ€.
 
-Refatorar um código não vai nem aumentar nem diminuir a quantidade de funcionalidades, de lógica de negócio, nem de bugs do programa (a rigor é errado alguém dizer que vai “refatorar pra corrigir um problema”).
+Refatorar um cÃ³digo nÃ£o vai nem aumentar nem diminuir a quantidade de funcionalidades, de lÃ³gica de negÃ³cio, nem de bugs do programa (a rigor Ã© errado alguÃ©m dizer que vai â€œrefatorar pra corrigir um problemaâ€).
 
-![Capa do livro](http://i.s8.com.br/images/books/cover/img6/242126.jpg)A refatoração não altera o comportamento externo do programa, mas apenas a estrutura interna no sentido de deixá-la mais simples e/ou fácil de entender.
+![Capa do livro](http://i.s8.com.br/images/books/cover/img6/242126.jpg)A refatoraÃ§Ã£o nÃ£o altera o comportamento externo do programa, mas apenas a estrutura interna no sentido de deixÃ¡-la mais simples e/ou fÃ¡cil de entender.
 
-No livro “[Refatoração: aperfeiçoando projeto de código existente](http://www.submarino.com.br/produto/1/242126/refatoracao:+aperfeicoando+o+projeto+de+codigo+existente)“, [Martin Fowler](http://martinfowler.com/) discorre bastante sobre o assunto.  O catálogo com a relação de refatorações possíveis pode ser consultado online em
+No livro â€œ[RefatoraÃ§Ã£o: aperfeiÃ§oando projeto de cÃ³digo existente](http://www.submarino.com.br/produto/1/242126/refatoracao:+aperfeicoando+o+projeto+de+codigo+existente)â€œ, [Martin Fowler](http://martinfowler.com/) discorre bastante sobre o assunto.Â  O catÃ¡logo com a relaÃ§Ã£o de refatoraÃ§Ãµes possÃ­veis pode ser consultado online em
 
 
 [http://www.refactoring.com/catalog/](http://www.refactoring.com/catalog/)
 
 
-Saber utilizar as [refatorações](http://wiki.java.net/bin/view/People/SmellsToRefactorings) [adequadas](http://en.wikipedia.org/wiki/Code_refactoring#List_of_refactoring_techniques) para cada situação contribui em muito para eliminar problemas (“[maus](http://sourcemaking.com/refactoring/bad-smells-in-code) [cheiros](http://c2.com/xp/CodeSmell.html)“) e melhorar a qualidade de seu código.  Vale consultar e colocar em prática!
+Saber utilizar as [refatoraÃ§Ãµes](http://wiki.java.net/bin/view/People/SmellsToRefactorings) [adequadas](http://en.wikipedia.org/wiki/Code_refactoring#List_of_refactoring_techniques) para cada situaÃ§Ã£o contribui em muito para eliminar problemas (â€œ[maus](http://sourcemaking.com/refactoring/bad-smells-in-code) [cheiros](http://c2.com/xp/CodeSmell.html)â€œ) e melhorar a qualidade de seu cÃ³digo.Â  Vale consultar e colocar em prÃ¡tica!
 
-Não deixe de consultar também o oportuno [Manifesto da Refatoração](http://www.refactoringmanifesto.org/).
+NÃ£o deixe de consultar tambÃ©m o oportuno [Manifesto da RefatoraÃ§Ã£o](http://www.refactoringmanifesto.org/).
 
 
 Blogged with the [Flock Browser](http://www.flock.com/blogged-with-flock)

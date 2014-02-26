@@ -2,12 +2,12 @@ status=published
 date=2010-09-24
 tags=blog
 type=post
-title=T· Safo em AÁ„o com Fabiano Milani
+title=T√° Safo em A√ß√£o com Fabiano Milani
 ~~~~~~
-A moviment**A«√O** continua a todo vapor... Depois do [Rildo Santos](http://twitter.com/rildosan) e [Alexandre Procelli](http://twitter.com/porcelli), agora È vez do [Fabiano Milani](http://twitter.com/fabianomilani) provar do nosso aÁaÌ.
+A moviment**A√á√ÉO** continua a todo vapor... Depois do [Rildo Santos](http://twitter.com/rildosan) e [Alexandre Procelli](http://twitter.com/porcelli), agora √© vez do [Fabiano Milani](http://twitter.com/fabianomilani) provar do nosso a√ßa√≠.
 
 
-#### [_Quem vai ao Par·, parou! Tomou aÁaÌ, ficou no T· Safo em†AÁ„o!_](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/)
+#### [_Quem vai ao Par√°, parou! Tomou a√ßa√≠, ficou no T√° Safo em¬†A√ß√£o!_](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/)
 
 
 
@@ -16,20 +16,20 @@ _[![](http://tasafo.files.wordpress.com/2010/09/quemveioaopara.png)](http://tasa
 _
 
 
-Fabiano estar· em BelÈm na prÛxima semana e estar· em aÁ„o junto com a comunidade participando de mais um T·Safo em AÁ„o especial.
+Fabiano estar√° em Bel√©m na pr√≥xima semana e estar√° em a√ß√£o junto com a comunidade participando de mais um T√°Safo em A√ß√£o especial.
 
-Tema de sua palestra:†**LideranÁa Servidora, FacilitaÁ„o e Coaching em Gest„o ¡gil.**
+Tema de sua palestra:¬†**Lideran√ßa Servidora, Facilita√ß√£o e Coaching em Gest√£o √Ågil.**
 
 **<!-- more -->
 **
 
-Fabiano Milani È co-fundador da AdaptWorks, com 16 anos de experiÍncia na ·rea de T.I., j· atuou como instrutor, desenvolvedor e coordenador de desenvolvimento, atualmente faz parte do time da AdaptWorks atuando como Scrum Coach, consultor e coach em lideranÁa e gerenciamento de projetos com metodologias ·geis, como Scrum, XP e FDD.
+Fabiano Milani √© co-fundador da AdaptWorks, com 16 anos de experi√™ncia na √°rea de T.I., j√° atuou como instrutor, desenvolvedor e coordenador de desenvolvimento, atualmente faz parte do time da AdaptWorks atuando como Scrum Coach, consultor e coach em lideran√ßa e gerenciamento de projetos com metodologias √°geis, como Scrum, XP e FDD.
 
 <div id="attachment_1173" class="wp-caption" align="aligncenter" style="width: 584px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/09/milani.jpg?w=1024)](http://tasafo.files.wordpress.com/2010/09/milani.jpg)
 
 
-Com certeza ser· mais um T·Safo em AÁ„o imperdÌvel!!!!
+Com certeza ser√° mais um T√°Safo em A√ß√£o imperd√≠vel!!!!
 
 
 
@@ -37,12 +37,12 @@ Com certeza ser· mais um T·Safo em AÁ„o imperdÌvel!!!!
 
 **Data:** **27 de setembro de 2010 (Segunda-feira).**
 
-**Local: AuditÛrio do CESUPA da Alcindo Cacela nro: 1523.**
+**Local: Audit√≥rio do CESUPA da Alcindo Cacela nro: 1523.**
 
-**Hor·rio: 19:00 ‡s 22:00 hrs.**
+**Hor√°rio: 19:00 √†s 22:00 hrs.**
 
 
-**Esperamos por vocÍs l·. ****A entrada È franca**.
+**Esperamos por voc√™s l√°. ****A entrada √© franca**.
 
 
 

@@ -8,7 +8,7 @@ title=#tasafoemacao na UFRA 2012
 [![](http://tasafo.files.wordpress.com/2012/02/final.jpg)](http://tasafo.files.wordpress.com/2012/02/final.jpg)
 
 
-… com grande entusiasmo que anunciamos†o primeiro #tasafoemacao de 2012, que foi realizado na [Universidade Federal Rural da AmazÙnia (UFRA)](http://www.portal.ufra.edu.br/), em 15/02, durante a [Semana do Calouro](http://biaufra.blogspot.com/2012/01/semana-dos-calouros-de-computacao-2012.html). Tudo comeÁa assim:
+√â com grande entusiasmo que anunciamos¬†o primeiro #tasafoemacao de 2012, que foi realizado na [Universidade Federal Rural da Amaz√¥nia (UFRA)](http://www.portal.ufra.edu.br/), em 15/02, durante a [Semana do Calouro](http://biaufra.blogspot.com/2012/01/semana-dos-calouros-de-computacao-2012.html). Tudo come√ßa assim:
 
 
 
@@ -18,7 +18,7 @@ title=#tasafoemacao na UFRA 2012
 
 
 
-Sendo not·vel e ìsem vergonhaî, [Ramon Rabello](http://ramonrabello.blogspot.com/) e [Felipe Iketani](http://felipeik.spaceblog.com.br/) agradecem o convite e iniciam o evento apresentando a Comunidade [T· Safo!](http://www.tasafo.org/), explicando quais seus objetivos, seu significado, a evoluÁ„o da Comunidade e a import‚ncia dela principalmente para nossa regi„o.
+Sendo not√°vel e ‚Äúsem vergonha‚Äù, [Ramon Rabello](http://ramonrabello.blogspot.com/) e [Felipe Iketani](http://felipeik.spaceblog.com.br/) agradecem o convite e iniciam o evento apresentando a Comunidade [T√° Safo!](http://www.tasafo.org/), explicando quais seus objetivos, seu significado, a evolu√ß√£o da Comunidade e a import√¢ncia dela principalmente para nossa regi√£o.
 
 
 
@@ -47,7 +47,7 @@ Sendo not·vel e ìsem vergonhaî, [Ramon Rabello](http://ramonrabello.blogspot.com
 
 
 
-Logo apÛs as apresentaÁıes iniciamos as Lightning Talks ( palestras-rel‚mpago de no m·ximo 10 minutos cada ) com nosso amigo [Leomario](http://leomario.wordpress.com/), que veio logo dando seu recado com: ìIntroduÁ„o a Androidî.
+Logo ap√≥s as apresenta√ß√µes iniciamos as Lightning Talks ( palestras-rel√¢mpago de no m√°ximo 10 minutos cada ) com nosso amigo [Leomario](http://leomario.wordpress.com/), que veio logo dando seu recado com: ‚ÄúIntrodu√ß√£o a Android‚Äù.
 
 
 
@@ -56,7 +56,7 @@ Logo apÛs as apresentaÁıes iniciamos as Lightning Talks ( palestras-rel‚mpago de
 [![](http://tasafo.files.wordpress.com/2012/02/lightningtalksandroidleomario.jpg?w=300)](http://tasafo.files.wordpress.com/2012/02/lightningtalksandroidleomario.jpg)
 
 
-Logo em seguida, tivemos a participaÁ„o de [Felipe Iketani](http://felipeik.spaceblog.com.br/), que explicou detalhadamente para os calouros a diferenÁa entre arquitetura Desktop e Servidor.
+Logo em seguida, tivemos a participa√ß√£o de [Felipe Iketani](http://felipeik.spaceblog.com.br/), que explicou detalhadamente para os calouros a diferen√ßa entre arquitetura Desktop e Servidor.
 
 
 
@@ -65,7 +65,7 @@ Logo em seguida, tivemos a participaÁ„o de [Felipe Iketani](http://felipeik.spac
 [![](http://tasafo.files.wordpress.com/2012/02/lightningtalksfelipe.jpg?w=300)](http://tasafo.files.wordpress.com/2012/02/lightningtalksfelipe.jpg)
 
 
-Logo apÛs, tivemos uma representaÁ„o feminina com [Fernanda Melina](http://fmelina.blogspot.com/) mostrando que ìScrum, essa È a Jogada!î.
+Logo ap√≥s, tivemos uma representa√ß√£o feminina com [Fernanda Melina](http://fmelina.blogspot.com/) mostrando que ‚ÄúScrum, essa √© a Jogada!‚Äù.
 
 
 
@@ -74,7 +74,7 @@ Logo apÛs, tivemos uma representaÁ„o feminina com [Fernanda Melina](http://fmeli
 [![](http://tasafo.files.wordpress.com/2012/02/lightningtalks.jpg?w=300)](http://tasafo.files.wordpress.com/2012/02/lightningtalks.jpg)
 
 
-Finalizando a parte inicial das Lightning Talks, [Erysson](http://www.erysson.com.br/) fala, pela primeira vez na Comunidade, sobre ASP.NET, mostrando que estamos abertos para toda e qualquer tecnologia que venha ser ¡gil, F·cil e Organizada. Isso era apenas o comeÁo da noite e muita coisa boa vinha por aÍ!
+Finalizando a parte inicial das Lightning Talks, [Erysson](http://www.erysson.com.br/) fala, pela primeira vez na Comunidade, sobre ASP.NET, mostrando que estamos abertos para toda e qualquer tecnologia que venha ser √Ågil, F√°cil e Organizada. Isso era apenas o come√ßo da noite e muita coisa boa vinha por a√™!
 
 
 
@@ -89,7 +89,7 @@ Finalizando a parte inicial das Lightning Talks, [Erysson](http://www.erysson.co
 
 
 
-Depois de beber uma ·gua, iniciamos em paralelo os Coding Dojos, sendo uma sala para (Ruby) conduzida pelo [ìcabrioc·ricoî](http://youtu.be/K6lO1rfW6F8) [Felipe Iketani](http://felipeik.spaceblog.com.br/) e a outra sala para (Android) conduzida por [Lemario Machado](http://leomario.wordpress.com/)†e [Ramon Rabello](http://www.twitter.com/ramonrabello),†apoiando.
+Depois de beber uma √°gua, iniciamos em paralelo os Coding Dojos, sendo uma sala para (Ruby) conduzida pelo [‚Äúcabrioc√°rico‚Äù](http://youtu.be/K6lO1rfW6F8) [Felipe Iketani](http://felipeik.spaceblog.com.br/) e a outra sala para (Android) conduzida por [Lemario Machado](http://leomario.wordpress.com/)¬†e [Ramon Rabello](http://www.twitter.com/ramonrabello),¬†apoiando.
 
 
 
@@ -104,7 +104,7 @@ Depois de beber uma ·gua, iniciamos em paralelo os Coding Dojos, sendo uma sala 
 [![](http://tasafo.files.wordpress.com/2012/02/dojoandroidsalalotada.jpg)](http://tasafo.files.wordpress.com/2012/02/dojoandroidsalalotada.jpg)
 
 
-E para encerrar a noite tivemos a honra de presenciar uma verdadeira aula sobre **Linguagens de ProgramaÁ„o: EvoluÁ„o e TendÍncias**, com [Humberto Deodato](http://humbertomonteiro.blogspot.com/), uma pessoa apaixonada pelo trabalho. Tivemos coment·rios de pessoas da Comunidade que vieram especialmente para vÍ-lo apresentar. Abaixo, algumas imagens de sua apresentaÁ„o e como a platÈia estava super atenciosa em cada palavra, gesto e slide.
+E para encerrar a noite tivemos a honra de presenciar uma verdadeira aula sobre **Linguagens de Programa√ß√£o: Evolu√ß√£o e Tend√™ncias**, com [Humberto Deodato](http://humbertomonteiro.blogspot.com/), uma pessoa apaixonada pelo trabalho. Tivemos coment√°rios de pessoas da Comunidade que vieram especialmente para v√™-lo apresentar. Abaixo, algumas imagens de sua apresenta√ß√£o e como a plat√©ia estava super atenciosa em cada palavra, gesto e slide.
 
 
 
@@ -122,14 +122,14 @@ E para encerrar a noite tivemos a honra de presenciar uma verdadeira aula sobre 
 [![](http://tasafo.files.wordpress.com/2012/02/humbertoplateia1.jpg?w=300)](http://tasafo.files.wordpress.com/2012/02/humbertoplateia1.jpg)
 
 
-†Pois È minha gente...como tudo que È bom dura pouco, o #tasafoemacao na UFRA chegou ao fim com um pedido de ìBISî :) . A palestra de Humberto estava t„o emocionante que os alunos n„o ìarredaram o pÈî, como o tempo foi curto ele teve que ìcorrerî ao m·ximo com sua apresentaÁ„o.†Todas as palestras foram muito bem aplaudidas, tivemos um bom feedback por parte dos alunos e [comiss„o organizadora](http://biaufra.blogspot.com/2012/01/semana-dos-calouros-de-computacao-2012.html).
+¬†Pois √© minha gente...como tudo que √© bom dura pouco, o #tasafoemacao na UFRA chegou ao fim com um pedido de ‚ÄúBIS‚Äù :) . A palestra de Humberto estava t√£o emocionante que os alunos n√£o ‚Äúarredaram o p√©‚Äù, como o tempo foi curto ele teve que ‚Äúcorrer‚Äù ao m√°ximo com sua apresenta√ß√£o.¬†Todas as palestras foram muito bem aplaudidas, tivemos um bom feedback por parte dos alunos e [comiss√£o organizadora](http://biaufra.blogspot.com/2012/01/semana-dos-calouros-de-computacao-2012.html).
 
 
 
 
-GostarÌamos de agradecer por todos que se mobilizaram para realizaÁ„o deste evento, primeiramente a UFRA que nos fez o convite e apostou na Comunidade; ‡ comiss„o organizadora da semana de calouros, que n„o mediu esforÁos e nos proporcionou total apoio. Queremos agradecer tambÈm aos membros da comunidade: Fernanda Melina, Ramon Rabello, Felipe Iketani, Leomario Machado, Erysson Barros e Humberto Deodato; e aos fotÛgrafos [Rodrigo Miranda](https://twitter.com/@rchagas_) e [F·bio Lima](http://fabiolf.wordpress.com), que se dedicaram na cobertura do evento, via Twitter, Facebook, Twitcasting...
+Gostar√≠amos de agradecer por todos que se mobilizaram para realiza√ß√£o deste evento, primeiramente a UFRA que nos fez o convite e apostou na Comunidade; √† comiss√£o organizadora da semana de calouros, que n√£o mediu esfor√ßos e nos proporcionou total apoio. Queremos agradecer tamb√©m aos membros da comunidade: Fernanda Melina, Ramon Rabello, Felipe Iketani, Leomario Machado, Erysson Barros e Humberto Deodato; e aos fot√≥grafos [Rodrigo Miranda](https://twitter.com/@rchagas_) e [F√°bio Lima](http://fabiolf.wordpress.com), que se dedicaram na cobertura do evento, via Twitter, Facebook, Twitcasting...
 
 
 
 
-… muito gratificante ver a Comunidade cada vez mais se renovando e novos membros entrando em A«√O! E n„o podemos deixar de falar claro da presenÁa da comunidade T· Safo!, pois sem ela em #ACAO, nada disso teria sentido!
+√â muito gratificante ver a Comunidade cada vez mais se renovando e novos membros entrando em A√á√ÉO! E n√£o podemos deixar de falar claro da presen√ßa da comunidade T√° Safo!, pois sem ela em #ACAO, nada disso teria sentido!

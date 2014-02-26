@@ -2,24 +2,24 @@ status=published
 date=2011-03-18
 tags=blog
 type=post
-title=TáSafo em Ação com Rildo Santos
+title=TÃ¡Safo em AÃ§Ã£o com Rildo Santos
 ~~~~~~
-O [Rildo Santos](http://www.twitter.com/rildosan) vai estar  em Belém nesse mês e participará junto com a comunidade de mais um encontro do [Tá Safo em Ação](http://tasafo.wordpress.com/tasafoemacao/), dessa vez no [espaço Benedido Nunes da Livraria Saraiva](http://tasafo.wordpress.com/2011/03/17/ta-safo-vai-ao-chopis-centis-com-a-saraiva/). Com a palestra - **Kanban para Desenvolvimento de Software**.
+OÂ [Rildo Santos](http://www.twitter.com/rildosan) vai estar Â em BelÃ©m nesse mÃªs e participarÃ¡ junto com a comunidade de mais um encontro do [TÃ¡ Safo em AÃ§Ã£o](http://tasafo.wordpress.com/tasafoemacao/), dessa vez no [espaÃ§o Benedido Nunes da Livraria Saraiva](http://tasafo.wordpress.com/2011/03/17/ta-safo-vai-ao-chopis-centis-com-a-saraiva/). Com a palestra - **Kanban para Desenvolvimento de Software**.
 
 [![](http://tasafo.files.wordpress.com/2011/03/palestra_kanban.jpg)](http://www.etecnologia.com.br/hotsites/palestras-kaban-belem/)
 
 
-**Data:** **30 de março de 2011 (Quarta-feira).**
+**Data:** **30 de marÃ§o de 2011 (Quarta-feira).**
 
 
 
 
-**Local: Livraria Saraiva - Espaço Benedito Nunes, 2 piso, loja 233. Boulevard Shopping.**
+**Local: Livraria Saraiva - EspaÃ§o Benedito Nunes, 2 piso, loja 233. Boulevard Shopping.**
 
 
 
 
-**Horário: 19:30 às 21:00 hrs.**
+**HorÃ¡rio: 19:30 Ã s 21:00 hrs.**
 
 
 
@@ -28,4 +28,4 @@ O [Rildo Santos](http://www.twitter.com/rildosan) vai estar  em Belém nesse mês 
 **
 
 
-Esperamos por vocês lá. **A entrada é franca**.
+Esperamos por vocÃªs lÃ¡.Â **A entrada Ã© franca**.

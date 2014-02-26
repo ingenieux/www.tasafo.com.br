@@ -2,25 +2,25 @@ status=published
 date=2013-04-25
 tags=blog
 type=post
-title=Tasafo em aÁ„o com coding dojo na Faci
+title=Tasafo em a√ß√£o com coding dojo na Faci
 ~~~~~~
 Aconteceu nesta quinta-feira o [#tasafoemacao com coding dojo na Faci](http://palestrascoletivas.com/events/ta-safo-em-acao-na-faci-coding-dojo).
 
-Inicialmente, [Luiz Sanches](http://twitter.com/luizsanxes) apresentou como funciona a din‚mica de [coding dojo](http://codingdojo.org) para uma plateia de cerca de 50 alunos.
+Inicialmente, [Luiz Sanches](http://twitter.com/luizsanxes) apresentou como funciona a din√¢mica de [coding dojo](http://codingdojo.org) para uma plateia de cerca de 50 alunos.
 
 <div id="" class="wp-caption" align="alignnone" style="width: 510px"><p class="wp-caption-text"></p></div>
-![Luiz Sanches apresentando a din‚mica de dojo](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-18-44.jpg) Luiz Sanches apresentando a din‚mica de dojo
+![Luiz Sanches apresentando a din√¢mica de dojo](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-18-44.jpg) Luiz Sanches apresentando a din√¢mica de dojo
 
 <div id="" class="wp-caption" align="alignnone" style="width: 510px"><p class="wp-caption-text"></p></div>
-![Integrantes do #t·safoemaÁ„o em aÁ„o](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-19-10.jpg) Integrantes do #t·safoemaÁ„o em aÁ„o
+![Integrantes do #t√°safoema√ß√£o em a√ß√£o](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-19-10.jpg) Integrantes do #t√°safoema√ß√£o em a√ß√£o
 
 <div id="" class="wp-caption" align="alignnone" style="width: 510px"><p class="wp-caption-text"></p></div>
-![Integrantes do #t·safoemaÁ„o em aÁ„o](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-20-08.jpg) Integrantes do #t·safoemaÁ„o em aÁ„o
+![Integrantes do #t√°safoema√ß√£o em a√ß√£o](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-20-08.jpg) Integrantes do #t√°safoema√ß√£o em a√ß√£o
 
 <div id="" class="wp-caption" align="alignnone" style="width: 510px"><p class="wp-caption-text"></p></div>
-![Ramon Rabelo apoiando a apresentaÁ„o em meio ao auditÛrio lotado](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-20-41.jpg) Ramon Rabelo apoiando a apresentaÁ„o em meio ao auditÛrio lotado
+![Ramon Rabelo apoiando a apresenta√ß√£o em meio ao audit√≥rio lotado](http://tasafo.files.wordpress.com/2013/04/wpid-2013-04-25-19-20-41.jpg) Ramon Rabelo apoiando a apresenta√ß√£o em meio ao audit√≥rio lotado
 
-Na sequÍncia, os demais "senseis" apresentaram-se brevemente: [Ramon Rabello](http://twitter.com/ramonrabello), [Paulo Moura](http://twitter.com/paulociecomp), [Geraldo Sequeira](http://twitter.com/geraldosequeira), [Marcelo Andrade](http://twitter.com/mfandrade) e [M·rcio Ferreira](http://twitter.com/marciowferreira), se apresentaram e todos para suas salas, com as pr·ticas de Android, Javascript, Ruby e Java.
+Na sequ√™ncia, os demais "senseis" apresentaram-se brevemente: [Ramon Rabello](http://twitter.com/ramonrabello), [Paulo Moura](http://twitter.com/paulociecomp), [Geraldo Sequeira](http://twitter.com/geraldosequeira), [Marcelo Andrade](http://twitter.com/mfandrade) e [M√°rcio Ferreira](http://twitter.com/marciowferreira), se apresentaram e todos para suas salas, com as pr√°ticas de Android, Javascript, Ruby e Java.
 
 A seguir, os relatos de cada um dos dojos: Java, Android, Ruby, Javascript.
 
@@ -33,37 +33,37 @@ A seguir, os relatos de cada um dos dojos: Java, Android, Ruby, Javascript.
 
 
 **Coding dojo Java**
-Com tutoria de Marcelo e M·rcio, o coding dojo de Java contou com o maior p˙blico de todas as pr·ticas com cerca de trinta estudantes.maioria do primeiro semestre dos cursos de computaÁ„o da faculdade.
+Com tutoria de Marcelo e M√°rcio, o coding dojo de Java contou com o maior p√∫blico de todas as pr√°ticas com cerca de trinta estudantes.maioria do primeiro semestre dos cursos de computa√ß√£o da faculdade.
 
-Foi previamente definido o problema [FizzBuzz](http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz), com os tutores iniciando a pr·tica e o p˙blico com boa interaÁ„o, apesar da timidez natural de muitos.
+Foi previamente definido o problema [FizzBuzz](http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz), com os tutores iniciando a pr√°tica e o p√∫blico com boa intera√ß√£o, apesar da timidez natural de muitos.
 
-ApÛs duas ou trÍs interaÁıes, parte dos novatos se queixou de dificuldade em entender o cÛdigo. Com uma necess·ria pausa no cronÙmetro, os tutores explicaram brevemente os conceitos da linguagem envolvidos atÈ o momento, e a pr·tica seguiu normalmente.
+Ap√≥s duas ou tr√™s intera√ß√µes, parte dos novatos se queixou de dificuldade em entender o c√≥digo. Com uma necess√°ria pausa no cron√¥metro, os tutores explicaram brevemente os conceitos da linguagem envolvidos at√© o momento, e a pr√°tica seguiu normalmente.
 
-Ao fim, prÛximo das 22h, os ainda presentes na plateia se reuniram em cÌrculo e puderam, falar sobre o que acharam de bom e ruim na atividade, resumidos aqui.
+Ao fim, pr√≥ximo das 22h, os ainda presentes na plateia se reuniram em c√≠rculo e puderam, falar sobre o que acharam de bom e ruim na atividade, resumidos aqui.
 
 **Pontos positivos :-)**
 * Aprendizado do assert
-* InteraÁ„o pessoal
+* Intera√ß√£o pessoal
 * Tudo!
 * Despertou interesse em aprender
-* PaciÍncia dos tutores
-* ExplicaÁıes bem detalhadas
+* Paci√™ncia dos tutores
+* Explica√ß√µes bem detalhadas
 * Forma diferente de programar
 * Tutores atenciosos
 * Abrangeu todos os semestres
-* Interessante o "passos de bebÍ"
+* Interessante o "passos de beb√™"
 
 **Pontos negativos :-(**
 * Tempo curto programando
-* N„o deu mostrar tudo
-* InexperiÍncia da maioria
-* TÈcnicas n„o aplic·veis na pr·tica
+* N√£o deu mostrar tudo
+* Inexperi√™ncia da maioria
+* T√©cnicas n√£o aplic√°veis na pr√°tica
 * Control-C Control-V
 * Faltou identificar os erros abordados
 
-**Sugestıes:**
-* Precisa ocorrer com mais frequÍncia
-* Necess·rio mais interaÁ„o
+**Sugest√µes:**
+* Precisa ocorrer com mais frequ√™ncia
+* Necess√°rio mais intera√ß√£o
 
 
 
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet lobor
 **Pontos negativos :-(**
 * Faltando
 
-**Sugestıes
+**Sugest√µes
 *** Faltando
 
 
@@ -98,7 +98,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet lobor
 **Pontos negativos :-(**
 * Faltando
 
-**Sugestıes
+**Sugest√µes
 *** Faltando
 
 
@@ -116,5 +116,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet lobor
 **Pontos negativos :-(**
 * Faltando
 
-**Sugestıes
+**Sugest√µes
 *** Faltando

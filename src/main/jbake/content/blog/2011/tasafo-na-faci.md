@@ -6,18 +6,18 @@ title=@tasafo na FACI
 ~~~~~~
 [![](http://tasafo.files.wordpress.com/2011/08/android-faci.png?w=300)](http://tasafo.files.wordpress.com/2011/08/android-faci.png)
 
-01 de agosto. Primeiro dia oficial da volta às aulas. Iniciando o 2º semestre depois de um [Julho bem agitado](http://tasafo.wordpress.com/2011/08/01/julho-mes-de-ferias-que-nada/), o Tá Safo! foi convidado pela [Faculdade Ideal (FACI)](http://www.faculdadeideal.com.br), representado por [Ramon Rabello](http://www.twitter.com/ramonrabello), falando sobre "[Android na Prática](http://www.slideshare.net/ramonrabello/android-na-prtica)"**;** [Fernanda Melina](http://www.twitter.com/FernandaMelina), [Rafael Salles](http://www.twitter.com/rafasall) e [Armando Hage](http://twitter.com/profarmandohage), prestigiando o evento.
+01 de agosto. Primeiro dia oficial da volta Ã s aulas. Iniciando o 2Âº semestre depois de umÂ [Julho bem agitado](http://tasafo.wordpress.com/2011/08/01/julho-mes-de-ferias-que-nada/),Â o TÃ¡ Safo! foi convidado pelaÂ [Faculdade Ideal (FACI)](http://www.faculdadeideal.com.br), representado por [Ramon Rabello](http://www.twitter.com/ramonrabello), falando sobre "[Android na PrÃ¡tica](http://www.slideshare.net/ramonrabello/android-na-prtica)"**;**Â [Fernanda Melina](http://www.twitter.com/FernandaMelina),Â [Rafael Salles](http://www.twitter.com/rafasall)Â eÂ [Armando Hage](http://twitter.com/profarmandohage),Â prestigiando o evento.
 
 
 
 <!-- more -->
 
-Primeiramente, o coordenador Wanderson Quinto abriu o evento dando boas vindas aos presentes. Na ocasião, o coordenador do curso de Sistema de Informação falou também que a Faculdade está de braços abertos, tanto para o Tá Safo! quanto para as demais comunidades da região!
+Primeiramente, o coordenador Wanderson Quinto abriu o evento dando boas vindas aos presentes. Na ocasiÃ£o, o coordenador do curso de Sistema de InformaÃ§Ã£o falou tambÃ©m que a Faculdade estÃ¡ de braÃ§os abertos, tanto para o TÃ¡ Safo! quanto para as demais comunidades da regiÃ£o!
 
 <div id="attachment_2069" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2011/08/dsc01550.jpg?w=300)](http://tasafo.files.wordpress.com/2011/08/dsc01550.jpg)
 
-Logo em seguida, Ramon deu uma visão rápida e essencial sobre a plataforma Android, demonstrando passo-a-passo como se construir uma aplicação de forma bem prática em apenas alguns minutos!
+Logo em seguida, Ramon deu uma visÃ£o rÃ¡pida e essencial sobre a plataforma Android, demonstrando passo-a-passo como se construir uma aplicaÃ§Ã£o de forma bem prÃ¡tica em apenas alguns minutos!
 
 <div id="attachment_2074" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2011/08/dsc01552.jpg?w=300)](http://tasafo.files.wordpress.com/2011/08/dsc01552.jpg)
@@ -25,6 +25,6 @@ Logo em seguida, Ramon deu uma visão rápida e essencial sobre a plataforma Andro
 <div id="attachment_2073" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2011/08/dsc01549.jpg?w=300)](http://tasafo.files.wordpress.com/2011/08/dsc01549.jpg)
 
-Gostaríamos de parabenizar a FACI pela atitude de movimentar as comunidades da região, promovendo mais a disseminação do conhecimento e compartilhamento de idéias \o/ [Aqui](http://www.flickr.com/photos/tasafo/sets/72157627339490126/) tem mais fotos do dia e a seguir, um trecho do vídeo da apresentação:
+GostarÃ­amos de parabenizar a FACI pela atitude de movimentar as comunidades da regiÃ£o, promovendo mais a disseminaÃ§Ã£o do conhecimento e compartilhamento de idÃ©ias \o/Â [Aqui](http://www.flickr.com/photos/tasafo/sets/72157627339490126/) tem mais fotos do dia e a seguir, um trecho do vÃ­deo da apresentaÃ§Ã£o:
 
 [vimeo http://vimeo.com/27208459]

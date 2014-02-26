@@ -2,7 +2,7 @@ status=published
 date=2010-09-06
 tags=blog
 type=post
-title=Tá safo em ação na Federal!
+title=TÃ¡ safo em aÃ§Ã£oÂ naÂ Federal!
 ~~~~~~
 > Paparara
 papapa
@@ -11,19 +11,19 @@ papapa
 paparara
 papapapa
 
-(Imaginem agora foguetes explodindo, o pessoal te jogando trigo, coloral, ovo e um bando de coisas na tua cabeça)
+(Imaginem agora foguetes explodindo, o pessoal te jogando trigo, coloral, ovo e um bando de coisas na tua cabeÃ§a)
 
 > 
 > 
 
 > 
-> Alô, alô, alô papai
+> AlÃ´, alÃ´, alÃ´ papai
 > 
 > 
 
 > 
-> Alô mamãe
-Põe a vitrola pra tocar
+> AlÃ´ mamÃ£e
+PÃµe a vitrola pra tocar
 Podem soltar foguetes
 Que eu passei no vestibular
 > 
@@ -53,7 +53,7 @@ Link da imagem: [http://www.flickr.com/photos/tarsosarraf/3945786256/](http://ww
 
 
 
-Eeeeeeee, o cursinho pré-vestibular Tá safo! aprovou alguns calouros na [UFPA](http://www.portal.ufpa.br/). E em duas, uhhuuuuuu! Espoquem ovos na cabeça deles :)
+Eeeeeeee, o cursinho prÃ©-vestibular TÃ¡ safo! aprovou alguns calouros na [UFPA](http://www.portal.ufpa.br/). E em duas, uhhuuuuuu! Espoquem ovos na cabeÃ§a deles :)
 
 
 
@@ -63,57 +63,57 @@ Eeeeeeee, o cursinho pré-vestibular Tá safo! aprovou alguns calouros na [UFPA](h
 
 
 
-Alegria de paraense é ouvir a música acima que é uma [marchinha](http://letras.terra.com.br/pinduca/355786/) do [Pinduca](http://pt.wikipedia.org/wiki/Pinduca) que toca toooooodo ano quando sai o listão de aprovados das universidades. E o Tá safo! foi convidado para levar sua caravana e participar de dois encontros nas UFPA's de [Belém](http://www.ufpa.br/cacc/index.php?option=com_content&view=article&id=6&Itemid=15) e [Castanhal](http://www.campuscastanhal.ufpa.br/). Desde já agradecemos o convite.
+Alegria de paraense Ã© ouvir a mÃºsica acima que Ã© uma [marchinha](http://letras.terra.com.br/pinduca/355786/) do [Pinduca](http://pt.wikipedia.org/wiki/Pinduca) que toca toooooodo ano quando sai o listÃ£o de aprovados das universidades. E o TÃ¡ safo! foi convidado para levar sua caravana e participar de dois encontros nas UFPA's de [BelÃ©m](http://www.ufpa.br/cacc/index.php?option=com_content&view=article&id=6&Itemid=15) e [Castanhal](http://www.campuscastanhal.ufpa.br/). Desde jÃ¡ agradecemos o convite.
 
 
 
 
-Então, atualize sua agenda e não perca mais essa oportunidade, é de "grátis" e sem "équio" :) Para a galera de Belém que quiser conhecer castanhal, o pessoal está organizando uma caravana para ir também.
+EntÃ£o, atualize sua agenda e nÃ£o perca mais essa oportunidade, Ã© de "grÃ¡tis" e sem "Ã©quio" :) Para a galera de BelÃ©m que quiser conhecer castanhal, o pessoal estÃ¡ organizando uma caravana para ir tambÃ©m.
 
 
 
 
 
-## UFPA Belém - Dia 27 de Setembro
+## UFPA BelÃ©m - Dia 27 de Setembro
 
 
 
 
-### [**I Semana Acadêmica do CBCC (link da programação)**](http://ufpa.br/cacc/index.php?option=com_content&view=article&id=14&Itemid=21)
+### [**I Semana AcadÃªmica do CBCC (link da programaÃ§Ã£o)**](http://ufpa.br/cacc/index.php?option=com_content&view=article&id=14&Itemid=21)
 
 
 
 
-### **Local: **Campus Guamá, Auditório do ICEN - Instituto de Ciências Exatas e Naturais
+### **Local: **Campus GuamÃ¡, AuditÃ³rio do ICEN - Instituto de CiÃªncias Exatas e Naturais
 
 
 
 
-### **Horário:** 14:00 às 18:00hs
+### **HorÃ¡rio:** 14:00 Ã s 18:00hs
 
 
 
 
-### **Listão dos aprovados:**
+### **ListÃ£o dos aprovados:**
 
 
 
 
 
 	
-  * **Seja Notável** - [Fábio Aguiar](http://twitter.com/fabyogr)
+  * **Seja NotÃ¡vel** - [FÃ¡bio Aguiar](http://twitter.com/fabyogr)
 
 	
   * **Agile, Mudando o Foco** - [Ewertton Bravo](http://twitter.com/ewerttonbravo)
 
 	
-  * **Como Ser um Modelador Ágil **- [Jaime Schettini](http://jaimesch.blogspot.com/)
+  * **Como Ser um Modelador Ãgil **- [Jaime Schettini](http://jaimesch.blogspot.com/)
 
 	
   * **RUBY: O Todo Poderoso** - [Pamela Gatinho](http://twitter.com/pamelagatinho)
 
 	
-  * **Agora é Android, Tá Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
+  * **Agora Ã© Android, TÃ¡ Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
 
 
 
@@ -123,30 +123,30 @@ Então, atualize sua agenda e não perca mais essa oportunidade, é de "grátis" e s
 
 
 
-### **Local:** Campus Universitário de Castanhal. Faculdade de Sistemas de Informação
+### **Local:** Campus UniversitÃ¡rio de Castanhal. Faculdade de Sistemas de InformaÃ§Ã£o
 
 
 
 
-### **Horário: **09:00 às 13:00hs
+### **HorÃ¡rio: **09:00 Ã s 13:00hs
 
 
 
 
-### **Listão dos aprovados:**
+### **ListÃ£o dos aprovados:**
 
 
 
 
-
-	
-  * **Tá safo! De Belém - Do Pará - Do Brasil ++ **- [Luiz Sanches](http://twitter.com/luizgrsanches) (Repescagem)
 
 	
-  * **Seja Notável** - [Fábio Aguiar](http://twitter.com/fabyogr)
+  * **TÃ¡ safo! De BelÃ©m - Do ParÃ¡ - Do Brasil ++ **- [Luiz Sanches](http://twitter.com/luizgrsanches) (Repescagem)
 
 	
-  * **Introdução às Metodologias Agéis de Desenvolvimento de Software** - [Jaime Schettini](http://jaimesch.blogspot.com/)
+  * **Seja NotÃ¡vel** - [FÃ¡bio Aguiar](http://twitter.com/fabyogr)
+
+	
+  * **IntroduÃ§Ã£o Ã s Metodologias AgÃ©is de Desenvolvimento de Software** - [Jaime Schettini](http://jaimesch.blogspot.com/)
 
 	
   * **Acelerando Desenvolvimento Java Web com Seam** - [Ewertton Bravo](http://twitter.com/ewerttonbravo)
@@ -158,7 +158,7 @@ Então, atualize sua agenda e não perca mais essa oportunidade, é de "grátis" e s
   * **RUBY: O Todo Poderoso** - [Pamela Gatinho](http://twitter.com/pamelagatinho)
 
 	
-  * **Agora é Android, Tá Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
+  * **Agora Ã© Android, TÃ¡ Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
 
 
 
@@ -166,10 +166,10 @@ Então, atualize sua agenda e não perca mais essa oportunidade, é de "grátis" e s
 
 
 
-E lembrando, se você quiser participar ou sugerir palestras ([Agenda dos Tá safo em Ação](https://spreadsheets0.google.com/ccc?key=t-2GqWEPq4ejAHElrveYe8g&hl=pt_BR#gid=0)) para sua instituição, acesse nosso [Portf?olio de palestras](https://spreadsheets.google.com/ccc?key=0Agb20F_hcoFHdHNQVjRYU21zVnQ3SV92OVVqbzJPMFE&hl=pt_BR#gid=0). Fale com seu Professor, Reitor, Diretor, etc para levar essa galera. Animamos festa de criança, reunião de condomínio, funeral,  etc. etal. E, principalmente mandar um proposta para conhecermos melhor o que está rolando por esse Parazão.
+E lembrando, se vocÃª quiser participar ou sugerir palestras ([Agenda dos TÃ¡ safo em AÃ§Ã£o](https://spreadsheets0.google.com/ccc?key=t-2GqWEPq4ejAHElrveYe8g&hl=pt_BR#gid=0)) para sua instituiÃ§Ã£o, acesse nosso [PortfÄºolio de palestras](https://spreadsheets.google.com/ccc?key=0Agb20F_hcoFHdHNQVjRYU21zVnQ3SV92OVVqbzJPMFE&hl=pt_BR#gid=0). Fale com seu Professor, Reitor, Diretor, etc para levar essa galera. Animamos festa de crianÃ§a, reuniÃ£o de condomÃ­nio, funeral,Â  etc. etal. E, principalmente mandar um proposta para conhecermos melhor o que estÃ¡ rolando por esse ParazÃ£o.
 
 
-Para entrar em contato conosco, se você ainda não está em nossa [lista de discussão](http://br.groups.yahoo.com/group/safos/) é só dá uma tuitada para [@tasafo ](http://twitter.com/tasafo)que respondemos pra você. O Tá safo! é igual coração de mãe, sempre cabe mais um.
+Para entrar em contato conosco, se vocÃª ainda nÃ£o estÃ¡ em nossa [lista de discussÃ£o](http://br.groups.yahoo.com/group/safos/) Ã© sÃ³ dÃ¡ uma tuitada para [@tasafo ](http://twitter.com/tasafo)que respondemos pra vocÃª. O TÃ¡ safo! Ã© igual coraÃ§Ã£o de mÃ£e, sempre cabe mais um.
 
 
 > 
@@ -178,11 +178,11 @@ Para entrar em contato conosco, se você ainda não está em nossa [lista de discus
 > 
 
 > 
-> Eu agora não me iludo
+> Eu agora nÃ£o me iludo
 Estou com a cuca controlada
-Já não sou mais cabeludo
-Estou de cabeça raspada
-Tudo agora é alegria
+JÃ¡ nÃ£o sou mais cabeludo
+Estou de cabeÃ§a raspada
+Tudo agora Ã© alegria
 Vou alegre pintando o  sete
 Com a turma na folia
 Dando tiros de confete
@@ -191,7 +191,7 @@ Dando tiros de confete
 
 > 
 > 
-Alô, alô, alô papai, alô mamãe....
+AlÃ´, alÃ´, alÃ´ papai, alÃ´ mamÃ£e....
 
 (E mais trigo, coloral, ovo, foguetes...)
 

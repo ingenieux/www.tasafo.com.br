@@ -2,21 +2,21 @@ status=published
 date=2011-05-20
 tags=blog
 type=post
-title=O Tá Safo pós Maré de Agilidade
+title=O TÃ¡ Safo pÃ³s MarÃ© de Agilidade
 ~~~~~~
-Olá pessoal, faz tempo que eu não escrevo aqui, na verdade não tenho escrito também no meu blog ([Melhoria Contínua](http://blog.pigor.net)) faz um tempo. O Tá Safo é uma comunidade hoje de grande representatividade em nossa região e que chamou atenção nacional após organizar o [Maré de Agilidade em Belém](http://maredeagilidade.com.br/eventos_passados/belem/11-2009/), e vou tentar contar um pouco dessa história nesse post.
+OlÃ¡ pessoal, faz tempo que eu nÃ£o escrevo aqui, na verdade nÃ£o tenho escrito tambÃ©m no meu blog ([Melhoria ContÃ­nua](http://blog.pigor.net)) faz um tempo. O TÃ¡ Safo Ã© uma comunidade hoje de grande representatividade em nossa regiÃ£o e que chamou atenÃ§Ã£o nacional apÃ³s organizar o [MarÃ© de Agilidade em BelÃ©m](http://maredeagilidade.com.br/eventos_passados/belem/11-2009/), e vou tentar contar um pouco dessa histÃ³ria nesse post.
 
-Para falar do Tá Safo pós Maré de agilidade eu preciso destacar alguns fatores importantes dessa história entre essa comunidade paraense e o Maré de Agilidade.
+Para falar do TÃ¡ Safo pÃ³s MarÃ© de agilidade eu preciso destacar alguns fatores importantes dessa histÃ³ria entre essa comunidade paraense e o MarÃ© de Agilidade.
 
-**Como tudo começou...**
+**Como tudo comeÃ§ou...**
 
-Eu conhecia pouco a comunidade antes disso, mas após participar do [VAAM com o Manoel Pimentel](http://tasafo.wordpress.com/tag/vaam/) ([Visão Ágil](http://www.visaoagil.com/)) em parceria com o Tá Safo e o [IESAM](http://www2.iesam-pa.edu.br/) que fizeram um workshop sobre agilidade. Foi lá que eu fiz os meus primeiros contatos e conheci alguns integrantes da comunidade como o [Fábio Aguiar](http://twitter.com/#!/fabyogr) e o [Luiz Sanches](http://twitter.com/#!/luizgrsanches), assim como o próprio Manoel Pimentel.
+Eu conhecia pouco a comunidade antes disso, mas apÃ³s participar do [VAAM com o Manoel Pimentel](http://tasafo.wordpress.com/tag/vaam/) ([VisÃ£o Ãgil](http://www.visaoagil.com/)) em parceria com o TÃ¡ Safo e o [IESAM](http://www2.iesam-pa.edu.br/) que fizeram um workshop sobre agilidade. Foi lÃ¡ que eu fiz os meus primeiros contatos e conheci alguns integrantes da comunidade como o [FÃ¡bio Aguiar](http://twitter.com/#!/fabyogr) e o [Luiz Sanches](http://twitter.com/#!/luizgrsanches), assim como o prÃ³prio Manoel Pimentel.
 
-Depois desse primeiro contato eu conheci a comunidade, entrei no grupo de discussão e vi alguns comentários sobre trazer o Maré de Agilidade para Belém, eu ia para o [Maré em Fortaleza](http://maredeagilidade.com.br/eventos_passados/fortaleza/08-2009/) então fiquei responsável por conhecer o evento e fazer os contatos para conseguirmos organizar o evento em Belém.
+Depois desse primeiro contato eu conheci a comunidade, entrei no grupo de discussÃ£o e vi alguns comentÃ¡rios sobre trazer o MarÃ© de Agilidade para BelÃ©m, eu ia para o [MarÃ© em Fortaleza](http://maredeagilidade.com.br/eventos_passados/fortaleza/08-2009/) entÃ£o fiquei responsÃ¡vel por conhecer o evento e fazer os contatos para conseguirmos organizar o evento em BelÃ©m.
 
-Quando voltei do Maré em fortaleza, marcamos uma reunião na lista com todos os interessados em ajudar na organização do Maré de Agilidade em Belém, nesse dia tivemos a participação, se eu me lembro bem, de 7 pessoas!
+Quando voltei do MarÃ© em fortaleza, marcamos uma reuniÃ£o na lista com todos os interessados em ajudar na organizaÃ§Ã£o do MarÃ© de Agilidade em BelÃ©m, nesse dia tivemos a participaÃ§Ã£o, se eu me lembro bem, de 7 pessoas!
 
-Nesse momento começamos a plantar uma semente que nenhum de nós tinha ideia dos bons frutos que isso traria no futuro!
+Nesse momento comeÃ§amos a plantar uma semente que nenhum de nÃ³s tinha ideia dos bons frutos que isso traria no futuro!
 
 **<!-- more -->Fortalecendo a Rede de Relacionamentos**
 
@@ -24,61 +24,61 @@ Nesse momento começamos a plantar uma semente que nenhum de nós tinha ideia dos 
 **[![](http://tasafo.files.wordpress.com/2011/05/networking.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/networking.jpg)**
 
 
-No primeiro momento o Tá Safo precisava fortalecer seus RELACIONAMENTOS com outras PESSOAS que pudessem ajudar a levar o Maré de Agilidade para Belém. Essas pessoas representavam outras comunidades, empresas, instituições, organizações...
+No primeiro momento o TÃ¡ Safo precisava fortalecer seus RELACIONAMENTOS com outras PESSOAS que pudessem ajudar a levar o MarÃ© de Agilidade para BelÃ©m. Essas pessoas representavam outras comunidades, empresas, instituiÃ§Ãµes, organizaÃ§Ãµes...
 
-Essa foi a primeira fase, mas foi a fase que nunca acabou e tomara que nunca acabe, pois os relacionamentos que o Tá Safo fez e continua fazendo é o que faz movimentar e renovar a comunidade constantemente.
+Essa foi a primeira fase, mas foi a fase que nunca acabou e tomara que nunca acabe, pois os relacionamentos que o TÃ¡ Safo fez e continua fazendo Ã© o que faz movimentar e renovar a comunidade constantemente.
 
-Os relacionamentos precisam ser cultivados e multiplicados em uma troca constante de ENERGIA, isso é o que alimenta a comunidade e faz ela crescer. Da mesma forma que o enfraquecimento dessas e de novas relações também enfraquecerão a comunidade.
+Os relacionamentos precisam ser cultivados e multiplicados em uma troca constante de ENERGIA, isso Ã© o que alimenta a comunidade e faz ela crescer. Da mesma forma que o enfraquecimento dessas e de novas relaÃ§Ãµes tambÃ©m enfraquecerÃ£o a comunidade.
 
-A fase seguinte era organizar esses relacionamentos para colocar toda a galera e a energia para alcançarmos nosso objetivo que era levar o Maré de Agilidade e todo o espírito que a caravana do Maré traz junto com ela.
+A fase seguinte era organizar esses relacionamentos para colocar toda a galera e a energia para alcanÃ§armos nosso objetivo que era levar o MarÃ© de Agilidade e todo o espÃ­rito que a caravana do MarÃ© traz junto com ela.
 
-**Várias Cabeças Pensam Melhor que Uma**
-
-
-**** [![](http://tasafo.files.wordpress.com/2011/05/brainstorm.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/brainstorm.jpg)
+**VÃ¡rias CabeÃ§as Pensam Melhor que Uma**
 
 
+****Â [![](http://tasafo.files.wordpress.com/2011/05/brainstorm.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/brainstorm.jpg)
 
 
-Depois de vários emails trocados entre o Tá Safo, e entre a galera do Maré de Agilidade as coisas engrenaram, já tínhamos a parceria com o [CESUPA](http://www.cesupa.br/) para o local do evento, tínhamos a data do evento, os contatos, a grade do evento, só tava faltando o dimdim...mas isso era apenas um detalhe, pois todos estavam empenhados, sintonizados e com um foco só, que era fazer algo diferente acontecer em nossa região e nós acreditávamos no Maré de Agilidade como esse ponto de partida.
 
 
-Todos tinham suas obrigações e conseguimos fazer o Maré acontecer, e nesse momento o compromisso e a vontade de fazer algo para conter nossos descontentamentos era maior que qualquer dificuldade e trabalho que tivéssemos que encarar. Mal a gente sabia que já estávamos no clima do Maré de Agilidade - atitude, compromisso, coragem, colaboração - esses são alguns dos valores que o Maré traz e já estávamos nessa "vibe" a muito tempo.
+Depois de vÃ¡rios emails trocados entre o TÃ¡ Safo, e entre a galera do MarÃ© de Agilidade as coisas engrenaram, jÃ¡ tÃ­nhamos a parceria com o [CESUPA](http://www.cesupa.br/) para o local do evento, tÃ­nhamos a data do evento, os contatos, a grade do evento, sÃ³ tava faltando o dimdim...mas isso era apenas um detalhe, pois todos estavam empenhados, sintonizados e com um foco sÃ³, que era fazer algo diferente acontecer em nossa regiÃ£o e nÃ³s acreditÃ¡vamos no MarÃ© de Agilidade como esse ponto de partida.
 
-**[Aconteceu o Maré!](http://tasafo.wordpress.com/2009/12/13/aconteceu-o-mare/)**
+
+Todos tinham suas obrigaÃ§Ãµes e conseguimos fazer o MarÃ© acontecer, e nesse momento o compromisso e a vontade de fazer algo para conter nossos descontentamentos era maior que qualquer dificuldade e trabalho que tivÃ©ssemos que encarar. Mal a gente sabia que jÃ¡ estÃ¡vamos no clima do MarÃ© de Agilidade - atitude, compromisso, coragem, colaboraÃ§Ã£o - esses sÃ£o alguns dos valores que o MarÃ© traz e jÃ¡ estÃ¡vamos nessa "vibe" a muito tempo.
+
+**[Aconteceu o MarÃ©!](http://tasafo.wordpress.com/2009/12/13/aconteceu-o-mare/)**
 
 [![](http://tasafo.files.wordpress.com/2011/05/4156186587_4e27c07aa6.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/4156186587_4e27c07aa6.jpg)
 
-O Maré de Agilidade veio, foram 3 dias de muita movimentação e vocês podem ver o resumo do que foi o evento [aqui mesmo no blog](http://tasafo.wordpress.com/2009/12/13/aconteceu-o-mare/), mas o que ficou depois disso foi muito melhor do que o evento em si.
+O MarÃ© de Agilidade veio, foram 3 dias de muita movimentaÃ§Ã£o e vocÃªs podem ver o resumo do que foi o evento [aqui mesmo no blog](http://tasafo.wordpress.com/2009/12/13/aconteceu-o-mare/), mas o que ficou depois disso foi muito melhor do que o evento em si.
 
-Após o Maré nos perguntamos: E agora? O que vamos fazer? ...Acho que nunca foi tão fácil responder a essas perguntas. Todos ainda estavam em um ritmo aceleradíssimo após o Maré de Agilidade e muitas ideias surgiram, só que a diferença era que não tínhamos mais nenhum pingo de medo de fazer acontecer e todos aqueles relacionamentos feitos foram fortalecidos ainda mais.  Outras pessoas foram surgindo e se interessando pelo que o Tá Safo estava fazendo, o melhor é que eles queriam se envolver também.
+ApÃ³s o MarÃ© nos perguntamos: E agora? O que vamos fazer? ...Acho que nunca foi tÃ£o fÃ¡cil responder a essas perguntas. Todos ainda estavam em um ritmo aceleradÃ­ssimo apÃ³s o MarÃ© de Agilidade e muitas ideias surgiram, sÃ³ que a diferenÃ§a era que nÃ£o tÃ­nhamos mais nenhum pingo de medo de fazer acontecer e todos aqueles relacionamentos feitos foram fortalecidos ainda mais. Â Outras pessoas foram surgindo e se interessando pelo que o TÃ¡ SafoÂ estava fazendo, o melhor Ã© que eles queriam se envolver tambÃ©m.
 
-O Tá Safo desde que eu conheci, sempre foi uma comunidade aberta e muito acolhedora, pois a sede por integrar, inovar e empreender colaborativamente, era muito evidente e ainda tinha um fator que contribuía muito para conseguir integrar e movimentar tantas comunidades juntas que só conheciam seus "grupinhos de usuários".
+O TÃ¡ Safo desde que eu conheci, sempre foi uma comunidade aberta e muito acolhedora, pois a sede por integrar, inovar e empreender colaborativamente, era muito evidente e ainda tinha um fator que contribuÃ­a muito para conseguir integrar e movimentar tantas comunidades juntas que sÃ³ conheciam seus "grupinhos de usuÃ¡rios".
 
-A transparência da comunidade de compartilhar e sempre buscar envolver todos em suas ações foi outro fator diferenciado que eu vi crescer cada vez mais na comunidade do Tá Safo e posso dizer com toda certeza que esse valor foi aprendido e consolidado durante esse processo com o Maré.
+A transparÃªncia da comunidade de compartilhar e sempre buscar envolver todos em suas aÃ§Ãµes foi outro fator diferenciado que eu vi crescer cada vez mais na comunidade do TÃ¡ Safo e posso dizer com toda certeza que esse valor foi aprendido e consolidado durante esse processo com o MarÃ©.
 
-**Pós Maré de Agilidade**
+**PÃ³s MarÃ© de Agilidade**
 
 
 ![](http://tasafo.files.wordpress.com/2011/05/logotasafoemacao1.png?w=300)![](http://tasafo.files.wordpress.com/2011/05/6pcb.jpg?w=300)
 
 
-O Tá Safo cresceu rapidamente em número de participantes na comunidade e nas movimentações em eventos locais, após o Maré de Agilidade vários movimentos interessantes surgiram como o [#tasafoemação](http://tasafo.wordpress.com/tasafoemacao/), [papoSafo](http://tasafo.wordpress.com/tag/paposafo/), [#horadodesapego](http://tasafo.wordpress.com/2010/07/25/ta-safo-em-acao-especial-a-hora-do-desapego/).
+O TÃ¡ Safo cresceu rapidamente em nÃºmero de participantes na comunidade e nas movimentaÃ§Ãµes em eventosÂ locais, apÃ³s o MarÃ© de Agilidade vÃ¡rios movimentos interessantes surgiram como o [#tasafoemaÃ§Ã£o](http://tasafo.wordpress.com/tasafoemacao/),Â [papoSafo](http://tasafo.wordpress.com/tag/paposafo/), [#horadodesapego](http://tasafo.wordpress.com/2010/07/25/ta-safo-em-acao-especial-a-hora-do-desapego/).
 
-A repercussão que o Tá Safo teve ao trazer o Maré de Agilidade para Belém foi grande dadas as devidas proporções. E esse barulho todo tornou o Tá Safo a referência que é hoje em nossa região, e conhecida por muitos em outras regiões do nosso país.
+A repercussÃ£o que o TÃ¡ Safo teve ao trazer o MarÃ© de Agilidade para BelÃ©m foi grande dadas as devidas proporÃ§Ãµes. E esse barulho todo tornou o TÃ¡ Safo a referÃªncia que Ã© hoje em nossa regiÃ£o, e conhecida por muitos em outras regiÃµes do nosso paÃ­s.
 
-O Tá Safo tem algumas pessoas que inspiram e eu diria que são os responsáveis pela inquietação da comunidade, dentre essas pessoas eu destacaria o [Fábio Aguiar](http://twitter.com/#!/fabyogr) e o [Luiz Sanches](http://twitter.com/#!/luizgrsanches) que sempre estão levando ideias novas para discutirmos na comunidade e agitando novos movimentos, esses caras resumem bem o DNA do Tá Safo.
+O TÃ¡ Safo tem algumas pessoas que inspiram e eu diria que sÃ£o os responsÃ¡veis pela inquietaÃ§Ã£o da comunidade, dentre essas pessoas eu destacaria o [FÃ¡bio Aguiar](http://twitter.com/#!/fabyogr) e o [Luiz Sanches](http://twitter.com/#!/luizgrsanches) que sempre estÃ£o levando ideias novas para discutirmos na comunidade e agitando novos movimentos, esses caras resumem bem o DNA do TÃ¡ Safo.
 
-O Maré de Agilidade foi um evento pequeno mas de proporções estrondosas que até hoje faz barulho pelo Pará! Só que agora quem carrega a bandeira do Maré junto é o Tá Safo que incorporou o espírito do Maré de Agilidade e fez com que a oportunidade de reunir e movimentar a comunidade paraense não fosse resumida em apenas 3 dias.
+O MarÃ© de Agilidade foi um evento pequeno mas de proporÃ§Ãµes estrondosas que atÃ© hoje faz barulho pelo ParÃ¡! SÃ³ que agora quem carrega a bandeira do MarÃ© junto Ã© o TÃ¡ Safo que incorporou o espÃ­rito do MarÃ© de Agilidade e fez com que a oportunidade de reunir e movimentar a comunidade paraense nÃ£o fosse resumida em apenas 3 dias.
 
-Eu diria até que o Maré de Agilidade foi o responsável pelo despertar da comunidade Tá Safo e por trazer uma energia diferenciada que só os eventos no perfil do Maré tem, como o Linguágil que rolou na Bahia e que também tem o mesmo perfil.
+Eu diria atÃ© que o MarÃ© de Agilidade foi o responsÃ¡vel pelo despertar da comunidade TÃ¡ Safo e por trazer uma energia diferenciada que sÃ³ os eventos no perfil do MarÃ© tem, como o LinguÃ¡gil que rolou na Bahia e que tambÃ©m tem o mesmo perfil.
 
-Se você não teve a oportunidade de participar do Maré de Agilidade, ou de alguma reunião feita pelo Tá Safo? Não perca tempo e saia do seu cubículo e faça parte de uma comunidade que sabe o que é ser uma comunidade de verdade, e se você já faz parte de outras comunidades vamos nos juntar para fazer algo diferente!
+Se vocÃª nÃ£o teve a oportunidade de participar do MarÃ© de Agilidade, ou de alguma reuniÃ£o feita pelo TÃ¡ Safo? NÃ£o perca tempo e saia do seu cubÃ­culo e faÃ§a parte de uma comunidade que sabe o que Ã© ser uma comunidade de verdade, e se vocÃª jÃ¡ faz parte de outras comunidades vamos nos juntar para fazer algo diferente!
 
-Esse post deveria ter sido escrito a muito tempo atrás, mas acho que só agora conseguimos avaliar com mais serenidade todo esse caminho após o Maré de Agilidade!
+Esse post deveria ter sido escrito a muito tempo atrÃ¡s, mas acho que sÃ³ agora conseguimos avaliar com mais serenidade todo esse caminho apÃ³s o MarÃ© de Agilidade!
 
-Valeu galera do Maré de Agilidade!!!!
+Valeu galera do MarÃ© de Agilidade!!!!
 
-Abraços,
+AbraÃ§os,
 
 Paulo Igor.

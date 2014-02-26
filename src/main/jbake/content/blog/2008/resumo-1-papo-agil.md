@@ -2,55 +2,55 @@ status=published
 date=2008-11-03
 tags=blog
 type=post
-title=Resumo 1° Papo Ágil
+title=Resumo 1Â° Papo Ãgil
 ~~~~~~
-Ata 1ª Papo Ágil.Participantes: Luiz Sanches, Wagner Farias Leonardo Pessoa, Silvana Rossy, Jaime Schettini, Fabio Aguiar, Hayla Cardoso, Alfredo, Cleber Amorin, Diago Araújo, Diego, Eduardo Lieuthier.
+Ata 1Âª Papo Ãgil.Participantes: Luiz Sanches, Wagner Farias Leonardo Pessoa, Silvana Rossy, Jaime Schettini, Fabio Aguiar, Hayla Cardoso, Alfredo, Cleber Amorin, Diago AraÃºjo, Diego, Eduardo Lieuthier.
 
 
-Pra início de Papo, todos os participantes se apresentaram e colocaram o porquê de seu interesse sobre desenvolvimento ágil.
+Pra inÃ­cio de Papo, todos os participantes se apresentaram e colocaram o porquÃª de seu interesse sobre desenvolvimento Ã¡gil.
 
 
-Em seguida algumas questões foram levantadas, dentre as quais se destacaram:
+Em seguida algumas questÃµes foram levantadas, dentre as quais se destacaram:
 
-
-
-
-
-	
-  * Para desenvolver de forma ágil é necessário mudar muito paradigmas e aplicar uma nova filosofia() de desenvolvimento;
 
 
 
 
 	
-  * Não existe meu código;
-
-	
-  * Mudança de requisitos não é um problema;
-
-	
-  * Determinar prazos de acordo com a experiência da equipe;
+  * Para desenvolver de forma Ã¡gil Ã© necessÃ¡rio mudar muito paradigmas e aplicar uma nova filosofia() de desenvolvimento;
 
 
 
 
 	
-  * Brainstormings, reuniões diárias e rápidas são boas práticas para gerenciamento do projeto;
+  * NÃ£o existe meu cÃ³digo;
+
+	
+  * MudanÃ§a de requisitos nÃ£o Ã© um problema;
+
+	
+  * Determinar prazos de acordo com a experiÃªncia da equipe;
 
 
 
 
 	
-  * É de suma importância começar a adotar práticas ágeis em nosso dia-a-dia e sem mudanças agressivas;
+  * Brainstormings, reuniÃµes diÃ¡rias e rÃ¡pidas sÃ£o boas prÃ¡ticas para gerenciamento do projeto;
 
 
 
 
 	
-  * Alguns problemas encontrados durante projetos de desenvolvimento de software de  foram relatados: foi enfatisada a importância da simplicidade para solucionar alguns desses problemas;
+  * Ã‰ de suma importÃ¢ncia comeÃ§ar a adotar prÃ¡ticas Ã¡geis em nosso dia-a-dia e sem mudanÃ§as agressivas;
+
+
+
 
 	
-  * Experiências sobre programação em pares foram expostas e discutidas.
+  * Alguns problemas encontrados durante projetos de desenvolvimento de software deÂ  foram relatados: foi enfatisada a importÃ¢ncia da simplicidade para solucionar alguns desses problemas;
+
+	
+  * ExperiÃªncias sobre programaÃ§Ã£o em pares foram expostas e discutidas.
 
 
-**Para o próximo Papo Ágil ( Data ainda em discurssão):** alguns integrantes explanarão de maneira rápida e objetiva alguns conceitos sobre metodologias ágeis, seguido da discussão dos assuntos em questão.
+**Para o prÃ³ximo Papo Ãgil ( Data ainda em discurssÃ£o):** alguns integrantes explanarÃ£o de maneira rÃ¡pida e objetiva alguns conceitos sobre metodologias Ã¡geis, seguido da discussÃ£o dos assuntos em questÃ£o.

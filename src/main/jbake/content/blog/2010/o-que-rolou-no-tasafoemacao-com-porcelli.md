@@ -2,14 +2,14 @@ status=published
 date=2010-09-23
 tags=blog
 type=post
-title=O que rolou no #tasafoemacao com†@porcelli
+title=O que rolou no #tasafoemacao com¬†@porcelli
 ~~~~~~
-Ontem foi dia de mais um #tasafoemacao, com mais um convidado especial, Alexandre Porcelli (@porcelli). Foi um encontro bem legal que contou com a participaÁ„o de muita gente, a casa estava cheia! No inÌcio tinha pouca gente porÈm, no meio da palestra do @porcelli, foi chegando gente, chegando gente... e no final, havia +- 100 pessoas participando. … legal ver que a cada novo encontro o p˙blico do @tasafo sÛ aumenta!
+Ontem foi dia de mais um #tasafoemacao, com mais um convidado especial, Alexandre Porcelli (@porcelli). Foi um encontro bem legal que contou com a participa√ß√£o de muita gente, a casa estava cheia! No in√≠cio tinha pouca gente por√©m, no meio da palestra do @porcelli, foi chegando gente, chegando gente... e no final, havia +- 100 pessoas participando. √â legal ver que a cada novo encontro o p√∫blico do @tasafo s√≥ aumenta!
 
 
 
 
-O encontro comeÁou por volta de 7:15, com um ìboa noite a todosî e a apresentaÁ„o da agenda dos prÛximos encontros do T· Safo.
+O encontro come√ßou por volta de 7:15, com um ‚Äúboa noite a todos‚Äù e a apresenta√ß√£o da agenda dos pr√≥ximos encontros do T√° Safo.
 
 
 
@@ -24,12 +24,12 @@ O encontro comeÁou por volta de 7:15, com um ìboa noite a todosî e a apresentaÁ„
 
 
 
-¿s 7:20, @porcelli comeÁou a falar sobre #noSQL. Primeiro ele falou um pouco sobre o nome um pouco chamativo ìNO SQLî. Falou sobre a idÈia errada das pessoas acharem que È algo contra SQL, mas que na verdade n„o È isso, È somente uma alus„o ao n„o uso de bancos relacionais. O nome SQL entrou de ìgaiatoî na histÛria e acabou soando bem.[![](http://tasafo.files.wordpress.com/2010/09/dsc01495.jpg?w=300)](http://tasafo.files.wordpress.com/2010/09/dsc01495.jpg)
+√Äs 7:20, @porcelli come√ßou a falar sobre #noSQL. Primeiro ele falou um pouco sobre o nome um pouco chamativo ‚ÄúNO SQL‚Äù. Falou sobre a id√©ia errada das pessoas acharem que √© algo contra SQL, mas que na verdade n√£o √© isso, √© somente uma alus√£o ao n√£o uso de bancos relacionais. O nome SQL entrou de ‚Äúgaiato‚Äù na hist√≥ria e acabou soando bem.[![](http://tasafo.files.wordpress.com/2010/09/dsc01495.jpg?w=300)](http://tasafo.files.wordpress.com/2010/09/dsc01495.jpg)
 
 
 
 
-Porcelli falou sobre todo o problema gerado em cima do armazenamento dos dados e em como isso pode impactar em um projeto. Ele relatou v·rias experiÍncias que teve em v·rios projetos que j· participou, falou sobre como È o armazenamento de dados do twitter, falou sobre problemas deintegriade de dados, mostrou exemplos de v·rios tipos de armazenamento de dados. Foi uma palestra bem instrutiva pra todos que n„o conheciam sobre #noSQL e tambÈm deixou um gostinho de quero mais pra quem quiser participar do curso que ele vai ministrar no s·bado (25/09) (informaÁıes comigo - @pamelagatinho).
+Porcelli falou sobre todo o problema gerado em cima do armazenamento dos dados e em como isso pode impactar em um projeto. Ele relatou v√°rias experi√™ncias que teve em v√°rios projetos que j√° participou, falou sobre como √© o armazenamento de dados do twitter, falou sobre problemas deintegriade de dados, mostrou exemplos de v√°rios tipos de armazenamento de dados. Foi uma palestra bem instrutiva pra todos que n√£o conheciam sobre #noSQL e tamb√©m deixou um gostinho de quero mais pra quem quiser participar do curso que ele vai ministrar no s√°bado (25/09) (informa√ß√µes comigo - @pamelagatinho).
 
 
 
@@ -39,7 +39,7 @@ Porcelli falou sobre todo o problema gerado em cima do armazenamento dos dados e
 
 
 
-Depois disso, comeÁou o bate-papo sobre opensource. Foi um momento bem discontraÌdo, todo os interessados chegaram mais prÛximo, @porcelli sentou e aÌ foi mais um bate-papo mesmo, n„o foi uma palestra. O pessoal do @tasafo interagiu legal, tirou d˙vidas, perguntou a opini„o dele sobre alguns pontos polÍmicos (Ex: Como ser· que vai ficar o Java †depois da Oracle?).
+Depois disso, come√ßou o bate-papo sobre opensource. Foi um momento bem discontra√≠do, todo os interessados chegaram mais pr√≥ximo, @porcelli sentou e a√≠ foi mais um bate-papo mesmo, n√£o foi uma palestra. O pessoal do @tasafo interagiu legal, tirou d√∫vidas, perguntou a opini√£o dele sobre alguns pontos pol√™micos (Ex: Como ser√° que vai ficar o Java ¬†depois da Oracle?).
 
 
 
@@ -49,7 +49,7 @@ Depois disso, comeÁou o bate-papo sobre opensource. Foi um momento bem discontra
 
 
 
-Ele tambÈm deu bons motivos pras pessoas participarem de projetos opensource, falando sobre o reconhecimento profissional, motivaÁ„o pessoal... Falou como se sair bem em um projeto e como ganhar a confianÁa dos respons·veis, dando umas dicas sobre o caminho das pedras pra se tornar um commiter e como utilizar ìboas pr·ticasî pra chegar l·, afinal, n„o È uma coisa que acontece da noite pro dia. Foi um momento bem participativo e bem contrutivo pra todos que estavam l·.
+Ele tamb√©m deu bons motivos pras pessoas participarem de projetos opensource, falando sobre o reconhecimento profissional, motiva√ß√£o pessoal... Falou como se sair bem em um projeto e como ganhar a confian√ßa dos respons√°veis, dando umas dicas sobre o caminho das pedras pra se tornar um commiter e como utilizar ‚Äúboas pr√°ticas‚Äù pra chegar l√°, afinal, n√£o √© uma coisa que acontece da noite pro dia. Foi um momento bem participativo e bem contrutivo pra todos que estavam l√°.
 
 
 
@@ -59,12 +59,12 @@ Ele tambÈm deu bons motivos pras pessoas participarem de projetos opensource, fa
 
 
 
-Em resumo, foi isso que aconteceu, galera. Espero que todos tenham gostado de mais um #tasafoemacao e que outras pessoas da comunidade tambÈm se movimentem pra fazer um encontro. Se vocÍ tiver um convidado legal, ou vocÍ tem um assunto legal pra mostrar pra gente: mostre a cara! … disso que precisamos, movimentA«√O (by @ewerttonbravo)!
+Em resumo, foi isso que aconteceu, galera. Espero que todos tenham gostado de mais um #tasafoemacao e que outras pessoas da comunidade tamb√©m se movimentem pra fazer um encontro. Se voc√™ tiver um convidado legal, ou voc√™ tem um assunto legal pra mostrar pra gente: mostre a cara! √â disso que precisamos, movimentA√á√ÉO (by @ewerttonbravo)!
 
 
 
 
-Mais uma vez, quero agradecer a presenÁa do @porcelli no nosso encontro e agradecer a forÁa que ele deu e sempre d· ‡ nossa comunidade. Valeu, @porcelli! VocÍ È um cara muito gente boa e est· convidado sempre que estiver por aqui a participar dos nossos encontros.
+Mais uma vez, quero agradecer a presen√ßa do @porcelli no nosso encontro e agradecer a for√ßa que ele deu e sempre d√° √† nossa comunidade. Valeu, @porcelli! Voc√™ √© um cara muito gente boa e est√° convidado sempre que estiver por aqui a participar dos nossos encontros.
 
 
 

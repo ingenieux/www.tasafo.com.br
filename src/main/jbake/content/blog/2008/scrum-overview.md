@@ -7,7 +7,7 @@ title=Scrum Overview
 
 
 
-Recentemente escrevi meu artigo de conclus„o de curso de Sistemas de InformaÁ„o (IESAM) sobre gerenciar de forma ·gil uma implantaÁ„o de sistemas ERP com Scrum. Com isto resolvi postar um resumo sobre Scrum para aqueles que ainda n„o o conhecem.
+Recentemente escrevi meu artigo de conclus√£o de curso de Sistemas de Informa√ß√£o (IESAM) sobre gerenciar de forma √°gil uma implanta√ß√£o de sistemas ERP com Scrum. Com isto resolvi postar um resumo sobre Scrum para aqueles que ainda n√£o o conhecem.
 
 
 
@@ -24,14 +24,14 @@ Recentemente escrevi meu artigo de conclus„o de curso de Sistemas de InformaÁ„o 
 
 
 1. Scrum
-Scrum È um framework com conjunto de pr·ticas objetivas, papÈis bem definidos e totalmente adapt·veis, seu ciclo de vida se resume em interaÁıes e funcionalidades incrementais, È um mÈtodo ·gil voltado para gerenciamento de projetos. Com isso, permite um melhor acompanhamento do que est· acontecendo durante o projeto, facilitando o ajuste durante o projeto e fazendo com que possamos alcanÁar os objetivos do projeto de forma ·gil. Ou seja, Scrum n„o diz exatamente o que fazer, n„o ir· resolver todos os problemas, mas com certeza os problemas ser„o mais facilmente identificados.
+Scrum √© um framework com conjunto de pr√°ticas objetivas, pap√©is bem definidos e totalmente adapt√°veis, seu ciclo de vida se resume em intera√ß√µes e funcionalidades incrementais, √© um m√©todo √°gil voltado para gerenciamento de projetos. Com isso, permite um melhor acompanhamento do que est√° acontecendo durante o projeto, facilitando o ajuste durante o projeto e fazendo com que possamos alcan√ßar os objetivos do projeto de forma √°gil. Ou seja, Scrum n√£o diz exatamente o que fazer, n√£o ir√° resolver todos os problemas, mas com certeza os problemas ser√£o mais facilmente identificados.
 
 
 
 2. Ciclo do processo Scrum
-O Scrum È baseado em interaÁıes bem definidas, com duraÁ„o de uma a quatro semanas, tambÈm chamados de Sprint. Antes de cada Sprint È realizado todo planejamento inicial do objetivo que o cliente almeja. A partir desse momento È criado o Product Backlog, baseado na vis„o de negÛcio do cliente, com todos os requisitos a serem implementados. Depois de preparado todo Product Backlog, È realizada a primeira reuni„o de planejamento do Sprint, onde s„o selecionados os itens pelo Product Owner e o Scrum Master a serem desenvolvidos que agregar„o mais valor ao negÛcio do cliente naquele momento e depois colocado na ordem de maior prioridade, em seguida realizamos a segunda reuni„o de planejamento do Sprint, onde a prÛpria equipe estima o esforÁo das tarefas, faz a divis„o das tarefas entre os diferentes membros e compromete-se a concluir as tarefas no final da interaÁ„o e define de quanto tempo vai ser a Sprint. A partir desse momento È criado o Sprint Backlog que s„o as tarefas selecionadas pela equipe para ser executada na Sprint.
-A prÛxima etapa È a execuÁ„o do Sprint com base nos itens do Sprint Backlog, durante a execuÁ„o as tarefas s„o acompanhadas por reuniıes di·rias que n„o podem passar 15 minutos e a equipe deve responder trÍs perguntas diante dos envolvidos: O que vocÍ desenvolveu atÈ o momento? O que vocÍ ir· desenvolver? Quais impedimentos vocÍ est· tendo? Com base nessas perguntas o Scrum Master consegue ter uma vis„o de como est· o andamento do projeto, conhecendo os impedimentos que est„o acontecendo.
-No final da Sprint È realizada uma reuni„o de Revis„o da Sprint, com o objetivo, de mostrar ao Product Owner e todas as partes interessadas as funcionalidades que foram concluÌdas. A equipe apresenta os resultados obtidos durante o Sprint e possÌveis modificaÁıes nos itens do Product Backlog. Logo apÛs È realizado outra reuni„o de Retrospectiva do Sprint, onde È feito uma ìlavagem de roupa sujaî, onde os membros da equipe devem responder duas perguntas: O que aconteceu de positivo durante esse Sprint? O que pode ser melhorado para o prÛximo Sprint?
+O Scrum √© baseado em intera√ß√µes bem definidas, com dura√ß√£o de uma a quatro semanas, tamb√©m chamados de Sprint. Antes de cada Sprint √© realizado todo planejamento inicial do objetivo que o cliente almeja. A partir desse momento √© criado o Product Backlog, baseado na vis√£o de neg√≥cio do cliente, com todos os requisitos a serem implementados. Depois de preparado todo Product Backlog, √© realizada a primeira reuni√£o de planejamento do Sprint, onde s√£o selecionados os itens pelo Product Owner e o Scrum Master a serem desenvolvidos que agregar√£o mais valor ao neg√≥cio do cliente naquele momento e depois colocado na ordem de maior prioridade, em seguida realizamos a segunda reuni√£o de planejamento do Sprint, onde a pr√≥pria equipe estima o esfor√ßo das tarefas, faz a divis√£o das tarefas entre os diferentes membros e compromete-se a concluir as tarefas no final da intera√ß√£o e define de quanto tempo vai ser a Sprint. A partir desse momento √© criado o Sprint Backlog que s√£o as tarefas selecionadas pela equipe para ser executada na Sprint.
+A pr√≥xima etapa √© a execu√ß√£o do Sprint com base nos itens do Sprint Backlog, durante a execu√ß√£o as tarefas s√£o acompanhadas por reuni√µes di√°rias que n√£o podem passar 15 minutos e a equipe deve responder tr√™s perguntas diante dos envolvidos: O que voc√™ desenvolveu at√© o momento? O que voc√™ ir√° desenvolver? Quais impedimentos voc√™ est√° tendo? Com base nessas perguntas o Scrum Master consegue ter uma vis√£o de como est√° o andamento do projeto, conhecendo os impedimentos que est√£o acontecendo.
+No final da Sprint √© realizada uma reuni√£o de Revis√£o da Sprint, com o objetivo, de mostrar ao Product Owner e todas as partes interessadas as funcionalidades que foram conclu√≠das. A equipe apresenta os resultados obtidos durante o Sprint e poss√≠veis modifica√ß√µes nos itens do Product Backlog. Logo ap√≥s √© realizado outra reuni√£o de Retrospectiva do Sprint, onde √© feito uma ‚Äúlavagem de roupa suja‚Äù, onde os membros da equipe devem responder duas perguntas: O que aconteceu de positivo durante esse Sprint? O que pode ser melhorado para o pr√≥ximo Sprint?
 
 
 
@@ -45,93 +45,93 @@ No final da Sprint È realizada uma reuni„o de Revis„o da Sprint, com o objetivo,
 
 
 
-3. PapÈis
-No Scrum temos trÍs papÈis principais: Product Owner, Scrum Master e a Equipe, abaixo a figura 2 que representa a responsabilidade que esses trÍs papÈis tÍm em relaÁ„o ao Scrum:
+3. Pap√©is
+No Scrum temos tr√™s pap√©is principais: Product Owner, Scrum Master e a Equipe, abaixo a figura 2 que representa a responsabilidade que esses tr√™s pap√©is t√™m em rela√ß√£o ao Scrum:
 
 
 
 3.1. Product Owner
-… o dono do produto, geralmente È representado pelo o cliente. Ele È respons·vel por definir as caracterÌsticas do produto a ser desenvolvido, identifica os requisitos do produto, tira d˙vida da equipe quanto ao entendimento dos requisitos. … o ˙nico que define a ordem em que esses elementos ser„o desenvolvidos, de acordo com o valor apresentado pelos clientes e usu·rios de cada negÛcio, alimenta o Product Backlog para o planejamento da Sprints. E define as metas e toma decisıes relativas Release planejamento. Uma pessoa que desempenha esse papel deve ter as seguintes competÍncias:
-- Bom conhecimento de negÛcio. - Ser capaz de demonstrar uma lideranÁa, respeitado pelos interessados externos (clientes e usu·rios). - Ser capaz de tomar decisıes no momento certo (n„o muito cedo, nem muito tarde). - FlexÌvel a mudanÁas. - Boa comunicaÁ„o com a equipe. - … importante que ele esteja disponÌvel para responder ‡s perguntas da equipe.
+√â o dono do produto, geralmente √© representado pelo o cliente. Ele √© respons√°vel por definir as caracter√≠sticas do produto a ser desenvolvido, identifica os requisitos do produto, tira d√∫vida da equipe quanto ao entendimento dos requisitos. √â o √∫nico que define a ordem em que esses elementos ser√£o desenvolvidos, de acordo com o valor apresentado pelos clientes e usu√°rios de cada neg√≥cio, alimenta o Product Backlog para o planejamento da Sprints. E define as metas e toma decis√µes relativas Release planejamento. Uma pessoa que desempenha esse papel deve ter as seguintes compet√™ncias:
+- Bom conhecimento de neg√≥cio. - Ser capaz de demonstrar uma lideran√ßa, respeitado pelos interessados externos (clientes e usu√°rios). - Ser capaz de tomar decis√µes no momento certo (n√£o muito cedo, nem muito tarde). - Flex√≠vel a mudan√ßas. - Boa comunica√ß√£o com a equipe. - √â importante que ele esteja dispon√≠vel para responder √†s perguntas da equipe.
 
 
 
 3.2. Scrum Master
-… respons·vel pelo andamento do projeto, pela aplicaÁ„o das pr·ticas do Scrum. Levando para o lado tradicional È o Gerente de Projeto. Durante o desenvolvimento, ele acompanha a equipe no dia a dia, retirando os impedimentos e ajudando a equipe a se auto-gerenciar, buscando melhor resultado da equipe. Para conseguir isso ele executa as seguintes tarefas:
-- Tem como objetivo atravÈs das reuniıes do scrum animar e motivar a equipe.
-- Eliminar impedimentos, tendo em consideraÁ„o os acontecimentos ocorridos em qualquer momento do projeto, a fim de resolvÍ-los o mais r·pido possÌvel, ao mesmo tempo proteger a equipe e priorizar o comprometimento da equipe com o projeto.
-- Certifique-se de que a equipe permanece centralizada no projeto com objetivo proposto inicialmente, que È desenvolver os Itens do Backlog e estreitar colaboraÁ„o com o Product Owner, e permanece produtivo.
+√â respons√°vel pelo andamento do projeto, pela aplica√ß√£o das pr√°ticas do Scrum. Levando para o lado tradicional √© o Gerente de Projeto. Durante o desenvolvimento, ele acompanha a equipe no dia a dia, retirando os impedimentos e ajudando a equipe a se auto-gerenciar, buscando melhor resultado da equipe. Para conseguir isso ele executa as seguintes tarefas:
+- Tem como objetivo atrav√©s das reuni√µes do scrum animar e motivar a equipe.
+- Eliminar impedimentos, tendo em considera√ß√£o os acontecimentos ocorridos em qualquer momento do projeto, a fim de resolv√™-los o mais r√°pido poss√≠vel, ao mesmo tempo proteger a equipe e priorizar o comprometimento da equipe com o projeto.
+- Certifique-se de que a equipe permanece centralizada no projeto com objetivo proposto inicialmente, que √© desenvolver os Itens do Backlog e estreitar colabora√ß√£o com o Product Owner, e permanece produtivo.
 
 
 
 3.3. Equipe
-… composta por seus membros (desenvolvedores), que È capaz de realizar todas as diversas tarefas para as quais ele tem responsabilidade coletivamente durante cada Sprint. … capaz de determinar o que precisa ser feito para alcanÁar o sucesso do Sprint, a equipe deve ser capaz de executar as diferentes tarefas para as quais assume responsabilidade coletivamente durante o Planejamento do Sprint. Isto significa que devem ser de amplo conhecimento, tais como an·lise, projeto, codificaÁ„o, testes e outras tarefas. A equipe È geralmente feita de 3 a 10 membros.
+√â composta por seus membros (desenvolvedores), que √© capaz de realizar todas as diversas tarefas para as quais ele tem responsabilidade coletivamente durante cada Sprint. √â capaz de determinar o que precisa ser feito para alcan√ßar o sucesso do Sprint, a equipe deve ser capaz de executar as diferentes tarefas para as quais assume responsabilidade coletivamente durante o Planejamento do Sprint. Isto significa que devem ser de amplo conhecimento, tais como an√°lise, projeto, codifica√ß√£o, testes e outras tarefas. A equipe √© geralmente feita de 3 a 10 membros.
 
 
 
 3.4. Stakeholder
-S„o aqueles que n„o participam diretamente do projeto, mas podem influenciar no produto a ser desenvolvido, ou seja, n„o participa do desenvolvimento, mais est· interessado no desenvolvimento do produto e pode ter valores que podem influenciar no crescimento do produto.
+S√£o aqueles que n√£o participam diretamente do projeto, mas podem influenciar no produto a ser desenvolvido, ou seja, n√£o participa do desenvolvimento, mais est√° interessado no desenvolvimento do produto e pode ter valores que podem influenciar no crescimento do produto.
 
-4. As pr·ticas do Scrum (Conceitos, Artefatos e fases)
+4. As pr√°ticas do Scrum (Conceitos, Artefatos e fases)
 
 
 
 4.1. Product Backlog
-A partir de uma reuni„o inicial com todos os envolvidos e interessados do projeto, s„o levantadas todas as implementaÁıes a serem desenvolvidas a partir da necessidade do negÛcio do cliente, contÈm uma lista de requisitos a serem desenvolvidos durante o projeto. … visÌvel a todos, e regularmente atualizado. … apresentado na primeira reuni„o de Planejamento do Sprint, uma vez aprovado, temos os itens necess·rios para compor o Sprint Backlog.
+A partir de uma reuni√£o inicial com todos os envolvidos e interessados do projeto, s√£o levantadas todas as implementa√ß√µes a serem desenvolvidas a partir da necessidade do neg√≥cio do cliente, cont√©m uma lista de requisitos a serem desenvolvidos durante o projeto. √â vis√≠vel a todos, e regularmente atualizado. √â apresentado na primeira reuni√£o de Planejamento do Sprint, uma vez aprovado, temos os itens necess√°rios para compor o Sprint Backlog.
 
 
 
-4.2. Reuni„o de Planejamento do Sprint
-A reuni„o de planejamento se divide em duas partes:
+4.2. Reuni√£o de Planejamento do Sprint
+A reuni√£o de planejamento se divide em duas partes:
 
 
 
-4.2.1. Primeira Reuni„o de Planejamento do Sprint
-Com duraÁ„o de no m·ximo quatro horas, o Product Owner junto com a Equipe discutem os itens do Product Backlog, s„o selecionadas neste momento as tarefas que tem mais prioridade para o cliente.
+4.2.1. Primeira Reuni√£o de Planejamento do Sprint
+Com dura√ß√£o de no m√°ximo quatro horas, o Product Owner junto com a Equipe discutem os itens do Product Backlog, s√£o selecionadas neste momento as tarefas que tem mais prioridade para o cliente.
 
 
 
-4.2.2. Segunda Reuni„o de Planejamento do Sprint
-Com duraÁ„o de quatro horas, a Equipe define as tarefas necess·rias, estima o esforÁo das tarefas, a prÛpria equipe faz a distribuiÁ„o das tarefas entre os membros da equipe, o Product Owner deve est· presente para esclarecimento de d˙vidas e por fim a Equipe compromete-se em concluir as tarefas.
+4.2.2. Segunda Reuni√£o de Planejamento do Sprint
+Com dura√ß√£o de quatro horas, a Equipe define as tarefas necess√°rias, estima o esfor√ßo das tarefas, a pr√≥pria equipe faz a distribui√ß√£o das tarefas entre os membros da equipe, o Product Owner deve est√° presente para esclarecimento de d√∫vidas e por fim a Equipe compromete-se em concluir as tarefas.
 
 
 
 4.3. Sprint Backlog
-S„o as tarefas que foram selecionadas na reuni„o de planejamento do Sprint pela Equipe junto com o Product Owner e Scrum Master, È o ponto inicial de cada Sprint.
+S√£o as tarefas que foram selecionadas na reuni√£o de planejamento do Sprint pela Equipe junto com o Product Owner e Scrum Master, √© o ponto inicial de cada Sprint.
 
 
 
 4.4. Sprint
-S„o pequenas sÈries de interaÁıes que podem ter uma duraÁ„o de uma a quatro semanas, no final da interaÁ„o a equipe tem que ter alcanÁado o objetivo inicial do Sprint, onde a equipe est· focada em n„o como fazer, mas sim em vamos fazer. A equipe executa as tarefas compıem o Sprint Backlog. O objetivo final de cada Sprint È ter um produto incremental e funcional para o cliente. … a fase principal do Scrum, pois È nesta hora que ocorre a execuÁ„o das tarefas, depois de todo o planejamento inicial. … importante que os restantes das Sprint tenham o mesmo tamanho da inicial para que n„o causem perda de ritmo da Equipe. … imprescindÌvel que no primeiro Sprint alcance o sucesso, pois È um perÌodo delicado, pois as partes envolvidas e interessadas est„o com expectativa muito grande em cima do resultado (produto incremental).
+S√£o pequenas s√©ries de intera√ß√µes que podem ter uma dura√ß√£o de uma a quatro semanas, no final da intera√ß√£o a equipe tem que ter alcan√ßado o objetivo inicial do Sprint, onde a equipe est√° focada em n√£o como fazer, mas sim em vamos fazer. A equipe executa as tarefas comp√µem o Sprint Backlog. O objetivo final de cada Sprint √© ter um produto incremental e funcional para o cliente. √â a fase principal do Scrum, pois √© nesta hora que ocorre a execu√ß√£o das tarefas, depois de todo o planejamento inicial. √â importante que os restantes das Sprint tenham o mesmo tamanho da inicial para que n√£o causem perda de ritmo da Equipe. √â imprescind√≠vel que no primeiro Sprint alcance o sucesso, pois √© um per√≠odo delicado, pois as partes envolvidas e interessadas est√£o com expectativa muito grande em cima do resultado (produto incremental).
 
 
 
-4.5. Reuni„o Di·ria do Sprint
-Reuniıes di·rias que ocorre todos os dias durante a execuÁ„o do Sprint, com duraÁ„o em mÈdia de 15 minutos. O grande objetivo dessa reuni„o È que todos os envolvidos tenham conhecimento de como est· o andamento do projeto e tambÈm fazer com que cada um relate os impedimentos que est„o enfrentando ao executarem as suas respectivas tarefas.
-O Scrum Master È o respons·vel pela conduÁ„o da reuni„o, È muito importante que todos envolvidos no projeto est„o participando principalmente a equipe, basicamente a equipe responde com clareza a trÍs perguntas durante a reuni„o:
-a.†O que foi concluÌdo desde a ˙ltima reuni„o? (Neste momento o Scrum Master registra as tarefas que foram concluÌdas e as que ainda est„o pendentes).
-b.†Quais impedimentos est„o tendo durante a tarefa? (O Scrum Master registra os impedimentos relados por cada membro da equipe, e apÛs o termino da reuni„o ir· propor soluÁ„o para os problemas citados).
-c.†Qual ser· a prÛxima tarefa a ser executada? (Neste momento todos ficam sabendo quais tarefas cada membro da equipe est· executando).
-O Scrum Master tem como objetivo nessa reuni„o n„o deixar com que a reuni„o perca seu foco, basicamente responder as trÍs perguntas, ter uma vis„o que a equipe n„o perdeu o objetivo final do Sprint, e gerenciar os impedimentos que v„o acontecendo durante a execuÁ„o da Sprint. O ponto forma desta reuni„o È responder apenas as perguntas feitas pelo Scrum Master e ponto.
+4.5. Reuni√£o Di√°ria do Sprint
+Reuni√µes di√°rias que ocorre todos os dias durante a execu√ß√£o do Sprint, com dura√ß√£o em m√©dia de 15 minutos. O grande objetivo dessa reuni√£o √© que todos os envolvidos tenham conhecimento de como est√° o andamento do projeto e tamb√©m fazer com que cada um relate os impedimentos que est√£o enfrentando ao executarem as suas respectivas tarefas.
+O Scrum Master √© o respons√°vel pela condu√ß√£o da reuni√£o, √© muito importante que todos envolvidos no projeto est√£o participando principalmente a equipe, basicamente a equipe responde com clareza a tr√™s perguntas durante a reuni√£o:
+a.¬†O que foi conclu√≠do desde a √∫ltima reuni√£o? (Neste momento o Scrum Master registra as tarefas que foram conclu√≠das e as que ainda est√£o pendentes).
+b.¬†Quais impedimentos est√£o tendo durante a tarefa? (O Scrum Master registra os impedimentos relados por cada membro da equipe, e ap√≥s o termino da reuni√£o ir√° propor solu√ß√£o para os problemas citados).
+c.¬†Qual ser√° a pr√≥xima tarefa a ser executada? (Neste momento todos ficam sabendo quais tarefas cada membro da equipe est√° executando).
+O Scrum Master tem como objetivo nessa reuni√£o n√£o deixar com que a reuni√£o perca seu foco, basicamente responder as tr√™s perguntas, ter uma vis√£o que a equipe n√£o perdeu o objetivo final do Sprint, e gerenciar os impedimentos que v√£o acontecendo durante a execu√ß√£o da Sprint. O ponto forma desta reuni√£o √© responder apenas as perguntas feitas pelo Scrum Master e ponto.
 
 
 
 4.6. Produto Incremental
-No final de cada Sprint h· uma entrega parcial do produto. O principal resultado de um Sprint È a entrega incremental e funcional de um produto, os impedimentos para entrega dessa etapa e os novos requisitos adicionado durante o desenvolvimento deste Sprint.
+No final de cada Sprint h√° uma entrega parcial do produto. O principal resultado de um Sprint √© a entrega incremental e funcional de um produto, os impedimentos para entrega dessa etapa e os novos requisitos adicionado durante o desenvolvimento deste Sprint.
 
 
 
-4.7. Reuni„o de Revis„o da Sprint
-Esta reuni„o È realizada no ˙ltimo dia do Sprint com duraÁ„o de no m·ximo 4 horas e de responsabilidade do Scrum Master, a Equipe n„o de gastar mais de uma hora na preparaÁ„o da reuni„o. Neste momento È apresentado o resultado da Sprint que È o produto incremental com suas funcionalidades pela Equipe e o Scrum Master para Product Owner e os envolvidos do projeto (cliente). Analisaram junto se foi alcanÁado o objetivo inicial do Sprint, e j· discutem novas funcionalidades para atualizar os itens do Product Backlog que v„o sendo identificada ao final de cada Sprint.
+4.7. Reuni√£o de Revis√£o da Sprint
+Esta reuni√£o √© realizada no √∫ltimo dia do Sprint com dura√ß√£o de no m√°ximo 4 horas e de responsabilidade do Scrum Master, a Equipe n√£o de gastar mais de uma hora na prepara√ß√£o da reuni√£o. Neste momento √© apresentado o resultado da Sprint que √© o produto incremental com suas funcionalidades pela Equipe e o Scrum Master para Product Owner e os envolvidos do projeto (cliente). Analisaram junto se foi alcan√ßado o objetivo inicial do Sprint, e j√° discutem novas funcionalidades para atualizar os itens do Product Backlog que v√£o sendo identificada ao final de cada Sprint.
 
 
 
-4.8. Reuni„o de Revis„o da Sprint
-… realizada logo apÛs a reuni„o de revis„o do Sprint com duraÁ„o de no m·ximo 3 horas com a participaÁ„o da Equipe, Scrum Master, Product Owner e os envolvidos e interessados. Os membros da Equipe devem responder a duas perguntas?
-a.†O que aconteceu de bom durante o ˙ltimo Sprint?
-b.†O que pode ser melhorado para o prÛximo Sprint?
-O Scrum Master registra as respostas e prioriza na ordem que deseja discutir as melhorias e tem como papel tambÈm facilitar ao time melhores formas de aplicar as pr·ticas do Scrum.
-Por ser uma reuni„o de lavagem de roupa suja, deve se ter cuidado para n„o levar pontos pessoais, pois podem ser fundamentais para prejudicar a aplicaÁ„o das pr·ticas do Scrum. Essa reuni„o È fundamental para o progresso e sucesso do projeto, È fundamental a clareza e objetividade para que os participantes alcancem o sucesso da reuni„o.
+4.8. Reuni√£o de Revis√£o da Sprint
+√â realizada logo ap√≥s a reuni√£o de revis√£o do Sprint com dura√ß√£o de no m√°ximo 3 horas com a participa√ß√£o da Equipe, Scrum Master, Product Owner e os envolvidos e interessados. Os membros da Equipe devem responder a duas perguntas?
+a.¬†O que aconteceu de bom durante o √∫ltimo Sprint?
+b.¬†O que pode ser melhorado para o pr√≥ximo Sprint?
+O Scrum Master registra as respostas e prioriza na ordem que deseja discutir as melhorias e tem como papel tamb√©m facilitar ao time melhores formas de aplicar as pr√°ticas do Scrum.
+Por ser uma reuni√£o de lavagem de roupa suja, deve se ter cuidado para n√£o levar pontos pessoais, pois podem ser fundamentais para prejudicar a aplica√ß√£o das pr√°ticas do Scrum. Essa reuni√£o √© fundamental para o progresso e sucesso do projeto, √© fundamental a clareza e objetividade para que os participantes alcancem o sucesso da reuni√£o.
 
 
 

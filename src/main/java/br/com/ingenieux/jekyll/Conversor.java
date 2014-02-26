@@ -100,7 +100,7 @@ public class Conversor {
 
             info("Salvando em %s", outputFile);
 
-            IOUtils.write(fileContent.toString(), new FileOutputStream(outputFile));
+            IOUtils.write(fileContent.toString(), new FileOutputStream(outputFile), "UTF-8");
         }
 
 

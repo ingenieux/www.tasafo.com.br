@@ -2,30 +2,30 @@ status=published
 date=2009-02-04
 tags=article
 type=page
-title=Manifesto ágil
+title=Manifesto Ã¡gil
 ~~~~~~
-A comunidade tem como base o [manifesto ágil](http://pt.wikipedia.org/wiki/Manifesto_%C3%A1gil), que estão declarados nos site [http://agilemanifesto.org](http://agilemanifesto.org) (em inglês). Segue abaixo traduzido:
+A comunidade tem como base o [manifesto Ã¡gil](http://pt.wikipedia.org/wiki/Manifesto_%C3%A1gil), que estÃ£o declarados nos site [http://agilemanifesto.org](http://agilemanifesto.org) (em inglÃªs). Segue abaixo traduzido:
 
-Nós estamos descobrindo melhores maneiras de desenvolver software fazendo-o, e ajudando os outros a fazer-los.
+NÃ³s estamos descobrindo melhores maneiras de desenvolver software fazendo-o, e ajudando os outros a fazer-los.
 
-Através deste trabalho, temos como valores:
+AtravÃ©s deste trabalho, temos como valores:
 
 
-
-	
-  * **Indivíduos e suas interações** mais que processos e ferramentas
 
 	
-  * **Software funcionando** mais que documentação abrangente
+  * **IndivÃ­duos e suas interaÃ§Ãµes** mais que processos e ferramentas
 
 	
-  * **Colaboração do cliente** mais que negociação de contratos
+  * **Software funcionando** mais que documentaÃ§Ã£o abrangente
 
 	
-  * **Responder à mudança** mais que seguir um plano
+  * **ColaboraÃ§Ã£o do cliente** mais que negociaÃ§Ã£o de contratos
+
+	
+  * **Responder Ã  mudanÃ§a** mais que seguir um plano
 
 
-Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.
+Ou seja, mesmo havendo valor nos itens Ã  direita, valorizamos mais os itens Ã  esquerda.
 
 
 
@@ -61,22 +61,14 @@ Dave Thomas
 
 
 
-©2001, Autores acima citados.
-Esta declaração pode ser livremente copiada, sob qualquer forma,
-mas apenas na sua totalidade através do presente aviso.
+Â©2001, Autores acima citados.
+Esta declaraÃ§Ã£o pode ser livremente copiada, sob qualquer forma,
+mas apenas na sua totalidade atravÃ©s do presente aviso.
 
 
 
 
-**Doze princípios do Manifesto Ágil  (Princípios por trás do Manifesto Ágil )**
-
-
-
-
-
-
-
-Seguimos estes princípios:
+**Doze princÃ­pios do Manifesto Ãgil  (PrincÃ­pios por trÃ¡s do Manifesto Ãgil )**
 
 
 
@@ -84,37 +76,45 @@ Seguimos estes princípios:
 
 
 
+Seguimos estes princÃ­pios:
 
 
-	
-  1. Nossa maior prioridade é satisfazer o cliente, através de entregas rápidas e contínuas gerando valor ao software.
+
+
+
+
+
+
 
 	
-  2. Recebendo bem as mudanças dos requisitos, mesmo em estágios tardios do desenvolvimento. Processos ágeis devem admitir mudanças que trazem vantagens competitivas para o cliente.
+  1. Nossa maior prioridade Ã© satisfazer o cliente, atravÃ©s de entregas rÃ¡pidas e contÃ­nuas gerando valor ao software.
 
 	
-  3. Trabalhando para entregar software, em intervalos de 2 semanas até 2 meses, com preferência para que tenha uma curta escala de tempo.
+  2. Recebendo bem as mudanÃ§as dos requisitos, mesmo em estÃ¡gios tardios do desenvolvimento. Processos Ã¡geis devem admitir mudanÃ§as que trazem vantagens competitivas para o cliente.
 
 	
-  4. Empresários e desenvolvedores devem trabalhar juntos diariamente durante todo o projeto.
+  3. Trabalhando para entregar software, em intervalos de 2 semanas atÃ© 2 meses, com preferÃªncia para que tenha uma curta escala de tempo.
 
 	
-  5. Construa projetos com indivíduos motivados, dê-lhes o ambiente e o suporte que precisam, e confie neles para ter o trabalho realizado.
+  4. EmpresÃ¡rios e desenvolvedores devem trabalhar juntos diariamente durante todo o projeto.
 
 	
-  6. O método mais eficiente e efetivo de transmitir informação para a equipe de desenvolvimento está na conversa face-a-face.
+  5. Construa projetos com indivÃ­duos motivados, dÃª-lhes o ambiente e o suporte que precisam, e confie neles para ter o trabalho realizado.
 
 	
-  7. Software funcionando é a principal medida para o progresso.
+  6. O mÃ©todo mais eficiente e efetivo de transmitir informaÃ§Ã£o para a equipe de desenvolvimento estÃ¡ na conversa face-a-face.
 
 	
-  8. Processos ágeis promovem o desenvolvimento sustentável. Os patrocinadores, os desenvolvedores, e os usuários devem ser capazes de manter um ritmo constante indefinidamente.
+  7. Software funcionando Ã© a principal medida para o progresso.
 
 	
-  9. Atenção contínua para uma excelência técnica e um bom design aumentam a agilidade.
+  8. Processos Ã¡geis promovem o desenvolvimento sustentÃ¡vel. Os patrocinadores, os desenvolvedores, e os usuÃ¡rios devem ser capazes de manter um ritmo constante indefinidamente.
 
 	
-  10. Simplicidade - a arte de maximizar o valor do trabalho não feito - é essencial.
+  9. AtenÃ§Ã£o contÃ­nua para uma excelÃªncia tÃ©cnica e um bom design aumentam a agilidade.
+
+	
+  10. Simplicidade - a arte de maximizar o valor do trabalho nÃ£o feito - Ã© essencial.
 
 	
   11. As melhores arquiteturas, requisitos, e design surgem a partir de equipes auto-organizadas.

@@ -9,58 +9,58 @@ title=#safaDojo com Ruby
 
 
 
-Sabe aquela ideia de aprender uma linguagem de programaÁ„o por ano? Quem sabe n„o podemos acelerar esse processo para uma linguagem por mÍs, quinzena, semana? Segue abaixo uma ideia:
+Sabe aquela ideia de aprender uma linguagem de programa√ß√£o por ano? Quem sabe n√£o podemos acelerar esse processo para uma linguagem por m√™s, quinzena, semana? Segue abaixo uma ideia:
 
 
 
 
 **[paraense mode on]**
-Ei ìsu manoî! T· doido pra conhecer novas linguagens e pr·ticas em desenvolvimento de software e, de quebra conhecer uma galera ìpai d'Èguaî? Vai dar uma ìespiadaî no safaDojo que vai acontecer dia** 07 de Julho ‡s 18hs.** na [FabSoft](http://www.fabsoft.cesupa.br/) que fica na Av. Governador JosÈ Malcher, 1963.
+Ei ‚Äúsu mano‚Äù! T√° doido pra conhecer novas linguagens e pr√°ticas em desenvolvimento de software e, de quebra conhecer uma galera ‚Äúpai d'√©gua‚Äù? Vai dar uma ‚Äúespiada‚Äù no safaDojo que vai acontecer dia** 07 de Julho √†s 18hs.** na [FabSoft](http://www.fabsoft.cesupa.br/) que fica na Av. Governador Jos√© Malcher, 1963.
 
 
 
 
-Nesse primeiro encontro, [Luiz Sanches](http://twitter.com/#!/luizgrsanches), tambÈm membro do [GURU-PA](https://groups.google.com/group/guru-pa), vai falar de [Ruby](http://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) (ei ìmanoî, n„o È a aparelhagem) e [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development) (n„o È nenhum inseticida). Mas È ìrapidolaî pra vocÍ n„o ficar ìboiandoî. Ent„o chega cedo hein ìpequenoî. Depois o pessoal vai ìcair matandoî no cÛdigo Ruby com TDD. Quem sabe no final n„o rola um gelo, ìrÈfriî ou um ìcompletoî mesmo. Ei parente! Deixa de ìmurrinhaî e vai mesmo.
+Nesse primeiro encontro, [Luiz Sanches](http://twitter.com/#!/luizgrsanches), tamb√©m membro do [GURU-PA](https://groups.google.com/group/guru-pa), vai falar de [Ruby](http://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)) (ei ‚Äúmano‚Äù, n√£o √© a aparelhagem) e [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development) (n√£o √© nenhum inseticida). Mas √© ‚Äúrapidola‚Äù pra voc√™ n√£o ficar ‚Äúboiando‚Äù. Ent√£o chega cedo hein ‚Äúpequeno‚Äù. Depois o pessoal vai ‚Äúcair matando‚Äù no c√≥digo Ruby com TDD. Quem sabe no final n√£o rola um gelo, ‚Äúr√©fri‚Äù ou um ‚Äúcompleto‚Äù mesmo. Ei parente! Deixa de ‚Äúmurrinha‚Äù e vai mesmo.
 ** [paraense mode off]**
 
 
-<!-- more -->O safaDojo pode ser assim ([seguindo os princÌpios de um coding dojo](http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/)):
+<!-- more -->O safaDojo pode ser assim ([seguindo os princ√≠pios de um coding dojo](http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/)):
 
 
 
 	
-  * Tem que ter comida (saco vazio n„o para em pÈ)
+  * Tem que ter comida (saco vazio n√£o para em p√©)
 
 	
-  * Em uma sala com um computador ligado a um projetor, o grupo escolhe um problema, analisa-o e escolhe uma estratÈgia inicial para comeÁ·-lo
+  * Em uma sala com um computador ligado a um projetor, o grupo escolhe um problema, analisa-o e escolhe uma estrat√©gia inicial para come√ß√°-lo
 
 	
-  * Duas pessoas, por livre e espont‚nea vontade, v„o para a frente sentar um na ìilhargaî do outro, para comeÁar a desenvolver guiado por testes (TDD)
+  * Duas pessoas, por livre e espont√¢nea vontade, v√£o para a frente sentar um na ‚Äúilharga‚Äù do outro, para come√ßar a desenvolver guiado por testes (TDD)
 
 	
-  * Os dois v„o ter um tempo de 5 a 7 minutos para desenvolverem. Um pilota e outro co-pilota
+  * Os dois v√£o ter um tempo de 5 a 7 minutos para desenvolverem. Um pilota e outro co-pilota
 
 	
-  * Quando terminar o tempo o piloto ìespoca foraî, o co-piloto ìarredaî e assume o papel de piloto e vem outra pessoa da plateia para assumir o papel de co-piloto
+  * Quando terminar o tempo o piloto ‚Äúespoca fora‚Äù, o co-piloto ‚Äúarreda‚Äù e assume o papel de piloto e vem outra pessoa da plateia para assumir o papel de co-piloto
 
 	
-  * Durante o desenvolvimento, enquanto o teste estiver falhando (vermelho), ninguÈm da plateia pode ajud·-los. Quando o teste passar (verde) aÌ pode
+  * Durante o desenvolvimento, enquanto o teste estiver falhando (vermelho), ningu√©m da plateia pode ajud√°-los. Quando o teste passar (verde) a√≠ pode
 
 	
-  * O ciclo se repete atÈ nosso tempo esgotar. Se o problema n„o for resolvido, n„o tem bronca. Fica pra dever de casa :)
+  * O ciclo se repete at√© nosso tempo esgotar. Se o problema n√£o for resolvido, n√£o tem bronca. Fica pra dever de casa :)
 
 	
-  * No final ter· uma retrospectiva com os pontos fortes e fracos do encontro. Depois o grupo ir· escolher a prÛxima linguagem (qualquer uma) e o respons·vel por ensinar os conceitos b·sicos dela
+  * No final ter√° uma retrospectiva com os pontos fortes e fracos do encontro. Depois o grupo ir√° escolher a pr√≥xima linguagem (qualquer uma) e o respons√°vel por ensinar os conceitos b√°sicos dela
 
 
 
 
-O ideal È que os encontros aconteÁam em qualquer lugar que nos cedam um ambiente adequado com um projetor disponÌvel, o computador È por nossa conta (se patrocinarem o lanche, j· È lucro)
+O ideal √© que os encontros aconte√ßam em qualquer lugar que nos cedam um ambiente adequado com um projetor dispon√≠vel, o computador √© por nossa conta (se patrocinarem o lanche, j√° √© lucro)
 
 
 
 
-GostarÌamos de agradecer aos parceiros desse 1∫ coding dojo:
+Gostar√≠amos de agradecer aos parceiros desse 1¬∫ coding dojo:
 
 
 
@@ -68,4 +68,4 @@ GostarÌamos de agradecer aos parceiros desse 1∫ coding dojo:
 [![](http://tasafo.files.wordpress.com/2011/06/guru-pa.png?w=300)](http://tasafo.files.wordpress.com/2011/06/guru-pa.png)[![](http://tasafo.files.wordpress.com/2011/06/logo_fabsoft.png?w=300)](http://tasafo.files.wordpress.com/2011/06/logo_fabsoft.png)Esse coding dojo promete ser "de rocha!"
 
 
-Se vocÍ nao entendeu algumas palavras no texto, d· uma procurada aqui no [Dicion·rio paraense](http://desciclopedia.org/wiki/Deslivros:Dicion%C3%A1rio_do_Paraense)
+Se voc√™ nao entendeu algumas palavras no texto, d√° uma procurada aqui no [Dicion√°rio paraense](http://desciclopedia.org/wiki/Deslivros:Dicion%C3%A1rio_do_Paraense)

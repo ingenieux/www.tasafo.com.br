@@ -2,48 +2,48 @@ status=published
 date=2012-05-25
 tags=blog
 type=post
-title=Seu projeto não tem testes? Pior pra ele
+title=Seu projeto nÃ£o tem testes? Pior pra ele
 ~~~~~~
-Olá pessoal! Esse é o meu segundo post aqui no blog do Tá Safo! e desta vez vou falar sobre testes e TDD que é um tema ainda pouco discutido pela região.
+OlÃ¡ pessoal! Esse Ã© o meu segundo post aqui no blog do TÃ¡ Safo! e desta vez vou falar sobre testes e TDD que Ã© um tema ainda pouco discutido pela regiÃ£o.
 
-Bem, eu vejo em muitos lugares, inclusive em gerências de projetos por ai que uma tarefa é dividida nos seguintes estágios: A Fazer, Fazendo, Testando, Homologação e Pronto.
+Bem, eu vejo em muitos lugares, inclusive em gerÃªncias de projetos por ai que uma tarefa Ã© dividida nos seguintes estÃ¡gios: A Fazer, Fazendo, Testando, HomologaÃ§Ã£o e Pronto.
 
-A primeira é quando a funcionalidade ainda está a espera de ser implementada, a segunda é quando alguma criatura começa a produzir a tarefa (que no nosso caso, é o código). Então, após ser implementado ele será testado para depois ser aceito pelo cliente e pronto, fim de papo.
+A primeira Ã© quando a funcionalidade ainda estÃ¡ a espera de ser implementada, a segunda Ã© quando alguma criatura comeÃ§a a produzir a tarefa (que no nosso caso, Ã© o cÃ³digo). EntÃ£o, apÃ³s ser implementado ele serÃ¡ testado para depois ser aceito pelo cliente e pronto, fim de papo.
 
-Sempre que assisto a alguma palestra ou converso com alguém sobre o que este teste realmente quer dizer, ouço que é alguém dedicado a usar o software para saber se a funcionalidade feita está de acordo com o esperado e/ou funcionando.
+Sempre que assisto a alguma palestra ou converso com alguÃ©m sobre o que este teste realmente quer dizer, ouÃ§o que Ã© alguÃ©m dedicado a usar o software para saber se a funcionalidade feita estÃ¡ de acordo com o esperado e/ou funcionando.
 
-Cruzes! Toda vez que escuto isso me dá um frio na espinha, sério. Primeiramente, existe uma pessoa dedicada para isso. Segundo, o teste é feito manualmente. Terceiro, o teste é feito DEPOIS que o código é escrito.
+Cruzes! Toda vez que escuto isso me dÃ¡ um frio na espinha, sÃ©rio. Primeiramente, existe uma pessoa dedicada para isso. Segundo, o teste Ã© feito manualmente. Terceiro, o teste Ã© feito DEPOIS que o cÃ³digo Ã© escrito.
 
-Óbvio, hehe, o terceiro ponto pareceu muito esquisito. Não tem como testar a função antes dela ter sido implementada. Quebremos, então, este paradigma.
+Ã“bvio, hehe, o terceiro ponto pareceu muito esquisito. NÃ£o tem como testar a funÃ§Ã£o antes dela ter sido implementada. Quebremos, entÃ£o, este paradigma.
 
 <!-- more -->
 
-Apresento-lhe os testes automatizados. Você, desenvolvedor, escreve um teste que valida algum código em produção. Este teste deve rodar automaticamente com uma única linha de comando ou um clique de um botão e deve sempre passar após ele ser implementado.
+Apresento-lhe os testes automatizados. VocÃª, desenvolvedor, escreve um teste que valida algum cÃ³digo em produÃ§Ã£o. Este teste deve rodar automaticamente com uma Ãºnica linha de comando ou um clique de um botÃ£o e deve sempre passar apÃ³s ele ser implementado.
 
-Perceba que você escreverá 2 vezes mais código (mentira, serão 4 vezes mais código). Sim, é verdade, e este é uma das inúmeras quebras de paradigmas que você precisará passar.
+Perceba que vocÃª escreverÃ¡ 2 vezes mais cÃ³digo (mentira, serÃ£o 4 vezes mais cÃ³digo). Sim, Ã© verdade, e este Ã© uma das inÃºmeras quebras de paradigmas que vocÃª precisarÃ¡ passar.
 
-Imagine que todo o seu código foi testado, todos os testes estão passando e você verifica que todo o software está funcionando como esperado em segundos! Qualquer desenvolvedor, "testador", analista, quem seja, poderá rodar os testes.
+Imagine que todo o seu cÃ³digo foi testado, todos os testes estÃ£o passando e vocÃª verifica que todo o software estÃ¡ funcionando como esperado em segundos! Qualquer desenvolvedor, "testador", analista, quem seja, poderÃ¡ rodar os testes.
 
-Perceba também que não existe mais um papel separado para o testador, o desenvolvedor já é o testador do código. O caso é que somente testar o código e faze-lo passar não é o suficiente para trazer segurança no seu código.
+Perceba tambÃ©m que nÃ£o existe mais um papel separado para o testador, o desenvolvedor jÃ¡ Ã© o testador do cÃ³digo. O caso Ã© que somente testar o cÃ³digo e faze-lo passar nÃ£o Ã© o suficiente para trazer seguranÃ§a no seu cÃ³digo.
 
-É ai que vem o TDD (Test Driven Development) que significa Desenvolvimento Dirigido a Testes. Nele existem três regras básicas:
+Ã‰ ai que vem o TDD (Test Driven Development) que significa Desenvolvimento Dirigido a Testes. Nele existem trÃªs regras bÃ¡sicas:
 
-1. Você não tem permissão de escrever qualquer código de producão a menos que seja para fazer um teste passar.
+1. VocÃª nÃ£o tem permissÃ£o de escrever qualquer cÃ³digo de producÃ£o a menos que seja para fazer um teste passar.
 
-2. Você não tem permissão de escrever mais nenhum teste que o suficiente para falhar.
+2.Â VocÃª nÃ£o tem permissÃ£o de escrever mais nenhum teste que o suficiente para falhar.
 
-3. Você não tem permissão de escrever mais nenhum código de produção do que o suficiente par afazer o teste passar.
+3. VocÃª nÃ£o tem permissÃ£o de escrever mais nenhum cÃ³digo de produÃ§Ã£o do que o suficiente par afazer o teste passar.
 
 [ [http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) ]
 
-As três regras resultam em algo mais resumido que é o chamado ciclo Red Green Refactor (Vermelho Verde Refatorar). Isso significa que você deve primeiro, sempre, escrever um teste que falha (Vermelho) para então escrever código de produção que faça o teste passar (Verde) e com ele passando, refatore o código para que ele fique limpo e mais fácil de entender.
+As trÃªs regras resultam em algo mais resumido que Ã© o chamado ciclo Red Green Refactor (Vermelho Verde Refatorar). Isso significa que vocÃª deve primeiro, sempre, escrever um teste que falha (Vermelho) para entÃ£o escrever cÃ³digo de produÃ§Ã£o que faÃ§a o teste passar (Verde) e com ele passando, refatore o cÃ³digo para que ele fique limpo e mais fÃ¡cil de entender.
 
-Se você seguir estas regras, seu código terá sempre 100% de cobertura e no momento que o cliente pedir uma alteração em uma funcionalidade, você poderá saber onde a alteração quebrou código em qualquer lugar do projeto!
+Se vocÃª seguir estas regras, seu cÃ³digo terÃ¡ sempre 100% de cobertura e no momento que o cliente pedir uma alteraÃ§Ã£o em uma funcionalidade, vocÃª poderÃ¡ saber onde a alteraÃ§Ã£o quebrou cÃ³digo em qualquer lugar do projeto!
 
-Você não terá mais aquele medo enorme ao mudar o código, pois você saberá exatamente onde modificar para que o software funcione sempre como esperado!
+VocÃª nÃ£o terÃ¡ mais aquele medo enormeÂ ao mudar o cÃ³digo, pois vocÃª saberÃ¡ exatamente onde modificar para que o software funcione sempre como esperado!
 
-Lembre-se dos princípios ágeis onde a mudança é algo esperado e mudar o mais rápido possível, com código funcionando, é um dos maiores princípios que a agilidade nos traz.
+Lembre-se dos princÃ­pios Ã¡geis onde a mudanÃ§a Ã© algo esperado e mudar o mais rÃ¡pido possÃ­vel, com cÃ³digo funcionando, Ã© um dos maiores princÃ­pios que a agilidade nos traz.
 
-Depois desta introdução, eu tentarei mostrar mais tecnicamente como criar testes automatizados e o ciclo do TDD em futuros artigos aqui no TÁ Safo!, então fique ligado!
+Depois desta introduÃ§Ã£o, eu tentarei mostrar mais tecnicamente como criar testes automatizados e o ciclo do TDD em futuros artigos aqui no TÃ Safo!, entÃ£o fique ligado!
 
-Além disso, eu tenho um [Lightning Talk](http://call4paperz.com/events/t%C3%A1-safo-conf-lightning-talks) no [Tá Safo Conf 2012](http://tasafo.org/conf2012) que mostrarei exatamente como trabalho com TDD no trabalho e rodarei os testes ao vivo para vocês verem como é maneiro! Não deixe de votar no meu talk e também de se inscrever no evento! O tempo está correndo!
+AlÃ©m disso, eu tenho um [Lightning Talk](http://call4paperz.com/events/t%C3%A1-safo-conf-lightning-talks) no [TÃ¡ Safo Conf 2012](http://tasafo.org/conf2012) que mostrarei exatamente como trabalho com TDD no trabalho e rodarei os testes ao vivo para vocÃªs verem como Ã© maneiro! NÃ£o deixe de votar no meu talk e tambÃ©m de se inscrever no evento! O tempo estÃ¡ correndo!

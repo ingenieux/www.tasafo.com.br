@@ -4,17 +4,17 @@ tags=article
 type=page
 title=Identidade
 ~~~~~~
-Aqui queremos deixar uma contribuiÁ„o para a comunidade, guiando a utilizaÁ„o da logo do T· Safo da melhor forma. =D
+Aqui queremos deixar uma contribui√ß√£o para a comunidade, guiando a utiliza√ß√£o da logo do T√° Safo da melhor forma. =D
 
 
-**_Este texto e imagens est· sobre a licenÁa Creative Commons, vocÍ pode modificar e n„o usar de forma comercial._** [![LicenÁa Creative Commons](http://i.creativecommons.org/l/by-nc/3.0/br/88x31.png)
-](http://creativecommons.org/licenses/by-nc/3.0/br/deed.pt_BR)Esta obra foi licenciada sob uma LicenÁa [Creative Commons AtribuiÁ„o-N„oComercial 3.0 Brasil](http://creativecommons.org/licenses/by-nc/3.0/br/deed.pt_BR).
+**_Este texto e imagens est√° sobre a licen√ßa Creative Commons, voc√™ pode modificar e n√£o usar de forma comercial._** [![Licen√ßa Creative Commons](http://i.creativecommons.org/l/by-nc/3.0/br/88x31.png)
+](http://creativecommons.org/licenses/by-nc/3.0/br/deed.pt_BR)Esta obra foi licenciada sob uma Licen√ßa [Creative Commons Atribui√ß√£o-N√£oComercial 3.0 Brasil](http://creativecommons.org/licenses/by-nc/3.0/br/deed.pt_BR).
 
 
 
 
 
-# ComeÁando
+# Come√ßando
 
 
 
@@ -22,13 +22,13 @@ Aqui queremos deixar uma contribuiÁ„o para a comunidade, guiando a utilizaÁ„o da
 ## Fonte
 
 
-A fonte que usamos para escrever **_T· safo!_** È a **Eraser**, [link para download](http://www.dafont.com/eraser.font), [segundo link para download (Mega)](https://mega.co.nz/#!wchinBYB!SgHcygTIYOeXt7u-0NlTw27hM60IAClq078KrP3Dpqk).
+A fonte que usamos para escrever **_T√° safo!_** √© a **Eraser**, [link para download](http://www.dafont.com/eraser.font), [segundo link para download (Mega)](https://mega.co.nz/#!wchinBYB!SgHcygTIYOeXt7u-0NlTw27hM60IAClq078KrP3Dpqk).
 
 
 ## Cores
 
 
-A cor verde usada s„o nas escalas:
+A cor verde usada s√£o nas escalas:
 
 
 
@@ -86,7 +86,7 @@ K: 0
 
 
 
-A m„ozinha tem as cores branca e a†borda preta (um cinza bem escuro), a†frase est· na mesma cor preta citada na tabela:
+A m√£ozinha tem as cores branca e a¬†borda preta (um cinza bem escuro), a¬†frase est√° na mesma cor preta citada na tabela:
 
 
 
@@ -269,7 +269,7 @@ K: 50
 # Forma de escrita
 
 
-N„o h· uma forma especifica, a primeira forma †aceita†utilizada foi **T· safo!**, neste formato da primeira letra mai˙sculo e resto minusculo com assento no primeiro a (no T·) e espaÁo entre o "**_T·"_** e a palavra **_"safo"_**†e ponto de exclamaÁ„o(!) no final. Mas s„o aceitas tambÈm:
+N√£o h√° uma forma especifica, a primeira forma ¬†aceita¬†utilizada foi **T√° safo!**, neste formato da primeira letra mai√∫sculo e resto minusculo com assento no primeiro a (no T√°) e espa√ßo entre o "**_T√°"_** e a palavra **_"safo"_**¬†e ponto de exclama√ß√£o(!) no final. Mas s√£o aceitas tamb√©m:
 
 
 
@@ -277,16 +277,16 @@ N„o h· uma forma especifica, a primeira forma †aceita†utilizada foi **T· safo!**
   * sem acento (Ta safo!);
 
 	
-  * toda min˙scula (t· safo!);
+  * toda min√∫scula (t√° safo!);
 
 	
-  * toda mai˙scula (T¡ SAFO!);
+  * toda mai√∫scula (T√Å SAFO!);
 
 	
-  * e tambÈm as anteriores sem o espaÁo, sem acento e sem exclamaÁ„o.
+  * e tamb√©m as anteriores sem o espa√ßo, sem acento e sem exclama√ß√£o.
 
 
-S„o aceitas formas diferenciadas da logo para combinar com hastag(#), o maior exemplo È o [#tasafoemacao](http://tasafo.wordpress.com/tasafoemacao/).
+S√£o aceitas formas diferenciadas da logo para combinar com hastag(#), o maior exemplo √© o [#tasafoemacao](http://tasafo.wordpress.com/tasafoemacao/).
 
 <div id="attachment_1315" class="wp-caption" align="aligncenter" style="width: 662px"><p class="wp-caption-text"></p></div>
 [![#tasafoemacao](http://tasafo.files.wordpress.com/2010/10/logotasafoemacao1.png)](http://tasafo.files.wordpress.com/2010/10/logotasafoemacao1.png) #tasafoemacao
@@ -297,24 +297,24 @@ S„o aceitas formas diferenciadas da logo para combinar com hastag(#), o maior ex
 
 
 
-## A M„o
+## A M√£o
 
 
-A nossa m„ozinha foi ideia do Luiz Sanches, sendo estilizada e desenhada pelo Fernando Sanches†(primo do Luiz), que encaixou perfeitamente em nossa ideias, sendo simples, pr·tica e sofisticada.
+A nossa m√£ozinha foi ideia do Luiz Sanches, sendo estilizada e desenhada pelo Fernando Sanches¬†(primo do Luiz), que encaixou perfeitamente em nossa ideias, sendo simples, pr√°tica e sofisticada.
 
-A imagem da m„o permitiu a evoluÁ„o da logo sendo muito bem aceita pela comunidade somente a imagem da m„o. Segue abaixo a imagem da m„o em PNG com fundo transparente.
+A imagem da m√£o permitiu a evolu√ß√£o da logo sendo muito bem aceita pela comunidade somente a imagem da m√£o. Segue abaixo a imagem da m√£o em PNG com fundo transparente.
 
 <div id="attachment_3491" class="wp-caption" align="aligncenter" style="width: 140px"><p class="wp-caption-text"></p></div>
-[![M„ozinha do T· Safo!](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-mc3a3ozinha-2013.png)](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-mc3a3ozinha-2013.png) M„ozinha do T· safo!
+[![M√£ozinha do T√° Safo!](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-mc3a3ozinha-2013.png)](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-mc3a3ozinha-2013.png) M√£ozinha do T√° safo!
 
 
 ## A logo
 
 
-Segue abaixo a logo completa do T· safo em formato de imagem PNG com fundo transparente.
+Segue abaixo a logo completa do T√° safo em formato de imagem PNG com fundo transparente.
 
 <div id="attachment_3490" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
-[![Logo T· Safo!](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-2013.png)](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-2013.png) Logo T· safo!
+[![Logo T√° Safo!](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-2013.png)](http://tasafo.files.wordpress.com/2013/09/logo-ta-safo-2013.png) Logo T√° safo!
 
 
 ## Arquivo vetorizado em cdr
@@ -331,10 +331,10 @@ Tudo originou-se em um arquivo do Corel,segue links para download:
   * [link de logo completa em arquivo tipo svg](https://mega.co.nz/#!FNBG0AQS!fpuqUQn1Mn2MvjtO_o1GxUSMIU9gkxo2tZnMgZaQiZE).
 
 	
-  * [link da m„ozinha - cdr](https://mega.co.nz/#!5NoUVabQ!DF3T9RJX8PhtcK8yRnotuFLkZkpHTSDRANgXJiF8c4Q).
+  * [link da m√£ozinha - cdr](https://mega.co.nz/#!5NoUVabQ!DF3T9RJX8PhtcK8yRnotuFLkZkpHTSDRANgXJiF8c4Q).
 
 	
-  * [link da m„ozinha - svg](https://mega.co.nz/#!wIZwwaiY!LlKQ0U6bDfen-y_qAfgctk8qiT4CccJwpo12LQ3VEA4).
+  * [link da m√£ozinha - svg](https://mega.co.nz/#!wIZwwaiY!LlKQ0U6bDfen-y_qAfgctk8qiT4CccJwpo12LQ3VEA4).
 
 	
   * [link logo em tons de cinza - cdr](https://mega.co.nz/#!BRoyCC5a!A_1a3W_-qNPluJih83tSexOjviI9Pkl66BTz9OcHTOE).

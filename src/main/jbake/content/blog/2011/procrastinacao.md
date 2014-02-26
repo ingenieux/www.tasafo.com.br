@@ -2,182 +2,182 @@ status=published
 date=2011-04-25
 tags=blog
 type=post
-title=Procrastinação
+title=ProcrastinaÃ§Ã£o
 ~~~~~~
-> **“A procrastinação é a ladra do tempo.”** - Edward Young _(1683-1765)_
+> **â€œA procrastinaÃ§Ã£o Ã© a ladra do tempo.â€**Â - Edward YoungÂ _(1683-1765)_
 
 
-**Discussão**
-Procrastinação é um complexo comportamento psicológico que afeta todo mundo de uma forma ou de outra.  Para alguns ela pode ser só um pequeno inconveniente; para outros ela é uma fonte considerável de estresse e ansiedade.  Mas a procrastinação está apenas vagamente relacionada com gerenciamento de tempo (os procrastinadores quase sempre sabem exatamente o que eles deveriam estar fazendo, mesmo se não puderem fazê-lo), e é por isso que agendas altamente detalhadas normalmente não ajudam em nada.
+**DiscussÃ£o**
+ProcrastinaÃ§Ã£o Ã© um complexo comportamento psicolÃ³gico que afeta todo mundo de uma forma ou de outra. Â Para alguns ela pode ser sÃ³ um pequeno inconveniente; para outros ela Ã© uma fonte considerÃ¡vel de estresse e ansiedade. Â Mas a procrastinaÃ§Ã£o estÃ¡ apenas vagamente relacionada com gerenciamento de tempo (os procrastinadores quase sempre sabem exatamente o que eles deveriam estar fazendo, mesmo se nÃ£o puderem fazÃª-lo), e Ã© por isso que agendas altamente detalhadas normalmente nÃ£o ajudam em nada.
 
-**<!-- more -->Características**
-O procrastinador é quase sempre bastante otimista sobre sua habilidade de completar uma tarefa em um prazo apertado; isso é normalmente acompanhado de expressões de auto-afirmação de que tudo está sob controle.  (Portanto, não há porque começar agora).  Por exemplo, ele pode estimar que um artigo vai levar apenas cinco dias para ser escrito; ele tem quinze; há muito tempo disponível; não se precisa começar agora.  Motivado por essa falta sensação de segurança, o tempo passa.  Em algum ponto, o procrastinador cruza um limiar imaginário e de repente se dá conta: "Oh, não! - Eu não estou no controle!  Não tenho tempo suficiente!"
+**<!-- more -->CaracterÃ­sticas**
+O procrastinador Ã© quase sempre bastante otimista sobre sua habilidade de completar uma tarefa em um prazo apertado; isso Ã© normalmente acompanhado de expressÃµes de auto-afirmaÃ§Ã£o de que tudo estÃ¡ sob controle. Â (Portanto, nÃ£o hÃ¡ porque comeÃ§ar agora). Â Por exemplo, ele pode estimar que um artigo vai levar apenas cinco dias para ser escrito; ele tem quinze; hÃ¡ muito tempo disponÃ­vel; nÃ£o se precisa comeÃ§ar agora. Â Motivado por essa falta sensaÃ§Ã£o de seguranÃ§a, o tempo passa. Â Em algum ponto, o procrastinador cruza um limiar imaginÃ¡rio e de repente se dÃ¡ conta: "Oh, nÃ£o! - Eu nÃ£o estou no controle! Â NÃ£o tenho tempo suficiente!"
 
-Neste ponto, um esforço considerável é empregado para conclusão da tarefa e o trabalho anda.  Este surto repentino de energia é origem de um sentimento errôneo de que "Eu consigo trabalhar muito bem sob pressão".  Na verdade, neste ponto você só está fazendo progresso porque você não tem escolha.  Você está encurralado contra a parede e não há alternativas.  Algum progresso é feito, mas você perdeu sua liberdade.
+Neste ponto, um esforÃ§o considerÃ¡vel Ã© empregado para conclusÃ£o da tarefa e o trabalho anda. Â Este surto repentino de energia Ã© origem de um sentimento errÃ´neo de que "Eu consigo trabalhar muito bem sob pressÃ£o". Â Na verdade, neste ponto vocÃª sÃ³ estÃ¡ fazendo progresso porque vocÃª nÃ£o tem escolha. Â VocÃª estÃ¡ encurralado contra a parede e nÃ£o hÃ¡ alternativas. Â Algum progresso Ã© feito, mas vocÃª perdeu sua liberdade.
 
-Concluído mormente a tempo, seu artigo pode até ser razoavelmente bem avaliado; é então que o estudante experimenta sentimentos contraditórios: orgulho de ter cumprido (de um jeito ou de outro) a tarefa, decepção com o professor que não é capaz de valorizar o esforço realizado e culpa por não ter obtido uma nota melhor.  Mas, ao final, o comportamento é reforçado: o procrastinador é recompensado positivamente por um mal comportamento.  ("Ora, veja só a nota razoável que eu recebi no fim das contas!")  Como resultado, esse comportamento contraproducente passará a se repetir mais e mais vezes.
+ConcluÃ­do mormente a tempo, seu artigo pode atÃ© ser razoavelmente bem avaliado; Ã© entÃ£o que o estudante experimenta sentimentos contraditÃ³rios: orgulho de ter cumprido (de um jeito ou de outro) a tarefa, decepÃ§Ã£o com o professor que nÃ£o Ã© capaz de valorizar o esforÃ§o realizado e culpa por nÃ£o ter obtido uma nota melhor. Â Mas, ao final, o comportamento Ã© reforÃ§ado: o procrastinador Ã© recompensado positivamente por um mal comportamento. Â ("Ora, veja sÃ³ a nota razoÃ¡vel que eu recebi no fim das contas!") Â Como resultado, esse comportamento contraproducente passarÃ¡ a se repetir mais e mais vezes.
 
-O estímulo positivo pelo atraso (uma nota razoável) é a principal contribuição para a continuidade da procrastinação.
+O estÃ­mulo positivo pelo atraso (uma nota razoÃ¡vel) Ã© a principal contribuiÃ§Ã£o para a continuidade da procrastinaÃ§Ã£o.
 
-**Outras Características**
-
-
-
-	
-  * **Baixa auto-estima** - O procrastinador pode combater sentimentos de baixa auto-confiança e baixa auto-estima.  Ele pode se fixar em realizar as coisas com grande desempenho, ainda que se sinta incapaz de atingir tal desempenho.
-
-	
-  * **Estou muito ocupado** - A procrastinação pode ser utilizada como forma de chamar a atenção para o quão ocupada a pessoa está.  “Obviamente eu não posso fazer isso ou aquilo porque as minhas coisas já são tão complicadas e desgastantes...  Aliás, é por isso que eu estou atrasado e etc”.  O procrastinador ainda pode gastar quantidade considerável de tempo justificando suas razões, tempo que poderia ser gasto fazendo as coisas efetivamente.
-
-	
-  * **Teimosia** - A procrastinação pode ser utilizada como expressão de teimosia ou orgulho: "Vou fazer isso quando estiver pronto e tranquilo.  Não venha tentar me convencer do contrário".
-
-	
-  * **Manipulação** - A procrastinação pode ser utilizada para controlar ou manipular o comportamento dos outros.  "Eles não podem começar se eu não estiver aqui".  E sejamos francos: atrasos deliberados deixam as pessoas malucas.
-
-	
-  * **Lidar com pressões** - Procrastinação é quase sempre realmente muito difícil de erradicar uma vez que o comportamento de atraso tenha se tornado uma forma de lidar com as pressões e experiências do dia-a-dia. Se você não tiver esse problema, é claro que os demais vão colocar suas exigências e expectativas sobre você.  É mais fácil de ter uma desculpa para ficar adiando, postergando.
-
-	
-  * **Uma vítima frustrada** - O procrastinador quase sempre se sente como uma vítima: ele não consegue compreender seu comportamento ou porque não consegue fazer seu trabalho como os outros.  Tudo é então um frustrante mistério.  E as razões para tal comportamento são ocultas para ele.
-
-
-**Os Benefícios de Superar a Procrastinação**
-Quais os benefícios de superar a procrastinação?  Paz de espírito, sentimento de força e objetivo de vida e a boa sensação de estar no controle de sua própria vida.  Enquanto a procrastinação faz você se sentir fraco, inútil e impotente; assumir o controle de sua vida fará você se sentir forte, competente e capaz.  E você vai experimentar uma sensação de liberdade pessoal ainda maior!
-
-**As Quatro Razões _Simples_ da Procrastinação**
+**Outras CaracterÃ­sticas**
 
 
 
 	
-  1. **Dificuldade** - a tarefa pode parecer difícil de fazer; naturalmente tendemos a evitar as coisas difíceis em favor daquelas que parecem mais fáceis para nós.
+  * **Baixa auto-estima**Â - O procrastinador pode combater sentimentos de baixa auto-confianÃ§a e baixa auto-estima. Â Ele pode se fixar em realizar as coisas com grande desempenho, ainda que se sinta incapaz de atingir tal desempenho.
 
 	
-  2. **Demora** - a tarefa pode levar um bom tempo, e o tempo é precioso e escasso durante a semana.
+  * **Estou muito ocupado**Â - A procrastinaÃ§Ã£o pode ser utilizada como forma de chamar a atenÃ§Ã£o para o quÃ£o ocupada a pessoa estÃ¡. Â â€œObviamente eu nÃ£o posso fazer isso ou aquilo porque as minhas coisas jÃ¡ sÃ£o tÃ£o complicadas e desgastantes... Â AliÃ¡s, Ã© por isso que eu estou atrasado e etcâ€. Â O procrastinador ainda pode gastar quantidade considerÃ¡vel de tempo justificando suas razÃµes, tempo que poderia ser gasto fazendo as coisas efetivamente.
 
 	
-  3. **Falta de conhecimento ou habilidade** - ninguém quer cometer erros, então espere até que você aprenda o que fazer antes de começar.
+  * **Teimosia**Â - A procrastinaÃ§Ã£o pode ser utilizada como expressÃ£o de teimosia ou orgulho: "Vou fazer isso quando estiver pronto e tranquilo. Â NÃ£o venha tentar me convencer do contrÃ¡rio".
 
 	
-  4. **Medo** - se você fizer alguma bobagem, todo mundo vai saber.
+  * **ManipulaÃ§Ã£o**Â - A procrastinaÃ§Ã£o pode ser utilizada para controlar ou manipular o comportamento dos outros. Â "Eles nÃ£o podem comeÃ§ar se eu nÃ£o estiver aqui". Â E sejamos francos: atrasos deliberados deixam as pessoas malucas.
+
+	
+  * **Lidar com pressÃµes**Â - ProcrastinaÃ§Ã£o Ã© quase sempre realmente muito difÃ­cil de erradicar uma vez que o comportamento de atraso tenha se tornado uma forma de lidar com as pressÃµes e experiÃªncias do dia-a-dia. Se vocÃª nÃ£o tiver esse problema, Ã© claro que os demais vÃ£o colocar suas exigÃªncias e expectativas sobre vocÃª. Â Ã‰ mais fÃ¡cil de ter uma desculpa para ficar adiando, postergando.
+
+	
+  * **Uma vÃ­tima frustrada**Â - O procrastinador quase sempre se sente como uma vÃ­tima: ele nÃ£o consegue compreender seu comportamento ou porque nÃ£o consegue fazer seu trabalho como os outros. Â Tudo Ã© entÃ£o um frustrante mistÃ©rio. Â E as razÃµes para tal comportamento sÃ£o ocultas para ele.
 
 
-A cura simples?  Faça tudo ao contrário.  Diga pra você mesmo: não é tão difícil, não vai demorar tanto, tenho certeza de que eu sei o que fazer ou que eu posso aprender a fazer.  E ninguém se importa tanto com isso porque eles já estão muito ocupados com seus próprios problemas.
+**Os BenefÃ­cios de Superar a ProcrastinaÃ§Ã£o**
+Quais os benefÃ­cios de superar a procrastinaÃ§Ã£o? Â Paz de espÃ­rito, sentimento de forÃ§a e objetivo de vida e a boa sensaÃ§Ã£o de estar no controle de sua prÃ³pria vida. Â Enquanto a procrastinaÃ§Ã£o faz vocÃª se sentir fraco, inÃºtil e impotente; assumir o controle de sua vida farÃ¡ vocÃª se sentir forte, competente e capaz. Â E vocÃª vai experimentar uma sensaÃ§Ã£o de liberdade pessoal ainda maior!
 
-**As Quatro Razões Complexas da Procrastinação**
+**As Quatro RazÃµesÂ _Simples_Â da ProcrastinaÃ§Ã£o**
 
 
 
 	
-  1. **Perfeccionismo** - expectativas ou padrões irrealisticamente elevados.  Impostos pelos outros ou por você mesmo, tudo deve estar impecavelmente certo.  O perfeccionista é longo nas críticas e curto nos elogios.
+  1. **Dificuldade**Â - a tarefa pode parecer difÃ­cil de fazer; naturalmente tendemos a evitar as coisas difÃ­ceis em favor daquelas que parecem mais fÃ¡ceis para nÃ³s.
 
 	
-    * O perfeccionismo cria um alto grau de insatisfação e frustração pois raramente algo é concluído de forma plenamente aceitável na primeira vez.  O perfeccionista sabota a si mesmo até a morte.
+  2. **Demora**Â - a tarefa pode levar um bom tempo, e o tempo Ã© precioso e escasso durante a semana.
 
 	
-    * Um perfeccionista pode demorar a começar um projeto porque ele pode se sentir esmagado pela grande energia que o leva a criticar ou sabotar as coisas, e por toda a frustração que isso gera no processo.
+  3. **Falta de conhecimento ou habilidade**Â - ninguÃ©m quer cometer erros, entÃ£o espere atÃ© que vocÃª aprenda o que fazer antes de comeÃ§ar.
 
 	
-    * Expressões como "deve ser", "é preciso", "é necessário" aparecem frequentemente numa conversa com a pessoa.  (Isso deve ser de tal jeito; É preciso fazer direito desde o princípio, etc) “Se você não puder fazer certo desde o começo, não faça”.
+  4. **Medo**Â - se vocÃª fizer alguma bobagem, todo mundo vai saber.
+
+
+A cura simples? Â FaÃ§a tudo ao contrÃ¡rio. Â Diga pra vocÃª mesmo: nÃ£o Ã© tÃ£o difÃ­cil, nÃ£o vai demorar tanto, tenho certeza de que eu sei o que fazer ou que eu posso aprender a fazer. Â E ninguÃ©m se importa tanto com isso porque eles jÃ¡ estÃ£o muito ocupados com seus prÃ³prios problemas.
+
+**As Quatro RazÃµes Complexas da ProcrastinaÃ§Ã£o**
+
+
 
 	
-    * O desejo de que cada coisa seja absolutamente perfeita pode estar mascarando problemas de auto-estima e auto-confiança.
+  1. **Perfeccionismo**Â - expectativas ou padrÃµes irrealisticamente elevados. Â Impostos pelos outros ou por vocÃª mesmo, tudo deve estar impecavelmente certo. Â O perfeccionista Ã© longo nas crÃ­ticas e curto nos elogios.
+
+	
+    * O perfeccionismo cria um alto grau de insatisfaÃ§Ã£o e frustraÃ§Ã£o pois raramente algo Ã© concluÃ­do de forma plenamente aceitÃ¡vel na primeira vez. Â O perfeccionista sabota a si mesmo atÃ© a morte.
+
+	
+    * Um perfeccionista pode demorar a comeÃ§ar um projeto porque ele pode se sentir esmagado pela grande energia que o leva a criticar ou sabotar as coisas, e por toda a frustraÃ§Ã£o que isso gera no processo.
+
+	
+    * ExpressÃµes como "deve ser", "Ã© preciso", "Ã© necessÃ¡rio" aparecem frequentemente numa conversa com a pessoa. Â (Isso deve ser de tal jeito; Ã‰ preciso fazer direito desde o princÃ­pio, etc) â€œSe vocÃª nÃ£o puder fazer certo desde o comeÃ§o, nÃ£o faÃ§aâ€.
+
+	
+    * O desejo de que cada coisa seja absolutamente perfeita pode estar mascarando problemas de auto-estima e auto-confianÃ§a.
 
 
 **Como resolver:**
 
 	
-    * Tente reafirmar para si mesmo que o esforço dispendido ou a versão atualmente pronta já é suficiente
+    * Tente reafirmar para si mesmo que o esforÃ§o dispendido ou a versÃ£o atualmente pronta jÃ¡ Ã© suficiente
 
 	
-    * Faça um esforço para se orgulhar do que você tem feito
+    * FaÃ§a um esforÃ§o para se orgulhar do que vocÃª tem feito
 
 	
-    * É impossível erradicar todos os erros
+    * Ã‰ impossÃ­vel erradicar todos os erros
 
 	
-    * No entanto, você indubitavelmente logo encontrará todos os erros que sejam impeditivos
+    * No entanto, vocÃª indubitavelmente logo encontrarÃ¡ todos os erros que sejam impeditivos
 
 	
-    * Lembre-se de que os maiores escritores, poetas e artistas, em algum momento concluíram seus trabalhos; portanto você também será capaz de concluir o seu.
-
-
-
-
-	
-  2. **Raiva/Hostilidade** - se estivermos insatisfeitos com alguém, muitas vezes não conseguimos dar o nosso melhor.  Por exemplo, se você estiver aborrecido com um professor, você pode tender a demorar a iniciar um projeto como forma inconsciente de "dar o troco".  Mas é você quem perde com isso; é você que se prejudicará ao receber uma nota baixa.**Como resolver:**
-Identifique com quem você está se sentindo aborrecido e veja como suas ações podem ser prejudiciais a você no longo prazo.  Você não quer que seus sentimentos numa situação em particular passem a interferir no seu futuro, quer?
-
-	
-  3. **Baixa tolerência à frustração** - circunstâncias que lhe incomodam facilmente; você vai se deparar com situações radicalmente intoleráveis e terrivelmente injustas.  A frustração é caracterizada por queixas e reclamações tais como "não é justo", "isto foi muito duro" e "com os outros é diferente", etc.  Ao se sentir dessa maneira, parece razoável precisar "extravasar" até que você se sinta bem para realizar o trabalho.  O problema é você se sentir igualmente frustrado no dia seguinte.**Como resolver:**
-Quanto mais você almeja algo e não pode tê-lo, maior seu nível de frustração.
-
-	
-    * Obtenha ajuda de alguém que possa lhe mostrar como você pode resolver o problema
-
-	
-    * Aprenda como adiar temporariamente seus desejos.  Na maioria das vezes você eventualmente acabará conseguindo o que pretende.
+    * Lembre-se de que os maiores escritores, poetas e artistas, em algum momento concluÃ­ram seus trabalhos; portanto vocÃª tambÃ©m serÃ¡ capaz de concluir o seu.
 
 
 
 
 	
-  4. **Auto-depreciação** - isto acontece quando você continuamente  menospreza suas próprias competências e habilidades e passa a ter dúvida sobre sua capacidade de realização.  Uma pessoa que normalmente se põe para baixo tende a se desacreditar mesmo quando é bem sucedido: foi só um "golpe de sorte".  Adicionalmente, ele pode achar difícil aceitar o crédito e os elogios pelo trabalho realizado - falsa modéstia.  ("Nossa, você mandou bem no exame!"  "É, tive sorte; na verdade não tinha estudado tão bem.")  O problema com a auto-depreciação é que conforme o tempo passa, a pessoa pode crer não ser capaz de certos níveis de realização.  A auto-depreciação resulta em procrastinação porque a pessoa que se sente desconfortável com o sucesso irá procurar maneiras de ser menos bem-sucedida e menos visível.  Transforme isso num relatório entregue tardiamente e o sucesso logo irá desvanecer.  ("Por que eles lhe despediram?"  "Eu já tinha dito a eles que não podia manter o ritmo e veja: eu estava certo!  Eu não posso trabalhar nesse nível.")**Como resolver:**
+  2. **Raiva/Hostilidade**Â - se estivermos insatisfeitos com alguÃ©m, muitas vezes nÃ£o conseguimos dar o nosso melhor. Â Por exemplo, se vocÃª estiver aborrecido com um professor, vocÃª pode tender a demorar a iniciar um projeto como forma inconsciente de "dar o troco". Â Mas Ã© vocÃª quem perde com isso; Ã© vocÃª que se prejudicarÃ¡ ao receber uma nota baixa.**Como resolver:**
+Identifique com quem vocÃª estÃ¡ se sentindo aborrecido e veja como suas aÃ§Ãµes podem ser prejudiciais a vocÃª no longo prazo. Â VocÃª nÃ£o quer que seus sentimentos numa situaÃ§Ã£o em particular passem a interferir no seu futuro, quer?
+
+	
+  3. **Baixa tolerÃªncia Ã  frustraÃ§Ã£o**Â - circunstÃ¢ncias que lhe incomodam facilmente; vocÃª vai se deparar com situaÃ§Ãµes radicalmente intolerÃ¡veis e terrivelmente injustas. Â A frustraÃ§Ã£o Ã© caracterizada por queixas e reclamaÃ§Ãµes tais como "nÃ£o Ã© justo", "isto foi muito duro" e "com os outros Ã© diferente", etc. Â Ao se sentir dessa maneira, parece razoÃ¡vel precisar "extravasar" atÃ© que vocÃª se sinta bem para realizar o trabalho. Â O problema Ã© vocÃª se sentir igualmente frustrado no dia seguinte.**Como resolver:**
+Quanto mais vocÃª almeja algo e nÃ£o pode tÃª-lo, maior seu nÃ­vel de frustraÃ§Ã£o.
+
+	
+    * Obtenha ajuda de alguÃ©m que possa lhe mostrar como vocÃª pode resolver o problema
+
+	
+    * Aprenda como adiar temporariamente seus desejos. Â Na maioria das vezes vocÃª eventualmente acabarÃ¡ conseguindo o que pretende.
+
+
+
+
+	
+  4. **Auto-depreciaÃ§Ã£o**Â - isto acontece quando vocÃªÂ continuamenteÂ  menospreza suas prÃ³prias competÃªncias e habilidades e passa a ter dÃºvida sobre sua capacidade de realizaÃ§Ã£o. Â Uma pessoa que normalmente se pÃµe para baixo tende a se desacreditar mesmo quando Ã© bem sucedido: foi sÃ³ um "golpe de sorte". Â Adicionalmente, ele pode achar difÃ­cil aceitar o crÃ©dito e os elogios pelo trabalho realizado - falsa modÃ©stia. Â ("Nossa, vocÃª mandou bem no exame!" Â "Ã‰, tive sorte; na verdade nÃ£o tinha estudado tÃ£o bem.") Â O problema com a auto-depreciaÃ§Ã£o Ã© que conforme o tempo passa, a pessoa pode crer nÃ£o ser capaz de certos nÃ­veis de realizaÃ§Ã£o. Â A auto-depreciaÃ§Ã£o resulta em procrastinaÃ§Ã£o porque a pessoa que se sente desconfortÃ¡vel com o sucesso irÃ¡ procurar maneiras de ser menos bem-sucedida e menos visÃ­vel. Â Transforme isso num relatÃ³rio entregue tardiamente e o sucesso logo irÃ¡ desvanecer. Â ("Por que eles lhe despediram?" Â "Eu jÃ¡ tinha dito a eles que nÃ£o podia manter o ritmo e veja: eu estava certo! Â Eu nÃ£o posso trabalhar nesse nÃ­vel.")**Como resolver:**
 
 	
     * Aceite elogios ao seu trabalho simplesmente dizendo: "Obrigado."
 
 	
-    * Descubra porque você se sente desconfortável com o sucesso.  Outras pessoas fizeram você se sentir dessa maneira muitas vezes na sua vida?  Você foi condicionado a minimizar a importância do seu trabalho?  Por que o sucesso lhe assusta?  Ele vai fazer você se destacar na multidão?  Você sente que os outros não aceitam o fato de você ser bem sucedido?
+    * Descubra porque vocÃª se sente desconfortÃ¡vel com o sucesso. Â Outras pessoas fizeram vocÃª se sentir dessa maneira muitas vezesÂ na sua vida? Â VocÃª foi condicionado a minimizar a importÃ¢ncia do seu trabalho? Â Por que o sucesso lhe assusta? Â Ele vai fazer vocÃª se destacar na multidÃ£o? Â VocÃª sente que os outros nÃ£o aceitam o fato de vocÃª ser bem sucedido?
 
 	
-    * Lembre-se de orgulhar e vangloriar pela realização de seu próprio trabalho.
+    * Lembre-se de orgulhar e vangloriar pela realizaÃ§Ã£o de seu prÃ³prio trabalho.
 
 
 
 
 
-**O Funcionamento Interno da Procrastinação**
+**O Funcionamento Interno da ProcrastinaÃ§Ã£o**
 
 
-> **A** = (_Activation_) Evento de ativação.  O evento de ativação é qualquer coisa que você está adiando, tal como um estudo, uma prova, ou qualquer tarefa desagradável.
+> **A**Â = (_Activation_) Evento de ativaÃ§Ã£o. Â O evento de ativaÃ§Ã£o Ã© qualquer coisa que vocÃª estÃ¡ adiando, tal como um estudo, uma prova, ou qualquer tarefa desagradÃ¡vel.
 
-**B** = (_Belief_) Sistema de crença.  Estes são seus sentimentos "escondidos" sobre a tarefa; seus sentimentos governam sua motivação.  Se você tiver sentimento negativos, você tenderá a postergar ou atrasar.  Estes sentimentos controlam sua resposta.
+**B**Â = (_Belief_) Sistema de crenÃ§a. Â Estes sÃ£o seus sentimentos "escondidos" sobre a tarefa; seus sentimentos governam sua motivaÃ§Ã£o. Â Se vocÃª tiver sentimento negativos, vocÃª tenderÃ¡ a postergar ou atrasar. Â Estes sentimentos controlam sua resposta.
 
-**C** = (_Consequence_) Consequências.  Isto é o que nós atualmente fazemos.  Há duas abordagens: a racional e a irracional.  A resposta racional é "Eu não quero escrever nenhum artigo, mas é melhor eu fazê-lo de qualquer maneira".  E a abordagem irracional é "Eu odeio escrever artigos, e por mais que já seja para próxima semana, vou começá-lo mais tarde".
+**C**Â = (_Consequence_) ConsequÃªncias. Â Isto Ã© o que nÃ³s atualmente fazemos. Â HÃ¡ duas abordagens: a racional e a irracional. Â A resposta racional Ã© "Eu nÃ£o quero escrever nenhum artigo, mas Ã© melhor eu fazÃª-lo de qualquer maneira". Â E a abordagem irracional Ã© "Eu odeio escrever artigos, e por mais que jÃ¡ seja para prÃ³xima semana, vou comeÃ§Ã¡-lo mais tarde".
 
 
-O fato é que todas as tarefas são realmente neutras.  Examine seu sistema de crenças, compreenda porque você não gosta da tarefa e então mude sua forma de pensar.
+O fato Ã© que todas as tarefas sÃ£o realmente neutras. Â Examine seu sistema de crenÃ§as, compreenda porque vocÃª nÃ£o gosta da tarefa e entÃ£o mude sua forma de pensar.
 
 **Passos para a Cura**
 
 
 
 	
-  1. Perceba que você está atrasando algo desnecessariamente.
+  1. Perceba que vocÃª estÃ¡ atrasando algo desnecessariamente.
 
 	
-  2. Descubra os motivos reais para seu atraso.  Relacione-os.
+  2. Descubra os motivos reais para seu atraso. Â Relacione-os.
 
 	
-  3. Combata esses motivos e supere-os.  Seja vigoroso
+  3. Combata esses motivos e supere-os. Â Seja vigoroso
 
 	
   4. Comece a tarefa.
 
 
-**Pratique o que Você Aprendeu**
+**Pratique o que VocÃª Aprendeu**
 
 
 
 	
-  * Pense em uma coisa que você está procrastinando no momento, e escreva-a num papel.  Pode ser algo de caráter pessoal, acadêmico ou profissional.
+  * Pense em uma coisa que vocÃª estÃ¡ procrastinando no momento, e escreva-a num papel. Â Pode ser algo de carÃ¡ter pessoal, acadÃªmico ou profissional.
 
 	
-  * Agora escreva todas as razões para seu atraso.  Isto pode levar uns cinco ou dez minutos pois algumas dessas razões pode realmente estar invisíveis a você.  Estas razões são as influências controladoras.  Tente escrever tantas quanto possível.
+  * Agora escreva todas as razÃµes para seu atraso. Â Isto pode levar uns cinco ou dez minutos pois algumas dessas razÃµes pode realmente estar invisÃ­veis a vocÃª. Â Estas razÃµes sÃ£o as influÃªncias controladoras. Â Tente escrever tantas quanto possÃ­vel.
 
 	
-  * Na coluna "Argumentos Contra o Atraso", argumente sobre todas as razões para seu atraso de maneira convincente.  Se você for capaz de argumentar contra elas, você será capaz de iniciar a tarefa.
+  * Na coluna "Argumentos Contra o Atraso", argumente sobre todas as razÃµes para seu atraso de maneira convincente. Â Se vocÃª for capaz de argumentar contra elas, vocÃª serÃ¡ capaz de iniciar a tarefa.
 
 
 
@@ -189,7 +189,7 @@ O fato é que todas as tarefas são realmente neutras.  Examine seu sistema de cre
 
 
 
-Razões para o atraso
+RazÃµes para o atraso
 
 
 
@@ -243,63 +243,63 @@ Argumentos para superar o atraso
 
 
 	
-  * Faça com que as tarefas pareçam pequenas e fáceis em sua mente.  ("Eu já escrevi um monte de artigos; este é apenas mais um").
+  * FaÃ§a com que as tarefas pareÃ§am pequenas e fÃ¡ceis em sua mente. Â ("Eu jÃ¡ escrevi um monte de artigos; este Ã© apenas mais um").
 
 	
-  * Faça apenas uma pequena parte da tarefa por vez.  ("  Do only a small part of the task each time. ("Vou apenas dar uma conferida nos livros agora.  Mais tarde vou checá-los com mais calma").
+  * FaÃ§a apenas uma pequena parte da tarefa por vez. Â (" Â Do only a small part of the task each time. ("Vou apenas dar uma conferida nos livros agora. Â Mais tarde vou checÃ¡-los com mais calma").
 
 	
-  * Plano de cinco minutos: trabalhe em algo por apenas cinco minutos.  Ao final desses cinco minutos vá fazer qualquer outra coisa que você quiser.  Há boas chances de você acabar ficando suficientemente envolvido para continuar.
+  * Plano de cinco minutos: trabalhe em algo por apenas cinco minutos. Â Ao final desses cinco minutos vÃ¡ fazer qualquer outra coisa que vocÃª quiser. Â HÃ¡ boas chances de vocÃª acabar ficando suficientemente envolvido para continuar.
 
 	
-  * Anuncie seu planos para cumprir uma tarefa e deixe que a pressão funcione a seu favor.  ("Falei para todo mundo que ia terminar isto até hoje à noite").
+  * Anuncie seu planos para cumprir uma tarefa e deixe que a pressÃ£o funcione a seu favor. Â ("Falei para todo mundo que ia terminar isto atÃ© hoje Ã  noite").
 
 	
-  * Fie-se em algum amigo de confiança como um modelo positivo.  Se você tem problemas de concentração, estude junto com alguém que não tenha.
+  * Fie-se em algum amigo de confianÃ§a como um modelo positivo. Â Se vocÃª tem problemas de concentraÃ§Ã£o, estude junto com alguÃ©m que nÃ£o tenha.
 
 	
-  * Modifique seu ambiente - se você não consegue estudar em casa, encontre um lugar onde você possa estudar; ou então altere seu momento de estudo em casa.
+  * Modifique seu ambiente - se vocÃª nÃ£o consegue estudar em casa, encontre um lugar onde vocÃª possa estudar; ou entÃ£o altere seu momento de estudo em casa.
 
 	
-  * Planeje o amanhã e estabeleça prioridades - para algumas pessoas, ir fazendo as coisas em intervalos de tempo razoáveis e consistentemente é uma boa maneira de prosseguir.
+  * Planeje o amanhÃ£ e estabeleÃ§a prioridades - para algumas pessoas, ir fazendo as coisas em intervalos de tempo razoÃ¡veis e consistentemente Ã© uma boa maneira de prosseguir.
 
 	
-  * Esteja preparado para alguns deslizes.  Não espere ser perfeito sempre quando você está tentando se livrar do perfeccionismo!  Algumas vezes seus planos poderão não dar certo.  Encare essas situações com tranquilidade, comece novamente e prossiga.
+  * Esteja preparado para alguns deslizes. Â NÃ£o espere ser perfeito sempre quando vocÃª estÃ¡ tentando se livrar do perfeccionismo! Â Algumas vezes seus planos poderÃ£o nÃ£o dar certo. Â Encare essas situaÃ§Ãµes com tranquilidade, comece novamente e prossiga.
 
 
 **Um Insight**
-Procrastinação é estímulo - todas as vezes que você atrasa, isso reforça sua atitude negativa sobre as tarefas.  Todas as vezes que você não enfrenta algo que você não gosta, você:
+ProcrastinaÃ§Ã£o Ã© estÃ­mulo - todas as vezes que vocÃª atrasa, isso reforÃ§a sua atitude negativa sobre as tarefas. Â Todas as vezes que vocÃª nÃ£o enfrenta algo que vocÃª nÃ£o gosta, vocÃª:
 
 
 
 	
-  1. acaba reforçando o hábito de não fazer nada;
+  1. acaba reforÃ§ando o hÃ¡bito de nÃ£o fazer nada;
 
 	
-  2. exercita o "evitar algo" ao invés do "se comprometer com algo";
+  2. exercita o "evitar algo" ao invÃ©s do "se comprometer com algo";
 
 	
-  3. não se importa em se aprimorar e obter novos conhecimentos, e
+  3. nÃ£o se importa em se aprimorar e obter novos conhecimentos, e
 
 	
-  4. internaliza ainda mais seus próprios medos.
+  4. internaliza ainda mais seus prÃ³prios medos.
 
 
-A participação ativa em qualquer coisa tende a lhe proporcionar uma atitude positiva com relação à ação; a inatividade ajuda a manter uma atitude desfavorável.  Em outras palavras, o motivo pelo qual você não gosta, por exemplo, de cálculo numérico é que ele está gerando confusão em sua cabeça, lhe trazendo preocupação.  Uma vez que você ainda não tenha adquirido habilidades naquilo, você não consegue ter comprometimento, então por que tentar?  Além disso, cedo ou tarde uma prova deve vir e você VAI PRECISAR se sair bem -- a menos que você ache que não é capaz.  De repente, tudo lhe parece terrivelmente estranho e você se torna nervoso com tudo (talvez você fique insatisfeito com o professor por achar que ele passa o assunto muito rápido, ou não é tão disponível para tirar dúvidas).  Mas a verdade é que, o quando antes você se envolver em suas tarefas (no caso, seus estudos), melhor você irá se sentir.
+A participaÃ§Ã£o ativa em qualquer coisa tende a lhe proporcionar uma atitude positiva com relaÃ§Ã£o Ã  aÃ§Ã£o; a inatividade ajuda a manter uma atitude desfavorÃ¡vel. Â Em outras palavras, o motivo pelo qual vocÃª nÃ£o gosta, por exemplo,Â de cÃ¡lculo numÃ©rico Ã© que ele estÃ¡ gerando confusÃ£o em sua cabeÃ§a, lhe trazendo preocupaÃ§Ã£o. Â Uma vez que vocÃª ainda nÃ£o tenha adquirido habilidades naquilo, vocÃª nÃ£o consegue ter comprometimento, entÃ£o por que tentar? Â AlÃ©m disso, cedo ou tarde uma prova deve vir e vocÃª VAI PRECISAR se sair bem -- a menos que vocÃª ache que nÃ£o Ã© capaz. Â De repente, tudo lhe parece terrivelmente estranho e vocÃª se torna nervoso com tudo (talvez vocÃª fique insatisfeito com o professor por achar que ele passa o assunto muito rÃ¡pido, ou nÃ£o Ã© tÃ£o disponÃ­vel para tirar dÃºvidas). Â Mas a verdade Ã© que, o quando antes vocÃª se envolver em suas tarefas (no caso, seus estudos), melhor vocÃª irÃ¡ se sentir.
 
-**Impedimentos Mais Comuns para se Superar a Procrastinação**
-A procrastinação é relativamente difícil de se superar pois é muito fácil se deixar levar por ela.  Abaixo segue uma lista de coisas que quase sempre dizemos para nós mesmos:
+**Impedimentos Mais Comuns para se Superar a ProcrastinaÃ§Ã£o**
+A procrastinaÃ§Ã£o Ã© relativamente difÃ­cil de se superar pois Ã© muito fÃ¡cil se deixar levar por ela. Â Abaixo segue uma lista de coisas que quase sempre dizemos para nÃ³s mesmos:
 
 
-
-	
-  1. Amanhã - "Amanhã eu faço."
 
 	
-  2. Amanhã condicional - "Vou fazer amanhã, se..."
+  1. AmanhÃ£ - "AmanhÃ£ eu faÃ§o."
 
 	
-  3. Síndrome da Cigarra - "Preciso de um merecido divertimento antes." (Na fábula da Cigarra e da Formiga, a Cigarra passou o verão todo cantando enquanto as Formigas trabalharam duro juntando comida para o inverno.  Quando o inverno chegou, a Cigarra teve problemas.)
+  2. AmanhÃ£ condicional - "Vou fazer amanhÃ£, se..."
+
+	
+  3. SÃ­ndrome da Cigarra - "Preciso de um merecido divertimento antes." (Na fÃ¡bula da Cigarra e da Formiga, a Cigarra passou o verÃ£o todo cantando enquanto as Formigas trabalharam duro juntando comida para o inverno. Â Quando o inverno chegou, a Cigarra teve problemas.)
 
 	
   4. Escapismo - "Preciso de um tempo para aliviar minha mente."
@@ -308,59 +308,59 @@ A procrastinação é relativamente difícil de se superar pois é muito fácil se dei
   5. Impulsividade - "Meu problema vai se resolver se eu mudar para uma empresa maior, ou..."
 
 	
-  6. Música e relaxamento - "Vou relaxar um pouco antes de começar."
+  6. MÃºsica e relaxamento - "Vou relaxar um pouco antes de comeÃ§ar."
 
 	
   7. Cavalaria, ao resgate - "O professor vai adoecer e cancelar as provas!"
 
 
-**Racionalizações Comuns**
-Cada uma dessas racionalizações precisa ser discutida e defendida para que você possa experimentar o sucesso.  Escreva um contra-argumento que refute cada uma delas.
+**RacionalizaÃ§Ãµes Comuns**
+Cada uma dessas racionalizaÃ§Ãµes precisa ser discutida e defendida para que vocÃª possa experimentar o sucesso. Â Escreva um contra-argumento que refute cada uma delas.
 
 
 
 	
-  1. "Sou mais produtivo quando trabalho sob pressão, então eu adio meu trabalho até que a pressão surja e daí eu o concluo rapidinho."
+  1. "Sou mais produtivo quando trabalho sob pressÃ£o, entÃ£o eu adio meu trabalho atÃ© que a pressÃ£o surja e daÃ­ eu o concluo rapidinho."
 
 	
-  2. "Eu não sei bem como fazer essa tarefa, então eu estou esperando até saber como fazê-la antes de começá-la."
+  2. "Eu nÃ£o sei bem como fazer essa tarefa, entÃ£o eu estou esperando atÃ© saber como fazÃª-la antes de comeÃ§Ã¡-la."
 
 	
-  3. "Esta tarefa não está pronta porque honestamente eu realmente ainda não quis fazê-la de fato.  Essa é a verdade."
+  3. "Esta tarefa nÃ£o estÃ¡ pronta porque honestamente eu realmente ainda nÃ£o quis fazÃª-la de fato. Â Essa Ã© a verdade."
 
 	
-  4. "Relaxa.  O mundo não vai acabar se não der pra aprontar essa tarefa."
+  4. "Relaxa. Â O mundo nÃ£o vai acabar se nÃ£o der pra aprontar essa tarefa."
 
 	
-  5. "Faço esta tarefa facilmente quando estou no pique.  A questão é que ainda não estou inspirado no momento."
+  5. "FaÃ§o esta tarefa facilmente quando estou no pique. Â A questÃ£o Ã© que ainda nÃ£o estou inspirado no momento."
 
 	
-  6. "Eu já esperei até o último momento outras vezes e tudo deu certo no final.  Por que seria diferente agora?"
+  6. "Eu jÃ¡ esperei atÃ© o Ãºltimo momento outras vezes e tudo deu certo no final. Â Por que seria diferente agora?"
 
 	
-  7. "Se eu esperar até o último minuto, não vou gastar muito tempo nela."
+  7. "Se eu esperar atÃ© o Ãºltimo minuto, nÃ£o vou gastar muito tempo nela."
 
 	
-  8. "Vou perder a oportunidade de ir àquele evento social único que sempre quis ir se tiver de começar esta tarefa agora."
+  8. "Vou perder a oportunidade de ir Ã quele evento social Ãºnico que sempre quis ir se tiver de comeÃ§ar esta tarefa agora."
 
 	
-  9. "As circunstâncias fora do meu controle me impedem de iniciar esta tarefa."
+  9. "As circunstÃ¢ncias fora do meu controle me impedem de iniciar esta tarefa."
 
 	
-  10. "Já trabalhei nisto por tanto tempo que já não tenho mais tanta energia ou interesse atualmente."
+  10. "JÃ¡ trabalhei nisto por tanto tempo que jÃ¡ nÃ£o tenho mais tanta energia ou interesse atualmente."
 
 
 **Finalmente:**
-Agora que você compreende como a procrastinação funciona e como você pode reduzir grandemente a influência dela na sua vida, você vai experimentar mais liberdade e muito mais satisfação pessoal.
+Agora que vocÃª compreende como a procrastinaÃ§Ã£o funciona e como vocÃª pode reduzir grandemente a influÃªncia dela na sua vida, vocÃª vai experimentar mais liberdade e muito mais satisfaÃ§Ã£o pessoal.
 
-Continue trabalhando nisso.  Você pode acabar ainda procrastinando, mas agora você tem mais condições de resolver as situações mais rapidamente para aprimorar sua auto-confiança.  A cada sucesso que você obtiver, reserve um tempo para saborear o momento e se lembrar do quão bem você se sente.  Isto vai lhe ajudar na próxima vez que você precisar de encorajamento.
+Continue trabalhando nisso. Â VocÃª pode acabar ainda procrastinando, mas agora vocÃª tem mais condiÃ§Ãµes de resolver as situaÃ§Ãµes mais rapidamente para aprimorar sua auto-confianÃ§a. Â A cada sucesso que vocÃª obtiver, reserve um tempo para saborear o momento e se lembrar do quÃ£o bem vocÃª se sente. Â Isto vai lhe ajudar na prÃ³xima vez que vocÃª precisar de encorajamento.
 
-Trate seu processo auto-conhecimento como um jogo, e se permita ter alguma diversão com você mesmo.
+Trate seu processo auto-conhecimento como um jogo, e se permita ter alguma diversÃ£o com vocÃª mesmo.
 
 **Bibliografia**
-Burka, Jane B., and Yuen, Lenora M. _Procrastination_. Reading: Addison-Wesley, 1983.
+Burka, Jane B., and Yuen, Lenora M.Â _Procrastination_. Reading: Addison-Wesley, 1983.
 
-Ellis, Albert, and Knaus, William J. _Overcoming Procrastination_. New York: Signet Books, 1977.
+Ellis, Albert, and Knaus, William J.Â _Overcoming Procrastination_. New York: Signet Books, 1977.
 
 
 
@@ -368,7 +368,7 @@ Ellis, Albert, and Knaus, William J. _Overcoming Procrastination_. New York: Sig
 
 
 
-Traduzido do [texto original em inglês](http://www.sas.calpoly.edu/asc/ssl/procrastination.html) com prévia autorização do autor.
+Traduzido do [texto original em inglÃªs](http://www.sas.calpoly.edu/asc/ssl/procrastination.html)Â com prÃ©via autorizaÃ§Ã£o do autor.
 
 _Our big thanks to Bill Sydnor that permits this free translation.
 Thank you, Bill!_

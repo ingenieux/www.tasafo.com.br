@@ -10,16 +10,16 @@ title=RubyConf Brasil 2011
 
 
 
-## O T· safo! e Guru-pa na RubyConf 2011!
+## O T√° safo! e Guru-pa na RubyConf 2011!
 
 
 
 
 
 
-Nos dias 3 e 4 de novembro aconteceu a maior conferÍncia Ruby da AmÈrica Latina, em S„o Paulo. E sendo bem modesto, foi um excelente evento! Como presenciei este evento tanto como membro do guru-pa e da comunidade T· safo!, nada mais justo que dar um resum„o do que rolou aqui tambÈm!
+Nos dias 3 e 4 de novembro aconteceu a maior confer√™ncia Ruby da Am√©rica Latina, em S√£o Paulo. E sendo bem modesto, foi um excelente evento! Como presenciei este evento tanto como membro do guru-pa e da comunidade T√° safo!, nada mais justo que dar um resum√£o do que rolou aqui tamb√©m!
 
-AlÈm de mim, @felipe_ik, estavam @pigodinho e @mateuslinhares marcando presenÁa!
+Al√©m de mim, @felipe_ik, estavam @pigodinho e @mateuslinhares marcando presen√ßa!
 
 
 
@@ -33,7 +33,7 @@ AlÈm de mim, @felipe_ik, estavam @pigodinho e @mateuslinhares marcando presenÁa!
 
 
 ![](https://lh4.googleusercontent.com/7didLSNm3EcGK1JCWfCwGBwtcGmui5Ppr9Xrj0afuSTrSQaiadn2i2a-zK0216j5eQExcvN4eA8aw5QRVbEE6wjuP1ZSUtrR4AA5I0HwGbHR1SeTDJk)
-Pra quem n„o percebeu, la na direita tem o sÌmbolo do Guru-pa, a bandeira do Par· e quase invisÌvel †twitters dos paraenses membros do Guru-pa presentes!
+Pra quem n√£o percebeu, la na direita tem o s√≠mbolo do Guru-pa, a bandeira do Par√° e quase invis√≠vel ¬†twitters dos paraenses membros do Guru-pa presentes!
 
 
 
@@ -49,19 +49,19 @@ Pra quem n„o percebeu, la na direita tem o sÌmbolo do Guru-pa, a bandeira do Par
 A viagem
 
 
-S„o Paulo È realmente enorme e com uma populaÁ„o tipicamente heterogÍnea, com pessoas de todos os lugares do paÌs e do mundo. N„o era difÌcil encontrar gringos andando pelas ruas da cidade, nem em hotÈis e albergues.
+S√£o Paulo √© realmente enorme e com uma popula√ß√£o tipicamente heterog√™nea, com pessoas de todos os lugares do pa√≠s e do mundo. N√£o era dif√≠cil encontrar gringos andando pelas ruas da cidade, nem em hot√©is e albergues.
 
 Eu fiquei em um albergue muito legal indicado por um amigo, a 20 minutos do Shopping Frei Caneca, local da RubyConf.
 
-Cheguei na Gol Backpacker no dia 2, numa fria madrugada de 10 graus! L· se hospedam v·rios estrangeiros, desde franceses, latino americanos e indianos. Foi muito legal sair pelos bares da Augusta com esse pessoal.
+Cheguei na Gol Backpacker no dia 2, numa fria madrugada de 10 graus! L√° se hospedam v√°rios estrangeiros, desde franceses, latino americanos e indianos. Foi muito legal sair pelos bares da Augusta com esse pessoal.
 
 O evento
 
-No outro dia comeÁou a RubyConf e de cara deu pra ver a quantidade de participantes, aproximadamente 800! Legal È que ganhamos uma mochila e uma camisa de brinde.
+No outro dia come√ßou a RubyConf e de cara deu pra ver a quantidade de participantes, aproximadamente 800! Legal √© que ganhamos uma mochila e uma camisa de brinde.
 
 A maioria das palestras foram feitas simultaneamente em 2 salas, mas todas podem agora ser assistidas neste site: [http://www.eventials.com/rubyconfbr](http://www.eventials.com/rubyconfbr)
 
-Foi muito bom conhecer e ser conhecido por muita gente influente na comunidade Ruby! Muitas pessoas de outros Estados estavam l· e s„o muito acessÌveis, inclusive na #horaextra, que È quando o pessoal sai para um bar depois dos eventos que participam.
+Foi muito bom conhecer e ser conhecido por muita gente influente na comunidade Ruby! Muitas pessoas de outros Estados estavam l√° e s√£o muito acess√≠veis, inclusive na #horaextra, que √© quando o pessoal sai para um bar depois dos eventos que participam.
 
 
 ## Palestras
@@ -71,17 +71,17 @@ Foi muito bom conhecer e ser conhecido por muita gente influente na comunidade R
 
 
 
-N„o tenho como falar de todas as palestras, pois n„o pude assistir a todas, mas posso apontar as que considerei mais animadas e interessantes!
+N√£o tenho como falar de todas as palestras, pois n√£o pude assistir a todas, mas posso apontar as que considerei mais animadas e interessantes!
 
-ComeÁando pelas estrelas, temos Aaron Partterson, que È ao mesmo tempo um membro do Ruby Core Team e tambÈm do Rails Core Team. O cara È fenomenal no cÛdigo alÈm de muito divertido e bem, rom‚ntico! N„o È a toa que seu Twitter È @tenderlove.
+Come√ßando pelas estrelas, temos Aaron Partterson, que √© ao mesmo tempo um membro do Ruby Core Team e tamb√©m do Rails Core Team. O cara √© fenomenal no c√≥digo al√©m de muito divertido e bem, rom√¢ntico! N√£o √© a toa que seu Twitter √© @tenderlove.
 
-Ele falou duas vezes no evento e ambas foram fenomenais, inclusive a ˙ltima de fechamento, onde trollou agressivamente o PHP (sorry folks!) criando uma forma de escrever PHP usando a m·quina virtual do Ruby. Ele fez isso como um pedido de seu chefe e mostrou tudo funcionando instalando e rodando uma cÛpia do Word Press!
+Ele falou duas vezes no evento e ambas foram fenomenais, inclusive a √∫ltima de fechamento, onde trollou agressivamente o PHP (sorry folks!) criando uma forma de escrever PHP usando a m√°quina virtual do Ruby. Ele fez isso como um pedido de seu chefe e mostrou tudo funcionando instalando e rodando uma c√≥pia do Word Press!
 
-Ent„o vimos a apresentaÁ„o do JosÈ Valim, que È o maior Ìdolo dos brasileiros na comunidade Ruby on Rails, j· que È membro do Rails Core Team e um excelente apresentador.
+Ent√£o vimos a apresenta√ß√£o do Jos√© Valim, que √© o maior √≠dolo dos brasileiros na comunidade Ruby on Rails, j√° que √© membro do Rails Core Team e um excelente apresentador.
 
-Sua palestra foi sobre seus aprendizados ainda mais profundos na linguagem Ruby, durante o desenvolvimento de sua prÛpria linguagem de programaÁ„o, o Elixir.
+Sua palestra foi sobre seus aprendizados ainda mais profundos na linguagem Ruby, durante o desenvolvimento de sua pr√≥pria linguagem de programa√ß√£o, o Elixir.
 
-Como o @tenderlove e o @josevalim s„o muito amigos, n„o È difÌcil ver piadas entre os dois, uma cl·ssica È eles mostrarem que se amam... bem rom‚ntico n„o?
+Como o @tenderlove e o @josevalim s√£o muito amigos, n√£o √© dif√≠cil ver piadas entre os dois, uma cl√°ssica √© eles mostrarem que se amam... bem rom√¢ntico n√£o?
 
 Esta foto mostra a hora em que @josevalim afirmou que ama Ruby no jeito @tenderlove... supeito?
 
@@ -97,9 +97,9 @@ Esta foto mostra a hora em que @josevalim afirmou que ama Ruby no jeito @tenderl
 
 
 
-Passando para outras palestras, houve uma palestra sobre RESTfull com Hypermedia, do alem„o Nick Sutterer que alÈm de muito interessante, foi de mais engraÁada! O cara È uma piada e aconselho todos a assistirem sua palestra gravada online.
+Passando para outras palestras, houve uma palestra sobre RESTfull com Hypermedia, do alem√£o Nick Sutterer que al√©m de muito interessante, foi de mais engra√ßada! O cara √© uma piada e aconselho todos a assistirem sua palestra gravada online.
 
-Mas mudando de assunto! Ele È o criador de uma gem (plugin em Ruby, para os n„o Ìntimos) muito conhecida na comunidade, o Cells, que ajuda a criar cÛdigo reus·vel e f·cil de testar em nossas views! Foi muito legal tomar uma cerveja com um cara como ele.
+Mas mudando de assunto! Ele √© o criador de uma gem (plugin em Ruby, para os n√£o √≠ntimos) muito conhecida na comunidade, o Cells, que ajuda a criar c√≥digo reus√°vel e f√°cil de testar em nossas views! Foi muito legal tomar uma cerveja com um cara como ele.
 
 
 
@@ -112,34 +112,34 @@ Mas mudando de assunto! Ele È o criador de uma gem (plugin em Ruby, para os n„o 
 
 Nick Sutterer
 
-Tivemos tambÈm a do Konstantin Haase, outro alem„o criador do Sinatra, um framework para se desenvolver aplicativos web como o Rails, mas confesso que n„o conheÁo muito.
+Tivemos tamb√©m a do Konstantin Haase, outro alem√£o criador do Sinatra, um framework para se desenvolver aplicativos web como o Rails, mas confesso que n√£o conhe√ßo muito.
 
 ![](https://lh6.googleusercontent.com/hVlq243H3vggLga8mZQcLZ_fkRD3C1nlE7JgIojBz0FsEQP5gU-8T5flUQvVOwmAr1ila3YygU1gRvN5_B9jf3FeAA_uuyKwfE_4F0JT2MEK7MDKYNE)
-Konstantin Haase & Nick Sutterer pro tasafo (vem mais oiís pro tasafo por ae!)
+Konstantin Haase & Nick Sutterer pro tasafo (vem mais oi‚Äôs pro tasafo por ae!)
 
-Outros palestrantes se deram muito bem no palco, como Carlos Brando e Luis Gustavo, falando sobre suas experiÍncias em criar uma forma de usar Ruby em m·quinas de cart„o de crÈdito. Para quem n„o sabe, o Carlos Brando tem um Podcast muito legal chamado grokpodcast.com, e aconselho a todos darem uma olhada!
+Outros palestrantes se deram muito bem no palco, como Carlos Brando e Luis Gustavo, falando sobre suas experi√™ncias em criar uma forma de usar Ruby em m√°quinas de cart√£o de cr√©dito. Para quem n√£o sabe, o Carlos Brando tem um Podcast muito legal chamado grokpodcast.com, e aconselho a todos darem uma olhada!
 ![](https://lh6.googleusercontent.com/MEZ3msHotoQSUeVOyiqBXLEVUwWzGWm2p627yPjJzerB5RfINsL87aDKGcKjf6pkpFHIjC0bqDP7zf0DY0BkELrZWGgLdcRsZtdx5Jkq8e2bDep5cps)
 Carlos Brando
 
-Outro excelente palestrante foi Lucas H˙ngaro, falando sobre como utilizar ìPrincÌpios de SOLID com BDDî. Aconselho todos a assistirem essa palestra tambÈm! Vale a pena!
+Outro excelente palestrante foi Lucas H√∫ngaro, falando sobre como utilizar ‚ÄúPrinc√≠pios de SOLID com BDD‚Äù. Aconselho todos a assistirem essa palestra tamb√©m! Vale a pena!
 
 
 
 
-Nando Vieira tambÈm arrebentou no palco falando sobre o lado da view dos softwares, com a palestra ìRails Views: codificando sua interface como um profissionalî, assim como Daniel Lopes tambÈm deu um show em ìCÛdigo Melhor atravÈs de Design de Interfaceî.
-No primeiro dia, alÈm das palestras da programaÁ„o, tivemos Lightning Talks de 5 minutos (ou foram 10)? O que aconteceu?
+Nando Vieira tamb√©m arrebentou no palco falando sobre o lado da view dos softwares, com a palestra ‚ÄúRails Views: codificando sua interface como um profissional‚Äù, assim como Daniel Lopes tamb√©m deu um show em ‚ÄúC√≥digo Melhor atrav√©s de Design de Interface‚Äù.
+No primeiro dia, al√©m das palestras da programa√ß√£o, tivemos Lightning Talks de 5 minutos (ou foram 10)? O que aconteceu?
 
-Bem, como alguns palestrantes terminaram em 30 minutos, sobrou bastante tempo para as Lightning Talks! Tanto tempo, que o organizador do evento F·bio Akita teve que enrolar bastante atÈ a chegada do comediante Danillo Gentili aparecer para dar um espet·culo de risos! Nossa, como ele curtiu com a cara dos programadores! hehehe n„o posso contar detalhes por ter muitas palavras imundas em sua descriÁ„o.
+Bem, como alguns palestrantes terminaram em 30 minutos, sobrou bastante tempo para as Lightning Talks! Tanto tempo, que o organizador do evento F√°bio Akita teve que enrolar bastante at√© a chegada do comediante Danillo Gentili aparecer para dar um espet√°culo de risos! Nossa, como ele curtiu com a cara dos programadores! hehehe n√£o posso contar detalhes por ter muitas palavras imundas em sua descri√ß√£o.
 ![](https://lh5.googleusercontent.com/L4vm4AuLDbsh_PHv-NXy2wRiCJvD9qmyZhGIATpULcMlvuiW8IZeQ921dPas9bqY3uLhaiATvuqWJyBjpwrjT7aIShvf7ZCKP39fXtsFE3eRpV_nOWM)
 @AkitaOnRails & @tapajos no #horaextra
-De qualquer forma, as palestras foram gravadas e est„o disponÌveis em [http://www.eventials.com/rubyconfbr](http://www.eventials.com/rubyconfbr) ! N„o deixem de dar uma olhada e curtir bastante!
+De qualquer forma, as palestras foram gravadas e est√£o dispon√≠veis em [http://www.eventials.com/rubyconfbr](http://www.eventials.com/rubyconfbr) ! N√£o deixem de dar uma olhada e curtir bastante!
 
-Acredito que o que eu disse foram os highlights de tudo o que aconteceu, n„o esqueÁam de conhecer a comundiade @guru_pa em [http://guru-pa.blogspot.com](http://guru-pa.blogspot.com/) e [http://groups.google.com/group/guru-pa](http://groups.google.com/group/guru-pa) e para encerrar quero mostrar mais uns ìpequenos alÙsî pra comunidade tasafo!
+Acredito que o que eu disse foram os highlights de tudo o que aconteceu, n√£o esque√ßam de conhecer a comundiade @guru_pa em [http://guru-pa.blogspot.com](http://guru-pa.blogspot.com/) e [http://groups.google.com/group/guru-pa](http://groups.google.com/group/guru-pa) e para encerrar quero mostrar mais uns ‚Äúpequenos al√¥s‚Äù pra comunidade tasafo!
 
 ![](https://lh4.googleusercontent.com/EJM_8xWGurZlntKS13eSnZL2f-S6CMs3IsdbJvHYUE2FX-68LXII5qMp73m8iZP7C12T5By45hrwvP0jTlP5f1ZBb8p5L9680nX0gKA7_2vc_mLwL8A)
 @josevalim dando mais um oi pro tasafo!
 ![](https://lh6.googleusercontent.com/Sr6gcVKzyJcyYYuxkgQ0xc9l83KzYPNAYrSAE6qx_5n024BUKSa2ZuzbPZcdj6TS59tdsE7A0gmBKwNaQsY0Ed6CrRJQ1ktF4GV7fcocxWRZjIJlp-o)
-@tenderlove: ìhi tasafÙ!î Ö quase sai um portuglÍs!
+@tenderlove: ‚Äúhi tasaf√¥!‚Äù ‚Ä¶ quase sai um portugl√™s!
 
 
 

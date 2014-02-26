@@ -8,8 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import static java.lang.String.format;
-import static org.apache.commons.lang.StringUtils.defaultString;
-import static org.apache.commons.lang.StringUtils.isNotBlank;
+import static org.apache.commons.lang.StringUtils.*;
 
 public abstract class ManipuladorTag {
     private static final PegDownProcessor PROCESSOR = new PegDownProcessor();
@@ -20,7 +19,7 @@ public abstract class ManipuladorTag {
 
     public abstract String obtemCodigo(String rawAttrs, Map<String, String> attrs, String corpo);
 
-    private static final Map<String, ManipuladorTag> MANIPULADORES = new TreeMap<String, ManipuladorTag>(String.CASE_INSENSITIVE_ORDER) {{
+    private static final Map<String, ManipuladorTag> MANIPULADORES = new TreeMap<String, ManipuladorTag>() {{
         put("caption", new ManipuladorTag() {
             @Override
             public String obtemCodigo(String rawAttrs, Map<String, String> attrs, String corpo) {
@@ -43,12 +42,16 @@ public abstract class ManipuladorTag {
             @Override
             public String obtemCodigo(String rawAttrs, Map<String, String> attrs, String corpo) {
                 String id = rawAttrs.replaceAll(".*id=(\\d+).*", "$1");
-                return format("<iframe src=\"http://www.slideshare.net/slideshow/embed_code/%s\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%%;\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\">%s</div>", id, corpo);
+
+                if (isBlank(id))
+                    return null;
+
+                return format("<iframe src=\"http://www.slideshare.net/slideshow/embed_code/%s\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%%;\" allowfullscreen></iframe>", id);
             }
         });
         put("youtube", new ManipuladorTag() {
             @Override
-            public String obtemCodigo(String rawAttrs, Map<String, String> attrs, String corpo) {
+            public String obtemCodigo(String rawAttrs, Map <String, String> attrs, String corpo) {
                 String id = rawAttrs.replaceAll(".*v=(\\p{Alnum}+).*", "$1");
                 return format("<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/%s\" frameborder=\"0\" allowfullscreen></iframe>", id);
             }

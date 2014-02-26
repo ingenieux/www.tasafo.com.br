@@ -4,34 +4,34 @@ tags=blog
 type=post
 title=#tasafoemacao Business Edition com Manoel Pimentel
 ~~~~~~
-Começamos o ano de 2011 com uma grande novidade: o **1º #tasafoemacao a ser realizado em ambiente empresarial**, com o apoio da **[Cobra Tecnologia](http://www.cobra.com.br)** e o **[Banco da Amazônia (BASA)](http://www.bancodaamazonia.com.br)**! E dessa vez teremos a ilustre presença de [Manoel Pimentel](http://www.twitter.com/manoelp), _Agile Coach and Trainner _e editor chefe da revista [Visão Ágil](http://www.visaoagil.com/), considerado uma das referências sobre agilidade, atualmente trabalhando na [Adaptworks](http://www.adaptworks.com.br).
+ComeÃ§amos o ano de 2011 com uma grande novidade: o **1Âº #tasafoemacao a ser realizado em ambiente empresarial**, com o apoio da **[Cobra Tecnologia](http://www.cobra.com.br)** e o **[Banco da AmazÃ´nia (BASA)](http://www.bancodaamazonia.com.br)**! E dessa vez teremos a ilustre presenÃ§a de [Manoel Pimentel](http://www.twitter.com/manoelp), _Agile Coach and Trainner _e editor chefe da revista [VisÃ£o Ãgil](http://www.visaoagil.com/),Â considerado uma das referÃªncias sobre agilidade,Â atualmente trabalhando na [Adaptworks](http://www.adaptworks.com.br).
 
 <!-- more -->
 
-Esse evento é um marco pois **eleva a Cobra Tecnologia como a 1ª Fábrica de Software em Belém a apoiar eventos sobre agile na nossa região**. Ao término do evento, **serão distribuídos brindes da grife Tá Safo**. E ainda mais: a entrada é** FRANCA**! Avisem seus amigos, colegas de trabalho, gerentes ( que irão liberar para assistir, com certeza! ), vizinhos, ... sobre este evento imperdível! Vamos lotar o auditório, galera! :) Segue abaixo mais informações do evento:
+Esse evento Ã© um marco pois **eleva a Cobra Tecnologia como a 1Âª FÃ¡brica de Software em BelÃ©m a apoiar eventos sobreÂ agile na nossa regiÃ£o**. Ao tÃ©rmino do evento, **serÃ£o distribuÃ­dos brindes da grife TÃ¡ Safo**. E ainda mais: a entrada Ã©** FRANCA**!Â Avisem seus amigos, colegas de trabalho, gerentes ( que irÃ£o liberar para assistir, com certeza! ),Â vizinhos, ... sobre este evento imperdÃ­vel! Vamos lotar o auditÃ³rio, galera! :) Segue abaixo mais informaÃ§Ãµes do evento:
 
-**Título da Palestra:** "Puxirum" Ágil
+**TÃ­tulo da Palestra:** "Puxirum" Ãgil
 
 **Palestrante:** Manoel Pimentel
 
-**Data e Horário:** 03/01/2011 às 15h (o auditório só está disponível no horário de expediente)
+**Data e HorÃ¡rio:** 03/01/2011 Ã s 15h (o auditÃ³rio sÃ³ estÃ¡ disponÃ­vel no horÃ¡rio de expediente)
 
-**Local:** Auditório principal do BASA (15º andar)
+**Local:** AuditÃ³rio principal do BASA (15Âº andar)
 
-**Descrição do Evento:**
+**DescriÃ§Ã£o do Evento:**
 
-Faremos dentro do Tá Safo em ação, um "evento" chamado "Puxirum Ágil (ver termo: [http://suruaca.redemocoronga.org.br/2010/10/21/puxirum-a-festa-no-rocado/](http://suruaca.redemocoronga.org.br/2010/10/21/puxirum-a-festa-no-rocado/) ). Nesse puxirum nós construiremos um conhecimento de forma extremamente colaborativa e descontraída. Para atingir esse objetivo, no primeiro momento, Manoel Pimentel abordará, em forma de bate-papo, 3 macro-temas sobre agile. Esses macro-temas serão definidos na hora pelos próprios participantes, onde eles poderão escolher 3 temas diferentes entre as seguintes opções:
+Faremos dentro do TÃ¡ Safo em aÃ§Ã£o, um "evento" chamado "Puxirum Ãgil (ver termo: [http://suruaca.redemocoronga.org.br/2010/10/21/puxirum-a-festa-no-rocado/](http://suruaca.redemocoronga.org.br/2010/10/21/puxirum-a-festa-no-rocado/) ).Â Nesse puxirum nÃ³s construiremos um conhecimento de forma extremamente colaborativa e descontraÃ­da. Para atingir esse objetivo, no primeiro momento,Â Manoel Pimentel abordarÃ¡, em forma de bate-papo, 3 macro-temas sobre agile. Esses macro-temas serÃ£o definidos na hora pelos prÃ³prios participantes, onde eles poderÃ£o escolher 3 temas diferentes entre as seguintes opÃ§Ãµes:
 
-- Agile e Governança Corporativa
+- Agile e GovernanÃ§a Corporativa
 
-- Lidando com impedimentos políticos e organizacionais
+- Lidando com impedimentos polÃ­ticos e organizacionais
 
-- Técnicas de Coaching para adoção de Agile
+- TÃ©cnicas de Coaching para adoÃ§Ã£o de Agile
 
-- Competências necessárias ao papéis do Scrum
+- CompetÃªncias necessÃ¡rias ao papÃ©is do Scrum
 
-- Migrando do comando e controle para a auto-organização
+- Migrando do comando e controle para a auto-organizaÃ§Ã£o
 
 - Scrum e Kanban - Ema, ema, ema, cada um com seus "pobrema"!
 
-Num segundo momento, faremos um WorldCafé (uma dinâmica de construção colaborativa de conhecimento) sobre um tema livre a ser sugerido pelos participantes. Acreditamos que gasteremos um total de 02:30 em todo esse osso puxirum!
+Num segundo momento, faremos um WorldCafÃ© (uma dinÃ¢mica de construÃ§Ã£o colaborativa de conhecimento) sobre um tema livre a ser sugerido pelos participantes.Â Acreditamos que gasteremos um total de 02:30 em todo esse osso puxirum!

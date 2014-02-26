@@ -2,53 +2,53 @@ status=published
 date=2011-03-30
 tags=blog
 type=post
-title=Por que XP não funciona?
+title=Por que XP nÃ£o funciona?
 ~~~~~~
-![Um xis e um pê estilizados com o texto "Extreme Programming" embaixo](http://www.extremeprogramming.org/images/xplogo.gif)Nosso amigo [Luiz "farol" Sanches](http://luizsanches.wordpress.com/) atualmente está concluindo seus estudos sobre agilidade no [C.E.S.A.R.](http://www.cesar.org.br/) em Recife.  Na reta final de seu curso pegou uma tarefa interessante: relacionar quais os motivos pelos quais [eXtreme Programming](http://www.extremeprogramming.org/) pode não funcionar.  O assunto acabou gerando uma discussão interessante na [lista](http://br.groups.yahoo.com/group/safos/) que tentaremos sintetizar e compartilhar aqui.
+![Um xis e um pÃª estilizados com o texto "Extreme Programming" embaixo](http://www.extremeprogramming.org/images/xplogo.gif)Nosso amigo [Luiz "farol" Sanches](http://luizsanches.wordpress.com/) atualmente estÃ¡ concluindo seus estudos sobre agilidade no [C.E.S.A.R.](http://www.cesar.org.br/) em Recife.Â  Na reta final de seu curso pegou uma tarefa interessante: relacionar quais os motivos pelos quais [eXtreme Programming](http://www.extremeprogramming.org/) pode nÃ£o funcionar.Â  O assunto acabou gerando uma discussÃ£o interessante na [lista](http://br.groups.yahoo.com/group/safos/) que tentaremos sintetizar e compartilhar aqui.
 
 <!-- more -->
 
-As primeiras respostas foram bastante enfáticas e consisas.  O colega [Mauro Folha](http://twitter.com/maurofolha) destacou o que considera ser o fator fundamental para o sucesso de XP:
+As primeiras respostas foram bastante enfÃ¡ticas e consisas.Â  O colega [Mauro Folha](http://twitter.com/maurofolha) destacou o que considera ser o fator fundamental para o sucesso de XP:
 
 
 > 
 
 > 
-> Amigo Sanches, Confiança! Confiança! Confiança!!! se não houver isso esqueça o XP.
+> Amigo Sanches, ConfianÃ§a! ConfianÃ§a! ConfianÃ§a!!! se nÃ£o houver isso esqueÃ§a o XP.
 
 
-Já o [Paulo Moura](http://twitter.com/paulociecomp), também de forma bem sintética, preferiu apontar:
+JÃ¡ o [Paulo Moura](http://twitter.com/paulociecomp), tambÃ©m de forma bem sintÃ©tica, preferiu apontar:
 
 
-> Cara (..), mas só existe uma forma do XP não dar certo. Se as pessoas não estiverem dispostas a adotá-lo.
+> Cara (..), mas sÃ³ existe uma forma do XP nÃ£o dar certo. Se as pessoas nÃ£o estiverem dispostas a adotÃ¡-lo.
 
 
-Para o [Marcelo Andrade](http://twitter.com/mfandrade), o grau de prescritividade do XP pode ser um fator que dificulte sua adoção principalmente em equipes iniciantes, dadas, entre outras coisas, as exigências sobre práticas de engenharia (como [CI](http://www.google.com/search?q=define%3Aic), [TDD](http://www.google.com/search?q=define%3Atdd), etc).  Nesse sentido, Marcelo também mencionou a questão cultural, que também pode dificultar a adoção de certos fatores fundamentais (como transparência, confiança, feedback constante, etc) caso as pessoas não saibam lidar adequadamente com isso.
+Para o [Marcelo Andrade](http://twitter.com/mfandrade), o grau de prescritividade do XP pode ser um fator que dificulte sua adoÃ§Ã£o principalmente em equipes iniciantes, dadas, entre outras coisas, as exigÃªncias sobre prÃ¡ticas de engenharia (como [CI](http://www.google.com/search?q=define%3Aic), [TDD](http://www.google.com/search?q=define%3Atdd), etc).Â  Nesse sentido, Marcelo tambÃ©m mencionou a questÃ£o cultural, que tambÃ©m pode dificultar a adoÃ§Ã£o de certos fatores fundamentais (como transparÃªncia, confianÃ§a, feedback constante, etc) caso as pessoas nÃ£o saibam lidar adequadamente com isso.
 
-[Adriano Ohana](http://aohana.wordpress.com/) reforçou o entendimento das respostas anteriores que eventuais insucessos de XP podem estar relacionados, no fim das contas, ao medo.  Para ele, o "medo do que pode dar errado" acaba por tolhir as pessoas de várias possíveis conquistas futuras.  Ele [ilustra](http://br.groups.yahoo.com/group/safos/message/4095) seu ponto de vista com uma interessante analogia com o cenário de aplicações financeiras:
-
-
-> [Por exemplo,] O cara não entende como funciona o dinheiro, não entende como funciona o mercado e quando você fala que ele deve arriscar o seu dinheiro, o olho cresce e o medo de perder perpetua. O cara te olha como um E.T que está fazendo algo que só os caras bem-sucedidos conseguem fazer e automaticamente se exclui desse grupo. Ou seja, como se ser bem sucedido fosse um dom concedido apenas a alguns e não algo que fosse conquistado. Aí começam a aparecer palavras como 'sorte', 'acaso', 'fé', etc...
+[Adriano Ohana](http://aohana.wordpress.com/) reforÃ§ou o entendimento das respostas anteriores que eventuais insucessos de XP podem estar relacionados, no fim das contas, ao medo.Â  Para ele, o "medo do que pode dar errado" acaba por tolhir as pessoas de vÃ¡rias possÃ­veis conquistas futuras.Â  Ele [ilustra](http://br.groups.yahoo.com/group/safos/message/4095) seu ponto de vista com uma interessante analogia com o cenÃ¡rio de aplicaÃ§Ãµes financeiras:
 
 
-Já Michel Montenegro pondera que é preciso reconhecer que XP não é a solução para tudo.  Podem existir situações em que simplesmente não seja adequado utilizá-lo.
+> [Por exemplo,] O cara nÃ£o entende como funciona o dinheiro, nÃ£o entende como funciona o mercado e quando vocÃª fala que ele deve arriscar o seu dinheiro, o olho cresce e o medo de perder perpetua. O cara te olha como um E.T que estÃ¡ fazendo algo que sÃ³ os caras bem-sucedidos conseguem fazer e automaticamente se exclui desse grupo. Ou seja, como se ser bem sucedido fosse um dom concedido apenas a alguns e nÃ£o algo que fosse conquistado. AÃ­ comeÃ§am a aparecer palavras como 'sorte', 'acaso', 'fÃ©', etc...
 
 
-> XP é bom? Sim é!
-XP é a solução pra TUDO? Não! Analisar a realidade da empresa e das pessoas que fazem parte dela vai te mostra se XP é valido ou não, e se outras metodologias e métodos são aplicáveis (..)
+JÃ¡ Michel Montenegro pondera que Ã© preciso reconhecer que XP nÃ£o Ã© a soluÃ§Ã£o para tudo.Â  Podem existir situaÃ§Ãµes em que simplesmente nÃ£o seja adequado utilizÃ¡-lo.
 
 
-Michel [menciona](http://br.groups.yahoo.com/group/safos/message/4096) ainda que deve sempre haver cautela na adoção de qualquer coisa num ambiente de tecnologia (para não fazer nada apenas para seguir a "onda do momento") e que planejamento no processo de adoção e atenção aos riscos é sempre necessário.
+> XP Ã© bom? Sim Ã©!
+XP Ã© a soluÃ§Ã£o pra TUDO? NÃ£o! Analisar a realidade da empresa e das pessoas que fazem parte dela vai te mostra se XP Ã© valido ou nÃ£o, e se outras metodologias e mÃ©todos sÃ£o aplicÃ¡veis (..)
+
+
+Michel [menciona](http://br.groups.yahoo.com/group/safos/message/4096) ainda que deve sempre haver cautela na adoÃ§Ã£o de qualquer coisa num ambiente de tecnologia (para nÃ£o fazer nada apenas para seguir a "onda do momento") e que planejamento no processo de adoÃ§Ã£o e atenÃ§Ã£o aos riscos Ã© sempre necessÃ¡rio.
 
 Complementando o ponto de vista de Michel, Adriano [concorda](http://br.groups.yahoo.com/group/safos/message/4103) mas deixa a instigante pergunta no ar:
 
 
-> Ouso refazer a sua pergunta e respondê-la de outra forma:
-XP é a solução pra TUDO? a pergunta seria... XP pode estar incluso na Solução pra tudo? SIM
+> Ouso refazer a sua pergunta e respondÃª-la de outra forma:
+XP Ã© a soluÃ§Ã£o pra TUDO? a pergunta seria... XP pode estar incluso na SoluÃ§Ã£o pra tudo? SIM
 
 
-E você, o que acha?  Consegue identificar outros pontos em que podem fazer com que XP não funcione?  Se já adota XP, que dificuldades teve e como sua equipe as superou?  Você concorda que, com os devidos cuidados, sempre dá pra adotar agilidade em maior ou menor grau mesmo em qualquer situação?
+E vocÃª, o que acha?Â  Consegue identificar outros pontos em que podem fazer com que XP nÃ£o funcione?Â  Se jÃ¡ adota XP, que dificuldades teve e como sua equipe as superou?Â  VocÃª concorda que, com os devidos cuidados, sempre dÃ¡ pra adotar agilidade em maior ou menor grau mesmo em qualquer situaÃ§Ã£o?
 
-Deixe sua opinião nos comentários.
-  *[CI]: Integração Contínua
+Deixe sua opiniÃ£o nos comentÃ¡rios.
+  *[CI]: IntegraÃ§Ã£o ContÃ­nua
   *[TDD]: Desenvolvimento Orientado a Testes

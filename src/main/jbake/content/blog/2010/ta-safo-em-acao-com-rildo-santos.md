@@ -2,15 +2,15 @@ status=published
 date=2010-08-19
 tags=blog
 type=post
-title=Tá Safo em Ação com Rildo Santos
+title=TÃ¡ Safo em AÃ§Ã£o com Rildo Santos
 ~~~~~~
-Dando continuídade ao post anterior...
+Dando continuÃ­dade ao post anterior...
 
 
-#### [_Quem vai ao Pará, parou! Tomou açaí, ficou no Tá Safo em Ação!_](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/)
+#### [_Quem vai ao ParÃ¡, parou! Tomou aÃ§aÃ­, ficou no TÃ¡ Safo emÂ AÃ§Ã£o!_](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/)
 
 
-O [Rildo Santos](http://rildosan.blogspot.com/) vai estar  em nosso Pará na próxima semana e participará junto com a comunidade de mais um encontro do Tá Safo em Ação Especial. O Rildo dará um mini-workshop **Scrum Product Owner - Delírios de um PO em um dia de verão**.
+O [Rildo Santos](http://rildosan.blogspot.com/) vai estar Â em nosso ParÃ¡ na prÃ³xima semana e participarÃ¡ junto com a comunidade de mais um encontro do TÃ¡ Safo em AÃ§Ã£o Especial. O Rildo darÃ¡ um mini-workshop **Scrum Product Owner - DelÃ­rios de um PO em um dia de verÃ£o**.
 
 
 [![](http://tasafo.files.wordpress.com/2010/08/eventopobelempa21.jpg)](http://tasafo.files.wordpress.com/2010/08/eventopobelempa21.jpg)
@@ -19,7 +19,7 @@ O [Rildo Santos](http://rildosan.blogspot.com/) vai estar  em nosso Pará na próx
 
 
 
-Com certeza teremos muitos encontros do Tá Safo em Ação especiais pela frente, começando com esse na próxima  semana:
+Com certeza teremos muitos encontros do TÃ¡ Safo em AÃ§Ã£o especiais pela frente, comeÃ§ando com esseÂ na prÃ³xima Â semana:
 
 
 
@@ -29,12 +29,12 @@ Com certeza teremos muitos encontros do Tá Safo em Ação especiais pela frente, c
 
 
 
-**Local: Auditório do CESUPA da José Malcher.**
+**Local: AuditÃ³rio do CESUPA da JosÃ© Malcher.**
 
 
 
 
-**Horário: 19:00 às 22:00 hrs.**
+**HorÃ¡rio: 19:00 Ã s 22:00 hrs.**
 
 
 
@@ -43,4 +43,4 @@ Com certeza teremos muitos encontros do Tá Safo em Ação especiais pela frente, c
 **
 
 
-Esperamos por vocês lá. **A entrada é franca**.
+Esperamos por vocÃªs lÃ¡.Â **A entrada Ã© franca**.

@@ -2,9 +2,9 @@ status=published
 date=2009-04-30
 tags=blog
 type=post
-title=Experimente ProgramaÁ„o eXtrema
+title=Experimente Programa√ß√£o eXtrema
 ~~~~~~
-Ol· moÁada, postei no meu blog a apresentaÁ„o que fiz com meu amigo NÈlio sobre XP, apresentamos como complemento de nosso tcc. [Segue o link para o post no meu "Cafofo Web"](http://luizsanches.wordpress.com/2009/04/30/experimente-programacao-extrema/).
+Ol√° mo√ßada, postei no meu blog a apresenta√ß√£o que fiz com meu amigo N√©lio sobre XP, apresentamos como complemento de nosso tcc. [Segue o link para o post no meu "Cafofo Web"](http://luizsanches.wordpress.com/2009/04/30/experimente-programacao-extrema/).
 
 <div id="attachment_189" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
-![Experimente ProgramaÁ„o eXtrema](http://tasafo.files.wordpress.com/2009/04/xp1.png?w=300) Experimente ProgramaÁ„o eXtrema
+![Experimente Programa√ß√£o eXtrema](http://tasafo.files.wordpress.com/2009/04/xp1.png?w=300) Experimente Programa√ß√£o eXtrema

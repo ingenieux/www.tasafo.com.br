@@ -2,61 +2,61 @@ status=published
 date=2010-07-09
 tags=blog
 type=post
-title=Sobre o T· safo!
+title=Sobre o T√° safo!
 ~~~~~~
-H· muito tempo estamos sentindo falta de um texto que defina o que È a comunidade T· safo. Hoje isso tem sido  expresso atravÈs de atitudes de seus membros.
+H√° muito tempo estamos sentindo falta de um texto que defina o que √© a comunidade T√° safo. Hoje isso tem sido  expresso atrav√©s de atitudes de seus membros.
 
 
 
 
-GostarÌamos de que a comunidade colaborasse com esse texto. O  Edgar expressou em seu blog sua vis„o sobre "[O que È o T· safo?](http://edgarsilva.com.br/2009/11/30/tasafo/)"
+Gostar√≠amos de que a comunidade colaborasse com esse texto. O  Edgar expressou em seu blog sua vis√£o sobre "[O que √© o T√° safo?](http://edgarsilva.com.br/2009/11/30/tasafo/)"
 
 
 
 
-Segue um texto base, que nasceu por alguns membros  em bate-papos nos corredores de encontros do #tasasfoemacao. Expresse  vocÍ tambÈm.
+Segue um texto base, que nasceu por alguns membros  em bate-papos nos corredores de encontros do #tasasfoemacao. Expresse  voc√™ tamb√©m.
 
 
 
 
-O T· safo nasceu em 2007 quando um grupo de alunos e professores com uma [mentalidade 2.0](http://blog.seatecnologia.com.br/2009/01/12/manifesto-2-0) e entusiastas por desenvolvimento, metodologias ·geis e software livre resolveram  criar uma comunidade que n„o viesse a discutir somente tecnologia, mas muito alÈm  disso como transparÍncia, comprometimento, simplicidade, etc.
+O T√° safo nasceu em 2007 quando um grupo de alunos e professores com uma [mentalidade 2.0](http://blog.seatecnologia.com.br/2009/01/12/manifesto-2-0) e entusiastas por desenvolvimento, metodologias √°geis e software livre resolveram  criar uma comunidade que n√£o viesse a discutir somente tecnologia, mas muito al√©m  disso como transpar√™ncia, comprometimento, simplicidade, etc.
 
 
 
 
-Cada  letra da express„o T.A.S.A.F.O tem um significado: Tecnologias Abertas com  Software ¡gil, F·cil e Organizado. Mas como j· falamos no inÌcio, somos uma  comunidade que est· alÈm da tecnologia, temos princÌpios e valores que se fizermos  uma traduÁ„o do que significa T· safo, trazendo para uma proposta  filosÛfica, ficaria assim: Comunidade Aberta com Pessoas Adapt·veis, Simples e Auto-Organizadas.
+Cada  letra da express√£o T.A.S.A.F.O tem um significado: Tecnologias Abertas com  Software √Ågil, F√°cil e Organizado. Mas como j√° falamos no in√≠cio, somos uma  comunidade que est√° al√©m da tecnologia, temos princ√≠pios e valores que se fizermos  uma tradu√ß√£o do que significa T√° safo, trazendo para uma proposta  filos√≥fica, ficaria assim: Comunidade Aberta com Pessoas Adapt√°veis, Simples e Auto-Organizadas.
 
 
 
 
-A express„o T· safo È muito usada em nossa regi„o, que  significa algo como t· beleza, t· legal, expressando algo positivo ou simplesmente  pode ser representada pelo gesto legal que geralmente fazemos com as m„os,  fechando a m„o e levantando o polegar para cima. Essa representaÁ„o expressa muito  bem a nossa vibraÁ„o.
+A express√£o T√° safo √© muito usada em nossa regi√£o, que  significa algo como t√° beleza, t√° legal, expressando algo positivo ou simplesmente  pode ser representada pelo gesto legal que geralmente fazemos com as m√£os,  fechando a m√£o e levantando o polegar para cima. Essa representa√ß√£o expressa muito  bem a nossa vibra√ß√£o.
 
 
 
 
-No T· safo n„o existe um sistema hier·rquico, como lÌder ou vice-lÌder, o dono da comunidade È a prÛpria comunidade,  tudo È decidido entre os membros. O que existe s„o pessoas mais focadas em seu crescimento, ou seja, pessoas que est„o sempre em aÁ„o, fazendo as  coisas acontecerem em prol de um ˙nico objetivo ñ divulgar e trazer mais  colaboradores para a comunidade. Essa atitude nÛs chamamos de #tasafoemacao, mesmo  nome dado aos encontros que fazemos mensalmente para reunir os Safos em AÁ„o.
+No T√° safo n√£o existe um sistema hier√°rquico, como l√≠der ou vice-l√≠der, o dono da comunidade √© a pr√≥pria comunidade,  tudo √© decidido entre os membros. O que existe s√£o pessoas mais focadas em seu crescimento, ou seja, pessoas que est√£o sempre em a√ß√£o, fazendo as  coisas acontecerem em prol de um √∫nico objetivo ‚Äì divulgar e trazer mais  colaboradores para a comunidade. Essa atitude n√≥s chamamos de #tasafoemacao, mesmo  nome dado aos encontros que fazemos mensalmente para reunir os Safos em A√ß√£o.
 
 
 
 
-Apesar de sermos uma comunidade  regional, localizada em BelÈm do Par·, hoje È f·cil encontrar um #tasafoemacao pelo Brasil, participando de  eventos (marcando presenÁa), na organizaÁ„o ou apoiando a proposta da nossa  comunidade.
+Apesar de sermos uma comunidade  regional, localizada em Bel√©m do Par√°, hoje √© f√°cil encontrar um #tasafoemacao pelo Brasil, participando de  eventos (marcando presen√ßa), na organiza√ß√£o ou apoiando a proposta da nossa  comunidade.
 
 
 
 
-E  desde ent„o estamos seguindo nessa trilha de fazer muito barulho e  dizer que aqui n„o tem sÛ floresta, Ìndio e jacarÈ. O resto vocÍs podem acompanhar  nos posts em nosso blog e tambÈm no twitter @tasafo. Fiquem ‡ vontade.
+E  desde ent√£o estamos seguindo nessa trilha de fazer muito barulho e  dizer que aqui n√£o tem s√≥ floresta, √≠ndio e jacar√©. O resto voc√™s podem acompanhar  nos posts em nosso blog e tamb√©m no twitter @tasafo. Fiquem √† vontade.
 
 
 
 
-Esta comunidade È de domÌnio p˙blico. Use, abuse, contribua e participe!
+Esta comunidade √© de dom√≠nio p√∫blico. Use, abuse, contribua e participe!
 
 
 
 
-E  aqui fica o convite para participar tambÈm sendo um #tasafoemacao
+E  aqui fica o convite para participar tamb√©m sendo um #tasafoemacao
 
 
 
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/5296961" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5296961" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>

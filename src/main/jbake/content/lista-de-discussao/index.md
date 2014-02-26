@@ -2,7 +2,7 @@ status=published
 date=2009-11-10
 tags=article
 type=page
-title=Lista de discuss„o
+title=Lista de discuss√£o
 ~~~~~~
 **_Para participar da lista do grupo, mande um e-mail em branco para_**
 _[safos-subscribe@yahoogrupos.com.br](safos-subscribe@yahoogrupos.com.br)_
@@ -10,7 +10,7 @@ _[safos-subscribe@yahoogrupos.com.br](safos-subscribe@yahoogrupos.com.br)_
 
 
 
-**_Para enviar mensagens para o grupo, o e-mail È_**
+**_Para enviar mensagens para o grupo, o e-mail √©_**
 **[safos@yahoogrupos.com.br](safos@yahoogrupos.com.br)**
 
 

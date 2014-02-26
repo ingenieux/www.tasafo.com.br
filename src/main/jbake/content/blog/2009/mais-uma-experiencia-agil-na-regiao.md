@@ -2,12 +2,12 @@ status=published
 date=2009-10-07
 tags=blog
 type=post
-title=Mais uma experiência Ágil na região!!!
+title=Mais uma experiÃªncia Ãgil na regiÃ£o!!!
 ~~~~~~
-Olá a todos os leitores do blog do TÁ SAFO, eu sou o Paulo Igor, novo colaborador do grupo, a partir de hoje inicio minha jornada de publicações aqui no blog, agradeço a todos do grupo TÁ SAFO pelo convite, valeu!
+OlÃ¡ a todos os leitores do blog do TÃ SAFO, eu sou o Paulo Igor, novo colaborador do grupo, a partir de hoje inicio minha jornada de publicaÃ§Ãµes aqui no blog, agradeÃ§o a todos do grupo TÃ SAFO pelo convite, valeu!
 
-Vou iniciar com uma referência a minha última experiência que foi bem interessante. Belém começa a entrar no circuito do movimento ágil com várias iniciativas que estão surgindo...toda essa movimentação vocês acompanham aqui no blog do TÁ SAFO e no meu blog [Melhoria Contínua](http://blog.pigor.net) ...o último post publicado foi sobre o Workshop de Metodologias Ágeis que eu conduzi junto a equipe da BS Services que presta serviços para a Cobra Tecnologia no Banco da Amazônia, leia mais acessando o post [aqui](http://pauloigor.blogspot.com/2009/10/workshop-de-metodologias-ageis.html).
+Vou iniciar com uma referÃªncia a minha Ãºltima experiÃªncia que foi bem interessante. BelÃ©m comeÃ§a a entrar no circuito do movimento Ã¡gil com vÃ¡rias iniciativas que estÃ£o surgindo...toda essa movimentaÃ§Ã£o vocÃªs acompanham aqui no blog do TÃ SAFO e no meu blogÂ [Melhoria ContÃ­nua](http://blog.pigor.net) ...o Ãºltimo post publicado foi sobre o Workshop de Metodologias Ãgeis que eu conduzi junto a equipe da BS Services que presta serviÃ§os para a Cobra Tecnologia no Banco da AmazÃ´nia, leia mais acessando o post [aqui](http://pauloigor.blogspot.com/2009/10/workshop-de-metodologias-ageis.html).
 
-Muitas novidades virão, aguardem!
+Muitas novidades virÃ£o, aguardem!
 
-Abraços!
+AbraÃ§os!

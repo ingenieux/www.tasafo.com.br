@@ -2,96 +2,96 @@ status=published
 date=2009-06-04
 tags=blog
 type=post
-title=Relatos do Vis„o ¡gil Academic Meeting
+title=Relatos do Vis√£o √Ågil Academic Meeting
 ~~~~~~
 <div id="attachment_287" class="wp-caption" align="alignleft" style="width: 122px"><p class="wp-caption-text"></p></div>
 [![Foto: Manoel Pimentel](http://tasafo.files.wordpress.com/2009/06/3584027109_68274d93b4_o.jpg?w=112)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/1/3584027109) Foto: Manoel Pimentel
 
-Aconteceu no ˙ltimo s·bado, 30 de maio, na faculdade IESAM o [I Vis„o ¡gil AcadÍmic Meeting](http://pt.wordpress.com/tag/vaam/) em BelÈm, evento promovido pela [Vis„o ¡gil](http://visaoagil.wordpress.com) e pelo grupo [TASAFO](http://www.tasafo.org) com apoio do [IESAM](http://www.iesam-pa.edu.br) e [EquilibriumWeb](http://www.equilibriumweb.com).
+Aconteceu no √∫ltimo s√°bado, 30 de maio, na faculdade IESAM o [I Vis√£o √Ågil Acad√™mic Meeting](http://pt.wordpress.com/tag/vaam/) em Bel√©m, evento promovido pela [Vis√£o √Ågil](http://visaoagil.wordpress.com) e pelo grupo [TASAFO](http://www.tasafo.org) com apoio do [IESAM](http://www.iesam-pa.edu.br) e [EquilibriumWeb](http://www.equilibriumweb.com).
 
-**P˙blico**
+**P√∫blico**
 
-Apesar de a chuva ter eventualmente dificultado um maior comparecimento, boa parte dos cerca de 200 inscritos no site do TASAFO estiveram presentes. O evento pode contar com a participaÁ„o de v·rios professores e coordenadores de curso da ·rea de inform·tica, profissionais de tecnologia e principalmente estudantes universit·rios.
+Apesar de a chuva ter eventualmente dificultado um maior comparecimento, boa parte dos cerca de 200 inscritos no site do TASAFO estiveram presentes. O evento pode contar com a participa√ß√£o de v√°rios professores e coordenadores de curso da √°rea de inform√°tica, profissionais de tecnologia e principalmente estudantes universit√°rios.
 
-**<!-- more -->Abertura do evento e palestras da manh„**
+**<!-- more -->Abertura do evento e palestras da manh√£**
 
-¿s 9h da manh„, os colegas Henrique Fontenele e Luiz Sanches fizeram a abertura oficial do evento. [Henrique](http://www.henriquefontenele.com) iniciou falando sobre o surgimento do TASAFO, divulgando os objetivos e atividades desempenhadas pelo grupo, com destaque para as parcerias e o apoio institucional no ‚mbito acadÍmico, em especial a nova parceria com a Vis„o ¡gil que se inicia na realizaÁ„o do evento.
+√Äs 9h da manh√£, os colegas Henrique Fontenele e Luiz Sanches fizeram a abertura oficial do evento. [Henrique](http://www.henriquefontenele.com) iniciou falando sobre o surgimento do TASAFO, divulgando os objetivos e atividades desempenhadas pelo grupo, com destaque para as parcerias e o apoio institucional no √¢mbito acad√™mico, em especial a nova parceria com a Vis√£o √Ågil que se inicia na realiza√ß√£o do evento.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 330px"><p class="wp-caption-text"></p></div>
 [![Henrique na abertura do evento](http://farm4.static.flickr.com/3415/3584028893_17ef91f101_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/4/3584028893#subnavigation) Henrique na abertura do evento
 
-Na sequÍncia, [Luiz Sanches](http://luizsanches.wordpress.com), de forma bem descontraÌda, fez uma breve retrospectiva e um balanÁo dos primeiros 2 anos do grupo tasafo. Relembrou a atuaÁ„o do grupo na disseminaÁ„o de tecnologias, formaÁıes de grupos de estudo, eventos e semin·rios acadÍmicos, alÈm da [participaÁ„o no FISL em 2008](http://luizsanches.wordpress.com/category/fisl/), onde iniciaram-se articulaÁıes do grupo no cen·rio nacional ó incluindo contatos dos paraenses distantes em terras ga˙chas. Um vÌdeo com a surpresa do primeiro encontro com o paraense Manoel Pimentel na ocasi„o tambÈm foi uma boa recordaÁ„o.
+Na sequ√™ncia, [Luiz Sanches](http://luizsanches.wordpress.com), de forma bem descontra√≠da, fez uma breve retrospectiva e um balan√ßo dos primeiros 2 anos do grupo tasafo. Relembrou a atua√ß√£o do grupo na dissemina√ß√£o de tecnologias, forma√ß√µes de grupos de estudo, eventos e semin√°rios acad√™micos, al√©m da [participa√ß√£o no FISL em 2008](http://luizsanches.wordpress.com/category/fisl/), onde iniciaram-se articula√ß√µes do grupo no cen√°rio nacional ‚Äî incluindo contatos dos paraenses distantes em terras ga√∫chas. Um v√≠deo com a surpresa do primeiro encontro com o paraense Manoel Pimentel na ocasi√£o tamb√©m foi uma boa recorda√ß√£o.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 330px"><p class="wp-caption-text"></p></div>
-[![Sanches fez um balanÁo dos primeiros 2 anos do TaSAFO](http://farm4.static.flickr.com/3660/3584842588_2fc9190972_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/15/3584842588#subnavigation) Sanches fez um balanÁo dos primeiros 2 anos do TASAFO
+[![Sanches fez um balan√ßo dos primeiros 2 anos do TaSAFO](http://farm4.static.flickr.com/3660/3584842588_2fc9190972_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/15/3584842588#subnavigation) Sanches fez um balan√ßo dos primeiros 2 anos do TASAFO
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 330px"><p class="wp-caption-text"></p></div>
-[![Primeiros contatos entre TaSAFO e Vis„o ¡gil no FISL 2008](http://farm4.static.flickr.com/3600/3584038191_99119fd3a7_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/21/3584038191#subnavigation) Primeiros contatos entre TASAFO e Vis„o ¡gil no FISL 2008
+[![Primeiros contatos entre TaSAFO e Vis√£o √Ågil no FISL 2008](http://farm4.static.flickr.com/3600/3584038191_99119fd3a7_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1/21/3584038191#subnavigation) Primeiros contatos entre TASAFO e Vis√£o √Ågil no FISL 2008
 
 
-[Veja o vÌdeo pelo blog do Victor Hugo](http://malditacomedia.blogspot.com/2008/04/fisl-segundo-dia.html)
+[Veja o v√≠deo pelo blog do Victor Hugo](http://malditacomedia.blogspot.com/2008/04/fisl-segundo-dia.html)
 
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/1530916" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/1530916" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
-Ao final da manh„ foi a vez de Manoel Pimentel. O editor e lÌder da revista Vis„o ¡gil ressaltou a import‚ncia do evento, destacando o papel do grupo TASAFO em disseminar conhecimento tÈcnico e metodologias ·geis tal como o sua prÈvia iniciativa com o grupo [XP Norte](http://br.groups.yahoo.com/group/xpnorte/). Manoel tambÈm mostrou que veste a camisa (literalmente). ![:-)](https://s-ssl.wordpress.com/wp-includes/images/smilies/icon_smile.gif)
+Ao final da manh√£ foi a vez de Manoel Pimentel. O editor e l√≠der da revista Vis√£o √Ågil ressaltou a import√¢ncia do evento, destacando o papel do grupo TASAFO em disseminar conhecimento t√©cnico e metodologias √°geis tal como o sua pr√©via iniciativa com o grupo [XP Norte](http://br.groups.yahoo.com/group/xpnorte/). Manoel tamb√©m mostrou que veste a camisa (literalmente). ![:-)](https://s-ssl.wordpress.com/wp-includes/images/smilies/icon_smile.gif)
 
-Manoel prosseguiu com a palestra ì_Desenvolvimento ¡gil com Scrum, Lean e FDD_î de forma muito movimentada, din‚mica e explicativa. Deixou claro que, como em qualquer atividade do ser humano, agile pode envolver mudanÁas culturais e que se adaptar a mudanÁas pode n„o ser t„o simples.
+Manoel prosseguiu com a palestra ‚Äú_Desenvolvimento √Ågil com Scrum, Lean e FDD_‚Äù de forma muito movimentada, din√¢mica e explicativa. Deixou claro que, como em qualquer atividade do ser humano, agile pode envolver mudan√ßas culturais e que se adaptar a mudan√ßas pode n√£o ser t√£o simples.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 330px"><p class="wp-caption-text"></p></div>
-[![Cruzar os braÁos ao contr·rio È um bom exemplo de como pode ser difÌcil mudar h·bitos e costumes.](http://lh4.ggpht.com/_1EVtsuzLKmc/SiHAymQYROI/AAAAAAAAAVA/7Y2gr2WiHho/s512/DSC01720.JPG)](http://picasaweb.google.com.br/mfandrade/WorkshopVisaoAgilAcademicMeetingTaSafo#5341762608533357794) Cruzar os braÁos ao contr·rio È um bom exemplo de como pode ser difÌcil mudar h·bitos e costumes.
+[![Cruzar os bra√ßos ao contr√°rio √© um bom exemplo de como pode ser dif√≠cil mudar h√°bitos e costumes.](http://lh4.ggpht.com/_1EVtsuzLKmc/SiHAymQYROI/AAAAAAAAAVA/7Y2gr2WiHho/s512/DSC01720.JPG)](http://picasaweb.google.com.br/mfandrade/WorkshopVisaoAgilAcademicMeetingTaSafo#5341762608533357794) Cruzar os bra√ßos ao contr√°rio √© um bom exemplo de como pode ser dif√≠cil mudar h√°bitos e costumes.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 331px"><p class="wp-caption-text"></p></div>
-[![RobÙs para ilustrar como comando-controle È mais ineficiente que auto-organizaÁ„o.](http://farm4.static.flickr.com/3297/3584051491_fa41b22b4c_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/2/23/3584051491#subnavigation) RobÙs para ilustrar como comando-controle È mais ineficiente que auto-organizaÁ„o.
+[![Rob√¥s para ilustrar como comando-controle √© mais ineficiente que auto-organiza√ß√£o.](http://farm4.static.flickr.com/3297/3584051491_fa41b22b4c_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/2/23/3584051491#subnavigation) Rob√¥s para ilustrar como comando-controle √© mais ineficiente que auto-organiza√ß√£o.
 
-Fazendo valer valores do manifesto ·gil, Manoel apresentou, com muitas analogias e met·foras, diversos pontos de sua experiÍncia no mundo ·gil. Combateu alguns mitos que envolvem _agile_ e esclareceu conceitos. Por exemplo, com a f·bula da lebre e a tartarura,destacou que h· muitas pessoas que consideram **erroneamente** que ìser ·gilî signifique ìdesenvolver r·pidoî. Na f·bula, segundo ele, a **tartaruga** representa melhor os princÌpios ·geis que a lebre, justamente por ter foco, determinaÁ„o, disciplina e fazer aos poucos mas fazer bem feito.
+Fazendo valer valores do manifesto √°gil, Manoel apresentou, com muitas analogias e met√°foras, diversos pontos de sua experi√™ncia no mundo √°gil. Combateu alguns mitos que envolvem _agile_ e esclareceu conceitos. Por exemplo, com a f√°bula da lebre e a tartarura,destacou que h√° muitas pessoas que consideram **erroneamente** que ‚Äúser √°gil‚Äù signifique ‚Äúdesenvolver r√°pido‚Äù. Na f√°bula, segundo ele, a **tartaruga** representa melhor os princ√≠pios √°geis que a lebre, justamente por ter foco, determina√ß√£o, disciplina e fazer aos poucos mas fazer bem feito.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 330px"><p class="wp-caption-text"></p></div>
 ![A TARTARUGA representa melhor os principios ageis do que a lebre](http://emersonfialho.files.wordpress.com/2008/07/a-tartaruga-e-a-lebre.jpg) A TARTARUGA representa melhor os principios ageis do que a lebre
 
-De sua experiÍncia, Manoel tambÈm mostrou brevemente alguns cases de utilizaÁ„o e consultoria de adoÁ„o de Scrum em v·rios locais bem como sua experiÍncia com Scrum com XP, FDD e Lean.
+De sua experi√™ncia, Manoel tamb√©m mostrou brevemente alguns cases de utiliza√ß√£o e consultoria de ado√ß√£o de Scrum em v√°rios locais bem como sua experi√™ncia com Scrum com XP, FDD e Lean.
 
-Com uma din‚mica simples e bem divertida junto ‡ platÈia, Manoel tambÈm exemplificou a import‚ncia do manifesto ·gil e de como colaboraÁ„o com o cliente È preferivel sobre negociaÁ„o de contratos quando h· uma relaÁ„o de confianÁa. A galera gostou!
+Com uma din√¢mica simples e bem divertida junto √† plat√©ia, Manoel tamb√©m exemplificou a import√¢ncia do manifesto √°gil e de como colabora√ß√£o com o cliente √© preferivel sobre negocia√ß√£o de contratos quando h√° uma rela√ß√£o de confian√ßa. A galera gostou!
 
-**AlmoÁo**
+**Almo√ßo**
 
-Ao final da manh„, um grupo de cerca de 20 pessoas entre integrantes do TASAFO e demais participantes fomos todos a um almoÁo com Manoel no Jardinís RestÙ, no Largo do Redondo da Avenida NazarÈ em BelÈm. Bons momentos de confraternizaÁ„o!
+Ao final da manh√£, um grupo de cerca de 20 pessoas entre integrantes do TASAFO e demais participantes fomos todos a um almo√ßo com Manoel no Jardin‚Äôs Rest√¥, no Largo do Redondo da Avenida Nazar√© em Bel√©m. Bons momentos de confraterniza√ß√£o!
 
 <div id="attachment_305" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
-![AlmoÁo no Jardim RestÙ](http://tasafo.files.wordpress.com/2009/06/vaam-28.jpg?w=300) AlmoÁo no Jardin's RestÙ
+![Almo√ßo no Jardim Rest√¥](http://tasafo.files.wordpress.com/2009/06/vaam-28.jpg?w=300) Almo√ßo no Jardin's Rest√¥
 
 **Workshop**
 
-** **ApÛs uma fina chuva da tarde, o evento reiniciou ‡s 15h com o (mini) workshop sobre pr·ticas ·geis. Manoel primeiramente definiu e esclareceu conceitos de desenvolvimento ·gil com abordagem de [teoria das restriÁıes](http://pt.wikipedia.org/wiki/Teoria_das_restri%C3%A7%C3%B5es). TambÈm ilustrou a dimens„o que problemas de comunicaÁ„o podem ter em ambientes colaborativos (como equipes de desenvolvimento de software) com a cÈlebre brincadeira do telefone-sem-fio. Tudo num clima muito amistoso e de muita descontraÁ„o!
+** **Ap√≥s uma fina chuva da tarde, o evento reiniciou √†s 15h com o (mini) workshop sobre pr√°ticas √°geis. Manoel primeiramente definiu e esclareceu conceitos de desenvolvimento √°gil com abordagem de [teoria das restri√ß√µes](http://pt.wikipedia.org/wiki/Teoria_das_restri%C3%A7%C3%B5es). Tamb√©m ilustrou a dimens√£o que problemas de comunica√ß√£o podem ter em ambientes colaborativos (como equipes de desenvolvimento de software) com a c√©lebre brincadeira do telefone-sem-fio. Tudo num clima muito amistoso e de muita descontra√ß√£o!
 
 <div id="attachment_306" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
 ![Telefone sem fio](http://tasafo.files.wordpress.com/2009/06/telefone_sem_fio.jpg?w=300) Telefone sem fio
 
-De volta ‡s atividades e com as cadeiras do auditÛrio reorganizadas, v·rios grupos de 5 pessoas foram formados. Sob coordenaÁ„o de Manoel, logo descobrimos que Èramos na verdade editoras respons·veis por apresentar o projeto de editoraÁ„o de uma publicaÁ„o: a Revista Esporte ¡gil!
+De volta √†s atividades e com as cadeiras do audit√≥rio reorganizadas, v√°rios grupos de 5 pessoas foram formados. Sob coordena√ß√£o de Manoel, logo descobrimos que √©ramos na verdade editoras respons√°veis por apresentar o projeto de editora√ß√£o de uma publica√ß√£o: a Revista Esporte √Ågil!
 
-Manoel, como cliente (ou melhor, Product Owner) apresentou a todos v·rios itens do o que era desejado do projeto e o formato da revista. Cada grupo definiu os papeis de equipe e de Scrum Master e, de posse de papeis A4 (reciclados), blocos de post-its, canetas, l·pis, cartolinas e fitas adesivas, pÙde-se por algumas conceitos e tÈcnicas ·geis em pr·tica (ciclos iterativos, entregas curtas, colaboraÁ„o com o cliente, _timebox_ definido, maior retorno de investimento primeiro, estimativas ·geis com [_planning poker_](http://www.planningpoker.com/), e etc).
+Manoel, como cliente (ou melhor, Product Owner) apresentou a todos v√°rios itens do o que era desejado do projeto e o formato da revista. Cada grupo definiu os papeis de equipe e de Scrum Master e, de posse de papeis A4 (reciclados), blocos de post-its, canetas, l√°pis, cartolinas e fitas adesivas, p√¥de-se por algumas conceitos e t√©cnicas √°geis em pr√°tica (ciclos iterativos, entregas curtas, colabora√ß√£o com o cliente, _timebox_ definido, maior retorno de investimento primeiro, estimativas √°geis com [_planning poker_](http://www.planningpoker.com/), e etc).
 
-No caso, o item de maior valor de negÛcio definido pelo cliente foi a capa da revista, com um logo e uma imagem relacionada ao Brasil ó os ˙nicos Ìtens do backlog passiveis de realizaÁ„o dentro de um sprint de 10 minutos. As equipes mostraram criatividade!
+No caso, o item de maior valor de neg√≥cio definido pelo cliente foi a capa da revista, com um logo e uma imagem relacionada ao Brasil ‚Äî os √∫nicos √≠tens do backlog passiveis de realiza√ß√£o dentro de um sprint de 10 minutos. As equipes mostraram criatividade!
 
 <div id="attachment_307" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
-![CriaÁ„o da revista](http://tasafo.files.wordpress.com/2009/06/revista.jpg?w=300) CriaÁ„o da revista
+![Cria√ß√£o da revista](http://tasafo.files.wordpress.com/2009/06/revista.jpg?w=300) Cria√ß√£o da revista
 
 <div id="attachment_308" class="wp-caption" align="aligncenter" style="width: 235px"><p class="wp-caption-text"></p></div>
 ![Sprint Backlog](http://tasafo.files.wordpress.com/2009/06/backlog.jpg?w=225) Sprint Backlog
 
-Seguiu-se um breve coffee-break (afinal, ninguÈm È de ferro)!
+Seguiu-se um breve coffee-break (afinal, ningu√©m √© de ferro)!
 
-Ao retorno, com revisıes de sprint, retrospectivas e definiÁıes dos passos seguintes, fechou-se um ciclo de desenvolvimento ilustrativo do produto. O debate em seguida foi bastante participativo. Diversos colegas compartilharam suas impressıes, ideias e experiÍncias de uso de metodologias ·geis. Tirando d˙vidas com Manoel num grande bate-papo sobre desenvolvimento ·gil, mercado e tecnologias.
+Ao retorno, com revis√µes de sprint, retrospectivas e defini√ß√µes dos passos seguintes, fechou-se um ciclo de desenvolvimento ilustrativo do produto. O debate em seguida foi bastante participativo. Diversos colegas compartilharam suas impress√µes, ideias e experi√™ncias de uso de metodologias √°geis. Tirando d√∫vidas com Manoel num grande bate-papo sobre desenvolvimento √°gil, mercado e tecnologias.
 
 **Agradecimentos**
 
-Ao final, a turma do TASAFO, Henrique, Sanches, Wagner e Calex promoveram um tradicional sorteio de camisetas e brindes e encerraram fazendo um discurso de agradecimento: ao p˙blico pela participaÁ„o no evento; ‡ EquilibriumWeb e ao IESAM (especialmente ‡ profa. Silvana Rossy) por todo o apoio prestado; ‡ Revista Vis„o ¡gil, pela idealizaÁ„o do evento, contribuiÁ„o e pela exitosa parceria com o TaSAFO.
+Ao final, a turma do TASAFO, Henrique, Sanches, Wagner e Calex promoveram um tradicional sorteio de camisetas e brindes e encerraram fazendo um discurso de agradecimento: ao p√∫blico pela participa√ß√£o no evento; √† EquilibriumWeb e ao IESAM (especialmente √† profa. Silvana Rossy) por todo o apoio prestado; √† Revista Vis√£o √Ågil, pela idealiza√ß√£o do evento, contribui√ß√£o e pela exitosa parceria com o TaSAFO.
 
-Em nome do grupo TASAFO cabe tambÈm um agradecimento em especial ‡ pessoa do colega Manoel Pimentel pela amizade, apoio, disponibilidade alÈm da cooperaÁ„o e pelo enorme entusiasmo na divulgaÁ„o e capacitaÁ„o tecnolÛgica em metodologias ·geis a nÌvel nacional e em particular na nossa regi„o.
+Em nome do grupo TASAFO cabe tamb√©m um agradecimento em especial √† pessoa do colega Manoel Pimentel pela amizade, apoio, disponibilidade al√©m da coopera√ß√£o e pelo enorme entusiasmo na divulga√ß√£o e capacita√ß√£o tecnol√≥gica em metodologias √°geis a n√≠vel nacional e em particular na nossa regi√£o.
 
 <div id="" class="wp-caption" align="aligncenter" style="width: 410px"><p class="wp-caption-text"></p></div>
-[![Foto de v·rios participantes do evento.](http://farm4.static.flickr.com/3409/3584886796_89ed2e7e7c_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/4/19/3584886796) Valeu!
+[![Foto de v√°rios participantes do evento.](http://farm4.static.flickr.com/3409/3584886796_89ed2e7e7c_o.jpg)](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/4/19/3584886796) Valeu!
 
-A todos, nosso muito obrigado! ParabÈns ! E atÈ a prÛxima!
+A todos, nosso muito obrigado! Parab√©ns ! E at√© a pr√≥xima!
 
-Veja mais fotos no [·lbum de Manoel Pimentel](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1)
+Veja mais fotos no [√°lbum de Manoel Pimentel](http://www.manoelpimentel.com/fotos_eventos/72157618999233925/1)

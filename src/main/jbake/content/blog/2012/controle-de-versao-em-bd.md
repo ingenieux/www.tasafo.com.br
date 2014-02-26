@@ -2,17 +2,17 @@ status=published
 date=2012-10-13
 tags=blog
 type=post
-title=Controle de vers„o em banco de dados com migrations
+title=Controle de vers√£o em banco de dados com migrations
 ~~~~~~
-O desenvolvimento de aplicaÁıes em [trÍs camadas](http://en.wikipedia.org/wiki/Three_layer) praticamente tornou ubÌqua a persistÍncia de dados em sistemas gerenciadores de bancos de dados. Durante o desenvolvimento, enquanto alteraÁıes em artefatos de cÛdigo-fonte geralmente s„o controladas com algum sistema de versionamento, alteraÁıes em bancos de dados quase nunca s„o controladas.
+O desenvolvimento de aplica√ß√µes em [tr√™s camadas](http://en.wikipedia.org/wiki/Three_layer) praticamente tornou ub√≠qua a persist√™ncia de dados em sistemas gerenciadores de bancos de dados. Durante o desenvolvimento, enquanto altera√ß√µes em artefatos de c√≥digo-fonte geralmente s√£o controladas com algum sistema de versionamento, altera√ß√µes em bancos de dados quase nunca s√£o controladas.
 
-Ao codificar, de tempos em tempos o desenvolvedor disponibiliza alteraÁıes nos arquivos em que est· trabalhando para um repositÛrio. Com artefatos versionados È possÌvel se ter um controle sobre todas as alteraÁıes feitas em um dado arquivo, conferir as diferenÁas entre versıes distintas e atÈ retornar arquivos ‡ como seu conte˙do se encontrava num dado momento no passado. Isso tudo alÈm, È claro, de se viabilizar o trabalho concomitante de v·rias pessoas num mesmo projeto.
+Ao codificar, de tempos em tempos o desenvolvedor disponibiliza altera√ß√µes nos arquivos em que est√° trabalhando para um reposit√≥rio. Com artefatos versionados √© poss√≠vel se ter um controle sobre todas as altera√ß√µes feitas em um dado arquivo, conferir as diferen√ßas entre vers√µes distintas e at√© retornar arquivos √† como seu conte√∫do se encontrava num dado momento no passado. Isso tudo al√©m, √© claro, de se viabilizar o trabalho concomitante de v√°rias pessoas num mesmo projeto.
 
-Num cen·rio tÌpico, imagine que um desenvolvedor esteja trabalhando numa dada funcionalidade. Ele codifica, submete alteraÁıes ao repositÛrio, codifica novamente. Ent„o o desenvolvedor percebe que ser· preciso incluir uma nova coluna numa das tabelas no banco de dados. O desenvolvedor ent„o acessa o SGBD e realiza diretamente a adiÁ„o da coluna na tabela.
+Num cen√°rio t√≠pico, imagine que um desenvolvedor esteja trabalhando numa dada funcionalidade. Ele codifica, submete altera√ß√µes ao reposit√≥rio, codifica novamente. Ent√£o o desenvolvedor percebe que ser√° preciso incluir uma nova coluna numa das tabelas no banco de dados. O desenvolvedor ent√£o acessa o SGBD e realiza diretamente a adi√ß√£o da coluna na tabela.
 
-Perceba que, enquanto um arquivo de cÛdigo-fonte evolui por alteraÁıes que s„o controladas (i.e., sabe-se quem fez, quando fez, e atÈ se n„o era necess·ria pode-se sempre voltar facilmente ‡ vers„o anterior), geralmente as alteraÁıes feitas em banco de dados n„o. Por mais metÛdico que seja o desenvolvedor com respeito ‡s alteraÁıes a serem feitas em bancos de dados, no fim das contas sempre h· a necessidade de se informar verbalmente a alguÈm sobre a execuÁ„o de tais alteraÁıes. VÍ-se isso muito claramente especialmente quando h· mais de um ambiente de banco de dados e surgem as perguntas: _Aquela_ alteraÁ„o j· foi replicada no outro ambiente?
+Perceba que, enquanto um arquivo de c√≥digo-fonte evolui por altera√ß√µes que s√£o controladas (i.e., sabe-se quem fez, quando fez, e at√© se n√£o era necess√°ria pode-se sempre voltar facilmente √† vers√£o anterior), geralmente as altera√ß√µes feitas em banco de dados n√£o. Por mais met√≥dico que seja o desenvolvedor com respeito √†s altera√ß√µes a serem feitas em bancos de dados, no fim das contas sempre h√° a necessidade de se informar verbalmente a algu√©m sobre a execu√ß√£o de tais altera√ß√µes. V√™-se isso muito claramente especialmente quando h√° mais de um ambiente de banco de dados e surgem as perguntas: _Aquela_ altera√ß√£o j√° foi replicada no outro ambiente?
 
-Resumidamente, pode-se dizer que migrations È uma maneira de realizar alteraÁıes em um banco de dados de forma organizada e controlada. Trata-se de uma tÈcnica muito comum no desenvolvimento em ambientes modernos de programaÁ„o, como [Ruby on Rails](http://guides.rubyonrails.org/migrations.html) ou [CakePHP](http://docs.google.com/present/embed?id=d922pns_15cpjjwfgc), por exemplo.
+Resumidamente, pode-se dizer que migrations √© uma maneira de realizar altera√ß√µes em um banco de dados de forma organizada e controlada. Trata-se de uma t√©cnica muito comum no desenvolvimento em ambientes modernos de programa√ß√£o, como [Ruby on Rails](http://guides.rubyonrails.org/migrations.html) ou [CakePHP](http://docs.google.com/present/embed?id=d922pns_15cpjjwfgc), por exemplo.
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ Resumidamente, pode-se dizer que migrations È uma maneira de realizar alteraÁıes
 ## Sobre Migrations
 
 
-Para se contornar esse cen·rio, algumas soluÁıes s„o possÌveis, cada qual com suas vantagens e desvantagens. Por exemplo:
+Para se contornar esse cen√°rio, algumas solu√ß√µes s√£o poss√≠veis, cada qual com suas vantagens e desvantagens. Por exemplo:
 
 
 
@@ -33,7 +33,7 @@ Versionar um _full dump_ do banco
   * pode ser simples para bancos de dados pequenos
 
 	
-  * pode ter auxÌlio de ferramentas gr·ficas
+  * pode ter aux√≠lio de ferramentas gr√°ficas
 
 
 
@@ -42,38 +42,38 @@ Versionar um _full dump_ do banco
 
 
 	
-  * ainda necessita de interaÁ„o humana
+  * ainda necessita de intera√ß√£o humana
 
 	
-  * difÌcil identificar eventuais erros
+  * dif√≠cil identificar eventuais erros
 
 	
   * o formato do _dump_ deve ser padronizado
 
 	
-  * modelagem feita ainda pensando em minimizaÁ„o de impacto de mudanÁas
+  * modelagem feita ainda pensando em minimiza√ß√£o de impacto de mudan√ßas
 
 	
   * dificuldade em replicar ou transferir dados
 
 	
-  * migraÁ„o de SGBD muito dificultada
+  * migra√ß√£o de SGBD muito dificultada
 
 	
-  * para grandes bancos de dados, pode ser invi·vel por restriÁıes de espaÁo
+  * para grandes bancos de dados, pode ser invi√°vel por restri√ß√µes de espa√ßo
 
 
 
-Versionar cada alteraÁ„o no banco de dados em um arquivo separado
+Versionar cada altera√ß√£o no banco de dados em um arquivo separado
     Vantagens:
 
 
 
 	
-  * soluÁ„o que um desenvolvedor metÛdico talvez adotaria
+  * solu√ß√£o que um desenvolvedor met√≥dico talvez adotaria
 
 	
-  * pode ter auxÌlio de ferramentas gr·ficas
+  * pode ter aux√≠lio de ferramentas gr√°ficas
 
 
 
@@ -82,19 +82,19 @@ Versionar cada alteraÁ„o no banco de dados em um arquivo separado
 
 
 	
-  * ainda necessita de interaÁ„o humana
+  * ainda necessita de intera√ß√£o humana
 
 	
   * eventualmente muitos arquivos a versionar
 
 	
-  * modelagem feita ainda pensando em minimizaÁ„o de impacto de mudanÁas
+  * modelagem feita ainda pensando em minimiza√ß√£o de impacto de mudan√ßas
 
 	
   * dificuldade em replicar ou transferir dados
 
 	
-  * migraÁ„o de SGBD muito dificultada
+  * migra√ß√£o de SGBD muito dificultada
 
 
 
@@ -104,10 +104,10 @@ Utilizar [_fixtures_](http://en.wikipedia.org/wiki/Test_fixture) (p.ex., [DBUnit
 
 
 	
-  * economia de espaÁo e quantidade de arquivos versionados
+  * economia de espa√ßo e quantidade de arquivos versionados
 
 	
-  * pode ter auxÌlio de ferramentas gr·ficas
+  * pode ter aux√≠lio de ferramentas gr√°ficas
 
 
 
@@ -116,7 +116,7 @@ Utilizar [_fixtures_](http://en.wikipedia.org/wiki/Test_fixture) (p.ex., [DBUnit
 
 
 	
-  * recurso n„o È prÛprio para esta finalidade
+  * recurso n√£o √© pr√≥prio para esta finalidade
 
 	
   * dificuldade em replicar ou transferir dados
@@ -129,10 +129,10 @@ Utilizar [_fixtures_](http://en.wikipedia.org/wiki/Test_fixture) (p.ex., [DBUnit
 
 
 	
-  * f·cil identificar o estado atual do banco de dados
+  * f√°cil identificar o estado atual do banco de dados
 
 	
-  * manipulaÁ„o do banco de dados simplificada e estruturada
+  * manipula√ß√£o do banco de dados simplificada e estruturada
 
 
 
@@ -144,17 +144,17 @@ Utilizar [_fixtures_](http://en.wikipedia.org/wiki/Test_fixture) (p.ex., [DBUnit
   * muitos arquivos para versionar
 
 	
-  * algumas ferramentas n„o proveem abstraÁ„o do SGBD
+  * algumas ferramentas n√£o proveem abstra√ß√£o do SGBD
 
 
 
-Neste artigo mostrarei uma abordagem para uso de migrations para controle de vers„o de banco de dados com Maven, adequado para uso em um ambiente de integraÁ„o contÌnua.
+Neste artigo mostrarei uma abordagem para uso de migrations para controle de vers√£o de banco de dados com Maven, adequado para uso em um ambiente de integra√ß√£o cont√≠nua.
 
 
 ### Ferramentas
 
 
-Pode-se dizer que o conceito de migrations desenvolveu-se juntamente com a popularizaÁ„o do framework Ruby on Rails. Mas tambÈm h· iniciativas para implementar ou portar tais ferramentas em outras linguagens. A tÌtulo de referÍncia, seguem links de algumas soluÁıes semelhantes implementadas ou que poderÌam ser utilizadas em Java:
+Pode-se dizer que o conceito de migrations desenvolveu-se juntamente com a populariza√ß√£o do framework Ruby on Rails. Mas tamb√©m h√° iniciativas para implementar ou portar tais ferramentas em outras linguagens. A t√≠tulo de refer√™ncia, seguem links de algumas solu√ß√µes semelhantes implementadas ou que poder√≠am ser utilizadas em Java:
 
 
 
@@ -180,34 +180,34 @@ Pode-se dizer que o conceito de migrations desenvolveu-se juntamente com a popul
   * [http://code.google.com/p/c5-db-migration/](http://code.google.com/p/c5-db-migration/)
 
 
-Este guia apresenta uma abordagem voltada ‡ ferramenta [Carbon 5](http://code.google.com/p/c5-db-migration/).
+Este guia apresenta uma abordagem voltada √† ferramenta [Carbon 5](http://code.google.com/p/c5-db-migration/).
 
 
-### Afinal, o que s„o migrations?
+### Afinal, o que s√£o migrations?
 
 
-De uma maneira simplificada, a tÈcnica de migrations È implementada a partir de:
+De uma maneira simplificada, a t√©cnica de migrations √© implementada a partir de:
 
 
 
 	
-  1. um conjunto de representaÁıes das alteraÁıes feitas no banco de dados;
+  1. um conjunto de representa√ß√µes das altera√ß√µes feitas no banco de dados;
 
 	
-  2. um registro informando qual a ˙ltima alteraÁ„o aplicada;
+  2. um registro informando qual a √∫ltima altera√ß√£o aplicada;
 
 	
-  3. um operaÁ„o para avanÁo e outra para retrocesso de vers„o.
+  3. um opera√ß√£o para avan√ßo e outra para retrocesso de vers√£o.
 
 
 
 
-#### Conjunto de representaÁıes das alteraÁıes feitas no banco de dados
+#### Conjunto de representa√ß√µes das altera√ß√µes feitas no banco de dados
 
 
-O conjunto de representaÁıes de alteraÁıes a serem feitas no banco de dados pode ser simplesmente uma relaÁ„o de arquivos .sql. Esta relaÁ„o precisa estar ordenada, ou seja, deve ser possÌvel identificar qual a primeira a ser aplicada, qual a segunda e assim por diante. Isso È importante para que seja possÌvel aplicar as alteraÁıes sequencialmente de forma consistente.
+O conjunto de representa√ß√µes de altera√ß√µes a serem feitas no banco de dados pode ser simplesmente uma rela√ß√£o de arquivos .sql. Esta rela√ß√£o precisa estar ordenada, ou seja, deve ser poss√≠vel identificar qual a primeira a ser aplicada, qual a segunda e assim por diante. Isso √© importante para que seja poss√≠vel aplicar as altera√ß√µes sequencialmente de forma consistente.
 
-Implementadas como arquivos, a ordenaÁ„o das alteraÁıes pode ser conseguida, p.ex., com um padr„o de nomenclatura de arquivos. Por exemplo, um prefixo numÈrico sequencial cumpre perfeitamente este papel.
+Implementadas como arquivos, a ordena√ß√£o das altera√ß√µes pode ser conseguida, p.ex., com um padr√£o de nomenclatura de arquivos. Por exemplo, um prefixo num√©rico sequencial cumpre perfeitamente este papel.
 
 
 
@@ -227,7 +227,7 @@ Implementadas como arquivos, a ordenaÁ„o das alteraÁıes pode ser conseguida, p.e
   5. 00005_criar_tabela_perfis_usuario.sql
 
 
-VÍ-se que a maioria das ferramentas de migrations utiliza um padr„o de timestamp, tipo yyyyMMhhmmss como prefixo que provÍ sequenciamento, identificaÁ„o ˙nica alÈm de n„o ter limitaÁ„o quanto ‡ quantidade m·xima de arquivos a serem utilizados. Por exemplo:
+V√™-se que a maioria das ferramentas de migrations utiliza um padr√£o de timestamp, tipo yyyyMMhhmmss como prefixo que prov√™ sequenciamento, identifica√ß√£o √∫nica al√©m de n√£o ter limita√ß√£o quanto √† quantidade m√°xima de arquivos a serem utilizados. Por exemplo:
 
 	
   1. 20101005220000_criar_tabela_usuarios.sql
@@ -245,46 +245,46 @@ VÍ-se que a maioria das ferramentas de migrations utiliza um padr„o de timestamp
   5. 20101006031154_criar_tabela_perfis_usuario.sql
 
 
-Utilizar timestamp como prefixo ainda permite identificar mais facilmente o momento em que o migration foi criado. No caso acima, ‡s 22:00 em ponto do dia 5 de outubro de 2010, o desenvolvedor gerou o migration respons·vel pela criaÁ„o de uma tabela de usu·rios no banco. ¿s 22:17 ele decidiu popular a tabela inserindo alguns valores predefinidos. ApÛs passar pouco mais de uma hora implementando (‡s 23:35), o desenvolvedor percebeu que seria necess·rio criar mais uma coluna com a data de nascimento na tabela de usu·rios. E assim por diante.
+Utilizar timestamp como prefixo ainda permite identificar mais facilmente o momento em que o migration foi criado. No caso acima, √†s 22:00 em ponto do dia 5 de outubro de 2010, o desenvolvedor gerou o migration respons√°vel pela cria√ß√£o de uma tabela de usu√°rios no banco. √Äs 22:17 ele decidiu popular a tabela inserindo alguns valores predefinidos. Ap√≥s passar pouco mais de uma hora implementando (√†s 23:35), o desenvolvedor percebeu que seria necess√°rio criar mais uma coluna com a data de nascimento na tabela de usu√°rios. E assim por diante.
 
-O conte˙do dos arquivos .sql s„o, como de se esperar, as operaÁıes SQL que realizam efetivamente as alteraÁıes em quest„o. Pelo que se depreende ainda no exemplo acima, o primeiro migration (20101005220000_criar_tabela_usuarios.sql) provavelmente deve ter uma instruÁ„o SQL tipo `CREATE TABLE usuarios ...`.
+O conte√∫do dos arquivos .sql s√£o, como de se esperar, as opera√ß√µes SQL que realizam efetivamente as altera√ß√µes em quest√£o. Pelo que se depreende ainda no exemplo acima, o primeiro migration (20101005220000_criar_tabela_usuarios.sql) provavelmente deve ter uma instru√ß√£o SQL tipo `CREATE TABLE usuarios ...`.
 
-Estamos assumindo que cada migration È implementado diretamente com o dialeto SQL do SGBD correspondente (caso do Carbon 5). PorÈm, cabe ressaltar que as ferramentas de migrations mais comuns tambÈm fazem abstraÁ„o do SGBD utilizado, representando definiÁıes relativas a banco de dados numa representaÁ„o em geral mais simples e uniformizada, como o [YAML](http://pt.wikipedia.org/wiki/YAML), por exemplo. Sem depender
+Estamos assumindo que cada migration √© implementado diretamente com o dialeto SQL do SGBD correspondente (caso do Carbon 5). Por√©m, cabe ressaltar que as ferramentas de migrations mais comuns tamb√©m fazem abstra√ß√£o do SGBD utilizado, representando defini√ß√µes relativas a banco de dados numa representa√ß√£o em geral mais simples e uniformizada, como o [YAML](http://pt.wikipedia.org/wiki/YAML), por exemplo. Sem depender
 dos dialetos SQL dos diferentes SGBDs, eventuais necessidades de se trocar de um SGBD por outro se tornam tarefas bem mais simples.
 
 
-#### Registro informando qual a ˙ltima alteraÁ„o aplicada
+#### Registro informando qual a √∫ltima altera√ß√£o aplicada
 
 
-Apenas manter o conjunto de alteraÁıes realizadas no banco de dados n„o ajuda muito se n„o se sabe quais delas est„o, de fato, aplicadas ao banco de dados. Num ambiente descontrolado essa informaÁ„o acaba ficando na cabeÁa do DBA. Sem registro, muitas vezes para obter essa informaÁ„o acaba sendo necess·rio conhecer tudo o que tem sido feito no banco, verificando-o manualmente na tentativa de identificar se seu estado condiz com o desejado. Incertezas advindas desse cen·rio levam a frequentes limpezas no banco de dados. (Quem nunca teve de parar seu desenvolvimento por um instante porque alguÈm precisa zerar o banco?)
+Apenas manter o conjunto de altera√ß√µes realizadas no banco de dados n√£o ajuda muito se n√£o se sabe quais delas est√£o, de fato, aplicadas ao banco de dados. Num ambiente descontrolado essa informa√ß√£o acaba ficando na cabe√ßa do DBA. Sem registro, muitas vezes para obter essa informa√ß√£o acaba sendo necess√°rio conhecer tudo o que tem sido feito no banco, verificando-o manualmente na tentativa de identificar se seu estado condiz com o desejado. Incertezas advindas desse cen√°rio levam a frequentes limpezas no banco de dados. (Quem nunca teve de parar seu desenvolvimento por um instante porque algu√©m precisa zerar o banco?)
 
-As ferramentas de migrations geralmente gerenciam a informaÁ„o das alteraÁıes j· aplicadas ao banco de dados tambÈm como uma tabela no prÛprio banco de dados. Todo o controle das alteraÁıes aplicada È feito automaticamente pela ferramenta de migrations, de forma que esse acompanhamento È feito de forma transparente. No caso da ferramenta Carbon 5, a tabela de controle padr„o chama-se `schema_version`.
-
-
-#### Uma operaÁ„o para avanÁo e outra para retrocesso de vers„o
+As ferramentas de migrations geralmente gerenciam a informa√ß√£o das altera√ß√µes j√° aplicadas ao banco de dados tamb√©m como uma tabela no pr√≥prio banco de dados. Todo o controle das altera√ß√µes aplicada √© feito automaticamente pela ferramenta de migrations, de forma que esse acompanhamento √© feito de forma transparente. No caso da ferramenta Carbon 5, a tabela de controle padr√£o chama-se `schema_version`.
 
 
-… comum as ferramentas de migratios disponibilizarem ao menos duas aÁıes: uma que avance a vers„o do banco de dados para o migration imediatamente posterior na sequÍncia (chamada de **up**) e outra que retrocede a vers„o para o migration imediatamente anterior ao atualmente aplicado (chamada de **down**).
+#### Uma opera√ß√£o para avan√ßo e outra para retrocesso de vers√£o
 
-AlÈm dessas, È comum haver outras aÁıes de conveniÍncia derivadas destas, como por exemplo uma que retorne o banco de dados ‡ primeira vers„o e outra que aplique todos os migrations pendentes desde o ˙ltimo aplicado. Outras aÁıes disponÌveis s„o combinaÁıes dessas b·sicas. Falaremos com mais detalhes
-sobre essas aÁıes ao abordar o Carbon 5 como plugin do Maven mais ‡ frente.
+
+√â comum as ferramentas de migratios disponibilizarem ao menos duas a√ß√µes: uma que avance a vers√£o do banco de dados para o migration imediatamente posterior na sequ√™ncia (chamada de **up**) e outra que retrocede a vers√£o para o migration imediatamente anterior ao atualmente aplicado (chamada de **down**).
+
+Al√©m dessas, √© comum haver outras a√ß√µes de conveni√™ncia derivadas destas, como por exemplo uma que retorne o banco de dados √† primeira vers√£o e outra que aplique todos os migrations pendentes desde o √∫ltimo aplicado. Outras a√ß√µes dispon√≠veis s√£o combina√ß√µes dessas b√°sicas. Falaremos com mais detalhes
+sobre essas a√ß√µes ao abordar o Carbon 5 como plugin do Maven mais √† frente.
 
 
 ## Migrations em Java via Maven
 
 
-Como vimos, existem algumas ferramentas de migrations para Java. Para os fins deste guia, optou-se por abordar o [Carbon 5](http://code.google.com/p/c5-db-migration/) essencialmente porque ela j· est· disponÌvel como [plugin para o Maven](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin), o que facilita seu uso num ambiente de integraÁ„o contÌnua.
+Como vimos, existem algumas ferramentas de migrations para Java. Para os fins deste guia, optou-se por abordar o [Carbon 5](http://code.google.com/p/c5-db-migration/) essencialmente porque ela j√° est√° dispon√≠vel como [plugin para o Maven](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin), o que facilita seu uso num ambiente de integra√ß√£o cont√≠nua.
 
 
 ### Como configurar
 
 
-Conforme [descrito no site](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin), configurar o suporte ao Carbon 5 em um projeto Maven È bastante simples. S„o apenas 2 passos no arquivo `pom.xml`:
+Conforme [descrito no site](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin), configurar o suporte ao Carbon 5 em um projeto Maven √© bastante simples. S√£o apenas 2 passos no arquivo `pom.xml`:
 
 
 
 	
-  1. Informar o repositÛrio onde se encontra o plugin:
+  1. Informar o reposit√≥rio onde se encontra o plugin:
 
     
     ...
@@ -300,7 +300,7 @@ Conforme [descrito no site](http://code.google.com/p/c5-db-migration/wiki/MavenP
 
 
 	
-  2. Adicionar o plugin ao build, com a devida configuraÁ„o do banco de dados (neste caso, um banco MySQL)
+  2. Adicionar o plugin ao build, com a devida configura√ß√£o do banco de dados (neste caso, um banco MySQL)
 
     
     ...
@@ -329,16 +329,16 @@ Conforme [descrito no site](http://code.google.com/p/c5-db-migration/wiki/MavenP
 
 
 
-Este exemplo de configuraÁ„o foi feito para um banco de dados MySQL chamado `meubanco`, hospedado numa m·quina chamada `servidor`, com usu·rio `admin` e senha `53nh4`. H· ainda outras opÁıes disponÌveis. J· para mais detalhes da configuraÁ„o do Maven (por exemplo, como esconder a configuraÁ„o de usu·rio e senha no pom), [consulte seu manual](http://maven.apache.org/pom.html) ou peÁa
-auxÌlio ao gestor de configuraÁ„o de seu projeto.
+Este exemplo de configura√ß√£o foi feito para um banco de dados MySQL chamado `meubanco`, hospedado numa m√°quina chamada `servidor`, com usu√°rio `admin` e senha `53nh4`. H√° ainda outras op√ß√µes dispon√≠veis. J√° para mais detalhes da configura√ß√£o do Maven (por exemplo, como esconder a configura√ß√£o de usu√°rio e senha no pom), [consulte seu manual](http://maven.apache.org/pom.html) ou pe√ßa
+aux√≠lio ao gestor de configura√ß√£o de seu projeto.
 
-A propÛsito, mostramos neste exemplo uma configuraÁ„o para uma banco MySQL, mas o Carbon 5 tem suporte para diversos SGBDs com conex„o via JDBC, entre eles: MYSQL, POSTGRESQL, SQL_SERVER, HSQL, H2, DB2 e ORACLE.
+A prop√≥sito, mostramos neste exemplo uma configura√ß√£o para uma banco MySQL, mas o Carbon 5 tem suporte para diversos SGBDs com conex√£o via JDBC, entre eles: MYSQL, POSTGRESQL, SQL_SERVER, HSQL, H2, DB2 e ORACLE.
 
 
 ### Como utilizar
 
 
-Uma vez configurado o suporte ao Carbon 5 em seu projeto, [estar„o disponÌveis](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin#Maven_Plugin_Goal_Reference) os seguintes _goals_ no Maven:
+Uma vez configurado o suporte ao Carbon 5 em seu projeto, [estar√£o dispon√≠veis](http://code.google.com/p/c5-db-migration/wiki/MavenPlugin#Maven_Plugin_Goal_Reference) os seguintes _goals_ no Maven:
 
 
 
@@ -347,22 +347,22 @@ Uma vez configurado o suporte ao Carbon 5 em seu projeto, [estar„o disponÌveis](
 `db-migration:drop`
     Destroi a base de dados
 `db-migration:reset`
-    Destroi a base de dados e a reconstroi aplicando todos os migrations ainda pendentes (combinaÁ„o dos anteriores)
+    Destroi a base de dados e a reconstroi aplicando todos os migrations ainda pendentes (combina√ß√£o dos anteriores)
 `db-migration:create`
-    Cria o esquema do banco de dados se ele ainda n„o existir (caso contr·rio, falha o build)
+    Cria o esquema do banco de dados se ele ainda n√£o existir (caso contr√°rio, falha o build)
 `db-migration:validate`
-    Informa se a base est· atualizada ou informa quais migrations ainda n„o foram aplicados
-Destes, o `db-migration:migrate` sem d˙vida È o mais importante. Como dito, este _goal_ atualiza o banco de dados aplicando todos os migrations pendentes.
+    Informa se a base est√° atualizada ou informa quais migrations ainda n√£o foram aplicados
+Destes, o `db-migration:migrate` sem d√∫vida √© o mais importante. Como dito, este _goal_ atualiza o banco de dados aplicando todos os migrations pendentes.
 
-Repare que a vers„o atual Carbon 5 n„o dispıe de _goals_ implementando as aÁıes `up` e `down` para aplicar ou desaplicar apenas um migration por vez, mas apenas os de voltar o banco ‡ situaÁ„o inicial e aplicar todos os migrations.
-
-
-#### Cen·rio concreto
+Repare que a vers√£o atual Carbon 5 n√£o disp√µe de _goals_ implementando as a√ß√µes `up` e `down` para aplicar ou desaplicar apenas um migration por vez, mas apenas os de voltar o banco √† situa√ß√£o inicial e aplicar todos os migrations.
 
 
-Suponha que queiramos comeÁar com um novo banco de dados j· configurado. Se tudo estiver funcioando corretamente, podemos comeÁar a escrever nossos migrations.
+#### Cen√°rio concreto
 
-Imagine que queremos criar uma tabela de usu·rios tal como no exemplo ilustrativo do comeÁo deste guia. Para tal, podemos comeÁar a escrever nossos migrations. O local padr„o onde o Carbon 5 procura os migrations È na subpasta `src/main/db/migrations` na raiz de um projeto Maven (lembrando que isto tambÈm pode ser configurado). Para um migration que crie uma tabela de usu·rios, basta criar um arquivo de texto plano contendo a instruÁ„o SQL correspondente. Por exemplo, poderia ser:
+
+Suponha que queiramos come√ßar com um novo banco de dados j√° configurado. Se tudo estiver funcioando corretamente, podemos come√ßar a escrever nossos migrations.
+
+Imagine que queremos criar uma tabela de usu√°rios tal como no exemplo ilustrativo do come√ßo deste guia. Para tal, podemos come√ßar a escrever nossos migrations. O local padr√£o onde o Carbon 5 procura os migrations √© na subpasta `src/main/db/migrations` na raiz de um projeto Maven (lembrando que isto tamb√©m pode ser configurado). Para um migration que crie uma tabela de usu√°rios, basta criar um arquivo de texto plano contendo a instru√ß√£o SQL correspondente. Por exemplo, poderia ser:
 
     
     CREATE TABLE usuarios (
@@ -373,11 +373,11 @@ Imagine que queremos criar uma tabela de usu·rios tal como no exemplo ilustrativ
     );
 
 
-Criado este arquivo, podemos salv·-lo na pasta de migrations padr„o em `src/main/db/migrations` dentro de nosso projeto Maven. Como j· mencionado, o padr„o de nomes envolve um prefixo yyyyMMhhmmss. Enquanto escrevo este trecho deste guia, agora s„o 18:10 do dia 06 de outubro. Podemos salvar nosso arquivo com uma representaÁ„o timestamp deste hor·rio. Portanto, o caminho completo de nosso migration dentro do projeto Maven ser· `/src/main/db/migrations/20101006181000_criar_tabela_usuarios.sql`.
+Criado este arquivo, podemos salv√°-lo na pasta de migrations padr√£o em `src/main/db/migrations` dentro de nosso projeto Maven. Como j√° mencionado, o padr√£o de nomes envolve um prefixo yyyyMMhhmmss. Enquanto escrevo este trecho deste guia, agora s√£o 18:10 do dia 06 de outubro. Podemos salvar nosso arquivo com uma representa√ß√£o timestamp deste hor√°rio. Portanto, o caminho completo de nosso migration dentro do projeto Maven ser√° `/src/main/db/migrations/20101006181000_criar_tabela_usuarios.sql`.
 
-Muito chato salvar arquivos com esse prefixo de timestamp! N„o falamos, mas para auxiliar nisso, vocÍ poderia ter simplesmente executado o _goal_ `db-migration:new -Dname=criar_tabela_usuarios`. O par‚metro `name` È opcional e n„o precisa ser informado, mas È sempre bom para identificar mais claramente o que o migration faz. Este È um _goal_ auxiliar que apenas j· cria um arquivo .sql vazio devidamente nomeado no local padr„o.
+Muito chato salvar arquivos com esse prefixo de timestamp! N√£o falamos, mas para auxiliar nisso, voc√™ poderia ter simplesmente executado o _goal_ `db-migration:new -Dname=criar_tabela_usuarios`. O par√¢metro `name` √© opcional e n√£o precisa ser informado, mas √© sempre bom para identificar mais claramente o que o migration faz. Este √© um _goal_ auxiliar que apenas j√° cria um arquivo .sql vazio devidamente nomeado no local padr√£o.
 
-Seguindo em frente. Uma vez salvo o arquivo, podemos utilizar a ferramenta para confirmar o estado do banco com `db-migration:validate`. Ao executar um build assim neste momento, obteremos a seguinte saÌda:
+Seguindo em frente. Uma vez salvo o arquivo, podemos utilizar a ferramenta para confirmar o estado do banco com `db-migration:validate`. Ao executar um build assim neste momento, obteremos a seguinte sa√≠da:
 
     
     $ mvn db-migration:validate

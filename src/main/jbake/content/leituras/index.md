@@ -7,15 +7,15 @@ title=Leituras
 ### Livros
 
 
-[A  Arte do Desenvolvimento ¡gil](http://www.submarino.com.br/produto/1/21388254)
+[A  Arte do Desenvolvimento √Ågil](http://www.submarino.com.br/produto/1/21388254)
 
 [Extreme  Programming (XP)](http://www.linuxmall.com.br/produto/livro-extreme-programming-xp-.html)
 
-[Modelagem ¡gil](http://www.relativa.com.br/livros_template.asp?codigo_produto=4841)
+[Modelagem √Ågil](http://www.relativa.com.br/livros_template.asp?codigo_produto=4841)
 
-[ProgramaÁ„o  eXtrema (XP) Explicada](http://www.linuxmall.com.br/produto/livro-programacao-extrema-xp-explicada.html)
+[Programa√ß√£o  eXtrema (XP) Explicada](http://www.linuxmall.com.br/produto/livro-programacao-extrema-xp-explicada.html)
 
-[RefatoraÁ„o: AperfeiÁoando o Projeto de CÛdigo Existente](http://www.linuxmall.com.br/produto/livro-refatoracao-aperfeicoando-o-projeto-de-codigo-existente.html)
+[Refatora√ß√£o: Aperfei√ßoando o Projeto de C√≥digo Existente](http://www.linuxmall.com.br/produto/livro-refatoracao-aperfeicoando-o-projeto-de-codigo-existente.html)
 
 [Agile Project  Management with Scrum](http://www.amazon.com/Agile-Project-Management-Microsoft-Professional/dp/073561993X)
 
@@ -26,9 +26,9 @@ title=Leituras
 [Agile Coaching](http://www.amazon.com/Agile-Coaching-Rachel-Davies/dp/1934356433)
 
 
-### PublicaÁıes 100% free.
+### Publica√ß√µes 100% free.
 
 
-[Revista Vis„o ¡gil](http://www.visaoagil.com/conteudo/edicaoAtual.html)
+[Revista Vis√£o √Ågil](http://www.visaoagil.com/conteudo/edicaoAtual.html)
 
 [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)

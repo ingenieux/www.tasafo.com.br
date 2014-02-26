@@ -2,9 +2,9 @@ status=published
 date=2010-08-14
 tags=blog
 type=post
-title=2º dia do Oxente Rails 2010
+title=2Âº dia do Oxente Rails 2010
 ~~~~~~
-Pows, tanta coisa pra falar que acabei não comentando de mais uma galera que conheci no evento no dia 6.
+Pows, tanta coisa pra falar que acabei nÃ£o comentando de mais uma galera que conheci no evento no dia 6.
 
 
 
@@ -15,12 +15,12 @@ Pows, tanta coisa pra falar que acabei não comentando de mais uma galera que con
 <div id="attachment_987" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/searences.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/searences.jpg)
 
-Conheci mais [SEArences](http://twitter.com/SEA_Tecnologia): [Túlio Ornelas](http://twitter.com/tulios) que é casado com uma belenense, [Renan Carvalho](http://twitter.com/aitherios) que tem família em Belém, [Eduardo Marques](http://twitter.com/edhana) que me tirou umas dúvidas sobre [arduino](http://pt.wikipedia.org/wiki/Arduino) e [Ian Gallina](http://twitter.com/igallina) o mão de lixa :p, escalador de paredes e que bati uma papo muito firme depois da desconferência sobre redes sociais. Como diz o Alê, gente boníssima. Acho que era bom ter outro [Maré de Agilidade](http://www.maredeagilidade.com.br/) em Brasília, assim podíamos conhecer toda essa galera "duma" tacada só. O que acham? =P
+Conheci mais [SEArences](http://twitter.com/SEA_Tecnologia): [TÃºlio Ornelas](http://twitter.com/tulios) que Ã© casado com uma belenense, [Renan Carvalho](http://twitter.com/aitherios) que tem famÃ­lia em BelÃ©m, [Eduardo Marques](http://twitter.com/edhana) que me tirou umas dÃºvidas sobre [arduino](http://pt.wikipedia.org/wiki/Arduino) e [Ian Gallina](http://twitter.com/igallina) o mÃ£o de lixa :p, escalador de paredes e que bati uma papo muito firme depois da desconferÃªncia sobre redes sociais. Como diz o AlÃª, gente bonÃ­ssima. Acho que era bom ter outro [MarÃ© de Agilidade](http://www.maredeagilidade.com.br/) em BrasÃ­lia, assim podÃ­amos conhecer toda essa galera "duma" tacada sÃ³. O que acham? =P
 
 <!-- more -->
 
 
-No Coffee Break da tarde pude conhecer [Christiano  Milfont](http://twitter.com/cmilfont) onde conversamos um pouco sobre o [Maré de Agilidade](http://www.maredeagilidade.com.br/). Mais uma pessoa que só conhecia de listas e twitter, mas não me enganei nem um pouco  pela pessoa que é, gente finíssima. Também pude rever o [Nerdson](http://twitter.com/nerdson). Encontro com essa figurassa desde o Fórum  Paraense de Software Livre, quando ainda estagiava com PHP. Conheci o  plugin do Firefox Firebug através de sua palestra sobre desenvolvimento  Web, na época meu chefe queria aumentar meu salário devido a novidade  que levei pro "trampo" (brincadeira :p). Ele é responsável por eu estar  lendo o [Guia do Mochileiro das Galáxias](http://www.submarino.com.br/produto/1/231967/guia+do+mochileiro+das+galaxias,+o+-+vol.+1) que conheci  consumindo compulsivamente suas [tirinhas em seu blog](http://nerdson.com/).
+No Coffee Break da tarde pude conhecer [Christiano  Milfont](http://twitter.com/cmilfont) onde conversamos um pouco sobre o [MarÃ© de Agilidade](http://www.maredeagilidade.com.br/). Mais uma pessoa que sÃ³ conhecia de listas e twitter, mas nÃ£o me enganei nem um pouco  pela pessoa que Ã©, gente finÃ­ssima. TambÃ©m pude rever o [Nerdson](http://twitter.com/nerdson). Encontro com essa figurassa desde o FÃ³rum  Paraense de Software Livre, quando ainda estagiava com PHP. Conheci o  plugin do Firefox Firebug atravÃ©s de sua palestra sobre desenvolvimento  Web, na Ã©poca meu chefe queria aumentar meu salÃ¡rio devido a novidade  que levei pro "trampo" (brincadeira :p). Ele Ã© responsÃ¡vel por eu estar  lendo o [Guia do Mochileiro das GalÃ¡xias](http://www.submarino.com.br/produto/1/231967/guia+do+mochileiro+das+galaxias,+o+-+vol.+1) que conheci  consumindo compulsivamente suas [tirinhas em seu blog](http://nerdson.com/).
 
 
 
@@ -32,7 +32,7 @@ No Coffee Break da tarde pude conhecer [Christiano  Milfont](http://twitter.com/
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sexta_feira_153.jpg)](http://tasafo.files.wordpress.com/2010/08/oxente_sexta_feira_153.jpg)
 
 
-** Mas "rumbora" resumir o 2º dia do evento.**
+** Mas "rumbora" resumir o 2Âº dia do evento.**
 
 
 
@@ -48,7 +48,7 @@ Subir e descer as ladeiras de Ponta Negra em Natal, mata qualquer  ressaca. Acre
 <div id="attachment_961" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_218.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_218.jpg)
 
-O dia começou com [Marcos Tapajós](http://twitter.com/tapajos) falando sobre o banco de dados [NoSQL](http://pt.wikipedia.org/wiki/NoSQL) [CouchDB](http://couchdb.apache.org/). Além de trabalhar para [Improve It](http://www.improveit.com.br/) e [Rede Parede](http://redeparede.com/), ainda é representante oficial da [CouchDB](http://www.couch.io/) no Brasil. Entre várias opções de bancos NoSQL que existem hoje em dia, ele falou que na época gostou muito do CouchDB e que atualmente existem mais opções para uso em projetos e que estão evoluindo rapidamente. NoSQL é realidade, portanto, não deixem de estudar a tecnologia. Já dei uma "mexida" no [Cassandra](http://cassandra.apache.org/), mas nada muito aprofundado. Ah! Me lembrei agora da primeira vez que ouvi falar de bancos de dados orientados a documentos. Foi o [Fábio Aguiar](http://twitter.com/fabyogr), sempre antenado, que me mandou um [post do Tapajós sobre o CouchDB](http://blog.improveit.com.br/articles/2009/07/19/falando-sobre-couchdb). Depois de ver ao vivo me senti motivado a utilizá-lo. Tapajós também falou de uma gem de integração com o CouchDB que está preparada para o lançamento do Rails 3.
+O dia comeÃ§ou com [Marcos TapajÃ³s](http://twitter.com/tapajos) falando sobre o banco de dados [NoSQL](http://pt.wikipedia.org/wiki/NoSQL) [CouchDB](http://couchdb.apache.org/). AlÃ©m de trabalhar para [Improve It](http://www.improveit.com.br/) e [Rede Parede](http://redeparede.com/), ainda Ã© representante oficial da [CouchDB](http://www.couch.io/) no Brasil. Entre vÃ¡rias opÃ§Ãµes de bancos NoSQL que existem hoje em dia, ele falou que na Ã©poca gostou muito do CouchDB e que atualmente existem mais opÃ§Ãµes para uso em projetos e que estÃ£o evoluindo rapidamente. NoSQL Ã© realidade, portanto, nÃ£o deixem de estudar a tecnologia. JÃ¡ dei uma "mexida" no [Cassandra](http://cassandra.apache.org/), mas nada muito aprofundado. Ah! Me lembrei agora da primeira vez que ouvi falar de bancos de dados orientados a documentos. Foi o [FÃ¡bio Aguiar](http://twitter.com/fabyogr), sempre antenado, que me mandou um [post do TapajÃ³s sobre o CouchDB](http://blog.improveit.com.br/articles/2009/07/19/falando-sobre-couchdb). Depois de ver ao vivo me senti motivado a utilizÃ¡-lo. TapajÃ³s tambÃ©m falou de uma gem de integraÃ§Ã£o com o CouchDB que estÃ¡ preparada para o lanÃ§amento do Rails 3.
 
 
 [](http://twitter.com/carlosbrando)
@@ -59,10 +59,10 @@ O dia começou com [Marcos Tapajós](http://twitter.com/tapajos) falando sobre o b
 <div id="attachment_962" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_182.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_182.jpg)
 
-[Carlos Brando](http://twitter.com/carlosbrando), mantém o [blog nome do jogo](http://www.nomedojogo.com/) onde publicou, junto com Tapajós, [O primeiro livro sobre Rails 2.1](http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro/), outra dica que recebi do Fábio. Feito por brasileiros e de "grátis", tem coisa melhor? Também tô me divertindo muito com [O (comovente) guia de Ruby do Why](http://www.nomedojogo.com/2009/04/09/o-comovente-guia-de-ruby-do-why/), traduzido por [uma galera, alguns já conhecidos](http://www.nomedojogo.com/2008/10/28/why%E2%80%99s-poignant-guide-to-ruby-em-portugues/). Não importa se você **ainda** não programa em Ruby, dê uma passeada no blog. Para quem gosta de programação compulsiva como o [Leomário Machado](http://twitter.com/leomariomachado) vai se identificar logo nos primeiros post's.
+[Carlos Brando](http://twitter.com/carlosbrando), mantÃ©m o [blog nome do jogo](http://www.nomedojogo.com/) onde publicou, junto com TapajÃ³s, [O primeiro livro sobre Rails 2.1](http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro/), outra dica que recebi do FÃ¡bio. Feito por brasileiros e de "grÃ¡tis", tem coisa melhor? TambÃ©m tÃ´ me divertindo muito com [O (comovente) guia de Ruby do Why](http://www.nomedojogo.com/2009/04/09/o-comovente-guia-de-ruby-do-why/), traduzido por [uma galera, alguns jÃ¡ conhecidos](http://www.nomedojogo.com/2008/10/28/why%E2%80%99s-poignant-guide-to-ruby-em-portugues/). NÃ£o importa se vocÃª **ainda** nÃ£o programa em Ruby, dÃª uma passeada no blog. Para quem gosta de programaÃ§Ã£o compulsiva como o [LeomÃ¡rio Machado](http://twitter.com/leomariomachado) vai se identificar logo nos primeiros post's.
 
 
-Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em desenvolvimento de software". Ele comentou que não devemos esperar para estudar um assunto apenas quando for obrigado ou o "mercado" pedir. Estude o que você gosta, não importa se ninguém não está utilizando. Não tenha medo, se arrisque. Vou elencar os tópicos que estão bem explicados por [Helton Duarte em seu blog](http://heltonduarte.com/2010/08/08/oxente-rails-2010-dia-2/): Pense como programador; Aprenda outras linguagens; Pratique muito e continue praticando ainda mais; Tenha mentores; Tenha bons hábitos de programação e acima de tudo, se divirta. Por mais que você leia o resumo que fazemos de algumas palestras, sempre aconselho: guarde uma grana e participe de eventos. Ao vivo é bem melhor. :)
+Voltando Ã  palestra, Carlos Brando falou sobre "Criando uma carreira notÃ¡vel em desenvolvimento de software". Ele comentou que nÃ£o devemos esperar para estudar um assunto apenas quando for obrigado ou o "mercado" pedir. Estude o que vocÃª gosta, nÃ£o importa se ninguÃ©m nÃ£o estÃ¡ utilizando. NÃ£o tenha medo, se arrisque. Vou elencar os tÃ³picos que estÃ£o bem explicados por [Helton Duarte em seu blog](http://heltonduarte.com/2010/08/08/oxente-rails-2010-dia-2/): Pense como programador; Aprenda outras linguagens; Pratique muito e continue praticando ainda mais; Tenha mentores; Tenha bons hÃ¡bitos de programaÃ§Ã£o e acima de tudo, se divirta. Por mais que vocÃª leia o resumo que fazemos de algumas palestras, sempre aconselho: guarde uma grana e participe de eventos. Ao vivo Ã© bem melhor. :)
 
 
 
@@ -75,7 +75,7 @@ Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em 
 <div id="attachment_965" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_222.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_222.jpg)
 
-[Alexandre Gomes](http://twitter.com/alegomes), da [SEA Tecnologia](http://www.seatecnologia.com.br), falou sobre "[Start You Up - Não basta desenvolver, tem que empreender](http://www.slideshare.net/seatecnologia/startyouup-4266945)", ou seja, **levanta a bunda da cadeira e se mexe**! Não importa se você vai quebrar a cara. É melhor  tentar do que se arrepender. Empreenda conforme suas ideias e seus dons. Qualidade de vida é fazer o que se gosta de forma  equilibrada. Essas frases estão, **com certeza**, martelando a cabeça de cada pessoa que já assistiu essa palestra. Alê resumiu sua carreira profissional e mostrou que como qualquer um que começa, comete tropeços mas levanta e segue em frente. Empreender é correr riscos. Mais um show que só vendo ao vivo pode aproveitá-lo ao máximo. **Dica:** veja a apresentação em tela cheia e com calma para poder digerir tudo com tranquilidade. Leia as matérias dos slides 131 e 132. Mais uma coisa. **TENHA ****ATITUDE!!! (para nós #tasafoemacao)**
+[Alexandre Gomes](http://twitter.com/alegomes), da [SEA Tecnologia](http://www.seatecnologia.com.br), falou sobre "[Start You Up - NÃ£o basta desenvolver, tem que empreender](http://www.slideshare.net/seatecnologia/startyouup-4266945)", ou seja, **levanta a bunda da cadeira e se mexe**! NÃ£o importa se vocÃª vai quebrar a cara. Ã‰ melhor  tentar do que se arrepender. Empreenda conforme suas ideias e seus dons. Qualidade de vida Ã© fazer o que se gosta de forma  equilibrada. Essas frases estÃ£o, **com certeza**, martelando a cabeÃ§a de cada pessoa que jÃ¡ assistiu essa palestra. AlÃª resumiu sua carreira profissional e mostrou que como qualquer um que comeÃ§a, comete tropeÃ§os mas levanta e segue em frente. Empreender Ã© correr riscos. Mais um show que sÃ³ vendo ao vivo pode aproveitÃ¡-lo ao mÃ¡ximo. **Dica:** veja a apresentaÃ§Ã£o em tela cheia e com calma para poder digerir tudo com tranquilidade. Leia as matÃ©rias dos slides 131 e 132. Mais uma coisa. **TENHA ****ATITUDE!!! (para nÃ³s #tasafoemacao)**
 
 
 
@@ -89,7 +89,7 @@ Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em 
 <div id="attachment_966" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_17.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_17.jpg)
 
-[Henrique Bastos](http://twitter.com/henriquebastos), da [Myfreecomm](http://www.myfreecomm.com.br/), mostrou como um grupo de pessoas altamente envolvidos está "Empreendendo uma comunidade de sucesso". Ele contou que o [#horaextra](http://horaextra.org/) começou com  apenas duas pessoas, Ele e Vinícius, no 1º encontro em uma noite de muita chuva. Não desanimou e mandou uma mensagem pra lista deles dizendo que lotou o bar e foi  o maior sucesso. A galera ficou tão curiosa que no 2º encontro bombou de gente :). Tem que promover! Tem que ter perseverança. Achei firme isso! Contou também dos encontros de programação que participam e sobre o método 3D: **Diversão, Desenvolvimento  e Deploy**. Sensacional! Mas quando começou a falar do [Small Acts Manifesto](http://smallactsmanifesto.org/), me caiu a ficha do que está escrito no [site do Caike](http://caikesouza.com/). que foi um dos criadores do manifesto. **Pequenos Atos, Grandes Revoluções**. **Estamos descobrindo maneiras melhores de construção de comunidades, conectando as pessoas**. Vou citar só um dos princípios: **Contato Pessoal**. Os outros, você vai entrar no site, ler com calma e atenção cada um. E por favor, só assine o manifesto se acreditar mesmo nele.   Se não acreditar, procure participar ativamente de alguma comunidade em sua cidade. Quem vive esse lance de comunidades de TI, se identifica de cara com o manifesto. Mais um recado que Henrique passou: **Invistam em sua rede de confiança**. #ficaadica
+[Henrique Bastos](http://twitter.com/henriquebastos), da [Myfreecomm](http://www.myfreecomm.com.br/), mostrou como um grupo de pessoas altamente envolvidos estÃ¡ "Empreendendo uma comunidade de sucesso". Ele contou que o [#horaextra](http://horaextra.org/) comeÃ§ou com  apenas duas pessoas, Ele e VinÃ­cius, no 1Âº encontro em uma noite de muita chuva. NÃ£o desanimou e mandou uma mensagem pra lista deles dizendo que lotou o bar e foiÂ  o maior sucesso. A galera ficou tÃ£o curiosa que no 2Âº encontro bombou de gente :). Tem que promover! Tem que ter perseveranÃ§a. Achei firme isso! Contou tambÃ©m dos encontros de programaÃ§Ã£o que participam e sobre o mÃ©todo 3D: **DiversÃ£o, Desenvolvimento  e Deploy**. Sensacional! Mas quando comeÃ§ou a falar do [Small Acts Manifesto](http://smallactsmanifesto.org/), me caiu a ficha do que estÃ¡ escrito no [site do Caike](http://caikesouza.com/). que foi um dos criadores do manifesto. **Pequenos Atos, Grandes RevoluÃ§Ãµes**. **Estamos descobrindo maneiras melhores de construÃ§Ã£o de comunidades, conectando as pessoas**. Vou citar sÃ³ um dos princÃ­pios: **Contato Pessoal**. Os outros, vocÃª vai entrar no site, ler com calma e atenÃ§Ã£o cada um. E por favor, sÃ³ assine o manifesto se acreditar mesmo nele.Â Â  Se nÃ£o acreditar, procure participar ativamente de alguma comunidade em sua cidade. Quem vive esse lance de comunidades de TI, se identifica de cara com o manifesto. Mais um recado que Henrique passou: **Invistam em sua rede de confianÃ§a**. #ficaadica
 
 
 [](http://twitter.com/caffo_br)
@@ -100,7 +100,7 @@ Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em 
 <div id="attachment_967" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_33.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_33.jpg)
 
-[Rodrigo Franco](http://twitter.com/caffo_br), criador da lista [rails-br](http://groups.google.com/group/rails-br), falou de "[Outsourcing](http://pt.wikipedia.org/wiki/Outsourcing) (ou como trabalhar para clientes gringos)". Muito bacana ver a experiência dele com Home Office, suas vantagens e desvantagens. Resumo: **disciplina é quesito fundamental**. Não é pra qualquer um.
+[Rodrigo Franco](http://twitter.com/caffo_br), criador da lista [rails-br](http://groups.google.com/group/rails-br), falou de "[Outsourcing](http://pt.wikipedia.org/wiki/Outsourcing) (ou como trabalhar para clientes gringos)". Muito bacana ver a experiÃªncia dele com Home Office, suas vantagens e desvantagens. Resumo: **disciplina Ã© quesito fundamental**. NÃ£o Ã© pra qualquer um.
 
 
 [](http://twitter.com/narwen)
@@ -111,7 +111,7 @@ Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em 
 <div id="attachment_968" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_43.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_43.jpg)
 
-[Thais Camilo](http://twitter.com/narwen), da [Hashrocket](http://www.hashrocket.com/) Chile. Trabalhando com Ruby on Rails, Mac, Vim, Pair  Programming e outras cocitas mais, contou como foi o processo de contratação da empresa. Ela passou uma semana na empresa, sem receber nada, mas com todas as despesas pagas e conviveu com a equipe e se sentiu à vontade logo nos primeiros dias. Hoje em dia ela canta a música da Legião Urbana, Eduardo e Mônica. Vou colocar um trecho que me lembra da palestra dela: "Ela aprendeu a beber, deixou o cabelo crescer e decidiu trabalhar..." :p. Só quem estava lá vai entender. Seria bom mais empresas se basearem no modelo de trabalho de empresas como a Hashrocket. **A empresa deve ser uma família**.
+[Thais Camilo](http://twitter.com/narwen), da [Hashrocket](http://www.hashrocket.com/) Chile. Trabalhando com Ruby on Rails, Mac, Vim, Pair  Programming e outras cocitas mais, contou como foi o processo de contrataÃ§Ã£o da empresa. Ela passou uma semana na empresa, sem receber nada, mas com todas as despesas pagas e conviveu com a equipe e se sentiu Ã  vontade logo nos primeiros dias. Hoje em dia ela canta a mÃºsica da LegiÃ£o Urbana, Eduardo e MÃ´nica. Vou colocar um trecho que me lembra da palestra dela: "Ela aprendeu a beber, deixou o cabelo crescer e decidiu trabalhar..." :p. SÃ³ quem estava lÃ¡ vai entender. Seria bom mais empresas se basearem no modelo de trabalho de empresas como a Hashrocket. **A empresa deve ser uma famÃ­lia**.
 
 
 [](http://twitter.com/danielvlopes)
@@ -122,10 +122,10 @@ Voltando à palestra, Carlos Brando falou sobre "Criando uma carreira notável em 
 <div id="attachment_973" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_56.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_56.jpg)
 
-[Daniel Lopes](http://twitter.com/danielvlopes), da [Area Criações](http://areacriacoes.com.br/), conhecido na comunidade por ministrar cursos de Ruby e Rails pela [Egenial](http://www.egenial.com.br/). Ele falou sobre testes de aceitação para carnívoros com [Steak](http://github.com/cavalle/steak) ao invés de utilizar o vegetal [Cucumber](http://wiki.github.com/aslakhellesoy/cucumber/). O cara tirou maior onda com o Cucumber, muito engraçado. Confesso que foi alto nível pra mim. Tenho que estudar: supletivo, supletivo, supletivo... :p. O cara tem uma excelente didática. Tá valendo pra caramba juntar uma grana pra fazer um curso dele. Recomendo.
+[Daniel Lopes](http://twitter.com/danielvlopes), da [Area CriaÃ§Ãµes](http://areacriacoes.com.br/), conhecido na comunidade por ministrar cursos de Ruby e Rails pela [Egenial](http://www.egenial.com.br/). Ele falou sobre testes de aceitaÃ§Ã£o para carnÃ­voros com [Steak](http://github.com/cavalle/steak) ao invÃ©s de utilizar o vegetal [Cucumber](http://wiki.github.com/aslakhellesoy/cucumber/). O cara tirou maior onda com o Cucumber, muito engraÃ§ado. Confesso que foi alto nÃ­vel pra mim. Tenho que estudar: supletivo, supletivo, supletivo... :p. O cara tem uma excelente didÃ¡tica. TÃ¡ valendo pra caramba juntar uma grana pra fazer um curso dele. Recomendo.
 
 
-Depois de uma pausa e mais Coffee Break (é, a gente passava bem lá sim) chegou uma das palestras mais esperadas do evento. Eita que os dois dias foram de palestras show mesmo. Nem abri o Notebook mais, queria prestar bem atenção no que iria falar. Finalmente iria ver ao vivo uma palestra dele.
+Depois de uma pausa e mais Coffee Break (Ã©, a gente passava bem lÃ¡ sim) chegou uma das palestras mais esperadas do evento. Eita que os dois dias foram de palestras show mesmo. Nem abri o Notebook mais, queria prestar bem atenÃ§Ã£o no que iria falar. Finalmente iria ver ao vivo uma palestra dele.
 
 
 
@@ -138,10 +138,10 @@ Depois de uma pausa e mais Coffee Break (é, a gente passava bem lá sim) chegou u
 <div id="attachment_974" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_88.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_88.jpg)
 
-[Vinícius Teles](http://twitter.com/viniciusteles), fundador da [Improve It](http://improveit.com.br/), autor do [1º livro de XP no Brasil](http://improveit.com.br/xp/livroxp), um dos representantes mais atuantes de nossa comunidade, hoje tem um produto em Rails que pode ser dar ao luxo de tirar férias de dois meses, mas com muito trabalho e planejamento antes disso. Precisa dizer que sou fã desse cara :p. Uma coisa muito firme que ele fez, foi levar ao palco o pessoal da caravana de Piauí, os criadores da revista de fofocas nerds mais arretada, [a Fuças](http://fucas.heroku.com/), feita lá mesmo durante o evento. Show de bola!
+[VinÃ­cius Teles](http://twitter.com/viniciusteles), fundador da [Improve It](http://improveit.com.br/), autor do [1Âº livro de XP no Brasil](http://improveit.com.br/xp/livroxp), um dos representantes mais atuantes de nossa comunidade, hoje tem um produto em Rails que pode ser dar ao luxo de tirar fÃ©rias de dois meses, mas com muito trabalho e planejamento antes disso. Precisa dizer que sou fÃ£ desse cara :p. Uma coisa muito firme que ele fez, foi levar ao palco o pessoal da caravana de PiauÃ­, os criadores da revista de fofocas nerds mais arretada, [a FuÃ§as](http://fucas.heroku.com/), feita lÃ¡ mesmo durante o evento. Show de bola!
 
 
-Com o título "[Fuja da Escravidão, antes que ela te alcance](http://www.slideshare.net/viniciusteles/fuja-da-escravido-antes-que-ela-te-alcance-4261724)", Vinícius fala com tanta naturalidade e propriedade do assunto, pois já comeu o pão que o diabo amassou, como diz o Alê Gomes. Já falei sobre empreendedores 2.0, pois é, Ele falou abertamente de uma situação em que ele expôs para seus clientes e ao invés de perdê-los acabou ganhando amigos. Quando você é sincero os problemas são resolvidos de uma forma bem mais simples do que se pensa. O problema está em nos escondermos e adiarmos solucionar o problema. Cria-se a famosa bola de neve. Daí mano, fica bem mais difícil. Pra você que não teve a oportunidade em ver a palestra tire um tempo, acesse a apresentação, veja em tela cheia e leia com atenção os comentários abaixo de cada slide. Depois conta aqui o que você achou. Se der vontade de pegar o "mochilão" e sair por aí, **FAÇA LOGO!!!**
+Com o tÃ­tulo "[Fuja da EscravidÃ£o, antes que ela te alcance](http://www.slideshare.net/viniciusteles/fuja-da-escravido-antes-que-ela-te-alcance-4261724)", VinÃ­cius fala com tanta naturalidade e propriedade do assunto, pois jÃ¡ comeu o pÃ£o que o diabo amassou, como diz o AlÃª Gomes. JÃ¡ falei sobre empreendedores 2.0, pois Ã©, Ele falou abertamente de uma situaÃ§Ã£o em que ele expÃ´s para seus clientes e ao invÃ©s de perdÃª-los acabou ganhando amigos. Quando vocÃª Ã© sincero os problemas sÃ£o resolvidos de uma forma bem mais simples do que se pensa. O problema estÃ¡ em nos escondermos e adiarmos solucionar o problema. Cria-se a famosa bola de neve. DaÃ­ mano, fica bem mais difÃ­cil. Pra vocÃª que nÃ£o teve a oportunidade em ver a palestra tire um tempo, acesse a apresentaÃ§Ã£o, veja em tela cheia e leia com atenÃ§Ã£o os comentÃ¡rios abaixo de cada slide. Depois conta aqui o que vocÃª achou. Se der vontade de pegar o "mochilÃ£o" e sair por aÃ­, **FAÃ‡A LOGO!!!**
 
 
 
@@ -152,16 +152,16 @@ Com o título "[Fuja da Escravidão, antes que ela te alcance](http://www.slidesha
 <div id="attachment_976" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_109.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_109.jpg)
 
-Na seção de perguntas e respostas com todos os palestrantes rolou uma bate-papo muito bacana sobre formação acadêmica, empreende- dorismo, qualificação profissional. O que gostei de ouvir foi: não foque em títulos, é claro que estudar é importante, mas não faça um curso apenas pelo certificado (status) que ele trará. Não tenha vergonha de dizer que já quebrou (faliu), pois a experiência que foi adquirida é 100% válida para não cometer o mesmo erro novamente. Humildade acima de tudo.
+Na seÃ§Ã£o de perguntas e respostas com todos os palestrantes rolou uma bate-papo muito bacana sobre formaÃ§Ã£o acadÃªmica, empreende- dorismo, qualificaÃ§Ã£o profissional. O que gostei de ouvir foi: nÃ£o foque em tÃ­tulos, Ã© claro que estudar Ã© importante, mas nÃ£o faÃ§a um curso apenas pelo certificado (status) que ele trarÃ¡. NÃ£o tenha vergonha de dizer que jÃ¡ quebrou (faliu), pois a experiÃªncia que foi adquirida Ã© 100% vÃ¡lida para nÃ£o cometer o mesmo erro novamente. Humildade acima de tudo.
 
 
-O papo podia rolar a noite toda, mas ainda tinha a desconferência. [Paulo Fagiani](http://twitter.com/fagiani) chamou a galera e criou-se a fila democrática para dar oportunidade a quem não estava na grade oficial em falar de algo relevante ao evento. Tempo atrás houve uma discussão para saber o que era o evento Maré de Agilidade pra você. [Paulo Igor](http://twitter.com/pigodinho) falou o seguinte:
+O papo podia rolar a noite toda, mas ainda tinha a desconferÃªncia. [Paulo Fagiani](http://twitter.com/fagiani) chamou a galera e criou-se a fila democrÃ¡tica para dar oportunidade a quem nÃ£o estava na grade oficial em falar de algo relevante ao evento. Tempo atrÃ¡s houve uma discussÃ£o para saber o que era o evento MarÃ© de Agilidade pra vocÃª. [Paulo Igor](http://twitter.com/pigodinho) falou o seguinte:
 
 
 
 
 
-> O Maré pra mim é como um show de rock underground com o palco baixo, onde a galera ta ali sobe pra cantar junto, e a interação com a galera é muito próxima e transparente, muitas vezes você até conhece os caras da banda, ou a galera que ta lá pra assistir o show.
+> O MarÃ© pra mim Ã© como um show de rock underground com o palco baixo, onde a galera ta ali sobe pra cantar junto, e a interaÃ§Ã£o com a galera Ã© muito prÃ³xima e transparente, muitas vezes vocÃª atÃ© conhece os caras da banda, ou a galera que ta lÃ¡ pra assistir o show.
 
 
 
@@ -172,7 +172,7 @@ Tomei a liberdade de resgatar esse depoimenteo dele para acrescentar o seguinte:
 
 
 
-> A desconferência pra mim parece aquela chance que dão aos músicos/cantores, que estão iniciando, a darem uma "canja" junto com seus ídolos e poderem cantar(falar) o que gostam. Sem frescura.
+> A desconferÃªncia pra mim parece aquela chance que dÃ£o aos mÃºsicos/cantores, que estÃ£o iniciando, a darem uma "canja" junto com seus Ã­dolos e poderem cantar(falar) o que gostam. Sem frescura.
 
 
 
@@ -183,7 +183,7 @@ Tomei a liberdade de resgatar esse depoimenteo dele para acrescentar o seguinte:
 <div id="attachment_981" class="wp-caption" align="alignleft" style="width: 170px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/oxente_sexta_feira_65.jpg)](http://tasafo.files.wordpress.com/2010/08/oxente_sexta_feira_65.jpg)
 
-Foi assim que eu vi [Daniel Cukier](http://twitter.com/danicuki) cantando o [Forró do Elomar](http://www.youtube.com/watch?v=uhFXtA2ngeo), os "fanfarrões" da Caravana de Piauí [falando sobre suas aventuras no Oxente Rails](http://www.slideshare.net/cleitonfco/desconferencia-da-caravanapi-no-oxenterails-2010), os SEArences [Túlio](http://twitter.com/tulios) e [Renan](http://twitter.com/aitherios) falando sobre seus projetos Open Source, [Valério Farias](http://twitter.com/valeriofarias) falando sobre seu livro [Aprenda BDD  Jogando Dados](http://valeriofarias.com/aprenda-bdd-jogando-dados-ebook/),  [Fabio Kung](http://twitter.com/fabiokung) mostrando a [lib para tocar  músicas em Ruby](http://github.com/mental/bloopsaphone), foi a mais rápida e ilária. E tantos assuntos que já me falham a memória. Ah! Também fui lá [falar do Tá safo!](http://www.slideshare.net/luizsanches/tasafo-debelemdoparadobrasil), frio na barriga, ainda tinha muita gente e boa parte dos palestrantes ainda estavam lá, vixe. Passei duas semanas antes do evento pensando no que ia falar na desconf, catei umas imagens, coloquei na ordem que achava melhor e catei mais fotos de eventos realizados e "tagarelei" o mais rápido que pude, para os presentes, um pouco do que fazemos em Belém do Pará. Fiquei feliz por conseguir arrancar algumas risadas da platéia e mais ainda por ser reconhecido por pessoas que admiro muito. Como diz o Faustão: "Tanto do lado profissional como no pessoal" :) Valeu o feedback galera.
+Foi assim que eu vi [Daniel Cukier](http://twitter.com/danicuki) cantando o [ForrÃ³ do Elomar](http://www.youtube.com/watch?v=uhFXtA2ngeo), os "fanfarrÃµes" da Caravana de PiauÃ­ [falando sobre suas aventuras no Oxente Rails](http://www.slideshare.net/cleitonfco/desconferencia-da-caravanapi-no-oxenterails-2010), os SEArences [TÃºlio](http://twitter.com/tulios) e [Renan](http://twitter.com/aitherios) falando sobre seus projetos Open Source, [ValÃ©rio Farias](http://twitter.com/valeriofarias) falando sobre seu livro [Aprenda BDD  Jogando Dados](http://valeriofarias.com/aprenda-bdd-jogando-dados-ebook/),Â  [Fabio Kung](http://twitter.com/fabiokung) mostrando a [lib para tocar  mÃºsicas em Ruby](http://github.com/mental/bloopsaphone), foi a mais rÃ¡pida e ilÃ¡ria. E tantos assuntos que jÃ¡ me falham a memÃ³ria. Ah! TambÃ©m fui lÃ¡ [falar do TÃ¡ safo!](http://www.slideshare.net/luizsanches/tasafo-debelemdoparadobrasil), frio na barriga, ainda tinha muita gente e boa parte dos palestrantes ainda estavam lÃ¡, vixe. Passei duas semanas antes do evento pensando no que ia falar na desconf, catei umas imagens, coloquei na ordem que achava melhor e catei mais fotos de eventos realizados e "tagarelei" o mais rÃ¡pido que pude, para os presentes, um pouco do que fazemos em BelÃ©m do ParÃ¡. Fiquei feliz por conseguir arrancar algumas risadas da platÃ©ia e mais ainda por ser reconhecido por pessoas que admiro muito. Como diz o FaustÃ£o: "Tanto do lado profissional como no pessoal" :) Valeu o feedback galera.
 
 
 
@@ -192,7 +192,7 @@ Foi assim que eu vi [Daniel Cukier](http://twitter.com/danicuki) cantando o [For
 <div id="attachment_983" class="wp-caption" align="alignright" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/tasafo-no-oxenterails.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/tasafo-no-oxenterails.jpg)
 
-Muito se fala da relação de desenvolvimento de software com arte. Na hora que você recebe aplausos e vê as pessoas felizes, você se sente realmente um artista.
+Muito se fala da relaÃ§Ã£o de desenvolvimento de software com arte. Na hora que vocÃª recebe aplausos e vÃª as pessoas felizes, vocÃª se sente realmente um artista.
 
 
 
@@ -201,10 +201,10 @@ Muito se fala da relação de desenvolvimento de software com arte. Na hora que vo
 <div id="attachment_985" class="wp-caption" align="alignleft" style="width: 310px"><p class="wp-caption-text"></p></div>
 [![](http://tasafo.files.wordpress.com/2010/08/hora-extra.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/hora-extra.jpg)
 
-A #horaextra mais firme que já participei nos últimos tempos foi logo depois no [Páprika](http://www.paprikanatal.com.br/). Deixa eu desmistificar logo uma coisa. Não é preciso consumir bebida alcoólica pra ir em uma #horaextra, é apenas um encontro para bater-papo. Só que um encontro que você pode conversar com pessoas altamente qualificadas e ao mesmo tempo humildes e pé no chão a ponto de ententer que ninguém sabe tudo e qualquer um pode chegar lá. Era tanta gente que tinha rodízio de conversa :p. **MUITO FIRME MESMO**. Não dá pra detalhar mais. No próximo evento vocês têm que ir.
+A #horaextra mais firme que jÃ¡ participei nos Ãºltimos tempos foi logo depois no [PÃ¡prika](http://www.paprikanatal.com.br/). Deixa eu desmistificar logo uma coisa. NÃ£o Ã© preciso consumir bebida alcoÃ³lica pra ir em uma #horaextra, Ã© apenas um encontro para bater-papo. SÃ³ que um encontro que vocÃª pode conversar com pessoas altamente qualificadas e ao mesmo tempo humildes e pÃ© no chÃ£o a ponto de ententer que ninguÃ©m sabe tudo e qualquer um pode chegar lÃ¡. Era tanta gente que tinha rodÃ­zio de conversa :p. **MUITO FIRME MESMO**. NÃ£o dÃ¡ pra detalhar mais. No prÃ³ximo evento vocÃªs tÃªm que ir.
 
 
-Balanço do evento:
+BalanÃ§o do evento:
 
 
 
@@ -212,25 +212,25 @@ Balanço do evento:
 
 
 	
-  * O pessoal, principalmente as mulheres, de Natal são massa.
+  * O pessoal, principalmente as mulheres, de Natal sÃ£o massa.
 
 	
   * Virei mochileiro e alberguista.
 
 	
-  * Parece que já tenho casa pra ficar em Natal e Fortaleza para quando for em eventos :p
+  * Parece que jÃ¡ tenho casa pra ficar em Natal e Fortaleza para quando for em eventos :p
 
 	
-  * Conheci uma galera gente boa de Recife ([Gabriel Cavalcanti](http://twitter.com/gabrielcwa), [Haderson Abraão](http://twitter.com/haderson_abraao), [Guilherme Carvalho](http://twitter.com/guilherme_vc), [Lailson Bandeira](http://twitter.com/lailsonbm) e [Dalton Jorge](http://twitter.com/daltonjorge)). Se me esqueci de alguém me falem.
+  * Conheci uma galera gente boa de Recife ([Gabriel Cavalcanti](http://twitter.com/gabrielcwa), [Haderson AbraÃ£o](http://twitter.com/haderson_abraao), [Guilherme Carvalho](http://twitter.com/guilherme_vc), [Lailson Bandeira](http://twitter.com/lailsonbm) e [Dalton Jorge](http://twitter.com/daltonjorge)). Se me esqueci de alguÃ©m me falem.
 
 	
   * Revi e conheci novos amigos.
 
 	
-  * Sempre encontro alguém de Belém por aí :p
+  * Sempre encontro alguÃ©m de BelÃ©m por aÃ­ :p
 
 	
-  * É fundamental o equilíbrio entre estudo e diversão.
+  * Ã‰ fundamental o equilÃ­brio entre estudo e diversÃ£o.
 
 	
   * Conheci empresas que realmente se importam com seus colaboradores.
@@ -239,15 +239,15 @@ Balanço do evento:
   * Acabei de vender meu voucher SCJP 6 e decidi estudar mais Ruby on Rails.
 
 	
-  * Viver é correr riscos!
+  * Viver Ã© correr riscos!
 
 	
-  * Eu não vou em eventos de TI pra me divertir. Eu me divirto indo em eventos de TI :)
+  * Eu nÃ£o vou em eventos de TI pra me divertir. Eu me divirto indo em eventos de TI :)
 
 
 
 
-**Oxente Rails. Égua do evento porreta!**
+**Oxente Rails. Ã‰gua do evento porreta!**
 
 
 
@@ -261,7 +261,7 @@ Balanço do evento:
 ** ****[![](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_180.jpg)](http://tasafo.files.wordpress.com/2010/08/oxente_sabado_180.jpg)**
 
 
-Os créditos das fotos vão para os álbuns de:
+Os crÃ©ditos das fotos vÃ£o para os Ã¡lbuns de:
 
 
 
