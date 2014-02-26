@@ -2,12 +2,13 @@ status=published
 date=2010-10-14
 tags=blog
 type=post
-title=TÃ¡ safo @ Feira do Empreendedor . IESAM .Â br
+title=Tá safo @ Feira do Empreendedor . IESAM . br
 ~~~~~~
-[caption id="attachment_1230" align="aligncenter" width="300" caption="Pessoal participando"][![](http://tasafo.files.wordpress.com/2010/10/img_20101006_194629_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_194629_1024x765.jpg)[/caption]
+<div id="attachment_1230" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/img_20101006_194629_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_194629_1024x765.jpg)
 
 
-No dia 6 de Outubro, o TÃ¡ safo! foi convidado para palestrar na Feira do Empreendedor do IESAM. Foi mais um "se vira nos trinta! (minutos)". Segue abaixo os slides que apresentamos. E fica aqui o agradecimento ao IESAM pelo convite e ao pÃºblico pela presenÃ§a. Valeu galera!
+No dia 6 de Outubro, o Tá safo! foi convidado para palestrar na Feira do Empreendedor do IESAM. Foi mais um "se vira nos trinta! (minutos)". Segue abaixo os slides que apresentamos. E fica aqui o agradecimento ao IESAM pelo convite e ao público pela presença. Valeu galera!
 
 
 
@@ -17,21 +18,24 @@ No dia 6 de Outubro, o TÃ¡ safo! foi convidado para palestrar na Feira do Empree
 
 
 
-[caption id="attachment_1234" align="aligncenter" width="300" caption="FÃ¡bio Aguiar"][![](http://tasafo.files.wordpress.com/2010/10/img_20101006_192553_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_192553_1024x765.jpg)[/caption]
+<div id="attachment_1234" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/img_20101006_192553_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_192553_1024x765.jpg)
 
-[slideshare id=5372187&doc=tiresuaideiadopapel-101006092650-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5372187" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-Jaime Schettini falou como empreender em comunidades (a apresentaÃ§Ã£o contÃ©m notas nos slides, que sÃ£o interessantes para acompanhar a histÃ³ria. Para vÃª-las, acesse a apresentaÃ§Ã£o pelo slideshare e veja as notas na aba do lado dos comentÃ¡rios. Vale a pena!).
+Jaime Schettini falou como empreender em comunidades (a apresentação contém notas nos slides, que são interessantes para acompanhar a história. Para vê-las, acesse a apresentação pelo slideshare e veja as notas na aba do lado dos comentários. Vale a pena!).
 
-[slideshare id=5445196&doc=empreendendoemcomunidades-101014130333-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5445196" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-[caption id="attachment_1235" align="aligncenter" width="300" caption="Luiz Sanches"][![](http://tasafo.files.wordpress.com/2010/10/img_20101006_202015_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_202015_1024x765.jpg)[/caption]
+<div id="attachment_1235" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/img_20101006_202015_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101006_202015_1024x765.jpg)
 
-[slideshare id=5423837&doc=software-livre-ser-pensar-agir-101012084339-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5423837" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-[caption id="attachment_1236" align="aligncenter" width="300" caption="Ramon Rabello"][![](http://tasafo.files.wordpress.com/2010/10/img_20101007_192531_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101007_192531_1024x765.jpg)[/caption]
+<div id="attachment_1236" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/img_20101007_192531_1024x765.jpg?w=300)](http://tasafo.files.wordpress.com/2010/10/img_20101007_192531_1024x765.jpg)
 
-[slideshare id=5389148&doc=pequenosdispositivosgrandesnegcio-101007205937-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5389148" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
 
 
@@ -40,7 +44,7 @@ Jaime Schettini falou como empreender em comunidades (a apresentaÃ§Ã£o contÃ©m n
 
 4px"><a href="http://www.slideshare.net/fabiogr/tire-sua-idia-do-papel" title="Tire sua
 
-idÃ©ia do papel">Tire sua idÃ©ia do papel</a></strong><object id="__sse5372187" width="425"
+idéia do papel">Tire sua idéia do papel</a></strong><object id="__sse5372187" width="425"
 
 height="355"><param name="movie"
 
@@ -62,6 +66,6 @@ width="425" height="355"></embed></object><div style="padding:5px 0 12px">View m
 
 href="http://www.slideshare.net/">presentations</a> from <a
 
-href="http://www.slideshare.net/fabiogr">FÃ¡bio Aguiar</a>.</div></div>
+href="http://www.slideshare.net/fabiogr">Fábio Aguiar</a>.</div></div>
 
 

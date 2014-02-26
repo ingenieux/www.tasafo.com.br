@@ -6,8 +6,8 @@ title=VAAM - Resumo INFOrmal
 ~~~~~~
 **Por Hector "Bonilha"**
 
-Vejam algumas informaÃ§Ãµes em tempo "quase" real.
+Vejam algumas informações em tempo "quase" real.
 
 [http://osinformais.wordpress.com](http://osinformais.wordpress.com)
 
-Passem por lÃ¡...
+Passem por lá...

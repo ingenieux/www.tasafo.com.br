@@ -2,19 +2,20 @@ status=published
 date=2013-08-21
 tags=blog
 type=post
-title=T√° safo em a√ß√£o com Vin√≠cius Teles
+title=T· safo em aÁ„o com VinÌcius Teles
 ~~~~~~
-[caption id="attachment_3364" align="aligncenter" width="640"][![Patr√≠cia e Vin√≠cius](http://tasafo.files.wordpress.com/2013/08/casal_partiu.jpg)](http://tasafo.files.wordpress.com/2013/08/casal_partiu.jpg) Casal Partiu[/caption]
+<div id="attachment_3364" class="wp-caption" align="aligncenter" style="width: 650px"><p class="wp-caption-text"></p></div>
+[![PatrÌcia e VinÌcius](http://tasafo.files.wordpress.com/2013/08/casal_partiu.jpg)](http://tasafo.files.wordpress.com/2013/08/casal_partiu.jpg) Casal Partiu
 
 
 > 
 
 > 
-> Quem um dia ir√° dizer
-Que existe raz√£o
-Nas coisas feitas pelo cora√ß√£o?
-E quem ir√° dizer
-Que n√£o existe raz√£o?
+> Quem um dia ir· dizer
+Que existe raz„o
+Nas coisas feitas pelo coraÁ„o?
+E quem ir· dizer
+Que n„o existe raz„o?
 > 
 > 
 
@@ -22,7 +23,7 @@ Que n√£o existe raz√£o?
 
 
 
-O sorriso do rapaz √† direita √© de uma pessoa que j√° passou por alguns "perrengues" na √°rea de TI, chegando √† conclus√£o de que todo o projeto de desenvolvimento de software que ele participava, acabava dando "zica". Mas n√£o conformado com a situa√ß√£o, come√ßou a pesquisar formas sustent√°veis de desenvolver software. E n√£o √© que ele encontrou uma tal de [Programa√ß√£o Extrema](http://desenvolvimentoagil.com.br/xp/), que de nome d√° at√© medo nos mais c√©ticos da √°rea. S√≥ que ele n√£o apenas conheceu [um dos pais da crian√ßa](http://pt.wikipedia.org/wiki/Kent_Beck) como defendeu [sua tese de mestrado](http://desenvolvimentoagil.com.br/xp/dissertacaoXP.pdf‚Äé), implementou as boas pr√°ticas de Engenharia de Software em sua empresa, virou consultor, palestrante e escreveu [um livro sobre o assunto](http://improveit.com.br/xp/livroxp).
+O sorriso do rapaz ‡ direita È de uma pessoa que j· passou por alguns "perrengues" na ·rea de TI, chegando ‡ conclus„o de que todo o projeto de desenvolvimento de software que ele participava, acabava dando "zica". Mas n„o conformado com a situaÁ„o, comeÁou a pesquisar formas sustent·veis de desenvolver software. E n„o È que ele encontrou uma tal de [ProgramaÁ„o Extrema](http://desenvolvimentoagil.com.br/xp/), que de nome d· atÈ medo nos mais cÈticos da ·rea. SÛ que ele n„o apenas conheceu [um dos pais da crianÁa](http://pt.wikipedia.org/wiki/Kent_Beck) como defendeu [sua tese de mestrado](http://desenvolvimentoagil.com.br/xp/dissertacaoXP.pdf?), implementou as boas pr·ticas de Engenharia de Software em sua empresa, virou consultor, palestrante e escreveu [um livro sobre o assunto](http://improveit.com.br/xp/livroxp).
 
 
 
@@ -31,7 +32,7 @@ O sorriso do rapaz √† direita √© de uma pessoa que j√° passou por alguns "perren
 > 
 
 > 
-> Vin√≠cius abriu os olhos, mas n√£o quis mais programar
+> VinÌcius abriu os olhos, mas n„o quis mais programar
 Ficou deitado e viu que horas eram
 Enquanto Paty se estressava no seu trampo
 No outro canto da cidade, como eles disseram
@@ -42,7 +43,7 @@ No outro canto da cidade, como eles disseram
 
 
 
-Um dos precursores na divulga√ß√£o da XP no Brasil, Vin√≠cius Teles fala com propriedade sobre o assunto e, de uma maneira t√£o informal que se aproxima de apresenta√ß√µes √† l√° stand up comedy. Voc√™ que √© desenvolvedor, ou mesmo gestor, de software e que ainda n√£o conhece sobre o assunto, deve dar uma pesquisada, pois j√° √© bem antigo mas continua sempre atual (como algumas letras de m√∫sica) e bastante utilizado para manter a qualidade de um produto de software e a sanidade de uma equipe.
+Um dos precursores na divulgaÁ„o da XP no Brasil, VinÌcius Teles fala com propriedade sobre o assunto e, de uma maneira t„o informal que se aproxima de apresentaÁıes ‡ l· stand up comedy. VocÍ que È desenvolvedor, ou mesmo gestor, de software e que ainda n„o conhece sobre o assunto, deve dar uma pesquisada, pois j· È bem antigo mas continua sempre atual (como algumas letras de m˙sica) e bastante utilizado para manter a qualidade de um produto de software e a sanidade de uma equipe.
 
 
 
@@ -51,9 +52,9 @@ Um dos precursores na divulga√ß√£o da XP no Brasil, Vin√≠cius Teles fala com pro
 > 
 
 > 
-> Vin√≠cius e Paty um dia se encontraram sem querer
+> VinÌcius e Paty um dia se encontraram sem querer
 E conversaram muito mesmo pra tentar empreender
-Um carinha do trabalho do Vin√≠cius que disse
+Um carinha do trabalho do VinÌcius que disse
 "Tem uma ideia legal, fotografar e se divertir"
 > 
 > 
@@ -62,12 +63,12 @@ Um carinha do trabalho do Vin√≠cius que disse
 
 
 
-Mas depois de tanto carregar ‚Äúbaldes de √°gua‚Äù por a√≠, Vin√≠cius Teles e Patr√≠cia Figueira encontraram a f√≥rmula do sucesso, fazer o que gosta. Vin√≠cius, programador que √©, solucionou um problema para a Patr√≠cia, que havia chutado o balde, sa√≠do do emprego e decidiu fotografar casamentos, mas que ainda n√£o tinha um site legal para exibir seus trabalhos. Hoje, o [Be on the Net](http://beonthe.net/) √© um produto que deu certo e que ajudou o [casal a partir](http://www.casalpartiu.com.br/) por esse mund√£o sem porteira.
+Mas depois de tanto carregar ìbaldes de ·guaî por aÌ, VinÌcius Teles e PatrÌcia Figueira encontraram a fÛrmula do sucesso, fazer o que gosta. VinÌcius, programador que È, solucionou um problema para a PatrÌcia, que havia chutado o balde, saÌdo do emprego e decidiu fotografar casamentos, mas que ainda n„o tinha um site legal para exibir seus trabalhos. Hoje, o [Be on the Net](http://beonthe.net/) È um produto que deu certo e que ajudou o [casal a partir](http://www.casalpartiu.com.br/) por esse mund„o sem porteira.
 
 
 
 
-Pois bem, pessoal. Eles partiram de algum canto do mundo passando, √† trabalho, por Bel√©m do Par√° nessa semana. Ano passado, eles passaram rapidamente por aqui e s√≥ deu tempo de fazer uma [#horaextra](http://horaextra.org) que deixou vontade de quero mais. Agora com um pouco mais de tempo por aqui, Vin√≠cius preparou uma palestra para a comunidade e **estar√° nesta quinta-feira no audit√≥rio do CESUPA da Av. Nazar√©, n¬∫ 630, entre Rui Barbosa e Quintino Bocai√∫va, √†s 19hs, com entrada franca**, para falar um pouco sobre tecnologia, empreendedorismo, comunidades de TI, viagens e muito etc.
+Pois bem, pessoal. Eles partiram de algum canto do mundo passando, ‡ trabalho, por BelÈm do Par· nessa semana. Ano passado, eles passaram rapidamente por aqui e sÛ deu tempo de fazer uma [#horaextra](http://horaextra.org) que deixou vontade de quero mais. Agora com um pouco mais de tempo por aqui, VinÌcius preparou uma palestra para a comunidade e **estar· nesta quinta-feira no auditÛrio do CESUPA da Av. NazarÈ, n∫ 630, entre Rui Barbosa e Quintino Bocai˙va, ‡s 19hs, com entrada franca**, para falar um pouco sobre tecnologia, empreendedorismo, comunidades de TI, viagens e muito etc.
 
 
 
@@ -77,7 +78,7 @@ Para saber mais: [viniciusteles.com.br](http://viniciusteles.com.br/)
 
 
 
-Obrigado, Legi√£o Urbana.
+Obrigado, Legi„o Urbana.
 
 
 
@@ -86,11 +87,11 @@ Obrigado, Legi√£o Urbana.
 > 
 
 > 
-> E quem um dia ir√° dizer
-Que existe raz√£o
-Nas coisas feitas pelo cora√ß√£o?
-E quem ir√° dizer
-Que n√£o existe raz√£o?
+> E quem um dia ir· dizer
+Que existe raz„o
+Nas coisas feitas pelo coraÁ„o?
+E quem ir· dizer
+Que n„o existe raz„o?
 > 
 > 
 

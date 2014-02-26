@@ -2,7 +2,7 @@ status=published
 date=2010-09-06
 tags=blog
 type=post
-title=T√° safo em a√ß√£o¬†na¬†Federal!
+title=T· safo em aÁ„o†na†Federal!
 ~~~~~~
 > Paparara
 papapa
@@ -11,19 +11,19 @@ papapa
 paparara
 papapapa
 
-(Imaginem agora foguetes explodindo, o pessoal te jogando trigo, coloral, ovo e um bando de coisas na tua cabe√ßa)
+(Imaginem agora foguetes explodindo, o pessoal te jogando trigo, coloral, ovo e um bando de coisas na tua cabeÁa)
 
 > 
 > 
 
 > 
-> Al√¥, al√¥, al√¥ papai
+> AlÙ, alÙ, alÙ papai
 > 
 > 
 
 > 
-> Al√¥ mam√£e
-P√µe a vitrola pra tocar
+> AlÙ mam„e
+Pıe a vitrola pra tocar
 Podem soltar foguetes
 Que eu passei no vestibular
 > 
@@ -44,7 +44,8 @@ Que eu passei no vestibular
 
 
 
-[caption id="attachment_1105" align="aligncenter" width="450" caption="Galera comemorando aprova√ß√£o na UFPA"][![](http://tasafo.files.wordpress.com/2010/09/vestibular-ufpa.jpg)](http://tasafo.files.wordpress.com/2010/09/vestibular-ufpa.jpg)[/caption]
+<div id="attachment_1105" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/09/vestibular-ufpa.jpg)](http://tasafo.files.wordpress.com/2010/09/vestibular-ufpa.jpg)
 
 
 Link da imagem: [http://www.flickr.com/photos/tarsosarraf/3945786256/](http://www.flickr.com/photos/tarsosarraf/3945786256/)
@@ -52,7 +53,7 @@ Link da imagem: [http://www.flickr.com/photos/tarsosarraf/3945786256/](http://ww
 
 
 
-Eeeeeeee, o cursinho pr√©-vestibular T√° safo! aprovou alguns calouros na [UFPA](http://www.portal.ufpa.br/). E em duas, uhhuuuuuu! Espoquem ovos na cabe√ßa deles :)
+Eeeeeeee, o cursinho prÈ-vestibular T· safo! aprovou alguns calouros na [UFPA](http://www.portal.ufpa.br/). E em duas, uhhuuuuuu! Espoquem ovos na cabeÁa deles :)
 
 
 
@@ -62,57 +63,57 @@ Eeeeeeee, o cursinho pr√©-vestibular T√° safo! aprovou alguns calouros na [UFPA]
 
 
 
-Alegria de paraense √© ouvir a m√∫sica acima que √© uma [marchinha](http://letras.terra.com.br/pinduca/355786/) do [Pinduca](http://pt.wikipedia.org/wiki/Pinduca) que toca toooooodo ano quando sai o list√£o de aprovados das universidades. E o T√° safo! foi convidado para levar sua caravana e participar de dois encontros nas UFPA's de [Bel√©m](http://www.ufpa.br/cacc/index.php?option=com_content&view=article&id=6&Itemid=15) e [Castanhal](http://www.campuscastanhal.ufpa.br/). Desde j√° agradecemos o convite.
+Alegria de paraense È ouvir a m˙sica acima que È uma [marchinha](http://letras.terra.com.br/pinduca/355786/) do [Pinduca](http://pt.wikipedia.org/wiki/Pinduca) que toca toooooodo ano quando sai o list„o de aprovados das universidades. E o T· safo! foi convidado para levar sua caravana e participar de dois encontros nas UFPA's de [BelÈm](http://www.ufpa.br/cacc/index.php?option=com_content&view=article&id=6&Itemid=15) e [Castanhal](http://www.campuscastanhal.ufpa.br/). Desde j· agradecemos o convite.
 
 
 
 
-Ent√£o, atualize sua agenda e n√£o perca mais essa oportunidade, √© de "gr√°tis" e sem "√©quio" :) Para a galera de Bel√©m que quiser conhecer castanhal, o pessoal est√° organizando uma caravana para ir tamb√©m.
+Ent„o, atualize sua agenda e n„o perca mais essa oportunidade, È de "gr·tis" e sem "Èquio" :) Para a galera de BelÈm que quiser conhecer castanhal, o pessoal est· organizando uma caravana para ir tambÈm.
 
 
 
 
 
-## UFPA Bel√©m - Dia 27 de Setembro
+## UFPA BelÈm - Dia 27 de Setembro
 
 
 
 
-### [**I Semana Acad√™mica do CBCC (link da programa√ß√£o)**](http://ufpa.br/cacc/index.php?option=com_content&view=article&id=14&Itemid=21)
+### [**I Semana AcadÍmica do CBCC (link da programaÁ„o)**](http://ufpa.br/cacc/index.php?option=com_content&view=article&id=14&Itemid=21)
 
 
 
 
-### **Local: **Campus Guam√°, Audit√≥rio do ICEN - Instituto de Ci√™ncias Exatas e Naturais
+### **Local: **Campus Guam·, AuditÛrio do ICEN - Instituto de CiÍncias Exatas e Naturais
 
 
 
 
-### **Hor√°rio:** 14:00 √†s 18:00hs
+### **Hor·rio:** 14:00 ‡s 18:00hs
 
 
 
 
-### **List√£o dos aprovados:**
+### **List„o dos aprovados:**
 
 
 
 
 
 	
-  * **Seja Not√°vel** - [F√°bio Aguiar](http://twitter.com/fabyogr)
+  * **Seja Not·vel** - [F·bio Aguiar](http://twitter.com/fabyogr)
 
 	
   * **Agile, Mudando o Foco** - [Ewertton Bravo](http://twitter.com/ewerttonbravo)
 
 	
-  * **Como Ser um Modelador √Ågil **- [Jaime Schettini](http://jaimesch.blogspot.com/)
+  * **Como Ser um Modelador ¡gil **- [Jaime Schettini](http://jaimesch.blogspot.com/)
 
 	
   * **RUBY: O Todo Poderoso** - [Pamela Gatinho](http://twitter.com/pamelagatinho)
 
 	
-  * **Agora √© Android, T√° Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
+  * **Agora È Android, T· Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
 
 
 
@@ -122,30 +123,30 @@ Ent√£o, atualize sua agenda e n√£o perca mais essa oportunidade, √© de "gr√°tis"
 
 
 
-### **Local:** Campus Universit√°rio de Castanhal. Faculdade de Sistemas de Informa√ß√£o
+### **Local:** Campus Universit·rio de Castanhal. Faculdade de Sistemas de InformaÁ„o
 
 
 
 
-### **Hor√°rio: **09:00 √†s 13:00hs
+### **Hor·rio: **09:00 ‡s 13:00hs
 
 
 
 
-### **List√£o dos aprovados:**
+### **List„o dos aprovados:**
 
 
 
 
-
-	
-  * **T√° safo! De Bel√©m - Do Par√° - Do Brasil ++ **- [Luiz Sanches](http://twitter.com/luizgrsanches) (Repescagem)
 
 	
-  * **Seja Not√°vel** - [F√°bio Aguiar](http://twitter.com/fabyogr)
+  * **T· safo! De BelÈm - Do Par· - Do Brasil ++ **- [Luiz Sanches](http://twitter.com/luizgrsanches) (Repescagem)
 
 	
-  * **Introdu√ß√£o √†s Metodologias Ag√©is de Desenvolvimento de Software** - [Jaime Schettini](http://jaimesch.blogspot.com/)
+  * **Seja Not·vel** - [F·bio Aguiar](http://twitter.com/fabyogr)
+
+	
+  * **IntroduÁ„o ‡s Metodologias AgÈis de Desenvolvimento de Software** - [Jaime Schettini](http://jaimesch.blogspot.com/)
 
 	
   * **Acelerando Desenvolvimento Java Web com Seam** - [Ewertton Bravo](http://twitter.com/ewerttonbravo)
@@ -157,7 +158,7 @@ Ent√£o, atualize sua agenda e n√£o perca mais essa oportunidade, √© de "gr√°tis"
   * **RUBY: O Todo Poderoso** - [Pamela Gatinho](http://twitter.com/pamelagatinho)
 
 	
-  * **Agora √© Android, T√° Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
+  * **Agora È Android, T· Safo?** - [Ramon Rabello](http://twitter.com/ramonrabello)
 
 
 
@@ -165,10 +166,10 @@ Ent√£o, atualize sua agenda e n√£o perca mais essa oportunidade, √© de "gr√°tis"
 
 
 
-E lembrando, se voc√™ quiser participar ou sugerir palestras ([Agenda dos T√° safo em A√ß√£o](https://spreadsheets0.google.com/ccc?key=t-2GqWEPq4ejAHElrveYe8g&hl=pt_BR#gid=0)) para sua institui√ß√£o, acesse nosso [Portfƒ∫olio de palestras](https://spreadsheets.google.com/ccc?key=0Agb20F_hcoFHdHNQVjRYU21zVnQ3SV92OVVqbzJPMFE&hl=pt_BR#gid=0). Fale com seu Professor, Reitor, Diretor, etc para levar essa galera. Animamos festa de crian√ßa, reuni√£o de condom√≠nio, funeral,¬† etc. etal. E, principalmente mandar um proposta para conhecermos melhor o que est√° rolando por esse Paraz√£o.
+E lembrando, se vocÍ quiser participar ou sugerir palestras ([Agenda dos T· safo em AÁ„o](https://spreadsheets0.google.com/ccc?key=t-2GqWEPq4ejAHElrveYe8g&hl=pt_BR#gid=0)) para sua instituiÁ„o, acesse nosso [Portf?olio de palestras](https://spreadsheets.google.com/ccc?key=0Agb20F_hcoFHdHNQVjRYU21zVnQ3SV92OVVqbzJPMFE&hl=pt_BR#gid=0). Fale com seu Professor, Reitor, Diretor, etc para levar essa galera. Animamos festa de crianÁa, reuni„o de condomÌnio, funeral,† etc. etal. E, principalmente mandar um proposta para conhecermos melhor o que est· rolando por esse Paraz„o.
 
 
-Para entrar em contato conosco, se voc√™ ainda n√£o est√° em nossa [lista de discuss√£o](http://br.groups.yahoo.com/group/safos/) √© s√≥ d√° uma tuitada para [@tasafo ](http://twitter.com/tasafo)que respondemos pra voc√™. O T√° safo! √© igual cora√ß√£o de m√£e, sempre cabe mais um.
+Para entrar em contato conosco, se vocÍ ainda n„o est· em nossa [lista de discuss„o](http://br.groups.yahoo.com/group/safos/) È sÛ d· uma tuitada para [@tasafo ](http://twitter.com/tasafo)que respondemos pra vocÍ. O T· safo! È igual coraÁ„o de m„e, sempre cabe mais um.
 
 
 > 
@@ -177,11 +178,11 @@ Para entrar em contato conosco, se voc√™ ainda n√£o est√° em nossa [lista de dis
 > 
 
 > 
-> Eu agora n√£o me iludo
+> Eu agora n„o me iludo
 Estou com a cuca controlada
-J√° n√£o sou mais cabeludo
-Estou de cabe√ßa raspada
-Tudo agora √© alegria
+J· n„o sou mais cabeludo
+Estou de cabeÁa raspada
+Tudo agora È alegria
 Vou alegre pintando o  sete
 Com a turma na folia
 Dando tiros de confete
@@ -190,7 +191,7 @@ Dando tiros de confete
 
 > 
 > 
-Al√¥, al√¥, al√¥ papai, al√¥ mam√£e....
+AlÙ, alÙ, alÙ papai, alÙ mam„e....
 
 (E mais trigo, coloral, ovo, foguetes...)
 

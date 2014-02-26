@@ -2,97 +2,105 @@ status=published
 date=2011-12-05
 tags=blog
 type=post
-title=Agile Tour Bel√©m 2011
+title=Agile Tour BelÈm 2011
 ~~~~~~
-Al√¥ galera Safo,
+AlÙ galera Safo,
 
-o [Agile Tour Bel√©m 2011](http://at2011.agiletour.org/br/belem.html) come√ßou assim:
+o [Agile Tour BelÈm 2011](http://at2011.agiletour.org/br/belem.html) comeÁou assim:
 
 
 [![](http://tasafo.files.wordpress.com/2011/12/inscricao0.jpg)](http://tasafo.files.wordpress.com/2011/12/inscricao0.jpg)
 
 
-Grande fila na hora do credenciamento e a seguir caf√© da manha pai d'√©gua:)
+Grande fila na hora do credenciamento e a seguir cafÈ da manha pai d'Ègua:)
 
-[caption id="attachment_2233" align="aligncenter" width="450" caption="O Rildo mandando ver ;)"][![](http://tasafo.files.wordpress.com/2011/12/cafe21.jpg)](http://tasafo.files.wordpress.com/2011/12/cafe21.jpg)[/caption]
+<div id="attachment_2233" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/cafe21.jpg)](http://tasafo.files.wordpress.com/2011/12/cafe21.jpg)
 
-Bem, depois de mandar a fome embora, chegou o momento de entrar no audit√≥rio e conferir a programa√ß√£o:
+Bem, depois de mandar a fome embora, chegou o momento de entrar no auditÛrio e conferir a programaÁ„o:
 
 [![](http://tasafo.files.wordpress.com/2011/12/entrada1.jpg)](http://tasafo.files.wordpress.com/2011/12/entrada1.jpg)
-<!-- more -->O evento come√ßou ( com transmiss√£o ao vivo tamb√©m \o/ ) com a palestra "**As Facetas do Desenvolvedor √Ågil - Entendendo o desenvolvimento de software como uma arte" **, na qual** **[Paulo Igor](http://twitter.com/#%21/pigodinho), mostrou, de forma bastante singular e bem humorada, algumas preocupa√ß√µes e t√©cnicas que todo desenvolvedor de software deve ter durante sua jornada de trabalho.
+<!-- more -->O evento comeÁou ( com transmiss„o ao vivo tambÈm \o/ ) com a palestra "**As Facetas do Desenvolvedor ¡gil - Entendendo o desenvolvimento de software como uma arte" **, na qual** **[Paulo Igor](http://twitter.com/#%21/pigodinho), mostrou, de forma bastante singular e bem humorada, algumas preocupaÁıes e tÈcnicas que todo desenvolvedor de software deve ter durante sua jornada de trabalho.
 
 [![](http://tasafo.files.wordpress.com/2011/12/pigor.jpg)](http://tasafo.files.wordpress.com/2011/12/pigor.jpg)
 
-Em seguida, entra em cena o** **[Rildo Santos](http://twitter.com/#%21/rildosan)**, **grande parceiro do T√° safo! e entusiasta dos #tasafoemacao, com a palestra **An√°lise de Neg√≥cio √Ågil**, onde tratou, dentre outros assuntos, sobre uma abordagem de an√°lise de neg√≥cio com o Guia BABok, que associado a outras boas praticas, tem como objetivo obter mais ROI para o cliente.
+Em seguida, entra em cena o** **[Rildo Santos](http://twitter.com/#%21/rildosan)**, **grande parceiro do T· safo! e entusiasta dos #tasafoemacao, com a palestra **An·lise de NegÛcio ¡gil**, onde tratou, dentre outros assuntos, sobre uma abordagem de an·lise de negÛcio com o Guia BABok, que associado a outras boas praticas, tem como objetivo obter mais ROI para o cliente.
 
 [![](http://tasafo.files.wordpress.com/2011/12/rildo.jpg)](http://tasafo.files.wordpress.com/2011/12/rildo.jpg)
 
-E pra deixar a galera com vontade de voltar ap√≥s o almo√ßo, nosso amigo [Luiz Sanches](http://luizsanches.wordpress.com/) inicia sua palestra **A era (pra ser) do conhecimento** que foi, sem d√∫vida alguma, surpreendente! Ele passeou em alguns temas como comunica√ß√£o, motiva√ß√£o, estilo de vida, valores e princ√≠pios com o intuito de nos desafiar a resgatar valores que est√£o se perdendo em uma gera√ß√£o cada vez mais isolada em seus quartos e bastante consumista.
+E pra deixar a galera com vontade de voltar apÛs o almoÁo, nosso amigo [Luiz Sanches](http://luizsanches.wordpress.com/) inicia sua palestra **A era (pra ser) do conhecimento** que foi, sem d˙vida alguma, surpreendente! Ele passeou em alguns temas como comunicaÁ„o, motivaÁ„o, estilo de vida, valores e princÌpios com o intuito de nos desafiar a resgatar valores que est„o se perdendo em uma geraÁ„o cada vez mais isolada em seus quartos e bastante consumista.
 
 [![](http://tasafo.files.wordpress.com/2011/12/luis2.jpg)](http://tasafo.files.wordpress.com/2011/12/luis2.jpg)
 
-[caption id="attachment_2240" align="aligncenter" width="450" caption="Um parte interessante foi fazer a galera dan√ßar "eh macarena! vai!" (trollando.. hehe),"][![](http://tasafo.files.wordpress.com/2011/12/luis1.jpg)](http://tasafo.files.wordpress.com/2011/12/luis1.jpg)[/caption]
+<div id="attachment_2240" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/luis1.jpg)](http://tasafo.files.wordpress.com/2011/12/luis1.jpg)
 
-Enquanto esper√°vamos a ida para o almo√ßo, alguns participantes constatavam os conte√∫dos dos QRCode espalhados pelo audit√≥rio.
+Enquanto esper·vamos a ida para o almoÁo, alguns participantes constatavam os conte˙dos dos QRCode espalhados pelo auditÛrio.
 
 [![](http://tasafo.files.wordpress.com/2011/12/qrcode1.jpg)](http://tasafo.files.wordpress.com/2011/12/qrcode1.jpg)
 
 [![](http://tasafo.files.wordpress.com/2011/12/qrcode2.jpg)](http://tasafo.files.wordpress.com/2011/12/qrcode2.jpg)
 
-A hora da "broca" foi um momento de muita descontra√ß√£o e de tentar colocar o papo em dia, pois passou muito r√°pido. A comida estava boa "p√°qui√ß√≥".
+A hora da "broca" foi um momento de muita descontraÁ„o e de tentar colocar o papo em dia, pois passou muito r·pido. A comida estava boa "p·quiÁÛ".
 
 [![](http://tasafo.files.wordpress.com/2011/12/almoco1.jpg)](http://tasafo.files.wordpress.com/2011/12/almoco1.jpg)
 
-No 2¬∫ tempo, o [Marcelio Leal](http://twitter.com/#%21/marcelioleal) entra em cena com a palestra ******Startups, Lean Startups e Mitos** onde, al√©m de dar muitas dicas sobre o assunto, apresentou alguns cases de sucesso.
-**¬†¬† [![](http://tasafo.files.wordpress.com/2011/12/marcelio.jpg)](http://tasafo.files.wordpress.com/2011/12/marcelio.jpg)**
+No 2∫ tempo, o [Marcelio Leal](http://twitter.com/#%21/marcelioleal) entra em cena com a palestra ******Startups, Lean Startups e Mitos** onde, alÈm de dar muitas dicas sobre o assunto, apresentou alguns cases de sucesso.
+**†† [![](http://tasafo.files.wordpress.com/2011/12/marcelio.jpg)](http://tasafo.files.wordpress.com/2011/12/marcelio.jpg)**
 
-#StartupEmAcao: participa√ß√£o e premia√ß√£o no THackDay com o Deputados Analytics.
+#StartupEmAcao: participaÁ„o e premiaÁ„o no THackDay com o Deputados Analytics.
 
 [![](http://tasafo.files.wordpress.com/2011/12/marcelio2.jpg)](http://tasafo.files.wordpress.com/2011/12/marcelio2.jpg)
 
-Ele teve tamb√©m a incumb√™ncia de n√£o deixar ningu√©m dormir :), e conseguiu muito bem. ****
+Ele teve tambÈm a incumbÍncia de n„o deixar ninguÈm dormir :), e conseguiu muito bem. ****
 
 E para concluir a fase de palestras e abrilhantar ainda mais o evento, entra em cena nosso amigo [Manoel Pimentel](http://twitter.com/#%21/manoelp) para falar sobre** Business Coaching for Startups**.
 
 [![](http://tasafo.files.wordpress.com/2011/12/manoel.jpg)](http://tasafo.files.wordpress.com/2011/12/manoel.jpg)
 
-A palestra teve momentos marcantes como a homenagem √†s mulheres de TI:
+A palestra teve momentos marcantes como a homenagem ‡s mulheres de TI:
 [![](http://tasafo.files.wordpress.com/2011/12/manoel3.jpg)](http://tasafo.files.wordpress.com/2011/12/manoel3.jpg)
-...e claro, os testemunhos de empreendedores da nossa grande Bel√©m:
+...e claro, os testemunhos de empreendedores da nossa grande BelÈm:
 
 [![](http://tasafo.files.wordpress.com/2011/12/manoel2.jpg)](http://tasafo.files.wordpress.com/2011/12/manoel2.jpg)
-Acima, o emocionante relato de **Antero Mendes**, da [Pronto Digital](http://www.prontodigital.com.br/), foi como uma inje√ß√£o de √¢nimo para aqueles que desejam empreender.
+Acima, o emocionante relato de **Antero Mendes**, da [Pronto Digital](http://www.prontodigital.com.br/), foi como uma injeÁ„o de ‚nimo para aqueles que desejam empreender.
 
-Agora √© o momento da comunidade entrar em a√ß√£o e participar da sess√£o de palestras-rel√¢mpago (_Lightning Talks), _onde cada um pode "vender seu peixe" em 10 minutos:
+Agora È o momento da comunidade entrar em aÁ„o e participar da sess„o de palestras-rel‚mpago (_Lightning Talks), _onde cada um pode "vender seu peixe" em 10 minutos:
 
 
 [![](http://tasafo.files.wordpress.com/2011/12/lt11.jpg)](http://tasafo.files.wordpress.com/2011/12/lt11.jpg)
 
 
 [![](http://tasafo.files.wordpress.com/2011/12/lt4.jpg)](http://tasafo.files.wordpress.com/2011/12/lt4.jpg)
-Marcaram presen√ßa muitos #safos como o¬† **[@ramonrabello](http://www.twitter.com/ramonrabello)**, **[@FernandaMelina](http://www.twitter.com/FernandaMelina)**,** [@felipe_ik](http://www.twitter.com/felipe_ik)**, **[@paulociecomp](http://www.twitter.com/paulociecomp)**,** [@mfandrade](http://www.twitter.com/@mfandrade)**, **[@_marcusPaulo](http://www.twitter.com/@_marcusPaulo), [@manoelp](http://www.twitter.com/manoelp), [@mvcaraujo](http://www.twitter.com/mvcaraujo)** e muitos outros.
+Marcaram presenÁa muitos #safos como o† **[@ramonrabello](http://www.twitter.com/ramonrabello)**, **[@FernandaMelina](http://www.twitter.com/FernandaMelina)**,** [@felipe_ik](http://www.twitter.com/felipe_ik)**, **[@paulociecomp](http://www.twitter.com/paulociecomp)**,** [@mfandrade](http://www.twitter.com/@mfandrade)**, **[@_marcusPaulo](http://www.twitter.com/@_marcusPaulo), [@manoelp](http://www.twitter.com/manoelp), [@mvcaraujo](http://www.twitter.com/mvcaraujo)** e muitos outros.
 
-[caption id="attachment_2277" align="aligncenter" width="450" caption="@fabiolimaf deixando seu recado ;)"][![](http://tasafo.files.wordpress.com/2011/12/fabio.jpg)](http://tasafo.files.wordpress.com/2011/12/fabio.jpg)[/caption]
+<div id="attachment_2277" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/fabio.jpg)](http://tasafo.files.wordpress.com/2011/12/fabio.jpg)
 
-[caption id="attachment_2280" align="aligncenter" width="450" caption="@FernandaMelina com os brindes do Agile Tour Bel√©m 2011"][![](http://tasafo.files.wordpress.com/2011/12/dsc02840.jpg)](http://tasafo.files.wordpress.com/2011/12/dsc02840.jpg)[/caption]
+<div id="attachment_2280" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/dsc02840.jpg)](http://tasafo.files.wordpress.com/2011/12/dsc02840.jpg)
 
-Realmente o dia foi pequeno pra tanta a√ß√£o, e por isso, a #horaextra come√ßou logo ap√≥s o evento e continuou no domingo na orla de Icoaracy com o [Luiz Sanches](http://luizsanches.wordpress.com), [@paulociecomp](http://www.twitter.com/paulociecomp), [@rildosan](http://www.twitter.com/rildosan), [@mfandrade](http://twitter.com/mfandrade) e [@victorgustavo21](http://www.twitter.com/victorgustavo21).
+Realmente o dia foi pequeno pra tanta aÁ„o, e por isso, a #horaextra comeÁou logo apÛs o evento e continuou no domingo na orla de Icoaracy com o [Luiz Sanches](http://luizsanches.wordpress.com), [@paulociecomp](http://www.twitter.com/paulociecomp), [@rildosan](http://www.twitter.com/rildosan), [@mfandrade](http://twitter.com/mfandrade) e [@victorgustavo21](http://www.twitter.com/victorgustavo21).
 
-A comunidade [@tasafo](http://www.twitter.com/tasafo), mais uma vez, mostrou que partilhar conhecimento, trocar experi√™ncias, fazer novas amizades s√£o atitudes que geram mudan√ßas, quebra de paradigmas e que nos possibilitam reencontrar amigos e conhecer outros.
+A comunidade [@tasafo](http://www.twitter.com/tasafo), mais uma vez, mostrou que partilhar conhecimento, trocar experiÍncias, fazer novas amizades s„o atitudes que geram mudanÁas, quebra de paradigmas e que nos possibilitam reencontrar amigos e conhecer outros.
 
-Queremos registrar, tamb√©m, o nosso agradecimento √†s Institui√ß√µes que apoiaram este evento como [CESUPA](http://www.twitter.com/cesupaonline), [PRODEPA](http://www.twitter.com/prodepa), [GIMP](http://www.gimpnetwork.com) e principalmente a [Cobra Tecnologia](http://www.cobra.com.br)¬†por patrocinar um evento de n√≠vel mundial sobre agilidade. N√£o podemos deixar de agradecer tamb√©m a todos que est√£o em a√ß√£o, seja online (facebook, twitter, blogando) ou presencialmente nos eventos de TI, prestigiando e carregando a bandeira do T√° Safo!
+Queremos registrar, tambÈm, o nosso agradecimento ‡s InstituiÁıes que apoiaram este evento como [CESUPA](http://www.twitter.com/cesupaonline), [PRODEPA](http://www.twitter.com/prodepa), [GIMP](http://www.gimpnetwork.com) e principalmente a [Cobra Tecnologia](http://www.cobra.com.br)†por patrocinar um evento de nÌvel mundial sobre agilidade. N„o podemos deixar de agradecer tambÈm a todos que est„o em aÁ„o, seja online (facebook, twitter, blogando) ou presencialmente nos eventos de TI, prestigiando e carregando a bandeira do T· Safo!
 
-Se voc√™ ainda n√£o √© um #tasafoEmAcao, saiba que √© mais f√°cil do que parece. Participe assim como eles!
+Se vocÍ ainda n„o È um #tasafoEmAcao, saiba que È mais f·cil do que parece. Participe assim como eles!
 
-[caption id="attachment_2251" align="aligncenter" width="450" caption="@mvcaraujo e @fabyogr"][![](http://tasafo.files.wordpress.com/2011/12/organizacao1.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao1.jpg)[/caption]
+<div id="attachment_2251" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/organizacao1.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao1.jpg)
 
-[caption id="attachment_2253" align="aligncenter" width="450" caption="@FernandaMelina e @ramonrabello"][![](http://tasafo.files.wordpress.com/2011/12/organizacao3.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao3.jpg)[/caption]
+<div id="attachment_2253" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/organizacao3.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao3.jpg)
 
-[caption id="attachment_2252" align="aligncenter" width="450" caption="@fabyogr, o #superSanches e¬†@ramonrabello"][![](http://tasafo.files.wordpress.com/2011/12/organizacao2.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao2.jpg)[/caption]
+<div id="attachment_2252" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/organizacao2.jpg)](http://tasafo.files.wordpress.com/2011/12/organizacao2.jpg)
 
-Parab√©ns a todos!
+ParabÈns a todos!
 
-[caption id="attachment_2231" align="aligncenter" width="450" caption="#SouTasafoEmAcao"][![](http://tasafo.files.wordpress.com/2011/12/lt10.jpg)](http://tasafo.files.wordpress.com/2011/12/lt10.jpg)[/caption]
+<div id="attachment_2231" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/12/lt10.jpg)](http://tasafo.files.wordpress.com/2011/12/lt10.jpg)
 
 #AcaoTotal
 

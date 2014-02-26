@@ -2,27 +2,28 @@ status=published
 date=2012-04-16
 tags=blog
 type=post
-title=TÃ¡Safo em AÃ§Ã£o com Alexandre Magno
+title=TáSafo em Ação com Alexandre Magno
 ~~~~~~
-[caption id="attachment_2722" align="aligncenter" width="300" caption="Alexandre Magno junto com a galera do TÃ¡Safo!"][![](http://tasafo.files.wordpress.com/2012/04/magno.jpg?w=300)](http://tasafo.files.wordpress.com/2012/04/magno.jpg)[/caption]
+<div id="attachment_2722" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2012/04/magno.jpg?w=300)](http://tasafo.files.wordpress.com/2012/04/magno.jpg)
 
 
 
 
 
-OÂ [Alexandre Magno](http://twitter.com/axmagno)Â vai estar em BelÃ©m e participarÃ¡ junto com a comunidade do nosso encontroÂ [TÃ¡ Safo em AÃ§Ã£o](http://tasafo.wordpress.com/tasafoemacao/).
+O [Alexandre Magno](http://twitter.com/axmagno) vai estar em Belém e participará junto com a comunidade do nosso encontro [Tá Safo em Ação](http://tasafo.wordpress.com/tasafoemacao/).
 
-**Tema da palestra:Â Sou gerente de nerds. E agora?**
+**Tema da palestra: Sou gerente de nerds. E agora?**
 
-O mundo do trabalho mudou. Agora grande parte do que tem que ser feitoÂ dentro das organizaÃ§Ãµes depende da competÃªncia dos profissionais doÂ conhecimento. Essa necessidade traz um grande desafio para os gerentesÂ que, de uma hora para outra, vÃªem que as boas prÃ¡ticas ensinadas nosÂ best-sellers de gestÃ£o nÃ£o mais funcionam e devem ser abandonadas.Â A GestÃ£o 3.0, popularizada pelo livro Management 3.0 de Jurgen Appelo,Â foca justamente nestes pontos. O que fazer para motivar essesÂ profissionais? Como atraÃ­-los e mantÃª-los na sua empresa? Como darÂ poder a eles e nÃ£o transformar o trabalho em caos? Como desenvolverÂ suas competÃªncias? Qual meu papel de gerente se nÃ£o controlÃ¡-los?Â Essas e outras questÃµes serÃ£o discutidas nessa palestra, que irÃ¡ lheÂ colocar pra pensar sobre como mudar o seu ambiente de trabalho, eÂ talvez o mundo.Se vocÃª Ã© gerente de profissionais do conhecimento, nÃ£o deixe de vir.Â Se vocÃª Ã© um nerd, nÃ£o deixe de trazer seu chefe.
+O mundo do trabalho mudou. Agora grande parte do que tem que ser feito dentro das organizações depende da competência dos profissionais do conhecimento. Essa necessidade traz um grande desafio para os gerentes que, de uma hora para outra, vêem que as boas práticas ensinadas nos best-sellers de gestão não mais funcionam e devem ser abandonadas. A Gestão 3.0, popularizada pelo livro Management 3.0 de Jurgen Appelo, foca justamente nestes pontos. O que fazer para motivar esses profissionais? Como atraí-los e mantê-los na sua empresa? Como dar poder a eles e não transformar o trabalho em caos? Como desenvolver suas competências? Qual meu papel de gerente se não controlá-los? Essas e outras questões serão discutidas nessa palestra, que irá lhe colocar pra pensar sobre como mudar o seu ambiente de trabalho, e talvez o mundo.Se você é gerente de profissionais do conhecimento, não deixe de vir. Se você é um nerd, não deixe de trazer seu chefe.
 
 
 
 
 **
-Data:**Â **23 de maio de 2012 (Quarta-feira).
-Local: Livraria Saraiva â€“ EspaÃ§o Benedito Nunes, 2} piso, loja 233. Boulevard Shopping.
-HorÃ¡rio: 19:00 hs.
+Data:** **23 de maio de 2012 (Quarta-feira).
+Local: Livraria Saraiva – Espaço Benedito Nunes, 2} piso, loja 233. Boulevard Shopping.
+Horário: 19:00 hs.
 **
 
-Esperamos por vocÃªs lÃ¡.Â **A entrada Ã© franca**.
+Esperamos por vocês lá. **A entrada é franca**.

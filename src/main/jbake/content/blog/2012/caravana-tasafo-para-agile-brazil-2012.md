@@ -2,7 +2,7 @@ status=published
 date=2012-08-13
 tags=blog
 type=post
-title=Caravana T√°Safo! para Agile Brazil 2012
+title=Caravana T·Safo! para Agile Brazil 2012
 ~~~~~~
 
 
@@ -10,18 +10,18 @@ title=Caravana T√°Safo! para Agile Brazil 2012
 
 [![](http://tasafo.files.wordpress.com/2012/08/banner_agile_800x1901.jpeg)](http://tasafo.files.wordpress.com/2012/08/banner_agile_800x1901.jpeg)
 
-Ol√° Pessoal,
+Ol· Pessoal,
 
-O Agile Brazil 2012 este ano est√° totalmente PaiD'√©gua, com certeza ser√° imperd√≠vel, veja mais informa√ß√µes sobre o evento...¬†http://agilebrazil.com/
+O Agile Brazil 2012 este ano est· totalmente PaiD'Ègua, com certeza ser· imperdÌvel, veja mais informaÁıes sobre o evento...†http://agilebrazil.com/
 
-Muitos j√° est√£o se organizando para o AgileBR, com isso, estamos oficializando a "Caravana T√°Safo!" e se alcan√ßarmos mais de 10 inscritos, conseguiremos um presente(incentivo) da organiza√ß√£o do evento para a comunidade, **15% de desconto do valor da inscri√ß√£o**.
+Muitos j· est„o se organizando para o AgileBR, com isso, estamos oficializando a "Caravana T·Safo!" e se alcanÁarmos mais de 10 inscritos, conseguiremos um presente(incentivo) da organizaÁ„o do evento para a comunidade, **15% de desconto do valor da inscriÁ„o**.
 
 Estamos recebendo os nomes interessados.
 
-Envie o seu NOME, EMAIL e TELEFONE para o email fabioaguiar@gmail.com , estaremos enviando mais detalhes como proceder com a inscri√ß√£o.¬†Favor enviar o quanto antes.
+Envie o seu NOME, EMAIL e TELEFONE para o email fabioaguiar@gmail.com , estaremos enviando mais detalhes como proceder com a inscriÁ„o.†Favor enviar o quanto antes.
 
-*Aqueles que j√° se inscreveu, coloque uma OBS no email informando que j√° est√° inscrito, que iremos informar a organiza√ß√£o que voc√™ √© membro da comunidade T√°Safo e que j√° se inscreveu, com isso, a organiza√ß√£o ir√° devolver o valor do desconto ou voc√™ poder√° usar como¬†desconto do pagamento de algum curso da Virada √Ågil.
+*Aqueles que j· se inscreveu, coloque uma OBS no email informando que j· est· inscrito, que iremos informar a organizaÁ„o que vocÍ È membro da comunidade T·Safo e que j· se inscreveu, com isso, a organizaÁ„o ir· devolver o valor do desconto ou vocÍ poder· usar como†desconto do pagamento de algum curso da Virada ¡gil.
 
-Nos vemos l√° pessoALL!!!
+Nos vemos l· pessoALL!!!
 
 @fabyogr

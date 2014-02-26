@@ -2,12 +2,12 @@ status=published
 date=2011-01-21
 tags=blog
 type=post
-title=EDD â€“ Events Driven Development
+title=EDD – Events Driven Development
 ~~~~~~
 
 
 
-NÃ£o! NÃ£o Ã© uma metodologia como [FDD](http://www.heptagon.com.br/fdd). TambÃ©m nÃ£o Ã© uma tÃ©cnica como [ATDD](http://tasafo.wordpress.com/2010/01/23/dirigindo-o-desenvolvimento-com-testes-atdd-e-tdd-artigo-traduzido/), [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development) ou [BDD](http://pt.wikipedia.org/wiki/Behavior_Driven_Development). Muito menos uma abordagem como [DDD](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/) e [MDD](http://www.youtube.com/watch?v=vfiI_jiVNYA). Nem de longe pensei em completar o alfabeto, senÃ£o criaria a sigla CDD, se Ã© que jÃ¡ nÃ£o criaram. E antes que vocÃª venha comentar esse post, tambÃ©m jÃ¡ sei que linguagens como o Visual Basic trabalham orientadas a eventos. Mas nÃ£o Ã© disso que vamos conversar aqui. Vamos falar de desenvolvimento de pessoas. TÃ¡ safo?
+Não! Não é uma metodologia como [FDD](http://www.heptagon.com.br/fdd). Também não é uma técnica como [ATDD](http://tasafo.wordpress.com/2010/01/23/dirigindo-o-desenvolvimento-com-testes-atdd-e-tdd-artigo-traduzido/), [TDD](http://pt.wikipedia.org/wiki/Test_Driven_Development) ou [BDD](http://pt.wikipedia.org/wiki/Behavior_Driven_Development). Muito menos uma abordagem como [DDD](http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/) e [MDD](http://www.youtube.com/watch?v=vfiI_jiVNYA). Nem de longe pensei em completar o alfabeto, senão criaria a sigla CDD, se é que já não criaram. E antes que você venha comentar esse post, também já sei que linguagens como o Visual Basic trabalham orientadas a eventos. Mas não é disso que vamos conversar aqui. Vamos falar de desenvolvimento de pessoas. Tá safo?
 
 
 
@@ -15,54 +15,54 @@ NÃ£o! NÃ£o Ã© uma metodologia como [FDD](http://www.heptagon.com.br/fdd). TambÃ©
 
 
 	
-  1. Ã‰ jogo rÃ¡pido. Responda as perguntas abaixo:
+  1. É jogo rápido. Responda as perguntas abaixo:
 
 	
-  2. Quantos eventos de sua Ã¡rea vocÃª participa por ano?
+  2. Quantos eventos de sua área você participa por ano?
 
 	
-  3. VocÃª participa de quantos eventos fora de sua cidade ou estado?
+  3. Você participa de quantos eventos fora de sua cidade ou estado?
 
 	
-  4. Quando participa, vocÃª consegue ver todas as palestras e nÃ£o ir a nenhuma #horaextra?
+  4. Quando participa, você consegue ver todas as palestras e não ir a nenhuma #horaextra?
 
 	
-  5. VocÃª jÃ¡ participou da organizaÃ§Ã£o de algum evento?
+  5. Você já participou da organização de algum evento?
 
 	
-  6. Afinal de contas, vocÃª gosta de ir a eventos?
+  6. Afinal de contas, você gosta de ir a eventos?
 
 
 
 
-Se vocÃª respondeu nÃ£o para a maioria das perguntas, principalmente para a ultima, seu problema Ã© sÃ©rio. Rapaz vai por mim. Mas nÃ£o se desespere, seu caso tem soluÃ§Ã£o ou nÃ£o :p.
+Se você respondeu não para a maioria das perguntas, principalmente para a ultima, seu problema é sério. Rapaz vai por mim. Mas não se desespere, seu caso tem solução ou não :p.
 
 
 
 
-Hoje em dia a informaÃ§Ã£o estÃ¡ a um clique de distÃ¢ncia para quem consome de uma forma voraz os meandros da Internet. Mas vocÃª consegue mesmo transformar essa avalanche de informaÃ§Ã£o em conhecimento? E ainda por cima, se divertir com isso?
+Hoje em dia a informação está a um clique de distância para quem consome de uma forma voraz os meandros da Internet. Mas você consegue mesmo transformar essa avalanche de informação em conhecimento? E ainda por cima, se divertir com isso?
 
 
 
 
-Como Ã© bom ler um bom livro, ainda mais quando nÃ£o Ã© por obrigaÃ§Ã£o e sim por prazer. E jÃ¡ pensou ter a oportunidade de ver a palestra de um de seus autores favoritos â€œao vivoâ€ sem cortes ou como o vÃ­deo gravado pela metade e com baixa qualidade na gravaÃ§Ã£o. Ã‰ angustiante, nÃ£o?
+Como é bom ler um bom livro, ainda mais quando não é por obrigação e sim por prazer. E já pensou ter a oportunidade de ver a palestra de um de seus autores favoritos “ao vivo” sem cortes ou como o vídeo gravado pela metade e com baixa qualidade na gravação. É angustiante, não?
 
 
 
 
-Imagine aprender novos conceitos e tÃ©cnicas que surgem a cada instante mundo a fora. E se vocÃª puder interagir com os palestrantes em uma #horaextra apÃ³s o cansativo dia do evento. Cansativo sim! NÃ£o pense que participar de eventos Ã© sÃ³ curtiÃ§Ã£o. As pessoas que se propÃµem a organizar e apresentar trabalhos tem a obrigaÃ§Ã£o de prover informaÃ§Ã£o e o direito de se divertir.
+Imagine aprender novos conceitos e técnicas que surgem a cada instante mundo a fora. E se você puder interagir com os palestrantes em uma #horaextra após o cansativo dia do evento. Cansativo sim! Não pense que participar de eventos é só curtição. As pessoas que se propõem a organizar e apresentar trabalhos tem a obrigação de prover informação e o direito de se divertir.
 
 
 
 
-A experiÃªncia que cada pessoa acumula durante o tempo foi custeada por vÃ¡rias privaÃ§Ãµes em suas vidas. Nada vem de graÃ§a e ninguÃ©m acontece de uma hora para a outra, creio que pelos menos em TI. DaÃ­ lÃ¡ vem vocÃª me dizer que nÃ£o tem tempo nem dinheiro pra participar de algum congresso, seminÃ¡rio ou encontro que, em boa parte do tempo, acontece em sua prÃ³pria cidade. Fala sÃ©rio!
+A experiência que cada pessoa acumula durante o tempo foi custeada por várias privações em suas vidas. Nada vem de graça e ninguém acontece de uma hora para a outra, creio que pelos menos em TI. Daí lá vem você me dizer que não tem tempo nem dinheiro pra participar de algum congresso, seminário ou encontro que, em boa parte do tempo, acontece em sua própria cidade. Fala sério!
 
 
 
 
-O perfil do profissional de TI estÃ¡ mudando constantemente, jÃ¡ nÃ£o somos mais conhecidos como os nerds que vivem no CPD. Ainda somos nerds, disso nÃ£o vamos nos livrar tÃ£o cedo. Mas agora somos mais â€œsociÃ¡veisâ€ e eclÃ©ticos, atÃ© namoramos e praticamos esporte. Olha sÃ³ que evoluÃ§Ã£o :). Falando sÃ©rio agora. NÃ£o fique preso em seu mundo (vulgo desktop). A rotina mata! Se dÃª uma chance. FaÃ§a seu â€œpÃ© de meiaâ€ e planeje ir pelo menos a um evento por ano fora de sua cidade ou estado. Se for colocar na balanÃ§a o quanto vocÃª gasta com besteiras durante o ano, jÃ¡ dÃ¡ para bancar uns dois eventos anuais. NÃ£o esqueÃ§a de montar uma caravana, pois viajar sÃ³ Ã© um tÃ©dio. Te dou certeza que vocÃª se tornarÃ¡ um melhor profissional e indivÃ­duo. E alÃ©m de conhecer belos lugares, conhecerÃ¡ excelentes pessoas.
+O perfil do profissional de TI está mudando constantemente, já não somos mais conhecidos como os nerds que vivem no CPD. Ainda somos nerds, disso não vamos nos livrar tão cedo. Mas agora somos mais “sociáveis” e ecléticos, até namoramos e praticamos esporte. Olha só que evolução :). Falando sério agora. Não fique preso em seu mundo (vulgo desktop). A rotina mata! Se dê uma chance. Faça seu “pé de meia” e planeje ir pelo menos a um evento por ano fora de sua cidade ou estado. Se for colocar na balança o quanto você gasta com besteiras durante o ano, já dá para bancar uns dois eventos anuais. Não esqueça de montar uma caravana, pois viajar só é um tédio. Te dou certeza que você se tornará um melhor profissional e indivíduo. E além de conhecer belos lugares, conhecerá excelentes pessoas.
 
 
 
 
-Caro leitor desse humilde blog, vocÃª jÃ¡ deve conhecer nossa comunidade e deve tambÃ©m conhecer nossos valores e princÃ­pios. EntÃ£o o convidamos a colocar em prÃ¡tica a teoria exposta nesse aqui. Convide seus amigos e colegas de trabalhos nerds a participarem de nossos encontros e eventos. <del>Vem pra caixa vocÃª tambÃ©m</del>, quer dizer, seja um #tasafoemacao.
+Caro leitor desse humilde blog, você já deve conhecer nossa comunidade e deve também conhecer nossos valores e princípios. Então o convidamos a colocar em prática a teoria exposta nesse aqui. Convide seus amigos e colegas de trabalhos nerds a participarem de nossos encontros e eventos. <del>Vem pra caixa você também</del>, quer dizer, seja um #tasafoemacao.

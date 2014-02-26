@@ -9,20 +9,20 @@ title=#tasafoemacao
 
 
 
-O **#tasafoemacao **Ã© um micro evento ou um simples encontro que a comunidade monta para divulgar - sem ou a baixo custo - prÃ¡ticas, tecnologias, desenvolvimento, agilidade... pois Ã©, muita coisa, com muita alegria, diversÃ£o e simplicidade.
+O **#tasafoemacao **é um micro evento ou um simples encontro que a comunidade monta para divulgar - sem ou a baixo custo - práticas, tecnologias, desenvolvimento, agilidade... pois é, muita coisa, com muita alegria, diversão e simplicidade.
 
 
 
 
-Monte em sua instituiÃ§Ã£o, empresa, cidade, interior, cafofo... onde quiser e vamos fazer um #tasafoemacao. Jogue sua ideia na [lista](http://tasafo.wordpress.com/lista-de-discussao/) e vamos desenvolvÃª-la, e quem sabe bater um #paposafo.
+Monte em sua instituição, empresa, cidade, interior, cafofo... onde quiser e vamos fazer um #tasafoemacao. Jogue sua ideia na [lista](http://tasafo.wordpress.com/lista-de-discussao/) e vamos desenvolvê-la, e quem sabe bater um #paposafo.
 
 
-Seguem abaixo os links da agenda do TÃ¡ Safo e um portfÃ³lio de palestras.
+Seguem abaixo os links da agenda do Tá Safo e um portfólio de palestras.
 
 
-## [Agenda TÃ¡ Safo!](http://agendatech.com.br/eventos/tag/%23tasafoemacao)
+## [Agenda Tá Safo!](http://agendatech.com.br/eventos/tag/%23tasafoemacao)
 
 
 
 
-## [PortfÃ³lio de Palestras para #tasafoemacao](http://tinyurl.com/PortifolioTasafoEmAcao)
+## [Portfólio de Palestras para #tasafoemacao](http://tinyurl.com/PortifolioTasafoEmAcao)

@@ -61,7 +61,7 @@ public class Conversor {
 
         { // Leitura
             String _header = contents.split("---")[1].substring(1);
-            contents = contents.split("---")[2].substring(2);
+            contents = ManipuladorTag.manipular(contents.split("---")[2].substring(2));
 
             headers = (Map<String, Object>) new Yaml().load(_header);
         }
@@ -108,7 +108,7 @@ public class Conversor {
     }
 
     private void info(String mask, Object... args) {
-        System.err.println(String.format(mask, args));
+        // System.err.println(String.format(mask, args));
     }
 
     public static void main(String[] args) throws Exception {

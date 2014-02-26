@@ -2,35 +2,36 @@ status=published
 date=2010-11-11
 tags=blog
 type=post
-title=T√° Safo em A√ß√£o com Rafael Prikladnicki
+title=T· Safo em AÁ„o com Rafael Prikladnicki
 ~~~~~~
-Pessoal, est√° se aproximando o dia de mais um T√° Safo em A√ß√£o especial, agora com a presen√ßa de¬†[Rafael Prikladnicki](http://www.inf.pucrs.br/~rafael/) que estar√° em Bel√©m participando do [II WPTS - ¬†Workshop Paraense de Tecnologia de Software](www.sistemas.pa.gov.br/wpts/). E como [quem vem ao Par√°, est√° sempre convidado a participar do nosso encontro T√° Safo em A√ß√£o](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/), [Rafael](http://twitter.com/rafaelpri) nos dar√° a honra de estar em a√ß√£o junto com a comunidade T√° Safo, compartilhando sua experi√™ncia e conhecimento de agilidade e comunidade ([GUMA](http://www.guma-rs.org/)).
+Pessoal, est· se aproximando o dia de mais um T· Safo em AÁ„o especial, agora com a presenÁa de†[Rafael Prikladnicki](http://www.inf.pucrs.br/~rafael/) que estar· em BelÈm participando do [II WPTS - †Workshop Paraense de Tecnologia de Software](www.sistemas.pa.gov.br/wpts/). E como [quem vem ao Par·, est· sempre convidado a participar do nosso encontro T· Safo em AÁ„o](http://tasafo.wordpress.com/2010/08/19/quem-vai-ao-para-parou-tomou-acai-ficou-no-ta-safo-em-acao/), [Rafael](http://twitter.com/rafaelpri) nos dar· a honra de estar em aÁ„o junto com a comunidade T· Safo, compartilhando sua experiÍncia e conhecimento de agilidade e comunidade ([GUMA](http://www.guma-rs.org/)).
 
-[caption id="attachment_1404" align="aligncenter" width="450" caption="Mauro √† esquerda, Rafael no meio e Marcelo √† direita"][![](http://tasafo.files.wordpress.com/2010/11/sbqs.jpg)](http://tasafo.files.wordpress.com/2010/11/sbqs.jpg)[/caption]
-
-
-
+<div id="attachment_1404" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/11/sbqs.jpg)](http://tasafo.files.wordpress.com/2010/11/sbqs.jpg)
 
 
-Tema de sua palestra:¬†**Cinco motivos para n√£o usar metodologias √°geis no desenvolvimento de software**
 
 
-**Resumo:** A ado√ß√£o do paradigma √°gil no desenvolvimento de software tem sido um assunto amplamente debatido. Ao mesmo tempo, muitas empresas t√™m utilizado as metodologias √°geis sem fazer uma reflex√£o sobre os reais benef√≠cios que elas podem trazer para seus projetos. Al√©m disso, muitos projetos t√™m falhado em fun√ß√£o do n√£o entendimento e da aplica√ß√£o errada dos princ√≠pios √°geis. Nesta palestra vamos apresentar cinco motivos que fariam uma equipe de projeto n√£o adotar metodologias √°geis no desenvolvimento de software. Vamos apresentar as motiva√ß√µes e explicar cada um dos motivos. Vamos tamb√©m discutir, a partir da experi√™ncia pr√°tica do palestrante, em quais situa√ß√µes metodologias √°geis podem e devem ser utilizadas.
+
+Tema de sua palestra:†**Cinco motivos para n„o usar metodologias ·geis no desenvolvimento de software**
+
+
+**Resumo:** A adoÁ„o do paradigma ·gil no desenvolvimento de software tem sido um assunto amplamente debatido. Ao mesmo tempo, muitas empresas tÍm utilizado as metodologias ·geis sem fazer uma reflex„o sobre os reais benefÌcios que elas podem trazer para seus projetos. AlÈm disso, muitos projetos tÍm falhado em funÁ„o do n„o entendimento e da aplicaÁ„o errada dos princÌpios ·geis. Nesta palestra vamos apresentar cinco motivos que fariam uma equipe de projeto n„o adotar metodologias ·geis no desenvolvimento de software. Vamos apresentar as motivaÁıes e explicar cada um dos motivos. Vamos tambÈm discutir, a partir da experiÍncia pr·tica do palestrante, em quais situaÁıes metodologias ·geis podem e devem ser utilizadas.
 
 **Rafael Prikladnicki**
 
-P√≥s-Gradua√ß√£o em Ci√™ncia da Computa√ß√£o da PUCRS, com doutorado e mestrado em Ci√™ncia da Computa√ß√£o pela PUCRS e est√°gio de doutorado na University of Victoria no Canad√°. √â professor do Programa de P√≥s-Gradua√ß√£o em Ci√™ncia da Computa√ß√£o da PUCRS, instrutor e coach de metodologias √°geis, qualidade de software, ger√™ncia de projetos e desenvolvimento distribu√≠do de software, coordenador do Grupo de Usu√°rios de M√©todos √Ågeis (GUMA) da Sucesu-RS e foi coordenador geral da Agile Brazil 2010.
+PÛs-GraduaÁ„o em CiÍncia da ComputaÁ„o da PUCRS, com doutorado e mestrado em CiÍncia da ComputaÁ„o pela PUCRS e est·gio de doutorado na University of Victoria no Canad·. … professor do Programa de PÛs-GraduaÁ„o em CiÍncia da ComputaÁ„o da PUCRS, instrutor e coach de metodologias ·geis, qualidade de software, gerÍncia de projetos e desenvolvimento distribuÌdo de software, coordenador do Grupo de Usu·rios de MÈtodos ¡geis (GUMA) da Sucesu-RS e foi coordenador geral da Agile Brazil 2010.
 
 **Data:** **24 de novembro de 2010 (Quarta-feira).**
 
-**Local: Audit√≥rio do CESUPA da Unidade da Jos√© Malcher.**
+**Local: AuditÛrio do CESUPA da Unidade da JosÈ Malcher.**
 
-**Hor√°rio: 19:00 √†s 22:00 hrs.**
+**Hor·rio: 19:00 ‡s 22:00 hrs.**
 
-**Esperamos por voc√™s l√°. ****A entrada √© franca**.
+**Esperamos por vocÍs l·. ****A entrada È franca**.
 
 
-Com certeza ser√° mais um T√°Safo em A√ß√£o imperd√≠vel!!!!
+Com certeza ser· mais um T·Safo em AÁ„o imperdÌvel!!!!
 
 
 

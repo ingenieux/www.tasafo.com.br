@@ -7,78 +7,94 @@ title=@tasafo no #DeltaDeAgilidade
 [![972329_573278412714565_447605101_n](http://tasafo.files.wordpress.com/2013/08/972329_573278412714565_447605101_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/972329_573278412714565_447605101_n.jpg)
 
 
-O evento realmente foi incr√≠vel! Gostar√≠amos de come√ßar o post dando nossos parab√©ns aos organizadores da [Comunidade Agile PI](http://www.facebook.com/AgilePI)¬†e a todos os envolvidos que fizeram acontecer e tornaram o evento o sucesso que foi, como voc√™s poder√£o conferir agora!
+O evento realmente foi incrÌvel! GostarÌamos de comeÁar o post dando nossos parabÈns aos organizadores da [Comunidade Agile PI](http://www.facebook.com/AgilePI)†e a todos os envolvidos que fizeram acontecer e tornaram o evento o sucesso que foi, como vocÍs poder„o conferir agora!
 
 <!-- more -->
 
-O Delta de Agilidade (uma alus√£o ao [Delta de Parna√≠ba](http://pt.wikipedia.org/wiki/Delta_do_Parna%C3%ADba) no Piau√≠) aconteceu dia **09 e 10 de Agosto**, no SEBRAE, e teve como objetivo principal difundir o conhecimento sobre v√°rias tend√™ncias, como agilidade, gest√£o e desenvolvimento de software. E esse prop√≥sito com certeza foi superado!
+O Delta de Agilidade (uma alus„o ao [Delta de ParnaÌba](http://pt.wikipedia.org/wiki/Delta_do_Parna%C3%ADba) no PiauÌ) aconteceu dia **09 e 10 de Agosto**, no SEBRAE, e teve como objetivo principal difundir o conhecimento sobre v·rias tendÍncias, como agilidade, gest„o e desenvolvimento de software. E esse propÛsito com certeza foi superado!
 
-O primeiro dia foi exclusivamente dedicado aos mini-cursos que ocorreram em paralelo, ministrados por membros da Comunidade T√° Safo!: [Fernanda Melina ](http://www.twitter.com/FernandaMelina)- "Aprendendo Scrum pelos olhos de um Product Owner" - e [Ramon Rabello](http://www.twitter.com/ramonrabello) - "Dominando Android - Desenvolvimento √Ågil de Apps Orientado a Testes". O p√∫blico estava muito interessado em aprender e a procura foi muito grande. Resultado: tivemos superlota√ß√£o em ambas as salas!
+O primeiro dia foi exclusivamente dedicado aos mini-cursos que ocorreram em paralelo, ministrados por membros da Comunidade T· Safo!: [Fernanda Melina ](http://www.twitter.com/FernandaMelina)- "Aprendendo Scrum pelos olhos de um Product Owner" - e [Ramon Rabello](http://www.twitter.com/ramonrabello) - "Dominando Android - Desenvolvimento ¡gil de Apps Orientado a Testes". O p˙blico estava muito interessado em aprender e a procura foi muito grande. Resultado: tivemos superlotaÁ„o em ambas as salas!
 
-[caption id="" align="aligncenter" width="377"][![Imagem](http://tasafo.files.wordpress.com/2013/08/dsc04239.jpg?w=650)](http://tasafo.files.wordpress.com/2013/08/dsc04239.jpg) Mini curso "Aprendendo Scrum pelos Olhos de um Product Owner" - Fernanda Melina.[/caption]
+<div id="" class="wp-caption" align="aligncenter" style="width: 387px"><p class="wp-caption-text"></p></div>
+[![Imagem](http://tasafo.files.wordpress.com/2013/08/dsc04239.jpg?w=650)](http://tasafo.files.wordpress.com/2013/08/dsc04239.jpg) Mini curso "Aprendendo Scrum pelos Olhos de um Product Owner" - Fernanda Melina.
 
-[caption id="" align="aligncenter" width="386"][![Imagem](http://tasafo.files.wordpress.com/2013/08/dsc04256.jpg?w=650)](http://tasafo.files.wordpress.com/2013/08/dsc04256.jpg) Sala lotada com as equipes de Scrum PO formadas.[/caption]
+<div id="" class="wp-caption" align="aligncenter" style="width: 396px"><p class="wp-caption-text"></p></div>
+[![Imagem](http://tasafo.files.wordpress.com/2013/08/dsc04256.jpg?w=650)](http://tasafo.files.wordpress.com/2013/08/dsc04256.jpg) Sala lotada com as equipes de Scrum PO formadas.
 
-[caption id="attachment_3323" align="aligncenter" width="391"][![DSC04247](http://tasafo.files.wordpress.com/2013/08/dsc04247.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04247.jpg) Mini-curso "Dominando Android - Desenvolvimento √Ågil de Apps Orientado a Testes." - Ramon Rabello.[/caption]
+<div id="attachment_3323" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04247](http://tasafo.files.wordpress.com/2013/08/dsc04247.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04247.jpg) Mini-curso "Dominando Android - Desenvolvimento ¡gil de Apps Orientado a Testes." - Ramon Rabello.
 
-[caption id="attachment_3324" align="aligncenter" width="373"][![DSC04258](http://tasafo.files.wordpress.com/2013/08/dsc04258.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04258.jpg) Sala lotada com pessoas extremamente interessadas em aprender a criar apps para Android.[/caption]
+<div id="attachment_3324" class="wp-caption" align="aligncenter" style="width: 383px"><p class="wp-caption-text"></p></div>
+[![DSC04258](http://tasafo.files.wordpress.com/2013/08/dsc04258.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04258.jpg) Sala lotada com pessoas extremamente interessadas em aprender a criar apps para Android.
 
-J√° o segundo dia foi dedicado aos palestrantes convidados que vieram de v√°rias regi√µes do Brasil. Tamb√©m teve espa√ßo para os relatos de experi√™ncia sobre cases de sucesso de implanta√ß√£o de agilidade em projetos locais no Piau√≠.
+J· o segundo dia foi dedicado aos palestrantes convidados que vieram de v·rias regiıes do Brasil. TambÈm teve espaÁo para os relatos de experiÍncia sobre cases de sucesso de implantaÁ„o de agilidade em projetos locais no PiauÌ.
 
-Ap√≥s o credenciamento e a abertura do evento, o convidado especial¬†[Manoel Pimentel](http://www.twitter.com/manoelp)¬†(coordenador geral do Agile Brazil 2013) motivou-nos com sua palestra: "Management 3.0", enfatizando sobre a nova forma de gest√£o descentralizada, com foco em equipes auto-organizadas e auto-geridas.
+ApÛs o credenciamento e a abertura do evento, o convidado especial†[Manoel Pimentel](http://www.twitter.com/manoelp)†(coordenador geral do Agile Brazil 2013) motivou-nos com sua palestra: "Management 3.0", enfatizando sobre a nova forma de gest„o descentralizada, com foco em equipes auto-organizadas e auto-geridas.
 
-[caption id="attachment_3333" align="aligncenter" width="391"][![DSC04272](http://tasafo.files.wordpress.com/2013/08/dsc04272.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04272.jpg) Manoel Pimentel motivando o p√∫blico com sua palestra.[/caption]
+<div id="attachment_3333" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04272](http://tasafo.files.wordpress.com/2013/08/dsc04272.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04272.jpg) Manoel Pimentel motivando o p˙blico com sua palestra.
 
-Logo em seguida, tivemos [Rildo Santos](http://www.twitter.com/rildosan) falando sobre "An√°lise de Neg√≥cio para Equipes √Ågeis", onde mostrou um pouco do papel do analista de neg√≥cio e como realizar seu trabalho imerso em equipes √°geis.
+Logo em seguida, tivemos [Rildo Santos](http://www.twitter.com/rildosan) falando sobre "An·lise de NegÛcio para Equipes ¡geis", onde mostrou um pouco do papel do analista de negÛcio e como realizar seu trabalho imerso em equipes ·geis.
 
-[caption id="attachment_3334" align="aligncenter" width="391"][![DSC04275](http://tasafo.files.wordpress.com/2013/08/dsc04275.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04275.jpg) Rildo Santos durante sua palestra.[/caption]
-
-
-Em seguida, tivemos o primeiro relato de experi√™ncia da Remanso¬†- "Help me: Um relato de experi√™ncia sobre a Migra√ß√£o do Processo Open Up para o FDD", por Delano Paz, onde ele explicou como conseguiu juntamente com sua equipe migrar de um processo mais tradicional baseado em RUP para um mais √°gil como o FDD.
-
-
+<div id="attachment_3334" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04275](http://tasafo.files.wordpress.com/2013/08/dsc04275.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04275.jpg) Rildo Santos durante sua palestra.
 
 
-[caption id="attachment_3339" align="aligncenter" width="391"][![Delano Paz no seu relato de experi√™ncia.](http://tasafo.files.wordpress.com/2013/08/1170914_573280416047698_1128770389_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1170914_573280416047698_1128770389_n.jpg) Delano Paz no seu relato de experi√™ncia.[/caption]
+Em seguida, tivemos o primeiro relato de experiÍncia da Remanso†- "Help me: Um relato de experiÍncia sobre a MigraÁ„o do Processo Open Up para o FDD", por Delano Paz, onde ele explicou como conseguiu juntamente com sua equipe migrar de um processo mais tradicional baseado em RUP para um mais ·gil como o FDD.
+
+
+
+
+<div id="attachment_3339" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![Delano Paz no seu relato de experiÍncia.](http://tasafo.files.wordpress.com/2013/08/1170914_573280416047698_1128770389_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1170914_573280416047698_1128770389_n.jpg) Delano Paz no seu relato de experiÍncia.
 
 Terminada a primeira parte do evento, estava na hora de repor as energias no "coffee-broca"! Momento de tirar mais fotos do evento, explorar os locais, conversar com novas pessoas...enfim: realizar networking.
 
-[caption id="attachment_3335" align="aligncenter" width="391"][![1095104_574026489306424_1374368132_n](http://tasafo.files.wordpress.com/2013/08/1095104_574026489306424_1374368132_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1095104_574026489306424_1374368132_n.jpg) "coffee-broca".[/caption]
+<div id="attachment_3335" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![1095104_574026489306424_1374368132_n](http://tasafo.files.wordpress.com/2013/08/1095104_574026489306424_1374368132_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1095104_574026489306424_1374368132_n.jpg) "coffee-broca".
 
-[caption id="attachment_3337" align="aligncenter" width="391"][![1000591_573278896047850_1813008954_n](http://tasafo.files.wordpress.com/2013/08/1000591_573278896047850_1813008954_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1000591_573278896047850_1813008954_n.jpg) Networking.[/caption]
-
-
-De volta ao audit√≥rio, o evento teve outro relato de experi√™ncia: "Uma abordagem de LPS visando agilidade", apresentado por Alan Santo, da [Infoway](www.infowayhealthcompany.com.br), onde ele demonstrou como aplicou refatora√ß√£o utilizando t√©cnicas para trabalhar com Linhas de Produto de Software.
-
+<div id="attachment_3337" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![1000591_573278896047850_1813008954_n](http://tasafo.files.wordpress.com/2013/08/1000591_573278896047850_1813008954_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1000591_573278896047850_1813008954_n.jpg) Networking.
 
 
+De volta ao auditÛrio, o evento teve outro relato de experiÍncia: "Uma abordagem de LPS visando agilidade", apresentado por Alan Santo, da [Infoway](www.infowayhealthcompany.com.br), onde ele demonstrou como aplicou refatoraÁ„o utilizando tÈcnicas para trabalhar com Linhas de Produto de Software.
 
-[caption id="attachment_3342" align="aligncenter" width="391"][![998460_574024815973258_797575505_n](http://tasafo.files.wordpress.com/2013/08/998460_574024815973258_797575505_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/998460_574024815973258_797575505_n.jpg) Alan Santo no seu relato de experi√™ncia.[/caption]
 
-Em seguida, tivemos o motivante e energizado [Ari Amaral](http://www.twitter.com/ariamaral)¬†com a palestra: "Ensinando com Agilidade", onde demonstrou um case de sucesso acad√™mico, onde ele utilizou t√©cnicas √°geis com seus alunos. Chegada a hora do almo√ßo, fomos para o almo√ßo √°gil onde rolou muito networking.
 
-[caption id="attachment_3348" align="aligncenter" width="391"][![DSC04294](http://tasafo.files.wordpress.com/2013/08/dsc04294.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04294.jpg) Ari Amaral mostrando como ensinar e aprender com agilidade.[/caption]
 
-De volta, [Francisco Barroso](http://www.twitter.com/fbarroso) ([Grupo Fortes](http://www.fortesinformatica.com.br/v3/)), inicia a rodada de palestras de tarde mostrando uma "Retrospectiva do Agile Brazil 2013", no qual ele explicou como foi o maior evento de Agile da Am√©rica do Sul, desde as instala√ß√µes do evento, keynotes, palestras, etc.
+<div id="attachment_3342" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![998460_574024815973258_797575505_n](http://tasafo.files.wordpress.com/2013/08/998460_574024815973258_797575505_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/998460_574024815973258_797575505_n.jpg) Alan Santo no seu relato de experiÍncia.
 
-[caption id="attachment_3340" align="aligncenter" width="391"][![DSC04303](http://tasafo.files.wordpress.com/2013/08/dsc04303.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04303.jpg) Francisco Barroso fazendo uma retrospectiva do Agile Brazil 2013.[/caption]
+Em seguida, tivemos o motivante e energizado [Ari Amaral](http://www.twitter.com/ariamaral)†com a palestra: "Ensinando com Agilidade", onde demonstrou um case de sucesso acadÍmico, onde ele utilizou tÈcnicas ·geis com seus alunos. Chegada a hora do almoÁo, fomos para o almoÁo ·gil onde rolou muito networking.
 
-Ap√≥s, o professor Regis Pires (Universidade Federal do Cear√°), explicou sobre "Software como Servi√ßo (SaaS) atrav√©s do uso de Metodologias √Ågeis.", onde demonstrou uma abordagem √°gil utilizando SaaS e Computa√ß√£o em Nuvem.
+<div id="attachment_3348" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04294](http://tasafo.files.wordpress.com/2013/08/dsc04294.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04294.jpg) Ari Amaral mostrando como ensinar e aprender com agilidade.
 
-[caption id="attachment_3341" align="aligncenter" width="391"][![995491_573364812705925_760993856_n](http://tasafo.files.wordpress.com/2013/08/995491_573364812705925_760993856_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/995491_573364812705925_760993856_n.jpg) Professor Regis Pires falando sobre SaaS e Agile.[/caption]
+De volta, [Francisco Barroso](http://www.twitter.com/fbarroso) ([Grupo Fortes](http://www.fortesinformatica.com.br/v3/)), inicia a rodada de palestras de tarde mostrando uma "Retrospectiva do Agile Brazil 2013", no qual ele explicou como foi o maior evento de Agile da AmÈrica do Sul, desde as instalaÁıes do evento, keynotes, palestras, etc.
 
-Depois, [Cristiano Milfont](https://twitter.com/cmilfont) ([Grupo Fortes](http://www.fortesinformatica.com.br/v3/)), demonstrou como podemos formar "Equipes sem L√≠deres formais e realmente autogeridas", citando como o Grupo Fortes conseguiu alcan√ßar o n√≠vel de maturidade de desenvolvimento √°gil sem necessidade de l√≠deres formais, onde membros das equipes passam a ter total controle sobre as tomadas de decis√£o.
+<div id="attachment_3340" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04303](http://tasafo.files.wordpress.com/2013/08/dsc04303.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04303.jpg) Francisco Barroso fazendo uma retrospectiva do Agile Brazil 2013.
 
-[caption id="attachment_3345" align="aligncenter" width="391"][![1005230_574024679306605_937442315_n](http://tasafo.files.wordpress.com/2013/08/1005230_574024679306605_937442315_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1005230_574024679306605_937442315_n.jpg) Cristiano Milfont mostrando como equipes √°geis podem viver sem l√≠deres formais.[/caption]
+ApÛs, o professor Regis Pires (Universidade Federal do Cear·), explicou sobre "Software como ServiÁo (SaaS) atravÈs do uso de Metodologias ¡geis.", onde demonstrou uma abordagem ·gil utilizando SaaS e ComputaÁ„o em Nuvem.
 
-Para finalizar o evento com chave de ouro, tivemos uma Stand Up Talk, com Rafael Barbosa (Comunidade Caipira √Ågil): "Porta dos Fundos do Agile: uma divina com√©dia", no qual ele contou sua hilariante hist√≥ria de como come√ßou na √°rea de desenvolvimento de software, pontuando os cen√°rios comuns e paradoxais que passamos. Terminou sua apresenta√ß√£o motivando com uma reflex√£o para que as pessoas fa√ßam o que lhe tornam felizes.
+<div id="attachment_3341" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![995491_573364812705925_760993856_n](http://tasafo.files.wordpress.com/2013/08/995491_573364812705925_760993856_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/995491_573364812705925_760993856_n.jpg) Professor Regis Pires falando sobre SaaS e Agile.
 
-[caption id="attachment_3343" align="aligncenter" width="391"][![DSC04317](http://tasafo.files.wordpress.com/2013/08/dsc04317.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04317.jpg) Rafael Barbosa na sua Stand Up Talk.[/caption]
+Depois, [Cristiano Milfont](https://twitter.com/cmilfont) ([Grupo Fortes](http://www.fortesinformatica.com.br/v3/)), demonstrou como podemos formar "Equipes sem LÌderes formais e realmente autogeridas", citando como o Grupo Fortes conseguiu alcanÁar o nÌvel de maturidade de desenvolvimento ·gil sem necessidade de lÌderes formais, onde membros das equipes passam a ter total controle sobre as tomadas de decis„o.
 
-Para finalizar o evento, tiveram v√°rios sorteios de brindes dos patrocinadores, camisas do evento, revistas, etc. Em seguida, o mestre de cerim√¥nia J√∫nior Ribeiro, da Comunidade Agile PI, chamou ao palco os outros membros Alexsandra Sous√≥liver, Geovane Ara√∫jo, Ant√¥nio Filho, Diva Brito, Layenis Sobrinho e todos os envolvidos para agradecer o enorme apoio na realiza√ß√£o do evento.
+<div id="attachment_3345" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![1005230_574024679306605_937442315_n](http://tasafo.files.wordpress.com/2013/08/1005230_574024679306605_937442315_n.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/1005230_574024679306605_937442315_n.jpg) Cristiano Milfont mostrando como equipes ·geis podem viver sem lÌderes formais.
 
-[caption id="attachment_3344" align="aligncenter" width="391"][![DSC04332](http://tasafo.files.wordpress.com/2013/08/dsc04332.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04332.jpg) Membros da Organiza√ß√£o: Comunidade Agile PI e todos os envolvidos.[/caption]
+Para finalizar o evento com chave de ouro, tivemos uma Stand Up Talk, com Rafael Barbosa (Comunidade Caipira ¡gil): "Porta dos Fundos do Agile: uma divina comÈdia", no qual ele contou sua hilariante histÛria de como comeÁou na ·rea de desenvolvimento de software, pontuando os cen·rios comuns e paradoxais que passamos. Terminou sua apresentaÁ„o motivando com uma reflex„o para que as pessoas faÁam o que lhe tornam felizes.
 
-Realmente, a Comunidade Agile PI conseguiu superar as expectativas j√° no seu primeiro evento! Por isso, fica nosso obrigado pelo convite √† Comunidade e mais uma vez nossos parab√©ns!¬†Que sirva de exemplo e motive outras comunidades! ¬†Voc√™s podem conferir mais do que rolou nas fotos¬†[na P√°gina do Facebook da Comunidade Agile PI](http://www.facebook.com/agilepi).
+<div id="attachment_3343" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04317](http://tasafo.files.wordpress.com/2013/08/dsc04317.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04317.jpg) Rafael Barbosa na sua Stand Up Talk.
+
+Para finalizar o evento, tiveram v·rios sorteios de brindes dos patrocinadores, camisas do evento, revistas, etc. Em seguida, o mestre de cerimÙnia J˙nior Ribeiro, da Comunidade Agile PI, chamou ao palco os outros membros Alexsandra SousÛliver, Geovane Ara˙jo, AntÙnio Filho, Diva Brito, Layenis Sobrinho e todos os envolvidos para agradecer o enorme apoio na realizaÁ„o do evento.
+
+<div id="attachment_3344" class="wp-caption" align="aligncenter" style="width: 401px"><p class="wp-caption-text"></p></div>
+[![DSC04332](http://tasafo.files.wordpress.com/2013/08/dsc04332.jpg?w=652)](http://tasafo.files.wordpress.com/2013/08/dsc04332.jpg) Membros da OrganizaÁ„o: Comunidade Agile PI e todos os envolvidos.
+
+Realmente, a Comunidade Agile PI conseguiu superar as expectativas j· no seu primeiro evento! Por isso, fica nosso obrigado pelo convite ‡ Comunidade e mais uma vez nossos parabÈns!†Que sirva de exemplo e motive outras comunidades! †VocÍs podem conferir mais do que rolou nas fotos†[na P·gina do Facebook da Comunidade Agile PI](http://www.facebook.com/agilepi).
 
 Que venha o Delta de Agilidade 2014!

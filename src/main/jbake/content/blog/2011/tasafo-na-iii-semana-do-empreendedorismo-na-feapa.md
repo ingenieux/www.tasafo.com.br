@@ -4,38 +4,42 @@ tags=blog
 type=post
 title=@tasafo na III Semana do Empreendedorismo na FEAPA
 ~~~~~~
-[caption id="attachment_1838" align="aligncenter" width="300" caption="Galera do T√° Safo! com o coordenador do curso de Sistemas de Informa√ß√£o, Jos√© Sarmanho (ao centro)"][![](http://tasafo.files.wordpress.com/2011/05/dsc00836.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00836.jpg)[/caption]
+<div id="attachment_1838" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/05/dsc00836.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00836.jpg)
 
 
-Nessa semana aconteceu a **[III Semana do Empreendedorismo na Faculdade de Ensino Avan√ßado do Par√° (FEAPA)](http://www.feapa.com.br/dinamicportal/feapa/news.php?id=88)¬†**e mais uma vez o [T√° Safo!](http://www.twitter.com/tasafo) foi convidado e estava l√° \o/. Os assuntos das¬†palestras e mini-cursos eram bem diversificados, desde como criar uma anima√ß√£o com a t√©cnica [Stop Motion](http://pt.wikipedia.org/wiki/Stop_motion)¬†at√© sobre Fotografia Contempor√¢nea e Design**.**
+Nessa semana aconteceu a **[III Semana do Empreendedorismo na Faculdade de Ensino AvanÁado do Par· (FEAPA)](http://www.feapa.com.br/dinamicportal/feapa/news.php?id=88)†**e mais uma vez o [T· Safo!](http://www.twitter.com/tasafo) foi convidado e estava l· \o/. Os assuntos das†palestras e mini-cursos eram bem diversificados, desde como criar uma animaÁ„o com a tÈcnica [Stop Motion](http://pt.wikipedia.org/wiki/Stop_motion)†atÈ sobre Fotografia Contempor‚nea e Design**.**
 
 
 **<!-- more -->**
 
 
-****Inicialmente, foi realizado um coquetel com todos os palestrantes do dia. Logo ap√≥s, os mesmos foram entrevistados por alunos de comunica√ß√£o da pr√≥pria Institui√ß√£o que perguntavam sobre os temas que ir√≠amos debater. A comunidade estava representada por [F√°bio Aguiar](http://www.twitter.com/fabyogr), que falou sobre "[M√©todos √Ågil de Desenvolvimento de Software](http://slidesha.re/MetodosAgeis)"; e [Ramon Rabello](http://www.twitter.com/ramonrabello), que falou sobre "Empreendedorismo com Android". Al√©m disso, a comunidade [Joomla Paid'√©gua](http://www.twitter.com/joomlapaidegua) estava presente, representada por [Cl√°udio Alfonso](http://twitter.com/#!/claudioalfonso) que demonstrou o mini-curso "Desenvolvendo Sistemas e Gerenciando Portais com Joomla!", todas os tr√™s mini-cursos iniciando paralelamente √†s 19h30.
+****Inicialmente, foi realizado um coquetel com todos os palestrantes do dia. Logo apÛs, os mesmos foram entrevistados por alunos de comunicaÁ„o da prÛpria InstituiÁ„o que perguntavam sobre os temas que irÌamos debater. A comunidade estava representada por [F·bio Aguiar](http://www.twitter.com/fabyogr), que falou sobre "[MÈtodos ¡gil de Desenvolvimento de Software](http://slidesha.re/MetodosAgeis)"; e [Ramon Rabello](http://www.twitter.com/ramonrabello), que falou sobre "Empreendedorismo com Android". AlÈm disso, a comunidade [Joomla Paid'Ègua](http://www.twitter.com/joomlapaidegua) estava presente, representada por [Cl·udio Alfonso](http://twitter.com/#!/claudioalfonso) que demonstrou o mini-curso "Desenvolvendo Sistemas e Gerenciando Portais com Joomla!", todas os trÍs mini-cursos iniciando paralelamente ‡s 19h30.
 
 
 
 
-[caption id="attachment_1839" align="aligncenter" width="300" caption="Placa informando sobre o mini-curso de Metodologia √Ågil de Desenvolvimento de Software"][![](http://tasafo.files.wordpress.com/2011/05/dsc008271.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc008271.jpg)[/caption]
+<div id="attachment_1839" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/05/dsc008271.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc008271.jpg)
 
-[caption id="attachment_1840" align="aligncenter" width="300" caption="Placa informando sobre o mini-curso de Empreendedorismo com Android, na vers√£o aportuguesada :)"][![](http://tasafo.files.wordpress.com/2011/05/dsc00831.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00831.jpg)[/caption]
-
-
-F√°bio Aguiar, durante o mini-curso, realizou duas din√¢micas: uma chamada "Caf√© da Manh√£ Saud√°vel e Nutritivo" (autoria de F√°bio Aguiar e [Marcelo Andrade](http://www.twitter.com/mfandrade)), onde o foco era metaforizar o processo de se fazer um caf√© da manh√£ com o de cria√ß√£o de est√≥rias e quebra de tarefas; a outra din√¢mica utilizada foi a¬†**[F√°brica de Avi√µes 2.0](http://www.agileway.com.br/2009/08/18/dinamica-fabrica-de-avioes-2-0/)** (autoria de [Fl√°vio Steffens](http://twitter.com/#!/flaviosteffens)¬†e¬†[Rafael Prikladnicki](http://www.twitter.com/rafaelpri)).
-
+<div id="attachment_1840" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/05/dsc00831.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00831.jpg)
 
 
-
-Ramon Rabello explicou, de uma maneira geral, o que √© a plataforma Android e suas principais caracter√≠sticas, mitos e verdades sobre a plataforma, sua repercuss√£o, etc. Ap√≥s, demonstrou passo-a-passo como construir uma aplicativo simples em Android. Em seguida, forneceu algumas dicas de como se tornar empreendedor em android. Adesivos com a hashtag do Twitter "#tasafoemacao" foram distribu√≠dos para os participantes.
+F·bio Aguiar, durante o mini-curso, realizou duas din‚micas: uma chamada "CafÈ da Manh„ Saud·vel e Nutritivo" (autoria de F·bio Aguiar e [Marcelo Andrade](http://www.twitter.com/mfandrade)), onde o foco era metaforizar o processo de se fazer um cafÈ da manh„ com o de criaÁ„o de estÛrias e quebra de tarefas; a outra din‚mica utilizada foi a†**[F·brica de Aviıes 2.0](http://www.agileway.com.br/2009/08/18/dinamica-fabrica-de-avioes-2-0/)** (autoria de [Fl·vio Steffens](http://twitter.com/#!/flaviosteffens)†e†[Rafael Prikladnicki](http://www.twitter.com/rafaelpri)).
 
 
 
 
-Ao t√©rmino dos mini-cursos, os palestrantes foram convidados a falar ao vivo na r√°dio da Institui√ß√£o. Cada um falou sobre o tema que ministrou. A Comunidade gostaria de agradecer o enorme apoio dado pela Institui√ß√£o (cada vez mais "fazendo barulho!") e parabeniz√°-la (em especial ao Coordenador Jos√© Sarmanho e [Rafael Salles](http://www.twitter.com/rafasall)) pela qualidade da organiza√ß√£o e do evento.
+Ramon Rabello explicou, de uma maneira geral, o que È a plataforma Android e suas principais caracterÌsticas, mitos e verdades sobre a plataforma, sua repercuss„o, etc. ApÛs, demonstrou passo-a-passo como construir uma aplicativo simples em Android. Em seguida, forneceu algumas dicas de como se tornar empreendedor em android. Adesivos com a hashtag do Twitter "#tasafoemacao" foram distribuÌdos para os participantes.
 
 
 
 
-[caption id="attachment_1841" align="aligncenter" width="300" caption="Ramon Rabello (√† esquerda) e F√°bio Aguiar (√† direita) falando sobre o que √© T√° Safo!"][![](http://tasafo.files.wordpress.com/2011/05/dsc00841.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00841.jpg)[/caption]
+Ao tÈrmino dos mini-cursos, os palestrantes foram convidados a falar ao vivo na r·dio da InstituiÁ„o. Cada um falou sobre o tema que ministrou. A Comunidade gostaria de agradecer o enorme apoio dado pela InstituiÁ„o (cada vez mais "fazendo barulho!") e parabeniz·-la (em especial ao Coordenador JosÈ Sarmanho e [Rafael Salles](http://www.twitter.com/rafasall)) pela qualidade da organizaÁ„o e do evento.
+
+
+
+
+<div id="attachment_1841" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/05/dsc00841.jpg?w=300)](http://tasafo.files.wordpress.com/2011/05/dsc00841.jpg)

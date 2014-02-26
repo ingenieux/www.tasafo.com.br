@@ -2,52 +2,59 @@ status=published
 date=2010-10-19
 tags=blog
 type=post
-title=P√© na estrada com T√° Safo em A√ß√£o em Castanhal
+title=PÈ na estrada com T· Safo em AÁ„o em Castanhal
 ~~~~~~
-[caption id="attachment_1262" align="aligncenter" width="450" caption="A caminho de Castanhal"][![A caminho de Castanhal](http://tasafo.files.wordpress.com/2010/10/012.jpg)](http://tasafo.files.wordpress.com/2010/10/012.jpg)[/caption]
+<div id="attachment_1262" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![A caminho de Castanhal](http://tasafo.files.wordpress.com/2010/10/012.jpg)](http://tasafo.files.wordpress.com/2010/10/012.jpg)
 
-Esse #tasafoemacao foi hist√≥rico: o primeiro a ser realizado fora de Bel√©m! A estr√©ia em terras n√£o t√£o distantes da Caravana do¬†[T√° Safo](http://www.twitter.com/tasafo) (em a√ß√£o)¬†foi para Castanhal.
+Esse #tasafoemacao foi histÛrico: o primeiro a ser realizado fora de BelÈm! A estrÈia em terras n„o t„o distantes da Caravana do†[T· Safo](http://www.twitter.com/tasafo) (em aÁ„o)†foi para Castanhal.
 
-O F√°bio come√ßou a pegar a galera √†s 6h30. No total eram 5 machos com sono no carro na maior sacanagem. No caminho muita nostalgia com as lembran√ßas de como o T√° Safo surgiu e se desenvolveu. Paramos na estrada para tomar um caf√©zinho r√°pido e chegamos na UFPA de Castanhal perto das 9h00. S√≥ faltava a¬†Pamela, que foi no carro dela com seu namorado e chegou um pouco depois. Pronto, agora o evento j√° pode come√ßar!
+O F·bio comeÁou a pegar a galera ‡s 6h30. No total eram 5 machos com sono no carro na maior sacanagem. No caminho muita nostalgia com as lembranÁas de como o T· Safo surgiu e se desenvolveu. Paramos na estrada para tomar um cafÈzinho r·pido e chegamos na UFPA de Castanhal perto das 9h00. SÛ faltava a†Pamela, que foi no carro dela com seu namorado e chegou um pouco depois. Pronto, agora o evento j· pode comeÁar!
 
-[caption id="attachment_1268" align="aligncenter" width="450" caption="P√≥rtico da cidade de Castanhal"][![P√≥rtico de Castanhal](http://tasafo.files.wordpress.com/2010/10/castanhalgrande1.jpg)](http://tasafo.files.wordpress.com/2010/10/castanhalgrande1.jpg)[/caption]
+<div id="attachment_1268" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![PÛrtico de Castanhal](http://tasafo.files.wordpress.com/2010/10/castanhalgrande1.jpg)](http://tasafo.files.wordpress.com/2010/10/castanhalgrande1.jpg)
 
-O evento come√ßou com os organizadores do evento da UFPA agradecendo a presen√ßa do T√° Safo e explicando o contexto e prop√≥sito do Campus Universit√°rio da regi√£o. Logo ap√≥s,¬†[F√°bio Aguiar](http://www.twitter.com/fabyogr) come√ßou o circuito de palestras apresentando a comunidade e como se envolver mais em comunidades.
+O evento comeÁou com os organizadores do evento da UFPA agradecendo a presenÁa do T· Safo e explicando o contexto e propÛsito do Campus Universit·rio da regi„o. Logo apÛs,†[F·bio Aguiar](http://www.twitter.com/fabyogr) comeÁou o circuito de palestras apresentando a comunidade e como se envolver mais em comunidades.
 
 <!-- more -->
 
-Emendando,¬†[Luiz Sanches](http://www.twitter.com/luizgrsanches) inovando com som ambiente e tudo, contou de forma bem descontra√≠da, din√¢mica e r√°pida a hist√≥ria e repercurs√£o que a comunidade est√° tendo desde a sua concep√ß√£o. [T√° safo! De Bel√©m - Do Par√° - Do Brasil ++](http://www.slideshare.net/luizsanches/t-safo-debelemdoparadobrasil)
+Emendando,†[Luiz Sanches](http://www.twitter.com/luizgrsanches) inovando com som ambiente e tudo, contou de forma bem descontraÌda, din‚mica e r·pida a histÛria e repercurs„o que a comunidade est· tendo desde a sua concepÁ„o. [T· safo! De BelÈm - Do Par· - Do Brasil ++](http://www.slideshare.net/luizsanches/t-safo-debelemdoparadobrasil)
 
-[caption id="attachment_1275" align="aligncenter" width="450" caption="T√°safos em a√ß√£o"][![](http://tasafo.files.wordpress.com/2010/10/palestrantes-tasafo.jpg)](http://tasafo.files.wordpress.com/2010/10/palestrantes-tasafo.jpg)[/caption]
+<div id="attachment_1275" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/palestrantes-tasafo.jpg)](http://tasafo.files.wordpress.com/2010/10/palestrantes-tasafo.jpg)
 
-Depois, F√°bio Aguiar retornou e apresentou a palestra "[Seja Not√°vel](http://www.slideshare.net/fabiogr/seja-notvel)" explicando a import√¢ncia de se envolver e investir na sua carreira pessoal e profissional e como contribuir com as suas id√©ias, participando de redes sociais, criando blogs, twitter, etc. E o principal, como nos tornamos not√°veis participando e fazendo algo pela comunidade. Para finalizar, o Sanches se lembrou que tinha que mostrar um v√≠deo ¬†de 2 repentistas improvisando com uma m√∫sica sobre o @tasafo. Muito divertido :)
+Depois, F·bio Aguiar retornou e apresentou a palestra "[Seja Not·vel](http://www.slideshare.net/fabiogr/seja-notvel)" explicando a import‚ncia de se envolver e investir na sua carreira pessoal e profissional e como contribuir com as suas idÈias, participando de redes sociais, criando blogs, twitter, etc. E o principal, como nos tornamos not·veis participando e fazendo algo pela comunidade. Para finalizar, o Sanches se lembrou que tinha que mostrar um vÌdeo †de 2 repentistas improvisando com uma m˙sica sobre o @tasafo. Muito divertido :)
 
-[youtube=http://www.youtube.com/watch?v=B9VdSqiXyII]
+<iframe width="560" height="315" src="//www.youtube.com/embed/B9VdSqiXyII" frameborder="0" allowfullscreen></iframe>
 
-[Jaime Schettini](http://www.twitter.com/jaimeschettini) falou sobre "[Introdu√ß√£o √†s Metodologias √Ågeis de Desenvolvimento de Software](http://www.slideshare.net/jaime.schettini/introduo-s-metodologias-geis-de-desenvolvimento-de-software)", come√ßando com uma breve hist√≥ria sobre os problemas enfrentados com as metodologias tradicionais, focando nos princ√≠pios do manifesto e pr√°ticas √°geis. Rolou uma din√¢mica bem interessante onde Jaime pediu para os participantes, em pares, jogarem Pedra, Papel, Tesoura (a nostalgia entrou em cena). Houve muita agita√ß√£o e intera√ß√£o com os participantes. O intuito dessa din√¢mica era refletir que colabora√ß√£o e coopera√ß√£o maximizam o ganho entre times √°geis, al√©m de mostar o poder das retrospectivas e da criatividade para melhorar o processo de cada um.
+[Jaime Schettini](http://www.twitter.com/jaimeschettini) falou sobre "[IntroduÁ„o ‡s Metodologias ¡geis de Desenvolvimento de Software](http://www.slideshare.net/jaime.schettini/introduo-s-metodologias-geis-de-desenvolvimento-de-software)", comeÁando com uma breve histÛria sobre os problemas enfrentados com as metodologias tradicionais, focando nos princÌpios do manifesto e pr·ticas ·geis. Rolou uma din‚mica bem interessante onde Jaime pediu para os participantes, em pares, jogarem Pedra, Papel, Tesoura (a nostalgia entrou em cena). Houve muita agitaÁ„o e interaÁ„o com os participantes. O intuito dessa din‚mica era refletir que colaboraÁ„o e cooperaÁ„o maximizam o ganho entre times ·geis, alÈm de mostar o poder das retrospectivas e da criatividade para melhorar o processo de cada um.
 
-Continuando,¬†[Marcelo Andrade](http://www.twitter.com/mfandrade) apresentou o tema "[Testes Automatizados](http://www.slideshare.net/mfandrade/testes-de-software-automatizados)". Explicou sobre as ferramentas Concordion e Selenium, demonstrando exemplos pr√°ticos de como se criar testes autom√°ticos utilizando estas ferramentas. N√£o sabia que pod√≠amos escrever testes usando um texto em portugu√™s! O Concordion entende e ainda gera relat√≥rios coloridos em cima do texto. Muito firme!
+Continuando,†[Marcelo Andrade](http://www.twitter.com/mfandrade) apresentou o tema "[Testes Automatizados](http://www.slideshare.net/mfandrade/testes-de-software-automatizados)". Explicou sobre as ferramentas Concordion e Selenium, demonstrando exemplos pr·ticos de como se criar testes autom·ticos utilizando estas ferramentas. N„o sabia que podÌamos escrever testes usando um texto em portuguÍs! O Concordion entende e ainda gera relatÛrios coloridos em cima do texto. Muito firme!
 
-Ap√≥s, veio a¬†[Pamela Gatinho](http://www.twitter.com/pamelagatinho) com seu "[Ruby: O Todo Poderoso](http://www.slideshare.net/pamelagatinho/apresentao-poderoso-ruby-tasafoemacao)", explicando o prop√≥sito e princ√≠pios em que a linguagem Ruby √© baseada. Ela terminou demonstrando como se criar um CRUD ¬†simples com a linguagem em apenas 10min.
+ApÛs, veio a†[Pamela Gatinho](http://www.twitter.com/pamelagatinho) com seu "[Ruby: O Todo Poderoso](http://www.slideshare.net/pamelagatinho/apresentao-poderoso-ruby-tasafoemacao)", explicando o propÛsito e princÌpios em que a linguagem Ruby È baseada. Ela terminou demonstrando como se criar um CRUD †simples com a linguagem em apenas 10min.
 
-[caption id="attachment_1271" align="aligncenter" width="450" caption="Muito bacana na plat√©ia de Castanhal: muitas mulheres deram um clima diferente para o evento."][![Plat√©ia de Castanhal](http://tasafo.files.wordpress.com/2010/10/06.jpg)](http://tasafo.files.wordpress.com/2010/10/06.jpg)[/caption]
+<div id="attachment_1271" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![PlatÈia de Castanhal](http://tasafo.files.wordpress.com/2010/10/06.jpg)](http://tasafo.files.wordpress.com/2010/10/06.jpg)
 
-Para finalizar,¬†[Ramon Rabello](http://www.twitter.com/ramonrabello/) apresentou a palestra "[Agora √© Android, T√° Safo?](http://www.slideshare.net/ramonrabello/agora-android-t-safo-tasafoemacao-em-castanhal)", explicando - de uma forma geral - o que √© a plataforma Android. Depois, demonstrou passo-a-passo como se criar uma aplica√ß√£o em Android utilizando tanto o Eclipse quanto o¬†App Inventor, que possui a facilidade de criar aplica√ß√µes em Android¬†assim como se brinca de quebra-cabe√ßa.
+Para finalizar,†[Ramon Rabello](http://www.twitter.com/ramonrabello/) apresentou a palestra "[Agora È Android, T· Safo?](http://www.slideshare.net/ramonrabello/agora-android-t-safo-tasafoemacao-em-castanhal)", explicando - de uma forma geral - o que È a plataforma Android. Depois, demonstrou passo-a-passo como se criar uma aplicaÁ„o em Android utilizando tanto o Eclipse quanto o†App Inventor, que possui a facilidade de criar aplicaÁıes em Android†assim como se brinca de quebra-cabeÁa.
 
-[youtube=http://www.youtube.com/watch?v=8ADwPLSFeY8]
+<iframe width="560" height="315" src="//www.youtube.com/embed/8ADwPLSFeY8" frameborder="0" allowfullscreen></iframe>
 
-No final o Sanches ainda fez a din√¢mica criada por ele mesmo "vem pra c√°", na qual ele convida as pessoas da plat√©ia para subir ao palco e manda os palestrantes para as cadeiras da plat√©ia, fala sobre como ele come√ßou a palestrar e convida o pessoal para fazer o mesmo. Sensacional.
+No final o Sanches ainda fez a din‚mica criada por ele mesmo "vem pra c·", na qual ele convida as pessoas da platÈia para subir ao palco e manda os palestrantes para as cadeiras da platÈia, fala sobre como ele comeÁou a palestrar e convida o pessoal para fazer o mesmo. Sensacional.
 
-[caption id="attachment_1272" align="aligncenter" width="450" caption="Sanches fez a din√¢mica "vem pra c√°""][![Din√¢mica "vem pra c√°"](http://tasafo.files.wordpress.com/2010/10/07.jpg)](http://tasafo.files.wordpress.com/2010/10/07.jpg)[/caption]
+<div id="attachment_1272" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![Din‚mica "vem pra c·"](http://tasafo.files.wordpress.com/2010/10/07.jpg)](http://tasafo.files.wordpress.com/2010/10/07.jpg)
 
-A comunidade T√° Safo agradece¬†a presen√ßa de todos que estiveram no evento, assistindo, "twittando" e participando, muita gente nem era de Castanhal. Parab√©ns tamb√©m para as mulheres que compareceram, foi de longe o maior p√∫blico feminino em n√∫mero e em propor√ß√£o de todos os eventos do T√° Safo at√© hoje (metade da plat√©ia). Devemos cada vez mais insentivar a participa√ß√£o das mulheres na inform√°tica, esse equil√≠brio √© muito importante para a evolu√ß√£o da nossa √°rea, afinal as mulheres contribuem com aspectos bem diferentes dos homens.
+A comunidade T· Safo agradece†a presenÁa de todos que estiveram no evento, assistindo, "twittando" e participando, muita gente nem era de Castanhal. ParabÈns tambÈm para as mulheres que compareceram, foi de longe o maior p˙blico feminino em n˙mero e em proporÁ„o de todos os eventos do T· Safo atÈ hoje (metade da platÈia). Devemos cada vez mais insentivar a participaÁ„o das mulheres na inform·tica, esse equilÌbrio È muito importante para a evoluÁ„o da nossa ·rea, afinal as mulheres contribuem com aspectos bem diferentes dos homens.
 
-[caption id="attachment_1270" align="aligncenter" width="450" caption="Todos que palestraram, menos a Pamela, que j√° tinha ido embora (poxa)."][![](http://tasafo.files.wordpress.com/2010/10/05.jpg)](http://tasafo.files.wordpress.com/2010/10/05.jpg)[/caption]
+<div id="attachment_1270" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/05.jpg)](http://tasafo.files.wordpress.com/2010/10/05.jpg)
 
 
 ### Nos Bastidores...
 
 
-Depois do evento a recompensa: fomos direto para a churrascaria Galope, indicada pelo nosso mais novo #tasafoemacao¬†[William Santos](http://www.twitter.com/santowilliam), um dos que ajudaram a coordenar esse evento. √â claro que rolou muita comida at√© todo mundo ficar empanturrado.¬†At√© a pr√≥xima, pessoal!
+Depois do evento a recompensa: fomos direto para a churrascaria Galope, indicada pelo nosso mais novo #tasafoemacao†[William Santos](http://www.twitter.com/santowilliam), um dos que ajudaram a coordenar esse evento. … claro que rolou muita comida atÈ todo mundo ficar empanturrado.†AtÈ a prÛxima, pessoal!
 
-[caption id="attachment_1269" align="aligncenter" width="450" caption="Churrasco depois do evento. Pena que o Marcelo n√£o apareceu nessa foto, e o Ramon pela metade, mas ele t√° l√°, eu juro!"][![](http://tasafo.files.wordpress.com/2010/10/dsc02825.jpg)](http://tasafo.files.wordpress.com/2010/10/dsc02825.jpg)[/caption]
+<div id="attachment_1269" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/dsc02825.jpg)](http://tasafo.files.wordpress.com/2010/10/dsc02825.jpg)

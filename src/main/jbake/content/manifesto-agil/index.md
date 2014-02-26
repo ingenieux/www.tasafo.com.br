@@ -2,30 +2,30 @@ status=published
 date=2009-02-04
 tags=article
 type=page
-title=Manifesto √°gil
+title=Manifesto ·gil
 ~~~~~~
-A comunidade tem como base o [manifesto √°gil](http://pt.wikipedia.org/wiki/Manifesto_%C3%A1gil), que est√£o declarados nos site [http://agilemanifesto.org](http://agilemanifesto.org) (em ingl√™s). Segue abaixo traduzido:
+A comunidade tem como base o [manifesto ·gil](http://pt.wikipedia.org/wiki/Manifesto_%C3%A1gil), que est„o declarados nos site [http://agilemanifesto.org](http://agilemanifesto.org) (em inglÍs). Segue abaixo traduzido:
 
-N√≥s estamos descobrindo melhores maneiras de desenvolver software fazendo-o, e ajudando os outros a fazer-los.
+NÛs estamos descobrindo melhores maneiras de desenvolver software fazendo-o, e ajudando os outros a fazer-los.
 
-Atrav√©s deste trabalho, temos como valores:
+AtravÈs deste trabalho, temos como valores:
 
 
-
-	
-  * **Indiv√≠duos e suas intera√ß√µes** mais que processos e ferramentas
 
 	
-  * **Software funcionando** mais que documenta√ß√£o abrangente
+  * **IndivÌduos e suas interaÁıes** mais que processos e ferramentas
 
 	
-  * **Colabora√ß√£o do cliente** mais que negocia√ß√£o de contratos
+  * **Software funcionando** mais que documentaÁ„o abrangente
 
 	
-  * **Responder √† mudan√ßa** mais que seguir um plano
+  * **ColaboraÁ„o do cliente** mais que negociaÁ„o de contratos
+
+	
+  * **Responder ‡ mudanÁa** mais que seguir um plano
 
 
-Ou seja, mesmo havendo valor nos itens √† direita, valorizamos mais os itens √† esquerda.
+Ou seja, mesmo havendo valor nos itens ‡ direita, valorizamos mais os itens ‡ esquerda.
 
 
 
@@ -61,22 +61,14 @@ Dave Thomas
 
 
 
-¬©2001, Autores acima citados.
-Esta declara√ß√£o pode ser livremente copiada, sob qualquer forma,
-mas apenas na sua totalidade atrav√©s do presente aviso.
+©2001, Autores acima citados.
+Esta declaraÁ„o pode ser livremente copiada, sob qualquer forma,
+mas apenas na sua totalidade atravÈs do presente aviso.
 
 
 
 
-**Doze princ√≠pios do Manifesto √Ågil  (Princ√≠pios por tr√°s do Manifesto √Ågil )**
-
-
-
-
-
-
-
-Seguimos estes princ√≠pios:
+**Doze princÌpios do Manifesto ¡gil  (PrincÌpios por tr·s do Manifesto ¡gil )**
 
 
 
@@ -84,37 +76,45 @@ Seguimos estes princ√≠pios:
 
 
 
+Seguimos estes princÌpios:
 
 
-	
-  1. Nossa maior prioridade √© satisfazer o cliente, atrav√©s de entregas r√°pidas e cont√≠nuas gerando valor ao software.
+
+
+
+
+
+
 
 	
-  2. Recebendo bem as mudan√ßas dos requisitos, mesmo em est√°gios tardios do desenvolvimento. Processos √°geis devem admitir mudan√ßas que trazem vantagens competitivas para o cliente.
+  1. Nossa maior prioridade È satisfazer o cliente, atravÈs de entregas r·pidas e contÌnuas gerando valor ao software.
 
 	
-  3. Trabalhando para entregar software, em intervalos de 2 semanas at√© 2 meses, com prefer√™ncia para que tenha uma curta escala de tempo.
+  2. Recebendo bem as mudanÁas dos requisitos, mesmo em est·gios tardios do desenvolvimento. Processos ·geis devem admitir mudanÁas que trazem vantagens competitivas para o cliente.
 
 	
-  4. Empres√°rios e desenvolvedores devem trabalhar juntos diariamente durante todo o projeto.
+  3. Trabalhando para entregar software, em intervalos de 2 semanas atÈ 2 meses, com preferÍncia para que tenha uma curta escala de tempo.
 
 	
-  5. Construa projetos com indiv√≠duos motivados, d√™-lhes o ambiente e o suporte que precisam, e confie neles para ter o trabalho realizado.
+  4. Empres·rios e desenvolvedores devem trabalhar juntos diariamente durante todo o projeto.
 
 	
-  6. O m√©todo mais eficiente e efetivo de transmitir informa√ß√£o para a equipe de desenvolvimento est√° na conversa face-a-face.
+  5. Construa projetos com indivÌduos motivados, dÍ-lhes o ambiente e o suporte que precisam, e confie neles para ter o trabalho realizado.
 
 	
-  7. Software funcionando √© a principal medida para o progresso.
+  6. O mÈtodo mais eficiente e efetivo de transmitir informaÁ„o para a equipe de desenvolvimento est· na conversa face-a-face.
 
 	
-  8. Processos √°geis promovem o desenvolvimento sustent√°vel. Os patrocinadores, os desenvolvedores, e os usu√°rios devem ser capazes de manter um ritmo constante indefinidamente.
+  7. Software funcionando È a principal medida para o progresso.
 
 	
-  9. Aten√ß√£o cont√≠nua para uma excel√™ncia t√©cnica e um bom design aumentam a agilidade.
+  8. Processos ·geis promovem o desenvolvimento sustent·vel. Os patrocinadores, os desenvolvedores, e os usu·rios devem ser capazes de manter um ritmo constante indefinidamente.
 
 	
-  10. Simplicidade - a arte de maximizar o valor do trabalho n√£o feito - √© essencial.
+  9. AtenÁ„o contÌnua para uma excelÍncia tÈcnica e um bom design aumentam a agilidade.
+
+	
+  10. Simplicidade - a arte de maximizar o valor do trabalho n„o feito - È essencial.
 
 	
   11. As melhores arquiteturas, requisitos, e design surgem a partir de equipes auto-organizadas.

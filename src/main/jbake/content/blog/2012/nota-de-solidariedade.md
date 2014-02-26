@@ -4,6 +4,6 @@ tags=blog
 type=post
 title=Nota de Solidariedade
 ~~~~~~
-A comunidade TÃ¡ Safo gostaria de prestar seus sentimentos Ã s _famÃ­lias_ dos envolvidos no acidente que vitimou a caravana ao **CSBC** **2012**. Neste momento formamos uma corrente positiva, apesar de estarmos todos muito sensibilizados com o ocorrido, registramos aqui os nossos sentimentos de forÃ§a e solidariedade.
+A comunidade Tá Safo gostaria de prestar seus sentimentos às _famílias_ dos envolvidos no acidente que vitimou a caravana ao **CSBC** **2012**. Neste momento formamos uma corrente positiva, apesar de estarmos todos muito sensibilizados com o ocorrido, registramos aqui os nossos sentimentos de força e solidariedade.
 
-Esta Ã© uma breve **homenagem** aos colegas que muito contribuÃ­ram e prestigiaram nossos eventos.
+Esta é uma breve **homenagem** aos colegas que muito contribuíram e prestigiaram nossos eventos.

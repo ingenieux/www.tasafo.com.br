@@ -2,34 +2,34 @@ status=published
 date=2011-07-29
 tags=blog
 type=post
-title=Agilidade em S√©rie - XP - Refactoring
+title=Agilidade em SÈrie - XP - Refactoring
 ~~~~~~
-Aconselhamos aos menores de 18 anos a n√£o abrirem o conte√∫do deste epis√≥dio, pois √© considerado o mais sanguin√°rio da s√©rie. [Paulo Moura](http://twitter.com/paulociecomp) volta mais uma vez, agora falando sobre Refactoring. Paulo, valeu o esfor√ßo e dedica√ß√£o!
+Aconselhamos aos menores de 18 anos a n„o abrirem o conte˙do deste episÛdio, pois È considerado o mais sanguin·rio da sÈrie. [Paulo Moura](http://twitter.com/paulociecomp) volta mais uma vez, agora falando sobre Refactoring. Paulo, valeu o esforÁo e dedicaÁ„o!
 
 
 
 
-Repetimos. Se voc√™ tem problema card√≠aco, de press√£o, enjoo, asm√°tico, bexiga frouxa, desinteria, pris√£o de ventre ou quando v√™ o pr√≥prio sangue desmaia. **N√£o prossiga, n√≥s avisamos!**
+Repetimos. Se vocÍ tem problema cardÌaco, de press„o, enjoo, asm·tico, bexiga frouxa, desinteria, pris„o de ventre ou quando vÍ o prÛprio sangue desmaia. **N„o prossiga, nÛs avisamos!**
 
 
 
 
-Queremos agradecer ao nosso fiel escudeiro [Jaime Schettini](http://twitter.com/jaimeschettini), que l√° de Florian√≥polis vem nos ajudando na revis√£o final dos epis√≥dios. Sempre com cr√≠ticas construtivas que agregam e muito a cada artigo. Esse cara √© mais um #tasafoemacao de "longe". Obrigado Jaiminho!
+Queremos agradecer ao nosso fiel escudeiro [Jaime Schettini](http://twitter.com/jaimeschettini), que l· de FlorianÛpolis vem nos ajudando na revis„o final dos episÛdios. Sempre com crÌticas construtivas que agregam e muito a cada artigo. Esse cara È mais um #tasafoemacao de "longe". Obrigado Jaiminho!
 
 
 
 
-Costumamos brincar, mas os artigos est√£o cada vez mais com um alto n√≠vel t√©cnico. Na verdade, era pra ser um simples pasquim, mas os caras est√£o estudando pra fazer os artigos. Olha no que d√° :). Esperamos mais uma vez que gostem.
+Costumamos brincar, mas os artigos est„o cada vez mais com um alto nÌvel tÈcnico. Na verdade, era pra ser um simples pasquim, mas os caras est„o estudando pra fazer os artigos. Olha no que d· :). Esperamos mais uma vez que gostem.
 
 
 
 
-Ta√≠ um trabalho, de gra√ßa, que d√° prazer em fazer. Como o [F√°bio Aguiar](http://twitter.com/fabyogr) costuma dizer: **_"N√£o tem pre√ßo, tem valor"_**.
+TaÌ um trabalho, de graÁa, que d· prazer em fazer. Como o [F·bio Aguiar](http://twitter.com/fabyogr) costuma dizer: **_"N„o tem preÁo, tem valor"_**.
 
 
 
 
-E [eu](http://twitter.com/luizgrsanches) queria mandar um beijo pra minha m√£e, pro meu pai e pra voc√™ :p
+E [eu](http://twitter.com/luizgrsanches) queria mandar um beijo pra minha m„e, pro meu pai e pra vocÍ :p
 
 
 
@@ -37,4 +37,4 @@ E [eu](http://twitter.com/luizgrsanches) queria mandar um beijo pra minha m√£e, 
 [Link do Slideshare](http://www.slideshare.net/tasafo/agilidade-em-srie-xp-refactoring)
 
 
-[slideshare id=8720332&doc=agilidade-em-serie-04-xp-refactoring-110728223332-phpapp01&type=d]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/8720332" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>

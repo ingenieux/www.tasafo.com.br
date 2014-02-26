@@ -4,7 +4,7 @@ tags=blog
 type=post
 title=Happy Ada Lovelace Day!
 ~~~~~~
-Hoje √© comemorado o Ada Lovelace Day. ¬†Matem√°tica inglesa, filha de Lord Byron, criou o primeiro algoritmo a ser processado por uma m√°quina. √â considerada a primeira programadora da hist√≥ria. Fica aqui a homenagem do T√° Safo a esta grande mulher. E que ela seja inspira√ß√£o a homens e mulheres de nossa √°rea, a tamb√©m realizarem atos fant√°sticos.
+Hoje È comemorado o Ada Lovelace Day. †Matem·tica inglesa, filha de Lord Byron, criou o primeiro algoritmo a ser processado por uma m·quina. … considerada a primeira programadora da histÛria. Fica aqui a homenagem do T· Safo a esta grande mulher. E que ela seja inspiraÁ„o a homens e mulheres de nossa ·rea, a tambÈm realizarem atos fant·sticos.
 
 [![ada](http://tasafo.files.wordpress.com/2013/10/ada.jpg)](http://tasafo.files.wordpress.com/2013/10/ada.jpg)
 

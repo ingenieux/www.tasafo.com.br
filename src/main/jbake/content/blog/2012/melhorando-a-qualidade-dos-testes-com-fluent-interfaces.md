@@ -2,26 +2,26 @@ status=published
 date=2012-01-08
 tags=blog
 type=post
-title=Melhorando a qualidade dos testes com refatoraÃ§Ã£o e fluent interfaces
+title=Melhorando a qualidade dos testes com refatoração e fluent interfaces
 ~~~~~~
-Muita gente acha que nÃ£o precisa dar muita atenÃ§Ã£o Ã  qualidade na escrita dos testes. Mas o nÃ­vel de qualidade dos testes deve ser tÃ£o alto quanto o do cÃ³digo de produÃ§Ã£o, afinal, os testes tambÃ©m tem que ser mantidos por tanto tempo quanto o cÃ³digo de produÃ§Ã£o. No seu livro _Clean Code_, Uncle Bob conta a histÃ³riaÂ de uma equipe que decidiu abrandar as regras de qualidade nos testes. Traduzindo livremente:
+Muita gente acha que não precisa dar muita atenção à qualidade na escrita dos testes. Mas o nível de qualidade dos testes deve ser tão alto quanto o do código de produção, afinal, os testes também tem que ser mantidos por tanto tempo quanto o código de produção. No seu livro _Clean Code_, Uncle Bob conta a história de uma equipe que decidiu abrandar as regras de qualidade nos testes. Traduzindo livremente:
 
 
-> As variÃ¡veis nÃ£o tinham que ser bem nomeadas, os mÃ©todos nÃ£o tinham que ser pequenos e descritivos. O cÃ³digo de teste nÃ£o tinha que ter um bom design. Contanto que o cÃ³digo de teste funcionasse e cobrisse o cÃ³digo de produÃ§Ã£o, estava tudo bem.
+> As variáveis não tinham que ser bem nomeadas, os métodos não tinham que ser pequenos e descritivos. O código de teste não tinha que ter um bom design. Contanto que o código de teste funcionasse e cobrisse o código de produção, estava tudo bem.
 
-Quanto mais o tempo passava, mais difÃ­cil era alterar os testes e adicionar novos. Vez ou outra alguns testes falhavam quandoÂ a equipe mudava o cÃ³digo de produÃ§Ã£o, e corrigi-los tambÃ©m se tornou uma tarefa Ã¡rdua e demorada. As estimativas ficaram cada vez mais altas, porque mexer nos testes era muito custoso. Depois de um tempo, eles jogaram fora toda a suite de testes. Mas sem os testes, muitos bugs comeÃ§aram a aparecer, a equipe perdeu a confianÃ§a em alterar o cÃ³digo,Â e no final, clientes e desenvolvedores ficaram frustados.
+Quanto mais o tempo passava, mais difícil era alterar os testes e adicionar novos. Vez ou outra alguns testes falhavam quando a equipe mudava o código de produção, e corrigi-los também se tornou uma tarefa árdua e demorada. As estimativas ficaram cada vez mais altas, porque mexer nos testes era muito custoso. Depois de um tempo, eles jogaram fora toda a suite de testes. Mas sem os testes, muitos bugs começaram a aparecer, a equipe perdeu a confiança em alterar o código, e no final, clientes e desenvolvedores ficaram frustados.
 
-Moral da histÃ³ria, se o cÃ³digo serÃ¡ mantido - seja de produÃ§Ã£o ou de testes - entÃ£o ele tem que ser bem escrito.
+Moral da história, se o código será mantido - seja de produção ou de testes - então ele tem que ser bem escrito.
 
 
-<!-- more -->EntÃ£o, vamos botar em prÃ¡tica essa regra. A seguir, temos um exemplo de como podemos melhorar a qualidade de um teste.Â No Ãºltimo projeto que participei, uma classe de testes estava nos incomodando. Cada vez que tÃ­nhamos que alterÃ¡-la, era uma demora. Toda vez que abrÃ­amos essa classe, demorÃ¡vamos entendendo novamente a sua difÃ­cil lÃ³gica. Vou mostrar a evoluÃ§Ã£o do seguinte mÃ©todo de teste:
+<!-- more -->Então, vamos botar em prática essa regra. A seguir, temos um exemplo de como podemos melhorar a qualidade de um teste. No último projeto que participei, uma classe de testes estava nos incomodando. Cada vez que tínhamos que alterá-la, era uma demora. Toda vez que abríamos essa classe, demorávamos entendendo novamente a sua difícil lógica. Vou mostrar a evolução do seguinte método de teste:
 
 [sourcecode language="java" wraplines="false"]
 @Test
 public void anActionOriginatedInClientShouldNotBeExecutedEvenIfReceivedFromServer() {
 [/sourcecode]
 
-O cÃ³digo original:
+O código original:
 
 
 [sourcecode language="java" wraplines="false"]
@@ -43,7 +43,7 @@ loadProjectContext(new ProjectContextLoadCallback() {
 
 [/sourcecode]
 
-Depois da primeira refatoraÃ§Ã£o:
+Depois da primeira refatoração:
 
 [sourcecode language="java" wraplines="false"]
 final ArgumentCaptor<ActionSyncEvent> eventHandlerCaptor = getEventHandlerCaptor();
@@ -64,7 +64,7 @@ try {
 assertNoActionWasExecutedInClient();
 [/sourcecode]
 
-Aqui jÃ¡ ficou bem melhor, mas o cÃ³digo de stubbing e os diferentes nÃ­veis de abstraÃ§Ã£o e o bloco try-catch ainda o deixavam confuso. Nessa hora veio Ã  menteÂ [esse post do Naresh Jain](http://blogs.agilefaqs.com/2008/12/27/fluent-interfaces-improve-readability-of-my-tests/)Â e percebemos que poderÃ­amos fazer algo parecido com os nossos testes, inserindo _fluent interfaces_. E o resultado foi esse:
+Aqui já ficou bem melhor, mas o código de stubbing e os diferentes níveis de abstração e o bloco try-catch ainda o deixavam confuso. Nessa hora veio à mente [esse post do Naresh Jain](http://blogs.agilefaqs.com/2008/12/27/fluent-interfaces-improve-readability-of-my-tests/) e percebemos que poderíamos fazer algo parecido com os nossos testes, inserindo _fluent interfaces_. E o resultado foi esse:
 
 [sourcecode language="java" wraplines="false"]
 final String clientId = "123";
@@ -73,7 +73,7 @@ when().aRequestArriveFrom(clientId);
 verifyThat().noActionWasExecutedInClient();
 [/sourcecode]
 
-Aqui estÃ¡ outro exemplo:
+Aqui está outro exemplo:
 
 [sourcecode language="java" wraplines="false"]
 @Test
@@ -84,9 +84,9 @@ public void anActionOriginatedInClientShouldBeExecutedOnce() throws Exception {
 }
 [/sourcecode]
 
-Assim fica bem fÃ¡cil manter os testes, nÃ£o Ã©?
+Assim fica bem fácil manter os testes, não é?
 
-Segue o cÃ³digo completo abaixo.
+Segue o código completo abaixo.
 
 [sourcecode language="java" wraplines="false"]
 
@@ -183,58 +183,58 @@ private class When {
   }
 
   private void anActionWasExecutedInClient() {
- Â Â Â createInstance();
- Â Â Â final Action action = mock(Action.class);
- Â Â Â actionExecution.onUserActionExecutionRequest(action);
+    createInstance();
+    final Action action = mock(Action.class);
+    actionExecution.onUserActionExecutionRequest(action);
   }
 
   private void fireEvent() {
- Â Â Â final ArgumentCaptor<ServerActionSyncEventHandler> eventHandlerCaptor = getEventHandlerCaptor();
- Â Â Â createInstance();
+    final ArgumentCaptor<ServerActionSyncEventHandler> eventHandlerCaptor = getEventHandlerCaptor();
+    createInstance();
 
     try {
- Â Â Â Â Â fireActionSynEvent(request, Â eventHandlerCaptor);
- Â Â Â }
- Â Â Â catch (final RuntimeException e) {}
- Â Â Â }
+      fireActionSynEvent(request,  eventHandlerCaptor);
+    }
+    catch (final RuntimeException e) {}
+    }
 
   private void createInstance() {
- Â Â Â Â // Create instance of the class being tested.
+     // Create instance of the class being tested.
   }
 
   private ArgumentCaptor<ServerActionSyncEventHandler> getEventHandlerCaptor() {
     final ArgumentCaptor<ServerActionSyncEventHandler> eventHandlerCaptor = ArgumentCaptor.forClass(ServerActionSyncEventHandler.class);
- Â Â Â doNothing().when(serverPush).registerServerEventHandler(eq(ServerActionSyncEvent.class), eventHandlerCaptor.capture());
- Â Â Â return eventHandlerCaptor;
+    doNothing().when(serverPush).registerServerEventHandler(eq(ServerActionSyncEvent.class), eventHandlerCaptor.capture());
+    return eventHandlerCaptor;
   }
 
   private void fireActionSynEvent(final ActionSyncRequest request, final ArgumentCaptor<ServerActionSyncEventHandler> eventHandlerCaptor) {
- Â Â Â final ServerActionSyncEventHandler eventHandler = eventHandlerCaptor.getValue();
- Â Â Â eventHandler.onEvent(new ServerActionSyncEvent(request));
+    final ServerActionSyncEventHandler eventHandler = eventHandlerCaptor.getValue();
+    eventHandler.onEvent(new ServerActionSyncEvent(request));
   }
 }
 
 private class VerifyThat {
   private void nonUserActionsWereExecutedInClient() throws Exception {
     final int nTimes = request.getActionList().size();
- Â Â Â verify(actionExecution, never()).onUserActionExecutionRequest(any(Action.class));
- Â Â Â verify(actionExecution, times(nTimes)).onNonUserActionRequest(any(Action.class));
- Â Â Â verify(actionExecution, never()).onUserActionRedoRequest();
- Â Â Â verify(actionExecution, never()).onUserActionUndoRequest();
+    verify(actionExecution, never()).onUserActionExecutionRequest(any(Action.class));
+    verify(actionExecution, times(nTimes)).onNonUserActionRequest(any(Action.class));
+    verify(actionExecution, never()).onUserActionRedoRequest();
+    verify(actionExecution, never()).onUserActionUndoRequest();
   }
 
   private void noActionWasExecutedInClient() throws Exception {
- Â Â Â verify(actionExecution, never()).onUserActionExecutionRequest(any(Action.class));
- Â Â Â verify(actionExecution, never()).onNonUserActionRequest(any(Action.class));
- Â Â Â verify(actionExecution, never()).onUserActionRedoRequest();
- Â Â Â verify(actionExecution, never()).onUserActionUndoRequest();
+    verify(actionExecution, never()).onUserActionExecutionRequest(any(Action.class));
+    verify(actionExecution, never()).onNonUserActionRequest(any(Action.class));
+    verify(actionExecution, never()).onUserActionRedoRequest();
+    verify(actionExecution, never()).onUserActionUndoRequest();
   }
 
   private void userActionsWereExecutedInClient(final int nTimes) throws Exception {
- Â Â Â verify(actionExecution, never()).onNonUserActionRequest(any(Action.class));
- Â Â Â verify(actionExecution, times(nTimes)).onUserActionExecutionRequest(any(Action.class));
- Â Â Â verify(actionExecution, never()).onUserActionRedoRequest();
- Â Â Â verify(actionExecution, never()).onUserActionUndoRequest();
+    verify(actionExecution, never()).onNonUserActionRequest(any(Action.class));
+    verify(actionExecution, times(nTimes)).onUserActionExecutionRequest(any(Action.class));
+    verify(actionExecution, never()).onUserActionRedoRequest();
+    verify(actionExecution, never()).onUserActionUndoRequest();
   }
 }
 }

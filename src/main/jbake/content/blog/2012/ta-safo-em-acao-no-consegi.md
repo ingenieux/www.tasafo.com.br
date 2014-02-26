@@ -2,18 +2,16 @@ status=published
 date=2012-12-05
 tags=blog
 type=post
-title=T√° safo em a√ß√£o no Consegi
+title=T· safo em aÁ„o no Consegi
 ~~~~~~
 [![consegi_logo](http://tasafo.files.wordpress.com/2012/12/consegi_logo.gif)](http://tasafo.wordpress.com/?attachment_id=3092#main)
 
 
-Ol√° pessoal,
+Ol· pessoal,
 
-Montamos um time para representar o T√° safo! e realizar palestras rel√¢mpagos no dia **06, de 9 √†s 10hs na Sala Puxirum**.
+Montamos um time para representar o T· safo! e realizar palestras rel‚mpagos no dia **06, de 9 ‡s 10hs na Sala Puxirum**.
 
-Pretendemos falar de algumas a√ß√µes, metodologias, tecnologias e filosofias que alguns dos membros exercem em seu dia-a-dia.
-
-
+Pretendemos falar de algumas aÁıes, metodologias, tecnologias e filosofias que alguns dos membros exercem em seu dia-a-dia.
 
 
 
@@ -23,7 +21,9 @@ Pretendemos falar de algumas a√ß√µes, metodologias, tecnologias e filosofias que
 
 
 
-![luiz_sanches](http://tasafo.files.wordpress.com/2012/12/luiz_sanches.jpg)T√° safo! - 5 anos desenvolvendo pessoas
+
+
+![luiz_sanches](http://tasafo.files.wordpress.com/2012/12/luiz_sanches.jpg)T· safo! - 5 anos desenvolvendo pessoas
 
 
 
@@ -37,12 +37,12 @@ Pretendemos falar de algumas a√ß√µes, metodologias, tecnologias e filosofias que
 
 
 
-![fabio_aguiar](http://tasafo.files.wordpress.com/2012/12/fabio_aguiar.png)Manifesto √Ågil
+![fabio_aguiar](http://tasafo.files.wordpress.com/2012/12/fabio_aguiar.png)Manifesto ¡gil
 
 
 
 
-[F√°bio Aguiar](https://twitter.com/fabyogr)
+[F·bio Aguiar](https://twitter.com/fabyogr)
 
 
 
@@ -74,7 +74,7 @@ Pretendemos falar de algumas a√ß√µes, metodologias, tecnologias e filosofias que
 
 
 
-[Marcelo S√°](https://twitter.com/marcelordesa)
+[Marcelo S·](https://twitter.com/marcelordesa)
 
 
 
@@ -96,6 +96,6 @@ Pretendemos falar de algumas a√ß√µes, metodologias, tecnologias e filosofias que
 
 
 
-Veja a programa√ß√£o completa do [Consegi](http://www.consegi.gov.br).
+Veja a programaÁ„o completa do [Consegi](http://www.consegi.gov.br).
 
-Esperamos voc√™ por l√°!
+Esperamos vocÍ por l·!

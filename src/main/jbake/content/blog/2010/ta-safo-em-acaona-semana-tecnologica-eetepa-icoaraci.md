@@ -2,35 +2,37 @@ status=published
 date=2010-11-09
 tags=blog
 type=post
-title=T√° Safo em A√ß√£o na Semana Tecnologica - EETEPA Icoaraci
+title=T· Safo em AÁ„o na Semana Tecnologica - EETEPA Icoaraci
 ~~~~~~
 
 
 
-[caption id="attachment_1392" align="aligncenter" width="282" caption="Orla de Icoaraci"][![](http://tasafo.files.wordpress.com/2010/11/la-em-icoaraci.jpg)](http://tasafo.files.wordpress.com/2010/11/la-em-icoaraci.jpg)[/caption]
+<div id="attachment_1392" class="wp-caption" align="aligncenter" style="width: 292px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/11/la-em-icoaraci.jpg)](http://tasafo.files.wordpress.com/2010/11/la-em-icoaraci.jpg)
 
-Quem conhece o trecho da musica "L√° em Icoaracy, l√° em Icoaracy, l√° em Icoaracy, l√° em Icoaracy."
-√â  de [Nazar√© Pereira, musica Xapur√≠ do Amaz√¥nas](http://www.cifraclub.com.br/nazare-pereira/xapuri-do-amazonas/), nessa  m√∫sica ela representa o amor pela Amaz√¥nia, e **Icoaraci** vem do  **tupi-guarani**, que significa **"frente para o sol"**.
+Quem conhece o trecho da musica "L· em Icoaracy, l· em Icoaracy, l· em Icoaracy, l· em Icoaracy."
+…  de [NazarÈ Pereira, musica XapurÌ do AmazÙnas](http://www.cifraclub.com.br/nazare-pereira/xapuri-do-amazonas/), nessa  m˙sica ela representa o amor pela AmazÙnia, e **Icoaraci** vem do  **tupi-guarani**, que significa **"frente para o sol"**.
 
-[caption id="attachment_1396" align="aligncenter" width="278" caption="Escola Tecnol√≥gica do Estado do Par√°"][![](http://tasafo.files.wordpress.com/2010/11/eetepa.jpg)](http://tasafo.files.wordpress.com/2010/11/eetepa.jpg)[/caption]
+<div id="attachment_1396" class="wp-caption" align="aligncenter" style="width: 288px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/11/eetepa.jpg)](http://tasafo.files.wordpress.com/2010/11/eetepa.jpg)
 
-E l√° temos a [EETEPA - Escola Tecnol√≥gica do Estado do Par√° (Icoaraci) - FRANCISCO DE AZEVEDO](http://eetepaicoaraci.blogspot.com/), que est√° com a Semana de Tecnologia, e fomos convidados para realizar um [#tasafoemacao](http://tasafo.wordpress.com/tasafoemcao) por l√° no dia **18/11/2010**, no **audit√≥rio** da escola no hor√°rio de **19:00 √†s 21:40hs**.
+E l· temos a [EETEPA - Escola TecnolÛgica do Estado do Par· (Icoaraci) - FRANCISCO DE AZEVEDO](http://eetepaicoaraci.blogspot.com/), que est· com a Semana de Tecnologia, e fomos convidados para realizar um [#tasafoemacao](http://tasafo.wordpress.com/tasafoemcao) por l· no dia **18/11/2010**, no **auditÛrio** da escola no hor·rio de **19:00 ‡s 21:40hs**.
 
 Palestras:
 
 
 
 	
-  * Tenha Valores e Princ√≠pios (Manifesto √Ågil) - F√°bio Aguiar
+  * Tenha Valores e PrincÌpios (Manifesto ¡gil) - F·bio Aguiar
 
 	
-  * Introdu√ß√£o a Metodologias √Ågeis de Desenvolvimento de Software - Jaime Schettini
+  * IntroduÁ„o a Metodologias ¡geis de Desenvolvimento de Software - Jaime Schettini
 
 	
   * Cozinhando o Tempo com GTD e Pomodoro - Ewertton Bravo
 
 	
-  * Voc√™ sabe o que √© Scrum? - J√∫lio Oliveira
+  * VocÍ sabe o que È Scrum? - J˙lio Oliveira
 
 
 Imagem EETEPA [http://2.bp.blogspot.com/_x6cJGInNZ4s/S1hucTfaFNI/AAAAAAAAAG0/TFGly1x5gC0/s320/EETEPA.jpg](http://2.bp.blogspot.com/_x6cJGInNZ4s/S1hucTfaFNI/AAAAAAAAAG0/TFGly1x5gC0/s320/EETEPA.jpg)

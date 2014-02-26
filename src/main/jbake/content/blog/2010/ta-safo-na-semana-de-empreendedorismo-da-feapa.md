@@ -2,34 +2,37 @@ status=published
 date=2010-10-21
 tags=blog
 type=post
-title=T√° Safo na Semana de Empreendedorismo da FEAPA
+title=T· Safo na Semana de Empreendedorismo da FEAPA
 ~~~~~~
-Durante esta semana est√° acontecendo a II Feira de Empreendedorismo da [FEAPA](http://www.feapa.com.br/), e o T√° Safo havia sido convidado para participar. Ontem (20 de outubro) fomos l√° para dar algumas palestras e nos impressionamos com a estrutura da faculdade e organiza√ß√£o do evento. As nossas palestras foram: ["Tire sua ideia do papel"](http://www.slideshare.net/fabiogr/tire-sua-idia-do-papel) (by [F√°bio Aguiar](http://www.twitter.com/fabyogr)), ["Empreendendo em Comunidades"](http://www.slideshare.net/jaime.schettini/empreendendo-em-comunidades-5445196) (by [Jaime Schettini](http://www.twitter.com/jaimeschettini)) e ["Pequenos Dispositivos e Grande Neg√≥cio$"](http://www.slideshare.net/ramonrabello/pequenos-dispositivos-grandes-negcio) (by [Ramon Rabello](http://www.twitter.com/ramonrabello/)).
+Durante esta semana est· acontecendo a II Feira de Empreendedorismo da [FEAPA](http://www.feapa.com.br/), e o T· Safo havia sido convidado para participar. Ontem (20 de outubro) fomos l· para dar algumas palestras e nos impressionamos com a estrutura da faculdade e organizaÁ„o do evento. As nossas palestras foram: ["Tire sua ideia do papel"](http://www.slideshare.net/fabiogr/tire-sua-idia-do-papel) (by [F·bio Aguiar](http://www.twitter.com/fabyogr)), ["Empreendendo em Comunidades"](http://www.slideshare.net/jaime.schettini/empreendendo-em-comunidades-5445196) (by [Jaime Schettini](http://www.twitter.com/jaimeschettini)) e ["Pequenos Dispositivos e Grande NegÛcio$"](http://www.slideshare.net/ramonrabello/pequenos-dispositivos-grandes-negcio) (by [Ramon Rabello](http://www.twitter.com/ramonrabello/)).
 
 [![](http://tasafo.files.wordpress.com/2010/10/dsc02864.jpg)](http://tasafo.files.wordpress.com/2010/10/publico-feapa.jpg)
 
 <!-- more -->
 
-No final uma surpresa: cada um de n√≥s ganhou uma placa de agradecimento por ter participado do evento, muito chique!
+No final uma surpresa: cada um de nÛs ganhou uma placa de agradecimento por ter participado do evento, muito chique!
 
 
 
-[caption id="attachment_1289" align="aligncenter" width="450" caption="Uma das placas que recebemos"][![](http://tasafo.files.wordpress.com/2010/10/dsc02872.jpg)](http://tasafo.files.wordpress.com/2010/10/placa.jpg)[/caption]
+<div id="attachment_1289" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/dsc02872.jpg)](http://tasafo.files.wordpress.com/2010/10/placa.jpg)
 
 
 
-O T√° Safo agradece os organizadores do evento pelo convite, em especial ao Jos√© Sarmanho, coordenador de Sistemas de Informa√ß√£o da FEAPA, e tamb√©m ao Rafael Salles, aluno do 5¬∫ semestre de SI. Estamos sempre √† disposi√ß√£o para fomentar esse tipo de evento.
+O T· Safo agradece os organizadores do evento pelo convite, em especial ao JosÈ Sarmanho, coordenador de Sistemas de InformaÁ„o da FEAPA, e tambÈm ao Rafael Salles, aluno do 5∫ semestre de SI. Estamos sempre ‡ disposiÁ„o para fomentar esse tipo de evento.
 
-Confiram a seguir as fotos do F√°bio e Ramon palestrando. N√£o tem foto minha porque eu esqueci e fiquei com a c√¢mera no bolso enquanto palestrava hehe.
-
-
-
-[caption id="attachment_1292" align="aligncenter" width="450" caption="F√°bio em "Tire a sua id√©ia do papel""][![](http://tasafo.files.wordpress.com/2010/10/dsc02855.jpg)](http://tasafo.files.wordpress.com/2010/10/fabio.jpg)[/caption]
+Confiram a seguir as fotos do F·bio e Ramon palestrando. N„o tem foto minha porque eu esqueci e fiquei com a c‚mera no bolso enquanto palestrava hehe.
 
 
 
+<div id="attachment_1292" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/dsc02855.jpg)](http://tasafo.files.wordpress.com/2010/10/fabio.jpg)
 
 
-[caption id="attachment_1293" align="aligncenter" width="450" caption="Ramon, em "Pequenos dispositivos, grandes neg√≥cios""][![](http://tasafo.files.wordpress.com/2010/10/dsc02869.jpg)](http://tasafo.files.wordpress.com/2010/10/dsc02869.jpg)[/caption]
+
+
+
+<div id="attachment_1293" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/10/dsc02869.jpg)](http://tasafo.files.wordpress.com/2010/10/dsc02869.jpg)
 
 

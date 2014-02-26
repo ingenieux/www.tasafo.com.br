@@ -2,14 +2,14 @@ status=published
 date=2011-08-01
 tags=blog
 type=post
-title=Julho, mÃªs de fÃ©rias?  Que nada!
+title=Julho, mês de férias?  Que nada!
 ~~~~~~
-![Cadeiras de praia na beira do mar](http://tasafo.files.wordpress.com/2011/08/ferias.jpg?w=300)Ah... Julho. Â FÃ©rias escolares. Â Fim de semestre. Â E no clima prÃ³prio do norte amazÃ´nico, Ã© mÃªs de sol forte, veraneio, cidade vazia e praias lotadas. Â Ã‰poca para relaxar, sair da rotina, descansar...
+![Cadeiras de praia na beira do mar](http://tasafo.files.wordpress.com/2011/08/ferias.jpg?w=300)Ah... Julho.  Férias escolares.  Fim de semestre.  E no clima próprio do norte amazônico, é mês de sol forte, veraneio, cidade vazia e praias lotadas.  Época para relaxar, sair da rotina, descansar...
 
 
 
 
-...menos para o [TÃ¡ Safo](http://twitter.com/tasafo). Â Como se diz, neste mÃªs o grupo "bombou".  Recorde absoluto de eventos, vÃ¡rias inovaÃ§Ãµes, casa cheia todas as vezes, turma energizada, novos membros "em aÃ§Ã£o". Â Tanto que vale a pena recapitular.
+...menos para o [Tá Safo](http://twitter.com/tasafo).  Como se diz, neste mês o grupo "bombou".  Recorde absoluto de eventos, várias inovações, casa cheia todas as vezes, turma energizada, novos membros "em ação".  Tanto que vale a pena recapitular.
 
 
 
@@ -159,51 +159,52 @@ d
 
 
 
-#### <!-- more -->Dia 1Âº - AgileBrazil
+#### <!-- more -->Dia 1º - AgileBrazil
 
 
-AliÃ¡s, a rigor o mÃªs jÃ¡ havia comeÃ§ado muito bem. Â No 1Âº dia do mÃªs, Fortaleza recebeu a "[maior caravana](https://twitter.com/#!/jaimeschettini/status/86478328814501888) [da histÃ³ria do TÃ¡ Safo](https://twitter.com/#!/luizgrsanches/status/86254706732695552)" para prestigiar o maior evento de agilidade nacional, o [AgileBrazil](http://www.agilebrazil.com). Â Se ainda nÃ£o viu, confira [nosso balanÃ§o do evento](http://tasafo.wordpress.com/2011/07/04/ta-safo-no-agilebrazil-2011/) e [tambÃ©m as nossas fotos](http://www.flickr.com/photos/tasafo/sets/72157627169685590/with/5965880440/)!
+Aliás, a rigor o mês já havia começado muito bem.  No 1º dia do mês, Fortaleza recebeu a "[maior caravana](https://twitter.com/#!/jaimeschettini/status/86478328814501888) [da história do Tá Safo](https://twitter.com/#!/luizgrsanches/status/86254706732695552)" para prestigiar o maior evento de agilidade nacional, o [AgileBrazil](http://www.agilebrazil.com).  Se ainda não viu, confira [nosso balanço do evento](http://tasafo.wordpress.com/2011/07/04/ta-safo-no-agilebrazil-2011/) e [também as nossas fotos](http://www.flickr.com/photos/tasafo/sets/72157627169685590/with/5965880440/)!
 
 
 #### Dia 7 - #safaDojo com Ruby
 
 
-Depois da volta Ã  BelÃ©m, jÃ¡ no dia 7 teve estreia do [#safaDojo](http://tasafo.wordpress.com/2011/06/20/safadojo-com-ruby/), o coding dojo do TÃ¡ Safo. Â 25 membros da comunidade lotaram a primeira ediÃ§Ã£o sobre Ruby, sob o comando do [Luiz Sanches](http://twitter.com/luizgrsanches). TambÃ©m postamos [a cobertura do evento](http://tasafo.wordpress.com/2011/07/11/o-que-rolou-no-safadojo-de-7jul2011/) e divulgamos [algumas fotos](http://www.flickr.com/photos/tasafo/sets/72157627028144395/).
+Depois da volta à Belém, já no dia 7 teve estreia do [#safaDojo](http://tasafo.wordpress.com/2011/06/20/safadojo-com-ruby/), o coding dojo do Tá Safo.  25 membros da comunidade lotaram a primeira edição sobre Ruby, sob o comando do [Luiz Sanches](http://twitter.com/luizgrsanches). Também postamos [a cobertura do evento](http://tasafo.wordpress.com/2011/07/11/o-que-rolou-no-safadojo-de-7jul2011/) e divulgamos [algumas fotos](http://www.flickr.com/photos/tasafo/sets/72157627028144395/).
 
 
 #### Dia 14 - #tasafoemacao Lightning Talks
 
 
-Na semana seguinte, tambÃ©m teve evento inÃ©dito. No dia 14 teve a realizaÃ§Ã£o do [1Âº #tasafoemacao LT](https://twitter.com/#!/tasafo/status/91583113280495616) (Lightning Talks). Compartilhamento de muito conhecimento em 9 palestras de alto nÃ­vel, sobre assuntos bem diversificados. Este evento tambÃ©m foi inovador pois foi o 1Âº transmitido [ao vivo](https://twitter.com/#!/fabiolimaf/status/91693088883474432) na Internet por videostreaming. NÃ£o deixe de [ler sobre o evento](http://tasafo.wordpress.com/2011/07/15/em-acao-ao-vivo-e-se-mexendo/) e [ver as nossas fotos](http://www.flickr.com/photos/tasafo/sets/72157627207556464/).
+Na semana seguinte, também teve evento inédito. No dia 14 teve a realização do [1º #tasafoemacao LT](https://twitter.com/#!/tasafo/status/91583113280495616) (Lightning Talks). Compartilhamento de muito conhecimento em 9 palestras de alto nível, sobre assuntos bem diversificados. Este evento também foi inovador pois foi o 1º transmitido [ao vivo](https://twitter.com/#!/fabiolimaf/status/91693088883474432) na Internet por videostreaming. Não deixe de [ler sobre o evento](http://tasafo.wordpress.com/2011/07/15/em-acao-ao-vivo-e-se-mexendo/) e [ver as nossas fotos](http://www.flickr.com/photos/tasafo/sets/72157627207556464/).
 
 
-#### Dia 19 - ReuniÃ£o AgileTour + #tasafoemacao via Stoodos
+#### Dia 19 - Reunião AgileTour + #tasafoemacao via Stoodos
 
 
-Depois de vÃ¡rios contatos e acertos informais, uma ampla mobilizaÃ§Ã£o da comunidade esteve Ã  disposiÃ§Ã£o para a 1Âª reuniÃ£o formal sobre o AgileTour BelÃ©m 2011.
+Depois de vários contatos e acertos informais, uma ampla mobilização da comunidade esteve à disposição para a 1ª reunião formal sobre o AgileTour Belém 2011.
 
-ReuniÃ£o objetiva e sem estourar o timebox, afinal logo na sequÃªncia a turma [se reuniu para assistir](https://twitter.com/#!/tasafo/status/93422317207691264) ainda ao **#tasafoemacao** com [Paulo Igor](http://twitter.com/pigodinho), "Da essÃªncia Ã  necessidade",Â via [Stoodos](http://www.stoodos.com).
-
-
-#### Dia 25 - ReuniÃ£o AgileTour
+Reunião objetiva e sem estourar o timebox, afinal logo na sequência a turma [se reuniu para assistir](https://twitter.com/#!/tasafo/status/93422317207691264) ainda ao **#tasafoemacao** com [Paulo Igor](http://twitter.com/pigodinho), "Da essência à necessidade", via [Stoodos](http://www.stoodos.com).
 
 
-Para registro, semana seguinte tambÃ©m teve reuniÃ£o sobre o AgileTour. Â VÃ¡rias responsabilidades definidas, contatos iniciados, e [site do evento no ar](https://twitter.com/#!/maurofolha/status/96039120123609088).
+#### Dia 25 - Reunião AgileTour
+
+
+Para registro, semana seguinte também teve reunião sobre o AgileTour.  Várias responsabilidades definidas, contatos iniciados, e [site do evento no ar](https://twitter.com/#!/maurofolha/status/96039120123609088).
 
 
 #### Dias 27 e 28 - #safaDojo com Android
 
 
-Um dia foi pouco para realizar o segundo **#safaDojo**, dessa vez com desenvolvimento para Android com [Ramon Rabello](http://twitter.com/ramonrabello). Atendendo a pedidos teve sessÃ£o dupla,Â [quarta-feira](https://twitter.com/#!/ramonrabello/status/96770446392967169) na FabSoft, e [quinta-feira](https://twitter.com/#!/ramonrabello/status/96431984183738368) na Gimp Network.
+Um dia foi pouco para realizar o segundo **#safaDojo**, dessa vez com desenvolvimento para Android com [Ramon Rabello](http://twitter.com/ramonrabello). Atendendo a pedidos teve sessão dupla, [quarta-feira](https://twitter.com/#!/ramonrabello/status/96770446392967169) na FabSoft, e [quinta-feira](https://twitter.com/#!/ramonrabello/status/96431984183738368) na Gimp Network.
 
 
-#### Dia 29 - Agilidade em SÃ©rie: RefatoraÃ§Ã£o
+#### Dia 29 - Agilidade em Série: Refatoração
 
 
-Antes do final de semana e fechando o mÃªs "de fÃ©rias" com chave de ouro, a comunidade ainda [contou com autoria de Paulo Moura](https://twitter.com/#!/paulociecomp/status/96974105001213955) e colaboraÃ§Ã£o de [Jaime Schettini](http://twitter.com/jaimeschettini) para publicar mais uma ediÃ§Ã£o de nossa publicaÃ§Ã£o virtual, o **Agilidade em SÃ©rie**, desta vez com o tema "**RefatoraÃ§Ã£o**". [JÃ¡ leu?](http://tasafo.wordpress.com/2011/07/29/agilidade-em-serie-xp-refactoring/)
+Antes do final de semana e fechando o mês "de férias" com chave de ouro, a comunidade ainda [contou com autoria de Paulo Moura](https://twitter.com/#!/paulociecomp/status/96974105001213955) e colaboração de [Jaime Schettini](http://twitter.com/jaimeschettini) para publicar mais uma edição de nossa publicação virtual, o **Agilidade em Série**, desta vez com o tema "**Refatoração**". [Já leu?](http://tasafo.wordpress.com/2011/07/29/agilidade-em-serie-xp-refactoring/)
 
-Ufa! Ã‰ isso. Quem nÃ£o pÃ´de curtir fÃ©rias nÃ£o se arrependeu. Se nÃ£o deu pra pegar um bronze, nÃ£o foi por falta de sol! :-P
+Ufa! É isso. Quem não pôde curtir férias não se arrependeu. Se não deu pra pegar um bronze, não foi por falta de sol! :-P
 
-[caption id="attachment_1008" align="aligncenter" width="300" caption="O TÃ¡ Safo Ã© que nem o sol: estÃ¡ para todos!"][![Um pÃ´r-do-sol com o logo do polegar](http://tasafo.files.wordpress.com/2010/08/solsafo.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/solsafo.jpg)[/caption]
+<div id="attachment_1008" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![Um pôr-do-sol com o logo do polegar](http://tasafo.files.wordpress.com/2010/08/solsafo.jpg?w=300)](http://tasafo.files.wordpress.com/2010/08/solsafo.jpg)
 
-ParabÃ©ns a todos da comunidade que arregaÃ§aram as mangas e fizeram acontecer durante este super mÃªs de Julho! Â E vamos que vamos no segundo semestre que jÃ¡ estÃ¡ aÃ­!
+Parabéns a todos da comunidade que arregaçaram as mangas e fizeram acontecer durante este super mês de Julho!  E vamos que vamos no segundo semestre que já está aí!

@@ -2,69 +2,69 @@ status=published
 date=2009-05-14
 tags=blog
 type=post
-title=Se vocÃª nÃ£o testa, vocÃª nÃ£o Ã© Ã¡gil!
+title=Se você não testa, você não é ágil!
 ~~~~~~
-O colega Robson Pelegrini [reportou na lista [scrum-brasil]](http://br.groups.yahoo.com/group/scrum-brasil/message/3348) uma situaÃ§Ã£o que Ã© comum, principalmente em equipes que estÃ£o iniciando no desenvolvimento Ã¡gil de software e que (com a devida autorizaÃ§Ã£o) transcrevo abaixo:
+O colega Robson Pelegrini [reportou na lista [scrum-brasil]](http://br.groups.yahoo.com/group/scrum-brasil/message/3348) uma situação que é comum, principalmente em equipes que estão iniciando no desenvolvimento ágil de software e que (com a devida autorização) transcrevo abaixo:
 
 
 > Pessoal,
 
-Gostaria de saber como vocÃªs tratam a questÃ£o dos bugs que surgem dentro do SPRINT, por exemplo:
+Gostaria de saber como vocês tratam a questão dos bugs que surgem dentro do SPRINT, por exemplo:
 
 > 
 > 
 	
->   * Criam um item no SPRINT BACKLOG, â€œcorreÃ§Ã£o de bugsâ€
+>   * Criam um item no SPRINT BACKLOG, “correção de bugs”
 > 
 	
->   * Bugs Ã© responsabilidade do time concertar, nÃ£o podendo esse impactar na entrega do SPRINT
+>   * Bugs é responsabilidade do time concertar, não podendo esse impactar na entrega do SPRINT
 > 
 
-Acredito que a partir da 1Âª entrega feito ao PO, temos o que podemos chamar de â€œlegadoâ€, e entÃ£o comeÃ§am a surgir bugs e mudanÃ§as de requisitos e funcionalidades que geralmente afetam o planejamento feito para o prÃ³ximo SPRINT.
+Acredito que a partir da 1ª entrega feito ao PO, temos o que podemos chamar de “legado”, e então começam a surgir bugs e mudanças de requisitos e funcionalidades que geralmente afetam o planejamento feito para o próximo SPRINT.
 
-- Isso costuma ocorrer com vocÃªs ? Como vocÃªs lidam com essas situaÃ§Ãµes ?
+- Isso costuma ocorrer com vocês ? Como vocês lidam com essas situações ?
 
 
-NecessÃ¡rio pontuar algumas coisas num cenÃ¡rio como este.Â  Vamos a elas.
+Necessário pontuar algumas coisas num cenário como este.  Vamos a elas.
 
 **O QUE VEM A SER UM "BUG" DE SOFTWARE?![software-bug-03](http://tasafo.files.wordpress.com/2009/05/software-bug-03.jpg?w=150)**
 
-Como seres humanos, todos estamos sujeitos a erros.Â  Assim, mais ainda quando estamos lidando com um produto em desenvolvimento, ou seja, que estÃ¡ sendo construindo.Â  Muitos projetos de software mantÃ©m dois ramos do produto --um estÃ¡vel e um em desenvolvimento-- justamente para diferir a quantidade de bugs em potencial que podem estar contidos no produto.
+Como seres humanos, todos estamos sujeitos a erros.  Assim, mais ainda quando estamos lidando com um produto em desenvolvimento, ou seja, que está sendo construindo.  Muitos projetos de software mantém dois ramos do produto --um estável e um em desenvolvimento-- justamente para diferir a quantidade de bugs em potencial que podem estar contidos no produto.
 
-Se por um lado tudo isso Ã© verdade, por outro, quando tratamos de desenvolvimento Ã¡gil de software, deve-se partir da premissa de que a cada iteraÃ§Ã£o no ciclo de desenvolvimento um item de valor deve ser entregue ao cliente.Â  SÃ£o os releases curtos.
+Se por um lado tudo isso é verdade, por outro, quando tratamos de desenvolvimento ágil de software, deve-se partir da premissa de que a cada iteração no ciclo de desenvolvimento um item de valor deve ser entregue ao cliente.  São os releases curtos.
 
-Isto posto, cabe nos perguntarmos: afinal o que Ã© um "bug" de software?
+Isto posto, cabe nos perguntarmos: afinal o que é um "bug" de software?
 
-<!-- more -->Apesar de geralmente chamarmos a qualquer problema com software de "bug", no livro _"Qualidade de Software"_, [Koscianski e Soares](http://www.novateceditora.com.br/livros/qualidadesoftware2/) fazem uma boa diferenciaÃ§Ã£o destes em DEFEITOS e FALHAS.Â  Um _defeito_ costuma ser uma imperfeiÃ§Ã£o do software.Â  Uma situaÃ§Ã£o que deveria ser considerada mas nÃ£o o Ã©.Â  De uma maneira simples, **defeituoso Ã© aquilo que simplesmente nÃ£o funciona como deveria**.Â  JÃ¡ uma _falha_ Ã© a manifestaÃ§Ã£o de um problema.Â  Mesmo que contenha defeitos, um software pode funcionar sem apresentar necessariamente uma falha.Â  Enquanto defeito Ã© uma situaÃ§Ã£o nÃ£o prevista pelo software, uma falha geralmente se apresenta por problemas no tratamento de erros do software.
+<!-- more -->Apesar de geralmente chamarmos a qualquer problema com software de "bug", no livro _"Qualidade de Software"_, [Koscianski e Soares](http://www.novateceditora.com.br/livros/qualidadesoftware2/) fazem uma boa diferenciação destes em DEFEITOS e FALHAS.  Um _defeito_ costuma ser uma imperfeição do software.  Uma situação que deveria ser considerada mas não o é.  De uma maneira simples, **defeituoso é aquilo que simplesmente não funciona como deveria**.  Já uma _falha_ é a manifestação de um problema.  Mesmo que contenha defeitos, um software pode funcionar sem apresentar necessariamente uma falha.  Enquanto defeito é uma situação não prevista pelo software, uma falha geralmente se apresenta por problemas no tratamento de erros do software.
 
-**DEFINIÃ‡ÃƒO DE PRONTO**
+**DEFINIÇÃO DE PRONTO**
 
-Pois bem. A questÃ£o entÃ£o passa a ser como identificar e isolar defeitos do produto na busca por corrigÃ­-los, evitÃ¡-los ou tratÃ¡-los adequadamente, sempre de forma a atender Ã s necessidades do cliente.
+Pois bem. A questão então passa a ser como identificar e isolar defeitos do produto na busca por corrigí-los, evitá-los ou tratá-los adequadamente, sempre de forma a atender às necessidades do cliente.
 
-![checklist](http://tasafo.files.wordpress.com/2009/05/checklist2.jpg?w=150)Voltando ao cenÃ¡rio do comeÃ§o do post.Â  Se a equipe deu como concluÃ­do um item do _backlog_ em um sprint anterior e, algum tempo depois percebeu-se que tal item estÃ¡ defeituoso (ou seja, uma dada histÃ³ria sobre aquele item nÃ£o funciona como esperado), vem a pergunta: **serÃ¡ que o item estava de fato pronto?** Ou melhor**: como se sabe se um item estÃ¡ de fato pronto?**
+![checklist](http://tasafo.files.wordpress.com/2009/05/checklist2.jpg?w=150)Voltando ao cenário do começo do post.  Se a equipe deu como concluído um item do _backlog_ em um sprint anterior e, algum tempo depois percebeu-se que tal item está defeituoso (ou seja, uma dada história sobre aquele item não funciona como esperado), vem a pergunta: **será que o item estava de fato pronto?** Ou melhor**: como se sabe se um item está de fato pronto?**
 
-A resposta a tal pergunta pode estar relacionada a um conceito essencial mas que pode ser negligenciado em algumas equipes (principalmente as mais inexperientes em metodologias Ã¡geis) que Ã© a DEFINIÃ‡ÃƒO DE PRONTO (_Definition of Done_).Â  Como de se supor, a_ [definiÃ§Ã£o de pronto](http://agilesoftwaredevelopment.com/2006/05/definition-of-done)_ deve ser um critÃ©rio objetivo, inequÃ­voco e facilmente verificÃ¡vel e que possa servir de marco para se considerar uma determinada tarefa, um item ou uma funcionalidade do software como concluÃ­da.
+A resposta a tal pergunta pode estar relacionada a um conceito essencial mas que pode ser negligenciado em algumas equipes (principalmente as mais inexperientes em metodologias ágeis) que é a DEFINIÇÃO DE PRONTO (_Definition of Done_).  Como de se supor, a_ [definição de pronto](http://agilesoftwaredevelopment.com/2006/05/definition-of-done)_ deve ser um critério objetivo, inequívoco e facilmente verificável e que possa servir de marco para se considerar uma determinada tarefa, um item ou uma funcionalidade do software como concluída.
 
 **TESTES AUTOMATIZADOS**
 
-Ã‰ comum nas equipes com pouca experiÃªncia em desenvolvimento Ã¡gil, que o desenvolvedor "entenda" o que deve ser feito apÃ³s uma orientaÃ§Ã£o ou uma conversa com o lÃ­der do projeto ou do cliente.Â  E entÃ£o implemente o que entendeu.Â  E entÃ£o que execute o sistema para testar o que fez.Â  Nessa desfavorÃ¡vel situaÃ§Ã£o, as coisas facilmente saem dos eixos por vÃ¡rios motivos:
+É comum nas equipes com pouca experiência em desenvolvimento ágil, que o desenvolvedor "entenda" o que deve ser feito após uma orientação ou uma conversa com o líder do projeto ou do cliente.  E então implemente o que entendeu.  E então que execute o sistema para testar o que fez.  Nessa desfavorável situação, as coisas facilmente saem dos eixos por vários motivos:
 
 
 
 **O desenvolvedor nunca entende toda a demanda, por mais simples que ela seja.**
-    No contexto do desenvolvimento, a pessoa que melhor entende do negÃ³cio. A especialidade do desenvolvedor sÃ£o as linguagens, as tÃ©cnicas, os algoritmos e aspectos da construÃ§Ã£o do software. A priori, o desenvolvedor nÃ£o deve ter obrigaÃ§Ã£o de conhecer a fundo toda a lÃ³gica de negÃ³cio do cliente.Â  AlÃ©m disso, sem conhecer toda a lÃ³gica do negÃ³cio, o desenvolvedor pode ter dificuldades em executar o software de forma a disparar certas situaÃ§Ãµes especÃ­ficas e/ou incomuns;
-**O desenvolvedor pode estar (e comumente estÃ¡) sob pressÃ£o.**
-    Prazos, custos e produtividade sÃ£o algumas das cobranÃ§as Ã s quais o desenvolvedor estÃ¡ sujeito. NÃ£o se deve estranhar que tais pressÃµes resultem em alguma pressa ou ansiedade. Em equipes muito heterogÃªneas que nÃ£o adote algumas padronizaÃ§Ãµes ou revisÃµes de cÃ³digo, isto pode resultar em grande risco Ã  qualidade do produto;
+    No contexto do desenvolvimento, a pessoa que melhor entende do negócio. A especialidade do desenvolvedor são as linguagens, as técnicas, os algoritmos e aspectos da construção do software. A priori, o desenvolvedor não deve ter obrigação de conhecer a fundo toda a lógica de negócio do cliente.  Além disso, sem conhecer toda a lógica do negócio, o desenvolvedor pode ter dificuldades em executar o software de forma a disparar certas situações específicas e/ou incomuns;
+**O desenvolvedor pode estar (e comumente está) sob pressão.**
+    Prazos, custos e produtividade são algumas das cobranças às quais o desenvolvedor está sujeito. Não se deve estranhar que tais pressões resultem em alguma pressa ou ansiedade. Em equipes muito heterogêneas que não adote algumas padronizações ou revisões de código, isto pode resultar em grande risco à qualidade do produto;
 **O desenvolvedor busca naturalmente pelo "caminho feliz".**
-    Basicamente, buscando reduzir tempo dispendido no uso para averiguaÃ§Ã£o do sistema, conforme vai avanÃ§ando em suas atividades, Ã© natural que desenvolvedor limite-se a executar os cenÃ¡rios que sabe com que o sistema funcionarÃ¡. Testes que o desenvolvedor executa no sistema sobre aquilo que desenvolveu tendem a ser viciados e podem nÃ£o ser muito confiÃ¡veis. A preocupaÃ§Ã£o acaba sendo "ver o software funcionar" e nÃ£o propriamente "testar o software";
-O ponto chave aqui Ã© que o desenvolvedor nunca Ã© a melhor pessoa para testar o que ele mesmo escreveu.Â  Para distanciar o elemento humano da atividade de teste Ã© que se recomenda fortemente que seus testes de software sejam realizados de forma automatizada.Â  A escrita de testes ([unitÃ¡rios](http://pt.wikipedia.org/wiki/Teste_unitÃ¡rio), [de integraÃ§Ã£o](http://thinkabouttests.blogspot.com/2008/02/teste-de-integrao.html), [de aceitaÃ§Ã£o](http://gc.blog.br/2007/09/26/voce-automatiza-seus-testes-de-aceitacao/)... enfim, todos os possÃ­veis) e sua execuÃ§Ã£o de forma automatizada sÃ£o um excelente ponto de partida para o estabelecimento de definiÃ§Ã£o de pronto: um item ou tarefa estÃ¡ concluÃ­do se passou no teste correspondente.
+    Basicamente, buscando reduzir tempo dispendido no uso para averiguação do sistema, conforme vai avançando em suas atividades, é natural que desenvolvedor limite-se a executar os cenários que sabe com que o sistema funcionará. Testes que o desenvolvedor executa no sistema sobre aquilo que desenvolveu tendem a ser viciados e podem não ser muito confiáveis. A preocupação acaba sendo "ver o software funcionar" e não propriamente "testar o software";
+O ponto chave aqui é que o desenvolvedor nunca é a melhor pessoa para testar o que ele mesmo escreveu.  Para distanciar o elemento humano da atividade de teste é que se recomenda fortemente que seus testes de software sejam realizados de forma automatizada.  A escrita de testes ([unitários](http://pt.wikipedia.org/wiki/Teste_unitário), [de integração](http://thinkabouttests.blogspot.com/2008/02/teste-de-integrao.html), [de aceitação](http://gc.blog.br/2007/09/26/voce-automatiza-seus-testes-de-aceitacao/)... enfim, todos os possíveis) e sua execução de forma automatizada são um excelente ponto de partida para o estabelecimento de definição de pronto: um item ou tarefa está concluído se passou no teste correspondente.
 
-AlÃ©m do que, com a escrita de testes automatizados, vocÃª tambÃ©m mantÃ©m registro documental das lÃ³gicas de negÃ³cio de sua aplicaÃ§Ã£o, reforÃ§ando o entendimento do negÃ³cio e facilitando a integraÃ§Ã£o de novos membros de trabalho Ã  equipe.
+Além do que, com a escrita de testes automatizados, você também mantém registro documental das lógicas de negócio de sua aplicação, reforçando o entendimento do negócio e facilitando a integração de novos membros de trabalho à equipe.
 
-Assim, se vocÃª nÃ£o quiser terminar com um sistema de [bugtracking](http://en.wikipedia.org/wiki/Bug_tracking_system) cheio de itens "teoricamente prontos" mas repletos de defeitos, teste sempre seus software de forma automatizada.Â  Testes automatizados sÃ£o imprescindÃ­veis, de forma que...
+Assim, se você não quiser terminar com um sistema de [bugtracking](http://en.wikipedia.org/wiki/Bug_tracking_system) cheio de itens "teoricamente prontos" mas repletos de defeitos, teste sempre seus software de forma automatizada.  Testes automatizados são imprescindíveis, de forma que...
 
 
-> **SE VOCÃŠ NÃƒO TESTA, VOCÃŠ NÃƒO Ã‰ ÃGIL!**
+> **SE VOCÊ NÃO TESTA, VOCÊ NÃO É ÁGIL!**
 
 **
 **
@@ -77,8 +77,8 @@ Assim, se vocÃª nÃ£o quiser terminar com um sistema de [bugtracking](http://en.w
 
 
 
-Testes de software, ferramentas, relatos de experiÃªncias com Scrum e muito mais sobre desenvolvimento Ã¡gil estarÃ£o nos prÃ³ximos posts.Â  Acompanhe os [feeds do TÃ¡ Safo](http://tasafo.wordpress.com/feed/) e nÃ£o perca!
+Testes de software, ferramentas, relatos de experiências com Scrum e muito mais sobre desenvolvimento ágil estarão nos próximos posts.  Acompanhe os [feeds do Tá Safo](http://tasafo.wordpress.com/feed/) e não perca!
 
-Comentem!Â  Participem!Â  Nos vemos no [Academic Meeting!](http://tasafo.wordpress.com/2009/04/30/evento-visao-agil-academic-meeting-2009/) AtÃ© a prÃ³xima!****
+Comentem!  Participem!  Nos vemos no [Academic Meeting!](http://tasafo.wordpress.com/2009/04/30/evento-visao-agil-academic-meeting-2009/) Até a próxima!****
 
 

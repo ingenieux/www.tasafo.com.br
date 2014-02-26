@@ -6,24 +6,24 @@ title=Agile Trends 2013
 ~~~~~~
 [![banner_AgileTrends](http://tasafo.files.wordpress.com/2013/08/banner_agiletrends.png)](http://tasafo.files.wordpress.com/2013/08/banner_agiletrends.png)
 
-Com a presenÃ§a e patrocÃ­nio de empresas de renome, apoio de vÃ¡rias iniciativas (inclusive nÃ³s do TÃ¡ safo!) nacionais e internacionais, o [Agile Trends 2013](http://agiletrendsbr.com/2013/) vem com uma _vibe_ muito interessante. Segue abaixo um resumo, retirado do site, de como o evento ocorrerÃ¡:
+Com a presença e patrocínio de empresas de renome, apoio de várias iniciativas (inclusive nós do Tá safo!) nacionais e internacionais, o [Agile Trends 2013](http://agiletrendsbr.com/2013/) vem com uma _vibe_ muito interessante. Segue abaixo um resumo, retirado do site, de como o evento ocorrerá:
 
 
-> A proposta do evento Ã© ser diferente, inovador e imperdÃ­vel, empurrando os limites da agilidade trazendo temas modernos e apontando novas tendÃªncias da indÃºstria de desenvolvimento de software.
+> A proposta do evento é ser diferente, inovador e imperdível, empurrando os limites da agilidade trazendo temas modernos e apontando novas tendências da indústria de desenvolvimento de software.
 
 
-As apresentaÃ§Ãµes seguem uma dinÃ¢mica bem instigante:
+As apresentações seguem uma dinâmica bem instigante:
 
 
-> As sessÃµes serÃ£o organizadas no formato de [Trend Talks](http://agiletrendsbr.com/2013/trends-talks/). Cada Trend Talk reÃºne duas apresentaÃ§Ãµes de 18 minutos seguidas por 18 minutos de discussÃ£o envolvendo todos os participantes.
+> As sessões serão organizadas no formato de [Trend Talks](http://agiletrendsbr.com/2013/trends-talks/). Cada Trend Talk reúne duas apresentações de 18 minutos seguidas por 18 minutos de discussão envolvendo todos os participantes.
 
 
-Acompanhe a [programaÃ§Ã£o](http://agiletrendsbr.com/2013/programacao/) e se [inscreva](http://agiletrendsbr.com/2013/inscricoes/) para nÃ£o perder mais essa oportunidade de troca de conhecimento e experiÃªncias em uma Ã¡rea que nunca pÃ¡ra.
+Acompanhe a [programação](http://agiletrendsbr.com/2013/programacao/) e se [inscreva](http://agiletrendsbr.com/2013/inscricoes/) para não perder mais essa oportunidade de troca de conhecimento e experiências em uma área que nunca pára.
 
-TambÃ©m estÃ£o abertas as [inscriÃ§Ãµes para voluntÃ¡rios](http://agiletrendsbr.com/2013/programa-de-voluntarios/), onde vocÃª poderÃ¡ interagir de uma forma mais intensa nos bastidores e se envolver ainda mais com o evento.
-
-
-### BÃ´nus Track: A organizaÃ§Ã£o do evento disponibilizou 20% de desconto na inscriÃ§Ã£o para os membros do TÃ¡ safo!. Aos interessados, enviar um e-mail paraÂ comunidadetasafo @ gmail . com, seguido do assunto "Desconto Agile Trends 2013" e lhe enviaremos o cÃ³digo promocional.
+Também estão abertas as [inscrições para voluntários](http://agiletrendsbr.com/2013/programa-de-voluntarios/), onde você poderá interagir de uma forma mais intensa nos bastidores e se envolver ainda mais com o evento.
 
 
-Ã‰ isso aÃ­. EstÃ¡ dado o recado e quem sabe nÃ£o nos encontramos por lÃ¡.
+### Bônus Track: A organização do evento disponibilizou 20% de desconto na inscrição para os membros do Tá safo!. Aos interessados, enviar um e-mail para comunidadetasafo @ gmail . com, seguido do assunto "Desconto Agile Trends 2013" e lhe enviaremos o código promocional.
+
+
+É isso aí. Está dado o recado e quem sabe não nos encontramos por lá.

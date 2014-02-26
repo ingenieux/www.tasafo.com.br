@@ -4,17 +4,17 @@ tags=blog
 type=post
 title=Integrando backbone.js e devise
 ~~~~~~
-Imagine o seguinte cen√°rio: queremos implementar uma autentica√ß√£o de usu√°rio em um sistema rails que utiliza o _devise_. No front-end, estamos utilizando o _backbone.js_. N√£o √© uma tarefa das mais complicadas, mas que requer alguns artif√≠cios e um bom conhecimento da api do _devise_.
+Imagine o seguinte cen·rio: queremos implementar uma autenticaÁ„o de usu·rio em um sistema rails que utiliza o _devise_. No front-end, estamos utilizando o _backbone.js_. N„o È uma tarefa das mais complicadas, mas que requer alguns artifÌcios e um bom conhecimento da api do _devise_.
 
 
 
 
-[Devise](https://github.com/plataformatec/devise) √© uma gem desenvolvida pela galera da [plataformatec](http://plataformatec.com.br/), que nos proporciona uma api completa e flex√≠vel para solu√ß√µes de autentica√ß√£o em rails. Sua api j√° abstr√°i para o desenvolvedor funcionalidades como encripta√ß√£o senha,¬†Omniauth, confirma√ß√£o por email, esqueceu sua senha, bloqueio de conta, entre outras coisas.
+[Devise](https://github.com/plataformatec/devise) È uma gem desenvolvida pela galera da [plataformatec](http://plataformatec.com.br/), que nos proporciona uma api completa e flexÌvel para soluÁıes de autenticaÁ„o em rails. Sua api j· abstr·i para o desenvolvedor funcionalidades como encriptaÁ„o senha,†Omniauth, confirmaÁ„o por email, esqueceu sua senha, bloqueio de conta, entre outras coisas.
 
 
 
 
-O [backbone.js](http://backbonejs.org/)¬†√© uma biblioteca javascript para cria√ß√£o de web apps. Ele nos auxilia a trabalhar em aplica√ß√µes javascript de maneira desacoplada do DOM. Com estruturas de **model**, **collections**, **views** e **templates**, nos proporciona uma melhor organiza√ß√£o e modulariza√ß√£o do c√≥digo javascript, facilitando a compreens√£o e a manuten√ß√£o. Chega de javascript macarr√¥nico. Backbone trabalha nativamente com REST, logo, casa muito bem com aplica√ß√µes rails, restful.
+O [backbone.js](http://backbonejs.org/)†È uma biblioteca javascript para criaÁ„o de web apps. Ele nos auxilia a trabalhar em aplicaÁıes javascript de maneira desacoplada do DOM. Com estruturas de **model**, **collections**, **views** e **templates**, nos proporciona uma melhor organizaÁ„o e modularizaÁ„o do cÛdigo javascript, facilitando a compreens„o e a manutenÁ„o. Chega de javascript macarrÙnico. Backbone trabalha nativamente com REST, logo, casa muito bem com aplicaÁıes rails, restful.
 
 
 
@@ -24,17 +24,17 @@ O [backbone.js](http://backbonejs.org/)¬†√© uma biblioteca javascript para cria√
 
 
 
-**M√£o na massa**
+**M„o na massa**
 
 
 
 
-Como vamos usar o backbone para montar a interface com o usu√°rio, n√£o iremos utilizar os helpers do rails e do devise para montar os formul√°rios. Em um projeto rails j√° pr√©-configurado com o devise, vamos instalar o backbone.js. Como sou pregui√ßoso, vou usar a gem [banckone-on-rails](https://github.com/meleyal/backbone-on-rails).**<!-- more -->**
+Como vamos usar o backbone para montar a interface com o usu·rio, n„o iremos utilizar os helpers do rails e do devise para montar os formul·rios. Em um projeto rails j· prÈ-configurado com o devise, vamos instalar o backbone.js. Como sou preguiÁoso, vou usar a gem [banckone-on-rails](https://github.com/meleyal/backbone-on-rails).**<!-- more -->**
 
 
 
 
-Criei a view user_login.js para a tela como formul√°rio de login:
+Criei a view user_login.js para a tela como formul·rio de login:
 
 
 
@@ -80,7 +80,7 @@ BackDevise.Views.UserLogin = Backbone.View.extend({
 
 [/code]
 
-Abaixo, a view do cadastro de usu√°rio:
+Abaixo, a view do cadastro de usu·rio:
 
 [code language="javascript"]
 BackDevise.Views.UserRegistration = Backbone.View.extend({
@@ -131,11 +131,11 @@ BackDevise.Views.UserRegistration = Backbone.View.extend({
 })
 [/code]
 
-Como pode ser notado, n√£o utilizei os m√©todos do _backbone_ para fazer as requisi√ß√µes _ajax_. Ao inv√©s disso, usei **jquery** puro, pois assim evitei utilizar mais uma depend√™ncia no projeto para mapear os atributos do formul√°rio para o _model_ _user_. No entanto, √© recomend√°vel utilizar os m√©todos do _backbone_, como [model.save()](http://backbonejs.org/#Model-save), pois deixa o c√≥digo bem mais sem√¢ntico.
+Como pode ser notado, n„o utilizei os mÈtodos do _backbone_ para fazer as requisiÁıes _ajax_. Ao invÈs disso, usei **jquery** puro, pois assim evitei utilizar mais uma dependÍncia no projeto para mapear os atributos do formul·rio para o _model_ _user_. No entanto, È recomend·vel utilizar os mÈtodos do _backbone_, como [model.save()](http://backbonejs.org/#Model-save), pois deixa o cÛdigo bem mais sem‚ntico.
 
 Pulo do gato
 
-A partir da vers√£o **2.2.0**, o _devise_ n√£o aceita mais, por _default_, solicita√ß√µes no formato **json**. Logo, √© necess√°rio setar o m√©todo **respond_to** no _controller_ do _devise_. Para isso, adicionamos no **application.rb** o seguinte c√≥digo:
+A partir da vers„o **2.2.0**, o _devise_ n„o aceita mais, por _default_, solicitaÁıes no formato **json**. Logo, È necess·rio setar o mÈtodo **respond_to** no _controller_ do _devise_. Para isso, adicionamos no **application.rb** o seguinte cÛdigo:
 
 [code language="ruby"]
   config.to_prepare do
@@ -146,4 +146,4 @@ A partir da vers√£o **2.2.0**, o _devise_ n√£o aceita mais, por _default_, solic
 
 Segue o link para o sistema: http://enigmatic-reaches-7294.herokuapp.com/
 
-C√≥digo no github: https://github.com/paulociecomp/backbone-devise
+CÛdigo no github: https://github.com/paulociecomp/backbone-devise

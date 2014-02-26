@@ -2,32 +2,37 @@ status=published
 date=2011-09-30
 tags=blog
 type=post
-title=@tasafo na II Semana AcadÃªmica CBCC da UFPA
+title=@tasafo na II Semana Acadêmica CBCC da UFPA
 ~~~~~~
-[caption id="attachment_2137" align="aligncenter" width="300" caption="Galerinha em peso no auditÃ³rio do ICEN :)"][![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-56.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-56.jpg)[/caption]
+<div id="attachment_2137" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-56.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-56.jpg)
 
-Mais uma vez a galerinha do [TÃ¡ Safo!](http://tasafo.org) foi convidada para participar da [II Semana AcadÃªmica do Curso de Bacharelado em CiÃªncia da ComputaÃ§Ã£o(CBCC) da UFPA](http://www.cacc.ufpa.br/index.php?option=com_content&view=article&id=11&Itemid=19), que contou com a participaÃ§Ã£o tambÃ©m da comunidade [BelJogos](http://www.twitter.com/beljogos), alÃ©mÂ  de vÃ¡rias apresentaÃ§Ã£o de trabalhos acadÃªmicos. O evento teve inÃ­cio dia 26/09 mas quarta-feira foi o #TasafoDay, um dia exclusivo para os membros que fazem parte da comunidade.
+Mais uma vez a galerinha do [Tá Safo!](http://tasafo.org) foi convidada para participar da [II Semana Acadêmica do Curso de Bacharelado em Ciência da Computação(CBCC) da UFPA](http://www.cacc.ufpa.br/index.php?option=com_content&view=article&id=11&Itemid=19), que contou com a participação também da comunidade [BelJogos](http://www.twitter.com/beljogos), além  de várias apresentação de trabalhos acadêmicos. O evento teve início dia 26/09 mas quarta-feira foi o #TasafoDay, um dia exclusivo para os membros que fazem parte da comunidade.
 
 
 
 <!-- more -->
 
-O #TasafoDay comeÃ§ou com JosÃ© "Yoshi" Yoshiriro que demonstrou **O caminho das pedras para a OCJP 6**, explicandoÂ o que Ã© a certificaÃ§Ã£o Oracle Certified Java Programmer (OCJP), focando principalmente em dicas de como estudar para o exame.
+O #TasafoDay começou com José "Yoshi" Yoshiriro que demonstrou **O caminho das pedras para a OCJP 6**, explicando o que é a certificação Oracle Certified Java Programmer (OCJP), focando principalmente em dicas de como estudar para o exame.
 
-[caption id="attachment_2138" align="aligncenter" width="300" caption=""Yoshi" falando tudo sobre a certificaÃ§Ã£o OCJP 6"][![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-14-45-43.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-14-45-43.jpg)[/caption]
+<div id="attachment_2138" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-14-45-43.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-14-45-43.jpg)
 
-Logo em seguida, [Marcelo Andrade](http://www.twitter.com/mfandrade) entrou em aÃ§Ã£o falando sobre **IntroduÃ§Ã£oÂ Ã  mÃ©todos Ã¡geis, **explicando de forma bem descontraÃ­da sobre os conceitos e princÃ­pios relacionadosÂ Ã  agilidade.****
+Logo em seguida, [Marcelo Andrade](http://www.twitter.com/mfandrade) entrou em ação falando sobre **Introdução à métodos ágeis, **explicando de forma bem descontraída sobre os conceitos e princípios relacionados à agilidade.****
 
-[caption id="attachment_2139" align="aligncenter" width="300" caption="Marcelo falando sobre IntroduÃ§Ã£o Ã  mÃ©todos Ã¡geis"][![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-35.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-35.jpg)[/caption]
+<div id="attachment_2139" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-35.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-15-29-35.jpg)
 
-Complementando, [Fernanda Melina](http://ww.twitter.com/fernandamelina)Â apresentou **Scrum - Essa Ã© a jogada!**, dando uma visÃ£o geral sobre o framework Ã¡gil, bem como os conceitos, papÃ©is, manifesto Ã¡gil e os principais problemas que enfrentamos quando estamos implantando Scrum. Destaque para o vÃ­deo auto-explicativo sobre mudanÃ§a de paradigmas. Olhem aÃ­ como a galera estava vidrada no vÃ­deo :)
+Complementando, [Fernanda Melina](http://ww.twitter.com/fernandamelina) apresentou **Scrum - Essa é a jogada!**, dando uma visão geral sobre o framework ágil, bem como os conceitos, papéis, manifesto ágil e os principais problemas que enfrentamos quando estamos implantando Scrum. Destaque para o vídeo auto-explicativo sobre mudança de paradigmas. Olhem aí como a galera estava vidrada no vídeo :)
 
-[caption id="attachment_2140" align="aligncenter" width="300" caption="Fernanda falando sobre Scrum. Todos de olhos vidrados no vÃ­deo sobre mudanÃ§a de paradigmas :)"][![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-16-29-45.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-16-29-45.jpg)[/caption]
+<div id="attachment_2140" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-16-29-45.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-16-29-45.jpg)
 
-Para finalizar, [Ramon Rabello](http://www.twitter.com/ramonrabello)Â explicou passo-a-passo como construir uma aplicaÃ§Ã£o em Android, focando nas noÃ§Ãµes de empreendedorismo e deu dicas de como se tornar um empreendedor utilizando a plataforma do robozinho verde.
+Para finalizar, [Ramon Rabello](http://www.twitter.com/ramonrabello) explicou passo-a-passo como construir uma aplicação em Android, focando nas noções de empreendedorismo e deu dicas de como se tornar um empreendedor utilizando a plataforma do robozinho verde.
 
-[caption id="attachment_2141" align="aligncenter" width="300" caption="Ramon Rabello falando sobre como empreender com Android"][![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-17-35-10.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-17-35-10.jpg)[/caption]
+<div id="attachment_2141" class="wp-caption" align="aligncenter" style="width: 310px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2011/09/2011-09-28-17-35-10.jpg?w=300)](http://tasafo.files.wordpress.com/2011/09/2011-09-28-17-35-10.jpg)
 
-Ao tÃ©rmino, Fernanda e Ramon divulgaram o [Agile Tour BelÃ©m 2011](http://at2011.agiletour.org/br/belem.html), evento mundial sobre agilidade que acontecerÃ¡ em Novembro em nossa terra "papa-xibÃ©", que estÃ¡ sendo organizada pelo [@tasafo](http://www.twitter.com/tasafo) e estÃ¡ tendo Ã³tima repercussÃ£o em nossa cidade (100 inscritos em menos de 1 semana \o/ ). Ainda distribuÃ­ram alguns brindes da grife TÃ¡ Safo!
+Ao término, Fernanda e Ramon divulgaram o [Agile Tour Belém 2011](http://at2011.agiletour.org/br/belem.html), evento mundial sobre agilidade que acontecerá em Novembro em nossa terra "papa-xibé", que está sendo organizada pelo [@tasafo](http://www.twitter.com/tasafo) e está tendo ótima repercussão em nossa cidade (100 inscritos em menos de 1 semana \o/ ). Ainda distribuíram alguns brindes da grife Tá Safo!
 
-A UFPA estÃ¡ de parabÃ©ns pela iniciativa e realizaÃ§Ã£o deste evento, promovendo o intercÃ¢mbio e troca de conhecimento em nossa regiÃ£o. GostarÃ­amos de agradecer em especial ao [Diego Damasceno](http://www.twitter.com/damascenodiego), que convidou a comunidade para participar mais uma vez da Semana AcadÃªmica.
+A UFPA está de parabéns pela iniciativa e realização deste evento, promovendo o intercâmbio e troca de conhecimento em nossa região. Gostaríamos de agradecer em especial ao [Diego Damasceno](http://www.twitter.com/damascenodiego), que convidou a comunidade para participar mais uma vez da Semana Acadêmica.

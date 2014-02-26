@@ -4,27 +4,27 @@ tags=blog
 type=post
 title=Sucesso no Workshop Agile Software Development with Extreme Programming
 ~~~~~~
-Nessa √∫ltima sexta-feira (16/10) tivemos um dia sensacional de aprendizado e muita troca de experi√™ncia com o Workshop Agile Software Development with Extreme Programming que foi conduzido por mim ([Paulo Igor](http://pigor.net)) e pelo [Manoel Pimentel](http://visaoagil.wordpress.com/author/manoelp/) aqui em Bel√©m no [CESUPA](http://www.cesupa.br) (Centro Universit√°rio do Par√°).
+Nessa ˙ltima sexta-feira (16/10) tivemos um dia sensacional de aprendizado e muita troca de experiÍncia com o Workshop Agile Software Development with Extreme Programming que foi conduzido por mim ([Paulo Igor](http://pigor.net)) e pelo [Manoel Pimentel](http://visaoagil.wordpress.com/author/manoelp/) aqui em BelÈm no [CESUPA](http://www.cesupa.br) (Centro Universit·rio do Par·).
 
 
 ![Abertura do Workshop](http://tasafo.files.wordpress.com/2009/10/dsc01720.jpg)
 
 
-O Workshop foi bastante din√¢mico, e no final os participantes ainda puderam experimentar na pr√°tica desenvolvendo um projeto rel√¢mpago utilizando [pair programming](en.wikipedia.org/wiki/Pair_programming), [TDD](en.wikipedia.org/wiki/Test-driven_development), [BDD](en.wikipedia.org/.../Behavior_Driven_Development) e uma s√©rie de valores do [XP](http://improveit.com.br/xp).
+O Workshop foi bastante din‚mico, e no final os participantes ainda puderam experimentar na pr·tica desenvolvendo um projeto rel‚mpago utilizando [pair programming](en.wikipedia.org/wiki/Pair_programming), [TDD](en.wikipedia.org/wiki/Test-driven_development), [BDD](en.wikipedia.org/.../Behavior_Driven_Development) e uma sÈrie de valores do [XP](http://improveit.com.br/xp).
 
 <!-- more -->
 
 
-![Prontos para primeira din√¢mica!](http://tasafo.files.wordpress.com/2009/10/dsc01727.jpg)
+![Prontos para primeira din‚mica!](http://tasafo.files.wordpress.com/2009/10/dsc01727.jpg)
 
 
-O pessoal estava bastante motivado, com sede de aprendizado, participando das din√¢micas, das discuss√µes e da pr√°tica exercitada no [Coding Dojo](http://codingdojo.org/).
+O pessoal estava bastante motivado, com sede de aprendizado, participando das din‚micas, das discussıes e da pr·tica exercitada no [Coding Dojo](http://codingdojo.org/).
 
 
 ![DSC01792](http://tasafo.files.wordpress.com/2009/10/dsc01792.jpg)
 
 
-Esse Workshop s√≥ pode ser realizado devido o apoio e a ajuda do grupo T√° Safo e do CESUPA, representado pelo Prof. Marcos Ven√≠cios que deu total apoio desde o in√≠cio da organiza√ß√£o rel√¢mpago desse Workshop, fica aqui o nosso agradecimento pelo empenho, e o sucesso desse Workshop tamb√©m √© de voc√™s!
+Esse Workshop sÛ pode ser realizado devido o apoio e a ajuda do grupo T· Safo e do CESUPA, representado pelo Prof. Marcos VenÌcios que deu total apoio desde o inÌcio da organizaÁ„o rel‚mpago desse Workshop, fica aqui o nosso agradecimento pelo empenho, e o sucesso desse Workshop tambÈm È de vocÍs!
 
 Confiram mais momentos do Workshop...
 
@@ -34,7 +34,7 @@ Confiram mais momentos do Workshop...
 
 
 
-Primeira din√¢mica e todos bastante partipativos...
+Primeira din‚mica e todos bastante partipativos...
 
 
 
@@ -44,7 +44,7 @@ Primeira din√¢mica e todos bastante partipativos...
 
 
 
-A galera preenchendo os chap√©us...
+A galera preenchendo os chapÈus...
 
 
 
@@ -54,7 +54,7 @@ A galera preenchendo os chap√©us...
 
 
 
-Construindo a confian√ßa...
+Construindo a confianÁa...
 
 
 
@@ -74,7 +74,7 @@ Galera aprendendo sobre User Stories!
 
 
 
-√â hora do Dojo...
+… hora do Dojo...
 
 
 
@@ -94,7 +94,7 @@ Pessoal fazendo o planejamento do Dojo...
 
 
 
-A galera metendo a m√£o no teclado!
+A galera metendo a m„o no teclado!
 
 
 
@@ -104,7 +104,7 @@ A galera metendo a m√£o no teclado!
 
 
 
-Fim da itera√ß√£o no Dojo, todos pra retrospectiva!
+Fim da iteraÁ„o no Dojo, todos pra retrospectiva!
 
 
 
@@ -114,9 +114,9 @@ Espero que todos tenham gostado do Workshop...Manoel, valeu por mais essa parcer
 
 
 
-Aguado todos voc√™s no Mar√© de Agilidade em Bel√©m que ser√° uma oportunidade para todos estarem trocando id√©ias, aprendendo e ampliando o seu network, no evento estar√£o grandes nomes do movimento √°gil da atualidade no Brasil, ent√£o n√£o percam nos dias 26, 27 e 28 de novembro o Mar√© de Agilidade em Bel√©m, t√° safo!?!?!?
+Aguado todos vocÍs no MarÈ de Agilidade em BelÈm que ser· uma oportunidade para todos estarem trocando idÈias, aprendendo e ampliando o seu network, no evento estar„o grandes nomes do movimento ·gil da atualidade no Brasil, ent„o n„o percam nos dias 26, 27 e 28 de novembro o MarÈ de Agilidade em BelÈm, t· safo!?!?!?
 
 
 
 
-Abra√ßo,
+AbraÁo,

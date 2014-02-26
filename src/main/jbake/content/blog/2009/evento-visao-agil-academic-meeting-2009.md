@@ -2,52 +2,52 @@ status=published
 date=2009-04-30
 tags=blog
 type=post
-title=Evento: Vis√£o √Ågil Academic Meeting 2009
+title=Evento: Vis„o ¡gil Academic Meeting 2009
 ~~~~~~
 ![cartaz2](http://tasafo.files.wordpress.com/2009/04/cartaz2.jpg?w=300)
 
-√â com grande orgulho que o grupo T√° Safo! apresenta o **primeiro evento sobre m√©todos √°geis do Par√°:** o [Vis√£o √Ågil Academic Meeting 2009](http://tasafo.org/vaam.php). Como j√° hav√≠amos comunicado na nossa lista, a partir do m√™s de abril o grupo T√° Safo! come√ßou a fazer parte do programa **Vis√£o √Ågil Academic Leaders**. Para comemorar e simbolizar o in√≠cio de uma nova era para o pensamento √°gil no norte do pa√≠s,¬† iremos realizar esse evento, com a participa√ß√£o de [Manoel Pimentel](http://manoelpimentel.blogspot.com/), um dos grandes agilistas do Brasil.
+… com grande orgulho que o grupo T· Safo! apresenta o **primeiro evento sobre mÈtodos ·geis do Par·:** o [Vis„o ¡gil Academic Meeting 2009](http://tasafo.org/vaam.php). Como j· havÌamos comunicado na nossa lista, a partir do mÍs de abril o grupo T· Safo! comeÁou a fazer parte do programa **Vis„o ¡gil Academic Leaders**. Para comemorar e simbolizar o inÌcio de uma nova era para o pensamento ·gil no norte do paÌs,† iremos realizar esse evento, com a participaÁ„o de [Manoel Pimentel](http://manoelpimentel.blogspot.com/), um dos grandes agilistas do Brasil.
 
 
-O que √© o programa** Vis√£o √Ågil Academic Leaders?**
+O que È o programa** Vis„o ¡gil Academic Leaders?**
 
-Uma iniciativa da comunidade¬†[Vis√£o √Ågil](http://www.visaoagil.com), que tem por objetivo estreitar a rela√ß√£o do mundo acad√™mico com a comunidade agile em geral.
+Uma iniciativa da comunidade†[Vis„o ¡gil](http://www.visaoagil.com), que tem por objetivo estreitar a relaÁ„o do mundo acadÍmico com a comunidade agile em geral.
 
-O pilar desse programa consiste na forma√ß√£o de um aluno por faculdade, que o mesmo seja um facilitador dos conhecimentos sobre metodologias √°geis em sua institui√ß√£o de ensino superior.
+O pilar desse programa consiste na formaÁ„o de um aluno por faculdade, que o mesmo seja um facilitador dos conhecimentos sobre metodologias ·geis em sua instituiÁ„o de ensino superior.
 
-Com o apoio do IESAM, o evento de ocorrer√° no dia **30/05/2009**, com palestras e workshop. Veja a grade do evento:
+Com o apoio do IESAM, o evento de ocorrer· no dia **30/05/2009**, com palestras e workshop. Veja a grade do evento:
 
 **09:00 - 09:30 - Palestra: **
 
-**Apresenta√ß√£o T√° Safo! e as Atividades do Vis√£o √Ågil Academic Leaders (Henrique Fontenele, Carlos Alexandre e Luiz Sanches). **Apresenta√ß√£o do grupo de T√° Safo! e qual sua sinergia com o programa Vis√£o √Ågil Academic Leaders da Revista Vis√£o √Ågil.
+**ApresentaÁ„o T· Safo! e as Atividades do Vis„o ¡gil Academic Leaders (Henrique Fontenele, Carlos Alexandre e Luiz Sanches). **ApresentaÁ„o do grupo de T· Safo! e qual sua sinergia com o programa Vis„o ¡gil Academic Leaders da Revista Vis„o ¡gil.
 
 **09:30 - 12:00 - Palestra: **
 
-**Experi√™ncias em Desenvolvimento de Software atrav√©s Scrum, XP, FDD e Lean (Manoel Pimentel). **Nessa palestra ser√£o apresentados alguns conceitos e relatos de experi√™ncias na aplica√ß√£o de metodologias √°geis como Scrum, XP (Extreme Programming) e FDD (Feature Driven Development) em projetos de desenvolvimento de software em ambientes de pequeno, m√©dio e grande porte. Ainda ser√° apresentando brevemente que Lean √© uma filosofia que oferece uma linha de pensamento organizacional oriunda do TPS (Toyota Production System), seu principal objetivo √© criar processos enxutos para minimizar o desperd√≠cio e aumentar o valor agregado num Lead Time de desenvolvimento de produtos. Portanto nessa palestra ser√° apresentada a sinergia entre o Pensamento Lean e as Metodologias √Ågeis, a fim de mostrar experi√™ncias da aplica√ß√£o desses conceitos e pr√°ticas em ambientes de projetos de desenvolvimento de software e no contexto de atendimento a demandas pontuais de melhoria de produtos.¬†**Ao final teremos um bate-papo para perguntas e respostas sobre metodologias √°geis.**
+**ExperiÍncias em Desenvolvimento de Software atravÈs Scrum, XP, FDD e Lean (Manoel Pimentel). **Nessa palestra ser„o apresentados alguns conceitos e relatos de experiÍncias na aplicaÁ„o de metodologias ·geis como Scrum, XP (Extreme Programming) e FDD (Feature Driven Development) em projetos de desenvolvimento de software em ambientes de pequeno, mÈdio e grande porte. Ainda ser· apresentando brevemente que Lean È uma filosofia que oferece uma linha de pensamento organizacional oriunda do TPS (Toyota Production System), seu principal objetivo È criar processos enxutos para minimizar o desperdÌcio e aumentar o valor agregado num Lead Time de desenvolvimento de produtos. Portanto nessa palestra ser· apresentada a sinergia entre o Pensamento Lean e as Metodologias ¡geis, a fim de mostrar experiÍncias da aplicaÁ„o desses conceitos e pr·ticas em ambientes de projetos de desenvolvimento de software e no contexto de atendimento a demandas pontuais de melhoria de produtos.†**Ao final teremos um bate-papo para perguntas e respostas sobre metodologias ·geis.**
 
 
 **14:00 - 20:00 - Workshop:**
 
 
-**Pr√°ticas √Ågeis para o desenvolvimento de Software (Capacidade 30 pessoas) com Manoel Pimentel.** Ser √°gil, no contexto de desenvolvimento de software, exige uma mudan√ßa de paradigma em termos de arquitetura e solu√ß√µes t√©cnicas. Portanto, neste workshop, conhe√ßa os desafios e t√©cnicas para um desenvolvedor √°gil, atrav√©s das vis√µes orientadas √† engenharia software fornecidas por XP (Extreme Programming), FDD(Feature Driven Delopment) e Scrum.
+**Pr·ticas ¡geis para o desenvolvimento de Software (Capacidade 30 pessoas) com Manoel Pimentel.** Ser ·gil, no contexto de desenvolvimento de software, exige uma mudanÁa de paradigma em termos de arquitetura e soluÁıes tÈcnicas. Portanto, neste workshop, conheÁa os desafios e tÈcnicas para um desenvolvedor ·gil, atravÈs das visıes orientadas ‡ engenharia software fornecidas por XP (Extreme Programming), FDD(Feature Driven Delopment) e Scrum.
 
-**Sobre o palestrante:** √â Engenheiro de Software, com 15 anos na √°rea de TI, atualmente trabalha como Coach em Agile, Lean e TOC para empresas do segmento de servi√ßo, financeiro e banc√°rio. √â Diretor Editorial da Revista Vis√£o √Ågil e Editor Chefe da InfoQ Brasil, J√° escreveu sobre agile para importantes portais e revistas do Brasil e exterior e Tamb√©m palestrou em eventos nacionais e internacionais sobre agilidade. Possui as certifica√ß√µes CSM e CSP da Scrum Alliance e foi um dos pioneiros na utiliza√ß√£o e divulga√ß√£o de m√©todos √°geis no Brasil. Contatos: [manoel@visaoagil.com](mailto:manoel@visaoagil.com)
+**Sobre o palestrante:** … Engenheiro de Software, com 15 anos na ·rea de TI, atualmente trabalha como Coach em Agile, Lean e TOC para empresas do segmento de serviÁo, financeiro e banc·rio. … Diretor Editorial da Revista Vis„o ¡gil e Editor Chefe da InfoQ Brasil, J· escreveu sobre agile para importantes portais e revistas do Brasil e exterior e TambÈm palestrou em eventos nacionais e internacionais sobre agilidade. Possui as certificaÁıes CSM e CSP da Scrum Alliance e foi um dos pioneiros na utilizaÁ„o e divulgaÁ„o de mÈtodos ·geis no Brasil. Contatos: [manoel@visaoagil.com](mailto:manoel@visaoagil.com)
 
-***O Evento ser√° livre, [clique aqui para fazer sua inscri√ß√£o](http://tasafo.org/vaam_inscricao.php). E durante o evento pela manh√£ estaremos realizando as inscri√ß√µes para participa√ß√£o do workshop pela parte da tarde.**
+***O Evento ser· livre, [clique aqui para fazer sua inscriÁ„o](http://tasafo.org/vaam_inscricao.php). E durante o evento pela manh„ estaremos realizando as inscriÁıes para participaÁ„o do workshop pela parte da tarde.**
 
 
 
-Local: Audit√≥rio T√©rreo do IESAM - Bel√©m ‚Äì Par√°. 
+Local: AuditÛrio TÈrreo do IESAM - BelÈm ñ Par·. 
 
-Endere√ßo: Av. Governador Jos√© Malcher, 1148 - Nazar√©
+EndereÁo: Av. Governador JosÈ Malcher, 1148 - NazarÈ
 
 **Data: 30 de maio de 2009. **
 
-**Hor√°rios:**
+**Hor·rios:**
 
-**Palestras: **9:00 √†s 12:00
+**Palestras: **9:00 ‡s 12:00
 
-**Workshop:** 14:00 √†s 20:00
+**Workshop:** 14:00 ‡s 20:00
 
 
 ** **
@@ -70,17 +70,17 @@ Endere√ßo: Av. Governador Jos√© Malcher, 1148 - Nazar√©
 
 
 
-**Organiza√ß√£o:**
+**OrganizaÁ„o:**
 
 
 
 
-[Grupo T√° Safo! ](http://www.tasafo.org)
+[Grupo T· Safo! ](http://www.tasafo.org)
 
 
 
 
-[Revista Vis√£o √Ågil](http://www.visaoagil.com)
+[Revista Vis„o ¡gil](http://www.visaoagil.com)
 
 
 

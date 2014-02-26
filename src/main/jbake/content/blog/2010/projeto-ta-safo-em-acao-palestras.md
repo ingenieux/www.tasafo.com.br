@@ -2,9 +2,9 @@ status=published
 date=2010-04-19
 tags=blog
 type=post
-title=TÃ¡ safo em aÃ§Ã£o no IESAM - palestras
+title=Tá safo em ação no IESAM - palestras
 ~~~~~~
-Foi show de bola as apresentaÃ§Ãµes do TÃ¡ safo! na Semana AcadÃªmica do IESAM. Todos estÃ£o de parabÃ©ns.
+Foi show de bola as apresentações do Tá safo! na Semana Acadêmica do IESAM. Todos estão de parabéns.
 
 [![](http://tasafo.files.wordpress.com/2010/04/tasafoemacao.jpg)](http://tasafo.files.wordpress.com/2010/04/tasafoemacao.jpg)
 
@@ -12,22 +12,22 @@ Segue abaixo as palestras.
 
 <!-- more -->
 
-[TÃ¡ safo em aÃ§Ã£o](http://www.slideshare.net/luizsanches/t-safo-em-ao)
+[Tá safo em ação](http://www.slideshare.net/luizsanches/t-safo-em-ao)
 
-[slideshare id=3747151&doc=tasafoemacao-100416063703-phpapp01]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3747151" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-[Seja NotÃ¡vel](http://www.slideshare.net/fabiogr/seja-notvel)
+[Seja Notável](http://www.slideshare.net/fabiogr/seja-notvel)
 
-[slideshare id=3749659&doc=sejanotvel-100416111219-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3749659" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-[MÃ©todos Ã¡geis thinking different](http://www.slideshare.net/Pigor/metodos-ageis-thinkingdifferent)
+[Métodos ágeis thinking different](http://www.slideshare.net/Pigor/metodos-ageis-thinkingdifferent)
 
-[slideshare id=3742368&doc=metodosageis-thinkingdifferent-100415222452-phpapp02]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3742368" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
 [Testes de Software automatizados](http://www.slideshare.net/mfandrade/testes-de-software-automatizados)
 
-[slideshare id=3752907&doc=apres-semaciesam-100416185437-phpapp01]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3752907" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
 [Acelerando Desenvolvimento Java Web com Seam](http://www.slideshare.net/tasafo/ewerton-bravo-jbossseam)
 
-[slideshare id=3832965&doc=ewertonbravojbossseam-100423132226-phpapp01]
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3832965" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>

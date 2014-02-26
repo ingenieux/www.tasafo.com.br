@@ -4,28 +4,30 @@ tags=blog
 type=post
 title=O que rolou no #tasafoemacao com Rafael Prikladnicki
 ~~~~~~
-No dia 24 de Novembro, aconteceu em BelÃ©m um evento que abalou muita gente. NÃ£o foi a chuva torrencial no fim da tarde. Foi mais um [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao). Desta vez, [Rafael Prikladnicki ](http://twitter.com/#!/rafaelpri)marcou presenÃ§a no AuditÃ³rio do Cesupa e deu uma verdadeira aula sobre Agile.
+No dia 24 de Novembro, aconteceu em Belém um evento que abalou muita gente. Não foi a chuva torrencial no fim da tarde. Foi mais um [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao). Desta vez, [Rafael Prikladnicki ](http://twitter.com/#!/rafaelpri)marcou presença no Auditório do Cesupa e deu uma verdadeira aula sobre Agile.
 
-A evento estava previsto para comeÃ§ar Ã s 19:00 horas, porÃ©m comeÃ§ou 19:30. Como o prÃ³prio Rafael enfatizou, sempre hÃ¡ mudanÃ§as nos requisitos. E este foi um dos temas mais discutidos em sua palestra.<!-- more -->
+A evento estava previsto para começar às 19:00 horas, porém começou 19:30. Como o próprio Rafael enfatizou, sempre há mudanças nos requisitos. E este foi um dos temas mais discutidos em sua palestra.<!-- more -->
 
-Mas antes do Rafael entrar em aÃ§Ã£o, Jaime fala rapidamente sobre a [Retrospectiva TÃ¡Safo 2010](../2010/11/23/retrospectiva-tasafo-2010/) relembrando o que rolou neste ano de importante para a comunidade.
+Mas antes do Rafael entrar em ação, Jaime fala rapidamente sobre a [Retrospectiva TáSafo 2010](../2010/11/23/retrospectiva-tasafo-2010/) relembrando o que rolou neste ano de importante para a comunidade.
 
-[caption id="attachment_1469" align="aligncenter" width="450" caption="Jaime falando como foi o ano de 2010 para o TÃ¡Safo"][![](http://tasafo.files.wordpress.com/2010/11/dsc06074.jpg)](http://tasafo.files.wordpress.com/2010/11/dsc06074.jpg)[/caption]
+<div id="attachment_1469" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/11/dsc06074.jpg)](http://tasafo.files.wordpress.com/2010/11/dsc06074.jpg)
 
-ApÃ³s o Jaime concluir, Rafael Prikladnicki inicia sua apresentaÃ§Ã£o. Coordenador do [GUMA](http://www.guma-rs.org/), comunidade do Rio Grande do Sul que foi uma das pioneiras em agile no Brasil, Rafael aborda brilhantemente os erros e acertos que cometemos quando tentamos utilizar o agile.
+Após o Jaime concluir, Rafael Prikladnicki inicia sua apresentação. Coordenador do [GUMA](http://www.guma-rs.org/), comunidade do Rio Grande do Sul que foi uma das pioneiras em agile no Brasil, Rafael aborda brilhantemente os erros e acertos que cometemos quando tentamos utilizar o agile.
 
-Nesta discussÃ£o, ele propÃ´s que vocÃª somente deve usar o agile em sua empresa se vocÃª tiver um bom motivo. Dando Ãªnfase a mudanÃ§a de escopo e interaÃ§Ã£o com o cliente.
+Nesta discussão, ele propôs que você somente deve usar o agile em sua empresa se você tiver um bom motivo. Dando ênfase a mudança de escopo e interação com o cliente.
 
-Rafael mostra a platÃ©ia que agile Ã© mudanÃ§a de cultura com foco em pessoas. E que isso influencia diretamente na qualidade do software. Ele enfatizou a importÃ¢ncia de se deixar o cliente satisfeito, mas tambÃ©m deixar a equipe de desenvolvimento satisfeita. E que isso Ã© possÃ­vel sim.
+Rafael mostra a platéia que agile é mudança de cultura com foco em pessoas. E que isso influencia diretamente na qualidade do software. Ele enfatizou a importância de se deixar o cliente satisfeito, mas também deixar a equipe de desenvolvimento satisfeita. E que isso é possível sim.
 
-[caption id="attachment_1470" align="aligncenter" width="450" caption="Rafael Prikladnicki iniciando a palestra"][![](http://tasafo.files.wordpress.com/2010/11/dsc02978.jpg)](http://tasafo.files.wordpress.com/2010/11/dsc02978.jpg)[/caption]
+<div id="attachment_1470" class="wp-caption" align="aligncenter" style="width: 460px"><p class="wp-caption-text"></p></div>
+[![](http://tasafo.files.wordpress.com/2010/11/dsc02978.jpg)](http://tasafo.files.wordpress.com/2010/11/dsc02978.jpg)
 
-Com relaÃ§Ã£o Ã s mudanÃ§as de escopo, Rafael demonstrou que elas sempre vÃ£o ocorrer e que nÃ£o Ã© possÃ­vel prevÃª-las no inicio do projeto. E que o agile veio com a proposta de incorporar essas mudanÃ§as no projeto.
+Com relação às mudanças de escopo, Rafael demonstrou que elas sempre vão ocorrer e que não é possível prevê-las no inicio do projeto. E que o agile veio com a proposta de incorporar essas mudanças no projeto.
 
-A participaÃ§Ã£o da platÃ©ia marcou este [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao). Uma discussÃ£o que me chamou a atenÃ§Ã£o foi a respeito da capacidade do cliente de entender software. ConcluÃ­mos que a equipe dever ter a habilidade de colocar o cliente a par do processo de desenvolvimento. [Colocar o cliente dentro do taxi](http://amagno.blogspot.com/2008/07/dentro-do-txi.html).
+A participação da platéia marcou este [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao). Uma discussão que me chamou a atenção foi a respeito da capacidade do cliente de entender software. Concluímos que a equipe dever ter a habilidade de colocar o cliente a par do processo de desenvolvimento. [Colocar o cliente dentro do taxi](http://amagno.blogspot.com/2008/07/dentro-do-txi.html).
 
-Este [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao) foi muito instrutivo e divertido. Rafael Prikladnicki elogiou a maturidade tÃ©cnica da platÃ©ia e distribuiu alguns brindes. O Jaime ainda praticou a #horadodesapego com algumas revistas e livros que resolveu passar adiante.
+Este [#tasafoemacao](http://twitter.com/#search?q=%23tasafoemacao) foi muito instrutivo e divertido. Rafael Prikladnicki elogiou a maturidade técnica da platéia e distribuiu alguns brindes. O Jaime ainda praticou a #horadodesapego com algumas revistas e livros que resolveu passar adiante.
 
-ParabÃ©ns Rafael. E parabÃ©ns Ã  comunidade.
+Parabéns Rafael. E parabéns à comunidade.
 
-Mais fotos deste evento na [nossa pÃ¡gina no Flickr](http://www.flickr.com/photos/tasafo/sets/72157625467733756/).
+Mais fotos deste evento na [nossa página no Flickr](http://www.flickr.com/photos/tasafo/sets/72157625467733756/).

@@ -4,53 +4,60 @@ tags=blog
 type=post
 title=Agile Game com Natalie Volk
 ~~~~~~
-Grande amiga da comunidade,Â [**Natalie Volk** ](https://twitter.com/Nattivolk)estava de fÃ©rias passando por nossa BelÃ©m e aproveitamos para convidÃ¡-la para realizarmos um #tasafoemacao, cujo convite foi aceito com muita alegria. Ela nos presenteou com uma "DinÃ¢mica sobre dia o dia com Ã¡gil"Â inovadora chamada [**Agile Game**](http://www.agileandart.com/2010/07/21/lego-lean-game/) que Ã© feita como forma de imersÃ£o na [**ThoughtWorks**](http://www.thoughtworks.com/pt) para novos funcionÃ¡rios a fim de explicar como funciona o desenvolvimento em um ambiente Ã¡gil.
+Grande amiga da comunidade, [**Natalie Volk** ](https://twitter.com/Nattivolk)estava de férias passando por nossa Belém e aproveitamos para convidá-la para realizarmos um #tasafoemacao, cujo convite foi aceito com muita alegria. Ela nos presenteou com uma "Dinâmica sobre dia o dia com ágil" inovadora chamada [**Agile Game**](http://www.agileandart.com/2010/07/21/lego-lean-game/) que é feita como forma de imersão na [**ThoughtWorks**](http://www.thoughtworks.com/pt) para novos funcionários a fim de explicar como funciona o desenvolvimento em um ambiente ágil.
 
 <!-- more -->
 
-Esse game funciona assim: 2Â equipes (5 - 7 pessoas) terÃ£o um desafio:Â construir uma soluÃ§Ã£o para um cliente que quer realizar um grande sonho. SÃ£o vÃ¡rias iteraÃ§Ãµes mÃ£o na massa, onde no caminhoÂ irÃ£o enfrentar obstÃ¡culos, assim como em uma equipe Ã¡gil. Para entender melhor o fluxo desta dinÃ¢mica, confira [este video](http://youtu.be/RPE_rQyD44I). Cada iteraÃ§Ã£o era dividida em cinco etapas:
+Esse game funciona assim: 2 equipes (5 - 7 pessoas) terão um desafio: construir uma solução para um cliente que quer realizar um grande sonho. São várias iterações mão na massa, onde no caminho irão enfrentar obstáculos, assim como em uma equipe ágil. Para entender melhor o fluxo desta dinâmica, confira [este video](http://youtu.be/RPE_rQyD44I). Cada iteração era dividida em cinco etapas:
 
 **1. Estimativa (4 minutos);**
 
-- Nesta etapa, o time junto com o cliente analisavam a complexidade das tarefas que seriam feitas durante a iteraÃ§Ã£o, levando em consideraÃ§Ã£o o valor de negÃ³cio (business value) e o nÃ­vel de dificuldade (FÃ¡cil - MÃ©dio - DifÃ­cil).
+- Nesta etapa, o time junto com o cliente analisavam a complexidade das tarefas que seriam feitas durante a iteração, levando em consideração o valor de negócio (business value) e o nível de dificuldade (Fácil - Médio - Difícil).
 
-**2. Escolha das estÃ³rias (3 minutos);**
+**2. Escolha das estórias (3 minutos);**
 
--Aqui, o time juntamente com o cliente, selecionavam as estÃ³rias que tinham mais valor de negÃ³cio para o cliente durante a iteraÃ§Ã£o.
+-Aqui, o time juntamente com o cliente, selecionavam as estórias que tinham mais valor de negócio para o cliente durante a iteração.
 
-**3. DesenvolvimentoÂ Â (4 minutos);**
+**3. Desenvolvimento  (4 minutos);**
 
--Os times se auto-organizavam nesse momento e metiam a mÃ£o na massa, ou melhor dizendo, no lego para construir as tarefas que foram selecionadas na etapa anterior.
+-Os times se auto-organizavam nesse momento e metiam a mão na massa, ou melhor dizendo, no lego para construir as tarefas que foram selecionadas na etapa anterior.
 
-**4. ApresentaÃ§Ã£oÂ Â (4 minutos);**
+**4. Apresentação  (4 minutos);**
 
--Esse Ã© o momento que o time apresentava ao cliente o que foi construÃ­do durante a iteraÃ§Ã£o e o cliente avaliava se estava de acordo que ele queria.
+-Esse é o momento que o time apresentava ao cliente o que foi construído durante a iteração e o cliente avaliava se estava de acordo que ele queria.
 
-**5. RetrospectivaÂ Â (4 minutos);**
+**5. Retrospectiva  (4 minutos);**
 
 -Na retrospectiva, o time se reavaliava discutindo os pontos positivos e negativos do que foi feito e o que precisava ser melhorado.
 
-[caption id="attachment_3591" align="aligncenter" width="423"][![3](http://tasafo.files.wordpress.com/2013/12/3.jpg)](http://tasafo.files.wordpress.com/2013/12/3.jpg) Natalie explicando a dinÃ¢mica[/caption]
+<div id="attachment_3591" class="wp-caption" align="aligncenter" style="width: 433px"><p class="wp-caption-text"></p></div>
+[![3](http://tasafo.files.wordpress.com/2013/12/3.jpg)](http://tasafo.files.wordpress.com/2013/12/3.jpg) Natalie explicando a dinâmica
 
-[caption id="attachment_3589" align="aligncenter" width="405"][![1](http://tasafo.files.wordpress.com/2013/12/1.jpg?w=652)](http://tasafo.files.wordpress.com/2013/12/1.jpg) Natalie explicando as etapas da dinÃ¢mica[/caption]
+<div id="attachment_3589" class="wp-caption" align="aligncenter" style="width: 415px"><p class="wp-caption-text"></p></div>
+[![1](http://tasafo.files.wordpress.com/2013/12/1.jpg?w=652)](http://tasafo.files.wordpress.com/2013/12/1.jpg) Natalie explicando as etapas da dinâmica
 
-[caption id="attachment_3558" align="aligncenter" width="456"][![IMG-20131121-WA0007](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0007.jpg)](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0007.jpg) O time metendo a "mÃ£o no lego"[/caption]
+<div id="attachment_3558" class="wp-caption" align="aligncenter" style="width: 466px"><p class="wp-caption-text"></p></div>
+[![IMG-20131121-WA0007](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0007.jpg)](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0007.jpg) O time metendo a "mão no lego"
 
-[caption id="attachment_3597" align="aligncenter" width="522"][![equipe2](http://tasafo.files.wordpress.com/2013/12/equipe2.jpg)](http://tasafo.files.wordpress.com/2013/12/equipe2.jpg) Time 2[/caption]
+<div id="attachment_3597" class="wp-caption" align="aligncenter" style="width: 532px"><p class="wp-caption-text"></p></div>
+[![equipe2](http://tasafo.files.wordpress.com/2013/12/equipe2.jpg)](http://tasafo.files.wordpress.com/2013/12/equipe2.jpg) Time 2
 
-[caption id="attachment_3557" align="aligncenter" width="522"][![IMG-20131121-WA0010](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0010.jpg)](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0010.jpg) Retrospectiva geral da dinÃ¢mica[/caption]
+<div id="attachment_3557" class="wp-caption" align="aligncenter" style="width: 532px"><p class="wp-caption-text"></p></div>
+[![IMG-20131121-WA0010](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0010.jpg)](http://tasafo.files.wordpress.com/2013/11/img-20131121-wa0010.jpg) Retrospectiva geral da dinâmica
 
-[caption id="attachment_3594" align="aligncenter" width="470"][![6](http://tasafo.files.wordpress.com/2013/12/6.jpg)](http://tasafo.files.wordpress.com/2013/12/6.jpg) Projeto finalizado[/caption]
+<div id="attachment_3594" class="wp-caption" align="aligncenter" style="width: 480px"><p class="wp-caption-text"></p></div>
+[![6](http://tasafo.files.wordpress.com/2013/12/6.jpg)](http://tasafo.files.wordpress.com/2013/12/6.jpg) Projeto finalizado
 
-[caption id="attachment_3595" align="aligncenter" width="522"][![8](http://tasafo.files.wordpress.com/2013/12/8.jpg)](http://tasafo.files.wordpress.com/2013/12/8.jpg) Projeto 2 finalizado[/caption]
-
-
-Ao tÃ©rmino houve um bate-papo com todas as equipes, onde cada um pode dar sua opiniÃ£o Ã  respeito da dinÃ¢mica explicando as experiÃªncias vividas durante o desenrolar do game. Agradecemos a disponibilidade da Natalie Â Volk e doÂ [Felipe Iketani](https://twitter.com/felipe_ik)Â por terem auxiliado na dinÃ¢mica do game. A comunidade pretende realizar mais vezes esse tipo de atividade pois vimos como uma forma lÃºdica Â pode ser bem aplicada no desenvolvimento de um projeto nÃ£o sÃ³ de software. AtÃ© a prÃ³xima!! SAFO!
-
-
+<div id="attachment_3595" class="wp-caption" align="aligncenter" style="width: 532px"><p class="wp-caption-text"></p></div>
+[![8](http://tasafo.files.wordpress.com/2013/12/8.jpg)](http://tasafo.files.wordpress.com/2013/12/8.jpg) Projeto 2 finalizado
 
 
-Confira mais fotos[ na pÃ¡gina da comunidade no FacebookÂ ](https://www.facebook.com/tasafo.comunidade/media_set?set=a.558356140900663.1073741837.100001788468326&type=3).
+Ao término houve um bate-papo com todas as equipes, onde cada um pode dar sua opinião à respeito da dinâmica explicando as experiências vividas durante o desenrolar do game. Agradecemos a disponibilidade da Natalie  Volk e do [Felipe Iketani](https://twitter.com/felipe_ik) por terem auxiliado na dinâmica do game. A comunidade pretende realizar mais vezes esse tipo de atividade pois vimos como uma forma lúdica  pode ser bem aplicada no desenvolvimento de um projeto não só de software. Até a próxima!! SAFO!
+
+
+
+
+Confira mais fotos[ na página da comunidade no Facebook ](https://www.facebook.com/tasafo.comunidade/media_set?set=a.558356140900663.1073741837.100001788468326&type=3).
 
 
 

@@ -2,9 +2,9 @@ status=published
 date=2009-02-04
 tags=blog
 type=post
-title=Modelagem √Ågil por Manoel Pimentel
+title=Modelagem ¡gil por Manoel Pimentel
 ~~~~~~
-[Manoel Pimentel](http://manoelpimentel.blogspot.com/), da revista [Vis√£o √Ågil](http://www.visaoagil.com/), fez uma apresenta√ß√£o sobre [Modelagem √Ågil](http://www.agilemodeling.com/) na [TDC 2008](http://www.thedevelopersconference.com/), veja o v√≠deo.
+[Manoel Pimentel](http://manoelpimentel.blogspot.com/), da revista [Vis„o ¡gil](http://www.visaoagil.com/), fez uma apresentaÁ„o sobre [Modelagem ¡gil](http://www.agilemodeling.com/) na [TDC 2008](http://www.thedevelopersconference.com/), veja o vÌdeo.
 
 
 

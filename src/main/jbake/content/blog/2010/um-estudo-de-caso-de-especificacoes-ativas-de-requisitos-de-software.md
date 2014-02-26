@@ -2,16 +2,17 @@ status=published
 date=2010-05-20
 tags=blog
 type=post
-title=Um estudo de caso de especificaÃ§Ãµes ativas de requisitos de software
+title=Um estudo de caso de especificações ativas de requisitos de software
 ~~~~~~
-OlÃ¡ a todos!
+Olá a todos!
 
-Este post Ã© apenas para [compartilhar um trabalho](http://tasafo.files.wordpress.com/2011/05/umestudodecasodeespecificacoesativasderequisitosdesoftware.pdf) de minha autoria sobre o uso de testes de aceitaÃ§Ã£o automatizados utilizando as ferramentas [Concordion](http://www.concordion.org) e [Selenium](http://www.seleniumhq.org) num cenÃ¡rio de um projeto real.Â  Este trabalho foi submetido a um congresso interno na empresa onde trabalho.
+Este post é apenas para [compartilhar um trabalho](http://tasafo.files.wordpress.com/2011/05/umestudodecasodeespecificacoesativasderequisitosdesoftware.pdf) de minha autoria sobre o uso de testes de aceitação automatizados utilizando as ferramentas [Concordion](http://www.concordion.org) e [Selenium](http://www.seleniumhq.org) num cenário de um projeto real.  Este trabalho foi submetido a um congresso interno na empresa onde trabalho.
 
-A propÃ³sito, eu apresento um case similar, de um exemplo em poucos minutos, em [minha palestra](http://www.slideshare.net/mfandrade/testes-de-software-automatizados) sobre BDD e testes automatizados.Â  Interessou?Â  Basta [entrar em contato](http://www.twitter.com/mfandrade).
+A propósito, eu apresento um case similar, de um exemplo em poucos minutos, em [minha palestra](http://www.slideshare.net/mfandrade/testes-de-software-automatizados) sobre BDD e testes automatizados.  Interessou?  Basta [entrar em contato](http://www.twitter.com/mfandrade).
 
-[caption id="attachment_1879" align="aligncenter" width="150"][![Logo](http://tasafo.files.wordpress.com/2011/05/conserpro.png?w=150)](http://tasafo.files.wordpress.com/2011/05/umestudodecasodeespecificacoesativasderequisitosdesoftware.pdf) Clique no logo para fazer o download do trabalho.[/caption]
+<div id="attachment_1879" class="wp-caption" align="aligncenter" style="width: 160px"><p class="wp-caption-text"></p></div>
+[![Logo](http://tasafo.files.wordpress.com/2011/05/conserpro.png?w=150)](http://tasafo.files.wordpress.com/2011/05/umestudodecasodeespecificacoesativasderequisitosdesoftware.pdf) Clique no logo para fazer o download do trabalho.
 
 
-_PS:_ ReproduÃ§Ãµes sÃ£o permitidas desde que citada a fonte.
+_PS:_ Reproduções são permitidas desde que citada a fonte.
   *[BDD]: Behavior-Driven Development

@@ -2,14 +2,14 @@ status=published
 date=2009-08-22
 tags=blog
 type=post
-title=MarÃ© de Agilidade em Fortaleza
+title=Maré de Agilidade em Fortaleza
 ~~~~~~
 ![mare](http://tasafo.files.wordpress.com/2009/08/mare.png)
 
-Nosso amigo Paulo Igor foi ao MarÃ© de Agilidade em Fortaleza e postou em seu blog o que achou do evento. Abaixo segue um trecho extraÃ­do do blog e o link para vocÃª continuar a leitura. Aproveitem!
+Nosso amigo Paulo Igor foi ao Maré de Agilidade em Fortaleza e postou em seu blog o que achou do evento. Abaixo segue um trecho extraído do blog e o link para você continuar a leitura. Aproveitem!
 
 
-> O evento MarÃ© de Agilidade vem ocorrendo em vÃ¡rias cidades do Brasil promovendo o movimento Ã¡gil e esclarecendo muitas dÃºvidas, mitos e polÃªmicas que existem em torno do assunto.
+> O evento Maré de Agilidade vem ocorrendo em várias cidades do Brasil promovendo o movimento ágil e esclarecendo muitas dúvidas, mitos e polêmicas que existem em torno do assunto.
 
 Durante minha passagem, eu participei de alguns mini-cursos e do dia de palestras...
 
