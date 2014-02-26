@@ -1,0 +1,92 @@
+status=published
+date=2013-08-26
+tags=blog
+type=post
+title=Caipira Ágil 2013
+~~~~~~
+![](http://www.caipiraagil.com/img/logo_caipira.png)
+
+
+
+
+No dia 17 de agosto foi realizado o [**Caipira Ágil 2013**](http://caipiraagil.com/), o terceiro desde a primeira edição em 2011.** T**odo ano eu me surpreendo com a evolução desse evento, a cada ano que passa são mais pessoas participando e a grade sempre impecável trazendo novas caras e palestras de muita qualidade.
+
+
+
+
+O Caipira Ágil tem um formato interessante, ele ocorre em um sábado inteiro na Unicamp (Universidade Estadual de Campinas) onde são realizadas palestras, workshops, coding dojos, lightning talks e open spaces. E esse ano o evento se concentrou nas palestras, workshops e nas lightning talks.
+
+
+
+
+No Caipira Ágil os momentos de _break_ sempre são regados de muita comida e muita interação entre os participantes, acredito que essa seja a parte que eu mais curto nos eventos. Não que as palestras e as outras atividades não sejam interessantes é que conhecer novas pessoas ou rever os amigos que geralmente eu só vejo nos eventos é sempre muito bom.
+
+
+
+
+Esse ano eu participei do Workshop do Dairton Bassi ([@dbassi](https://twitter.com/dbassi)) sobre Kanban e em seguida assisti uma palestra do Luca Bastos ([@lucabastos](https://twitter.com/lucabastos)) sobre Inovação.<!-- more -->
+
+
+
+
+O Workshop foi interessante para conhecer mais um pouco sobre Kanban, durante o workshop foi realizado uma dinâmica onde em grupo montávamos um quadro kanban. Depois o Dairton analisou alguns na frente e passou várias dicas quanto a limitação do trabalho, o mapeamento de um fluxo contínuo, e algumas dicas de como lidar com algumas situações comuns quando você começa a usar Kanban.
+
+
+
+
+Eu não achei os slides da apresentação do Dairton no Caipira Ágil, mas tem uma outra apresentação dele bem parecida no [slideshare](http://www.slideshare.net/dbassi/kanban-uma-abordagem-moderna-para-desenvolvimento-de-software), lá vocês podem conferir várias dicas e alguns outros conceitos interessantes que foram apresentados por ele durante esse workshop.
+
+
+
+
+Em seguida tivemos a apresentação do Luca Bastos que apresentou [uma visão sobre inovação](http://www.slideshare.net/lucabastos/a-disciplina-da-inovacao) e a sua reflexão em cima da leitura de um artigo de [Peter Druker](http://pt.wikipedia.org/wiki/Peter_Drucker) a respeito do tema, e ainda fez um paralelo com a agilidade, foi bem interessante ainda mais com esse boom de startups que estamos vivendo, o tema veio bem a calhar.
+
+
+
+
+No _coffee-break_ encontrei alguns amigos que geralmente só vejo nos eventos como o Rildo Santos ([@rildosan](http://twitter.com/rildosan)), Manoel Pimentel ([@manoelp](http://twitter.com/manoelp)), a galera da organização do Caipira Ágil, e ainda bati um papo com o Luca Bastos. Como eu disse antes a melhor parte para mim são os _breaks_, eu acabei esquecendo de comer e quando vi já estava iniciando a segunda parte..._run forest run_!!!
+
+
+
+
+Na segunda parte do dia eu assisti a palestra da galera da Lambda 3, o Vitor Hugo ([@vitorhg](http://twitter.com/vitorhg)) e o Giovanni Bassi ([@giovannibassi](http://twitter.com/giovannibassi)) apresentaram [os erros e acertos no desenvolvimento de projetos](http://www.slideshare.net/lambda3_br/experincias-erros-e-acertos-no-desenvolvimento-de-projetos-geis-19080181).
+
+
+
+
+Foi uma palestra descontraída e com várias experiências interessantes, eles destacaram bem a postura firme na hora de defender e não abrir mão das boas práticas e do que eles já tem como experiência, mesmo quando o cliente ainda não enxerga esses benefícios. O legal que apesar de falarem bastante dessa postura eles deixaram claro que isso também tem seus desdobramentos e ilustraram isso com mais alguns relatos, foi uma palestra bem interessante.
+
+
+
+
+Em seguida o Fabio Akita ([@AkitaOnRails](http://twitter.com/AkitaOnRails)), ou [Akita on Rails](http://www.akitaonrails.com/) como é mais conhecido, palestrou a respeito de [Startups e Software](http://www.slideshare.net/akitaonrails/startup-vale-2013-startups-software), falou dos fundamentos, das relações errôneas que geralmente são feitas entre os projetos de software e os projetos de engenharia tradicional (civil, naval, automação, produção, ...), mostrou com bastante embasamento as peculiaridades que o desenvolvimento de software possui e por que deve ser tratado de forma diferenciada das outras engenharias.
+
+
+
+
+Falou também desse boom de startups e o quanto é complicado dar certo no mercado, e ainda falou do processo científico difundido em métodos como o _Lean Startup_ e o quão é falha a preparação das pessoas para aplicar essa teoria na prática.
+
+
+
+
+Não tinha como ver todas as palestras e workshops, mas os que assistiram as outras apresentações devem ter saído tão satisfeitos quanto eu!
+
+
+
+
+Se quiserem conferir algumas fotos do evento é só dar [uma olhada no Twitter na hashtag #caipiraagil](https://twitter.com/search?q=%23caipiraagil&src=tyah&mode=media)  (tem fotos dos outros anos também!)
+
+
+
+
+Parabéns a todos os que compartilharam suas experiências e seus conhecimentos com a galera, esse ano mais uma vez tinha bastante conteúdo interessante para ver que ficava complicado de escolher o que assistir, isso sempre acontece nos melhores eventos.
+
+
+
+
+O evento foi excelente e sei que a organização de um evento, pode ser o menor ou o maior, sempre da bastante trabalho, então nada mais justo que parabenizar a organização do Caipira Ágil por mais esse ano de sucesso.
+
+
+
+
+Parabéns mais uma vez Renne Rocha, Victor Queiroz, Renato Freire, Alan Braz e Rafael Camargo, a todos que participaram da organização do Caipira Ágil, o evento com certeza já está no calendário oficial dos eventos imperdíveis do ano.

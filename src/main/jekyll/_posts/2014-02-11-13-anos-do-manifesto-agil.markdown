@@ -1,0 +1,15 @@
+---
+author: tasafo
+comments: true
+date: 2014-02-11 18:20:21+00:00
+layout: post
+slug: 13-anos-do-manifesto-agil
+title: 13 Anos do Manifesto Ágil
+wordpress_id: 3604
+categories:
+- Notícias
+---
+
+[caption id="" align="aligncenter" width="614"]![](http://10yearsagile.org/wp-content/uploads/2011/01/background.jpg) Reunião que gerou o Manifesto Ágil.[/caption]
+
+Do dia 11 a 13 de Fevereiro de 2001, **17 pessoas** se reuniram num resort de esqui, nas montanhas de Wasatch, em Utah, para esquiar, relaxar, comer e discutir sobre melhores formas de desenvolver software. Mas o resultado dessa reunião que foi marcante para nossa área. Assim surgiu o [Manifesto Ágil](http://www.agilemanifesto.org/history.html), que mudou não só a forma de desenvolvermos, mas sim de pensar, agir, viver. E hoje, estamos comemorando** 13 anos** do seu surgimento. É nesse ritmo que a Comunidade parabeniza todos os adeptos, evangelistas, simpatizantes do Agile no mundo afora. Obrigado por contribuírem e, acima de tudo, acreditarem que podemos sempre melhorar.

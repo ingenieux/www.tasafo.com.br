@@ -1,0 +1,29 @@
+status=published
+date=2013-08-21
+tags=blog
+type=post
+title=Agile Trends 2013
+~~~~~~
+[![banner_AgileTrends](http://tasafo.files.wordpress.com/2013/08/banner_agiletrends.png)](http://tasafo.files.wordpress.com/2013/08/banner_agiletrends.png)
+
+Com a presença e patrocínio de empresas de renome, apoio de várias iniciativas (inclusive nós do Tá safo!) nacionais e internacionais, o [Agile Trends 2013](http://agiletrendsbr.com/2013/) vem com uma _vibe_ muito interessante. Segue abaixo um resumo, retirado do site, de como o evento ocorrerá:
+
+
+> A proposta do evento é ser diferente, inovador e imperdível, empurrando os limites da agilidade trazendo temas modernos e apontando novas tendências da indústria de desenvolvimento de software.
+
+
+As apresentações seguem uma dinâmica bem instigante:
+
+
+> As sessões serão organizadas no formato de [Trend Talks](http://agiletrendsbr.com/2013/trends-talks/). Cada Trend Talk reúne duas apresentações de 18 minutos seguidas por 18 minutos de discussão envolvendo todos os participantes.
+
+
+Acompanhe a [programação](http://agiletrendsbr.com/2013/programacao/) e se [inscreva](http://agiletrendsbr.com/2013/inscricoes/) para não perder mais essa oportunidade de troca de conhecimento e experiências em uma área que nunca pára.
+
+Também estão abertas as [inscrições para voluntários](http://agiletrendsbr.com/2013/programa-de-voluntarios/), onde você poderá interagir de uma forma mais intensa nos bastidores e se envolver ainda mais com o evento.
+
+
+### Bônus Track: A organização do evento disponibilizou 20% de desconto na inscrição para os membros do Tá safo!. Aos interessados, enviar um e-mail para comunidadetasafo @ gmail . com, seguido do assunto "Desconto Agile Trends 2013" e lhe enviaremos o código promocional.
+
+
+É isso aí. Está dado o recado e quem sabe não nos encontramos por lá.

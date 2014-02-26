@@ -1,0 +1,15 @@
+---
+author: tasafo
+comments: true
+date: 2008-12-14 23:05:05+00:00
+layout: post
+slug: para-2009
+title: Para 2009
+wordpress_id: 78
+categories:
+- Sem categoria
+tags:
+- enquete
+---
+
+[polldaddy poll=1197169]
